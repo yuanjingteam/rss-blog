@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-12 18:04:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-12 18:16:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-10-22-使用-GitHub-搭建了一个静态博客](https://www.xiabingbao.com/post/blog/github-slr2s7.html) 
 - [2024-11-28-【早阅】GitHub-Copilot-Edits-功能详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=1&sn=31332b42ef6891c28cd065e0cf5fe77a&chksm=bc1d91bc34800c2efc3069100128007a413a484cb43f4ad645fa2f8a989328e41f1139b123cc&scene=0#rd) 
 - [2024-11-28-【图书】AI辅助编程入门：使用GitHub-Copilot零基础开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=2&sn=ab76c1332d66d7e3be3b80a6a6ef3862&chksm=bca19dd4fd367520da1ae50798bfe842615f0fe46262dd29a8c1011c474fc85e514dbe06ed95&scene=0#rd) 
 - [2023-07-14-【第2998期】逆向分析了Github-Copilot](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263858&idx=1&sn=b701da3cdb53378c14a1edd286a15a68&chksm=bd48caf68a3f43e0a1668df432413adef02a255ae08066376bbd9ee3d2e419009c5025c08461#rd) 

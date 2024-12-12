@@ -1,5 +1,9 @@
 [
   {
+    "title": "蚊子前端博客",
+    "rss": "https://www.xiabingbao.com/atom.xml"
+  },
+  {
     "title": "Node-Weekly",
     "rss": "https://cprss.s3.amazonaws.com/nodeweekly.com.xml"
   },

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-12 18:04:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-12 18:16:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -7,6 +7,8 @@
 
 
 
+- [2024-05-10-从面试官的角度分析下简历中存在的问题](https://www.xiabingbao.com/post/fe/resume-sd9dca.html) 
+- [2023-10-11-给想进国央企的同学介绍一款招聘软件「国聘」](https://www.xiabingbao.com/post/recruit/guopin-s2ccdh.html) 
 - [2023-03-24-Playwright-now-offers-a-UI-mode](https://javascriptweekly.com/issues/631) 
 - [2024-12-02-【招聘】北京合思招前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274342&idx=2&sn=e0abd24c60afbd9959659b13aa867f58&chksm=bc39250f901939c5313a93d7bd587126d41b0c3b1dbc678e106075f69dc779741e2b6aef6308&scene=0#rd) 
 - [2024-11-27-【招聘】腾讯云AI代码助手---前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274276&idx=2&sn=5073d2850dde68bfeee16be9912a0f28&chksm=bca361661b6ee4b949acaa205ef662dd8845bbc062aa632a45ecb8b9e133fe4ea93d85d14655&scene=0#rd) 

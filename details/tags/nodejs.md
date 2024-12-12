@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-12 18:04:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-12 18:16:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,16 @@
 
 
 
+- [2024-10-15-使用-NodeJs-向百度资源推送链接](https://www.xiabingbao.com/post/baidu/send-msg-sldjo9.html) 
+- [2024-10-10-Deno2.0-正式发布，向-Node.js-兼容](https://www.xiabingbao.com/post/deno/deno2-sl4l8w.html) 
+- [2022-05-27-nodejs-中复制文件和文件夹的多种方式](https://www.xiabingbao.com/post/nodejs/nodejs-copy-file-rcj8kg.html) 
+- [2021-11-22-nodejs-中如何校验请求中的-referer](https://www.xiabingbao.com/post/nodejs/nodejs-check-referer-r2zde7.html) 
+- [2021-07-26-如何在-nodejs-的原生http服务中获取请求参数](https://www.xiabingbao.com/post/nodejs/nodejs-http-getquery-qwurz4.html) 
+- [2021-04-14-使用-nodejs-中的-http-模块实现几个超实用的工具](https://www.xiabingbao.com/post/nodejs/nodejs-http-tools.html) 
+- [2020-08-17-node同构直出中多级缓存的使用](https://www.xiabingbao.com/post/node/node-ssr-cache.html) 
+- [2020-04-05-深入理解-node-中的-crypto-加密模块](https://www.xiabingbao.com/post/node/node-crypto.html) 
+- [2020-01-01-node多进程的创建与守护](https://www.xiabingbao.com/post/node/node-process-create-guard.html) 
+- [2019-10-21-腾讯新闻抢金达人活动node同构直出渲染方案的总结](https://www.xiabingbao.com/post/node/node-isomorphism-straight.html) 
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558) 
 - [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556) 
 - [2024-11-12-Node-v23.2-released](https://nodeweekly.com/issues/555) 
