@@ -6,7 +6,7 @@
   "scripts": {
     "once": "node ./once.js"
   },
-  "dependencies":
+  "dependencies": {
     "@octokit/core": "^4.0.5",
     "async": "^2.6.1",
     "chalk": "^4.1.2",
