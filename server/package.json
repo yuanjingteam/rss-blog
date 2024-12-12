@@ -1,0 +1,35 @@
+{
+  "name": "front-end-rss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "每天定时抓取最新前端技术文章，并推送到 GitHub 方便查看",
+  "scripts": {
+    "once": "node ./once.js"
+  },
+  "dependencies":
+    "@octokit/core": "^4.0.5",
+    "async": "^2.6.1",
+    "chalk": "^4.1.2",
+    "dotenv": "^16.0.3",
+    "feed": "^4.2.2",
+    "fs-extra": "^10.0.0",
+    "later": "^1.2.0",
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.46",
+    "path-to-regexp": "^8.2.0",
+    "query-string": "^6.8.1",
+    "rss-parser": "^3.4.3",
+    "shelljs": "^0.8.5",
+    "simple-git": "^3.17.0",
+    "underscore": "^1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yuanjingteam/rss-blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yuanjingteam/rss-blog/issues"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/yuanjingteam/rss-blog#readme"
+}
