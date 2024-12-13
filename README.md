@@ -12,13 +12,15 @@
 
 [![](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml/badge.svg)](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-13 02:01:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-13 16:58:30，:rocket: 更新条数: +36， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
+- [极客公园](#极客公园)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -33,12 +35,59 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
+
+<details open>
+<summary id="极客公园">
+ 极客公园
+</summary>
+
+
+- [2024-12-13--iPhone17-相机大改，变横向一条；百度吉利转账为极越员工交社保；谷歌推出全新-Android-XR-系统-](http://www.geekpark.net/news/344141) ![](/assets/new.png)  
+- [2024-12-12--Google-深夜狙击-OpenAI：新-Agent-功能可以自己打开浏览器查资料了-](http://www.geekpark.net/news/344096) ![](/assets/new.png)  
+- [2024-12-12--苹果发-iOS18.2，Siri-合体-ChatGPT；传剪映收入近百亿，获三位数增长；马斯克成全球首个-4000-亿美元身家富豪｜极客早知道-](http://www.geekpark.net/news/344095) ![](/assets/new.png)  
+- [2024-12-12--和水滴聊聊，怎么用大模型造一个接近-99%-真人水平的「Sales-Agent」-](http://www.geekpark.net/news/344137) ![](/assets/new.png)  
+- [2024-12-11--OpenAI-发布「代码神器」；苹果-MacBook-Pro-或变「打孔屏」；保时捷：中国车主平均年收-300-万元-](http://www.geekpark.net/news/344060) ![](/assets/new.png)  
+- [2024-12-11--为什么说，巨头-Adobe-可能输给这家-SaaS-创业公司？-](http://www.geekpark.net/news/344093) ![](/assets/new.png)  
+- [2024-12-10--OpenAI-的-Sora-上线，官网挤爆；雷军：新车-YU7-提前上线，解除伪装；苹果：对-AGI-不感兴趣｜极客早知道-](http://www.geekpark.net/news/344014) ![](/assets/new.png)  
+- [2024-12-10--人形机器人，能横扫工业场景吗？-](http://www.geekpark.net/news/344052) ![](/assets/new.png)  
+- [2024-12-10--OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344057) ![](/assets/new.png)  
+- [2024-12-10--OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344017) ![](/assets/new.png)  
+- [2024-12-09--马云现身蚂蚁集团，寄语未来-20-年；小米考虑支持苹果手表、耳机；特斯拉低价小车明年亮相-](http://www.geekpark.net/news/343958) ![](/assets/new.png)  
+- [2024-12-09--杨植麟和朱啸虎的争议背后，什么才是问题的关键？-](http://www.geekpark.net/news/343982) ![](/assets/new.png)  
+- [2024-12-09--第一批-AI-员工，即将入职电商公司-](http://www.geekpark.net/news/343983) ![](/assets/new.png)  
+- [2024-12-09--企业部署生成式-AI，五个最大的挑战是什么？-](http://www.geekpark.net/news/344015) ![](/assets/new.png)  
+- [2024-12-09--专访亚马逊云科技-AI-科学总监：Scaling-Law-是否依然有效-](http://www.geekpark.net/news/344016) ![](/assets/new.png)  
+- [2024-12-08--传小米汽车将推-15-万增程-SUV；X-推「无监管」文生图，能生成各种明星；AI-团队悬赏，骗-AI-说我爱你即拿钱-](http://www.geekpark.net/news/343952) ![](/assets/new.png)  
+- [2024-12-07--杨植麟发信回应朱啸虎：分歧会被解决；微信查删单向好友功能上线；OpenAI-发布微调强化工具-|-极客早知道-](http://www.geekpark.net/news/343944) ![](/assets/new.png)  
+- [2024-12-06--OpenAI-发-o1-完成体；库克：从没考虑-Apple-AI-收费；史玉柱推「脑白金咖啡」，针对互联网人-](http://www.geekpark.net/news/343879) ![](/assets/new.png)  
+- [2024-12-06--OpenAI-年底炸圈开幕：首发-o1-正式版-+-200-美元-Pro-会员-](http://www.geekpark.net/news/343878) ![](/assets/new.png)  
+- [2024-12-05--1-天-1-个，OpenAI-将连发-12-款新产品；传苹果-AI-国内正式与百度合作；5-年重建，巴黎圣母院本周开放-](http://www.geekpark.net/news/343833) ![](/assets/new.png)  
+- [......【查看更多】......](/details/极客公园.md)
+
+<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="supertechfans">
+ SuperTechFans
+</summary>
+
+
+- [2024-12-13-2024-12-13-HackerNews](https://supertechfans.com/cn/post/2024-12-13-HackerNews/) ![](/assets/new.png)  
+- [2024-12-12-2024-12-12-HackerNews](https://supertechfans.com/cn/post/2024-12-12-HackerNews/) ![](/assets/new.png)  
+- [2024-12-11-2024-12-11-HackerNews](https://supertechfans.com/cn/post/2024-12-11-HackerNews/) ![](/assets/new.png)  
+- [2024-12-10-2024-12-10-HackerNews](https://supertechfans.com/cn/post/2024-12-10-HackerNews/) ![](/assets/new.png)  
+- [2024-12-09-2024-12-09-HackerNews](https://supertechfans.com/cn/post/2024-12-09-HackerNews/) ![](/assets/new.png)  
+- [......【查看更多】......](/details/SuperTechFans.md)
+
+<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="蚊子前端博客">
@@ -108,7 +157,7 @@
 </summary>
 
 
-- [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716) ![](/assets/new.png)  
+- [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716)  
 - [2024-12-05-Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715)  
 - [2024-11-21-Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714)  
 - [2024-11-14-Will-we-care-about-frameworks-in-an-AI-world?](https://javascriptweekly.com/issues/713)  
@@ -573,6 +622,7 @@
 </summary>
 
 
+- [2024-12-13-科技爱好者周刊（第-329-期）：示意图利器-D2](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html) ![](/assets/new.png)  
 - [2024-12-06-科技爱好者周刊（第-328-期）：AI-模型不是一门好生意](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html)  
 - [2024-12-02-AI-应用无代码开发教程：工作流模式详解](http://www.ruanyifeng.com/blog/2024/12/no-code-ai-tutorial.html)  
 - [2024-11-29-科技爱好者周刊（第-327-期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html)  
@@ -592,7 +642,6 @@
 - [2024-09-06-科技爱好者周刊（第-316-期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html)  
 - [2024-08-30-科技爱好者周刊（第-315-期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html)  
 - [2024-08-23-科技爱好者周刊（第-314-期）：《黑神话：悟空》可以产业化吗？](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-314.html)  
-- [2024-08-16-科技爱好者周刊（第-313-期）：如果新加坡没有空调](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-313.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

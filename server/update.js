@@ -37,7 +37,7 @@ async function handleUpdate() {
 function handleCommit() {
   git.add('./*')
     .commit('更新: ' + newData.titles.join('、'))
-    .push(['-u', 'origin', 'master'], () => utils.logSuccess('完成抓取和上传！'))
+    .push(['-u', 'origin', 'main'], () => utils.logSuccess('完成抓取和上传！'))
 }
 
 /**

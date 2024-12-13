@@ -1,5 +1,13 @@
 [
   {
+    "title": "极客公园",
+    "rss": "https://www.geekpark.net/rss"
+  },
+  {
+    "title": "SuperTechFans",
+    "rss": "https://www.supertechfans.com/cn/index.xml"
+  },
+  {
     "title": "蚊子前端博客",
     "rss": "https://www.xiabingbao.com/atom.xml"
   },

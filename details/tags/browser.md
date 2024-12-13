@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-13 02:01:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-13 16:58:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2024-12-12--Google-深夜狙击-OpenAI：新-Agent-功能可以自己打开浏览器查资料了-](http://www.geekpark.net/news/344096) 
 - [2024-10-15-不要再手动拼接-URL-参数，请使用-URLSearchParams](https://www.xiabingbao.com/post/http/url-search-params-slej4l.html) 
 - [2024-09-13-如何合并同一接口的相同参数的请求](https://www.xiabingbao.com/post/request/merge-same-sjqio7.html) 
 - [2024-06-03-如何避免旧请求的数据覆盖掉最新请求](https://www.xiabingbao.com/post/request/request-sehwjw.html) 

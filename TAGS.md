@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-13 02:01:01。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-12-13 16:58:30。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -470,6 +470,9 @@
 
 
 
+- [【极客公园】-OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344057)
+- [【极客公园】-OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344017)
+- [【极客公园】-亚马逊推出新一代基础模型-Nova：主打性价比，预告图像和视频模型-](http://www.geekpark.net/news/343848)
 - [【前端早读课】【第3176期】WebCodecs-开启-Web-音视频新篇章](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268861&idx=1&sn=46adb56e8947b228290e1f5e4559efcb&chksm=bd48ff798a3f766fcaf59966dd8f9b93c2a20edbdb4ace2bddcaa536fbab4201034fc5c03732#rd)
 - [【前端早读课】【第3161期】用-ChatGPT-打工人来完成掘金年度打榜直播的抽奖](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=1&sn=924c4c8dc071836e89b541ce9e43ae4e&chksm=bd48fc2c8a3f753afd05dacc98b544e6a669f4e5e00874d639833eb9241d5dfdf3ffabeb4e04#rd)
 - [【前端早读课】【招聘】TikTok-直播前端团队招前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267748&idx=2&sn=e6f01f23e4e2c28eb286a177bf916c3a&chksm=bd48fb208a3f723631bfb5d475eea7d63db8129261c250f85c04fc0ae9801e6d28ce5219bbd6#rd)
@@ -487,9 +490,6 @@
 - [【前端早读课】Why-WebRTC｜前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246562&idx=2&sn=ac7b3badf5f30f194ae8b98cf4bf46ef&chksm=bd4916668a3e9f70c6f61f50866faa0e942fb154f17fdd4cb106c611d4a01aa8a72fc80cc9bc&scene=27#wechat_redirect)
 - [【前端早读课】【图书】WebRTC技术详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245783&idx=2&sn=759c93d7784e80bb338886f9f15a2ef8&chksm=bd4915538a3e9c45249c8e8b1193ca77f49cbfacc0987b0107a84754e0008d04ebf32a6455e0&scene=27#wechat_redirect)
 - [【前端早读课】【第2244期】百家号在线视频编辑器的技术演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244922&idx=1&sn=58e737a8485e00107e02d2327dbf08b9&chksm=bd4910fe8a3e99e8a8186b09ea73a6073229c62526d241db27e0bf8558d549c52e77877e0130&scene=27#wechat_redirect)
-- [【前端早读课】【视频】剖析三个常见的API调试工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243986&idx=2&sn=8beb3dbb7464cf582de77deec82caaa0&chksm=bd491c568a3e9540a331d7318dbcbbaa0f9240869c1e5ac7b669bb30927ee25950bec32c8b42&scene=27#wechat_redirect)
-- [【前端早读课】【视频】玉伯心中的好团队](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243918&idx=2&sn=21b630aefdedbcdf60166dcc2ae48e75&chksm=bd491c0a8a3e951c1de191a8c9238f5654d7a0f9a6036ab3a58a438de418c64a34278784bb11&scene=27#wechat_redirect)
-- [【前端早读课】【直播】Apache-ECharts-5-震撼发布：五大模块，十五项新特性全面升级！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243693&idx=2&sn=903b9a69fe1e78dac509cbdbd25da780&chksm=bd491d298a3e943ffaf02bebed54566a50569e9d4ffe22fa9dab1a8b0654bb15e4f9700b97cb&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/audio-video.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -542,6 +542,7 @@
 
 
 
+- [【极客公园】-Google-深夜狙击-OpenAI：新-Agent-功能可以自己打开浏览器查资料了-](http://www.geekpark.net/news/344096)
 - [【蚊子前端博客】不要再手动拼接-URL-参数，请使用-URLSearchParams](https://www.xiabingbao.com/post/http/url-search-params-slej4l.html)
 - [【蚊子前端博客】如何合并同一接口的相同参数的请求](https://www.xiabingbao.com/post/request/merge-same-sjqio7.html)
 - [【蚊子前端博客】如何避免旧请求的数据覆盖掉最新请求](https://www.xiabingbao.com/post/request/request-sehwjw.html)
@@ -561,7 +562,6 @@
 - [【Node-Weekly】A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449)
 - [【JavaScript-Weekly】Getting-some-closure](https://javascriptweekly.com/issues/656)
 - [【JavaScript-Weekly】AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594)
-- [【JavaScript-Weekly】Getting-animated](https://javascriptweekly.com/issues/590)
 - [......【查看更多】......](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -720,26 +720,26 @@
 
 
 
-- [【蚊子前端博客】微说-|-给群众一些选择电视剧的空间](https://www.xiabingbao.com/talk/t/m3yi90s2.html)
-- [【蚊子前端博客】微说-|-活着](https://www.xiabingbao.com/talk/t/m3uzn3tv.html)
-- [【蚊子前端博客】微说-|-借用睡前消息里面的一段话](https://www.xiabingbao.com/talk/t/m3rclolq.html)
-- [【蚊子前端博客】微说-|-曾经梦寐以求的，现在却没了追求](https://www.xiabingbao.com/talk/t/m3n3yfp8.html)
-- [【蚊子前端博客】今年的双-11-很平静](https://www.xiabingbao.com/post/double-11-sn377o.html)
-- [【蚊子前端博客】给博客添加了一个微说的功能](https://www.xiabingbao.com/post/talk-sn38g9.html)
-- [【蚊子前端博客】微说-|-我小时候的那些书本](https://www.xiabingbao.com/talk/t/m3liqyrp.html)
-- [【蚊子前端博客】微说-|-花了很多时间和精力，](https://www.xiabingbao.com/talk/t/m3id594u.html)
-- [【蚊子前端博客】微说-|-总有人说穿越小说为什么不发展工业和科技！](https://www.xiabingbao.com/talk/t/m3id75sn.html)
-- [【蚊子前端博客】微说-|-贪就是贪](https://www.xiabingbao.com/talk/t/m3ikci9q.html)
-- [【蚊子前端博客】微说-|-这是我的第一条微说，](https://www.xiabingbao.com/talk/t/m3d8joxi.html)
-- [【蚊子前端博客】2025-年终于是增加了-2-天的假期](https://www.xiabingbao.com/post/fe/holiday-smufmm.html)
-- [【蚊子前端博客】看到聚美优品的没落，真是唏嘘](https://www.xiabingbao.com/post/fe/jumei-smgk9h.html)
-- [【蚊子前端博客】秋意正浓时](https://www.xiabingbao.com/post/f2e/autumn-smbzfq.html)
-- [【蚊子前端博客】1024，给博客评论区所有的头像戴上一顶可爱的帽子](https://www.xiabingbao.com/post/blog/1024-sltggl.html)
-- [【蚊子前端博客】我为什么还在坚持我的个人博客](https://www.xiabingbao.com/post/blog/my-blog-slpouy.html)
-- [【蚊子前端博客】互联网程序员前景真的一片黑暗吗？](https://www.xiabingbao.com/post/fe/sad-sl650t.html)
-- [【蚊子前端博客】蚊子的前端博客：探索与分享前端技术的奇妙之旅](https://www.xiabingbao.com/post/fe/me-sl6lhw.html)
-- [【蚊子前端博客】百度搜索中关于蚊子前端博客的奇怪的检索数据](https://www.xiabingbao.com/post/baidu/search-sjnos4.html)
-- [【蚊子前端博客】评论回复在一张表里的评论系统如何进行分页](https://www.xiabingbao.com/post/comment/comment-page-sj7svc.html)
+- [【极客公园】-iPhone17-相机大改，变横向一条；百度吉利转账为极越员工交社保；谷歌推出全新-Android-XR-系统-](http://www.geekpark.net/news/344141)
+- [【极客公园】-苹果发-iOS18.2，Siri-合体-ChatGPT；传剪映收入近百亿，获三位数增长；马斯克成全球首个-4000-亿美元身家富豪｜极客早知道-](http://www.geekpark.net/news/344095)
+- [【极客公园】-和水滴聊聊，怎么用大模型造一个接近-99%-真人水平的「Sales-Agent」-](http://www.geekpark.net/news/344137)
+- [【极客公园】-OpenAI-发布「代码神器」；苹果-MacBook-Pro-或变「打孔屏」；保时捷：中国车主平均年收-300-万元-](http://www.geekpark.net/news/344060)
+- [【极客公园】-为什么说，巨头-Adobe-可能输给这家-SaaS-创业公司？-](http://www.geekpark.net/news/344093)
+- [【极客公园】-OpenAI-的-Sora-上线，官网挤爆；雷军：新车-YU7-提前上线，解除伪装；苹果：对-AGI-不感兴趣｜极客早知道-](http://www.geekpark.net/news/344014)
+- [【极客公园】-人形机器人，能横扫工业场景吗？-](http://www.geekpark.net/news/344052)
+- [【极客公园】-马云现身蚂蚁集团，寄语未来-20-年；小米考虑支持苹果手表、耳机；特斯拉低价小车明年亮相-](http://www.geekpark.net/news/343958)
+- [【极客公园】-杨植麟和朱啸虎的争议背后，什么才是问题的关键？-](http://www.geekpark.net/news/343982)
+- [【极客公园】-第一批-AI-员工，即将入职电商公司-](http://www.geekpark.net/news/343983)
+- [【极客公园】-企业部署生成式-AI，五个最大的挑战是什么？-](http://www.geekpark.net/news/344015)
+- [【极客公园】-专访亚马逊云科技-AI-科学总监：Scaling-Law-是否依然有效-](http://www.geekpark.net/news/344016)
+- [【极客公园】-传小米汽车将推-15-万增程-SUV；X-推「无监管」文生图，能生成各种明星；AI-团队悬赏，骗-AI-说我爱你即拿钱-](http://www.geekpark.net/news/343952)
+- [【极客公园】-杨植麟发信回应朱啸虎：分歧会被解决；微信查删单向好友功能上线；OpenAI-发布微调强化工具-|-极客早知道-](http://www.geekpark.net/news/343944)
+- [【极客公园】-OpenAI-发-o1-完成体；库克：从没考虑-Apple-AI-收费；史玉柱推「脑白金咖啡」，针对互联网人-](http://www.geekpark.net/news/343879)
+- [【极客公园】-OpenAI-年底炸圈开幕：首发-o1-正式版-+-200-美元-Pro-会员-](http://www.geekpark.net/news/343878)
+- [【极客公园】-1-天-1-个，OpenAI-将连发-12-款新产品；传苹果-AI-国内正式与百度合作；5-年重建，巴黎圣母院本周开放-](http://www.geekpark.net/news/343833)
+- [【极客公园】-马斯克玩坏了-X，2000-万「Twitter-难民」疯狂涌向这个-App-](http://www.geekpark.net/news/343841)
+- [【极客公园】-3.62-万亿美元，苹果重回世界第一；腾讯「王者」衍生大作被曝已停摆；马斯克讨薪失败，天价薪酬被驳回｜极客早知道-](http://www.geekpark.net/news/343790)
+- [【极客公园】-2024-站酷百大设计榜重磅发布，黑悟空、烟台新地标「时光塔」等上榜-](http://www.geekpark.net/news/343818)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
