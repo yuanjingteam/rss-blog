@@ -2,12 +2,6 @@
 每天定时抓取最新前端技术文章，并推送到 GitHub 方便查看
 </div>
 
-## 
-
-在线浏览：[https://rss.somecore.cn](https://rss.somecore.cn)
-
-订阅地址：[https://rss.somecore.cn/atom.xml](https://rss.somecore.cn/atom.xml) 
-
 ##
 
 [![](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml/badge.svg)](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml)

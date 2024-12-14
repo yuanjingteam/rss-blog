@@ -1,16 +1,9 @@
-<div align="center"><img width="100" src="/assets/rss.gif" /><h1>Front-End RSS</h1>
-每天定时抓取最新前端技术文章，并推送到 GitHub 方便查看
+<div align="center"><img width="100" src="/assets/rss.gif" /><h1>RSS-BLOG</h1>
+定时抓取前端技术文章，并推送到到仓库中
 </div>
 
-## 
-
-在线浏览：[<%= obj.homePage %>](<%= obj.homePage %>)
-
-订阅地址：[<%= obj.feedUrl %>](<%= obj.feedUrl %>) 
 
 ##
-
-[![](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml/badge.svg)](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml)
 
 :alarm_clock: 更新时间: <%= obj.currentDate %>，:rocket: 更新条数: +<%= obj.newData.length %>， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 

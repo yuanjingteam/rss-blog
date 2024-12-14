@@ -1,5 +1,5 @@
 const crypto = require('crypto');
-const links = require('../../data/links.json');
+const links = require('../data/links.json');
 
 let linksMap = {};
 
