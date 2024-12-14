@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2024-12-14T00:36:27.919Z</updated>
+    <updated>2024-12-14T02:51:49.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,15 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2024 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[
+        OpenAI 喊话马斯克：告我实现不了 AGI；《黑神话：悟空》获TGA 年度动作游戏；50% 年轻人始终保持在线｜极客早知道
+      ]]></title>
+        <id>http://www.geekpark.net/news/344187</id>
+        <link href="http://www.geekpark.net/news/344187"/>
+        <updated>2024-12-14T00:00:00.000Z</updated>
+        <published>2024-12-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 年前端安全报告]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524628&amp;idx=2&amp;sn=a9531a4f7fa218a2f089c3a812a0ec76&amp;chksm=f99267c5cee5eed3ef1680ef7601abf54a9ddb66c86e3cc5dc1e58b32c0b8fad6d0565b55796#rd</id>
@@ -117,8 +126,8 @@
         <title type="html"><![CDATA[
         OpenAI 正式发布 Sora，一文看懂它的文生视频功能到底强在哪？
       ]]></title>
-        <id>http://www.geekpark.net/news/344057</id>
-        <link href="http://www.geekpark.net/news/344057"/>
+        <id>http://www.geekpark.net/news/344017</id>
+        <link href="http://www.geekpark.net/news/344017"/>
         <updated>2024-12-10T00:00:00.000Z</updated>
         <published>2024-12-10T00:00:00.000Z</published>
     </entry>
@@ -126,8 +135,8 @@
         <title type="html"><![CDATA[
         OpenAI 正式发布 Sora，一文看懂它的文生视频功能到底强在哪？
       ]]></title>
-        <id>http://www.geekpark.net/news/344017</id>
-        <link href="http://www.geekpark.net/news/344017"/>
+        <id>http://www.geekpark.net/news/344057</id>
+        <link href="http://www.geekpark.net/news/344057"/>
         <updated>2024-12-10T00:00:00.000Z</updated>
         <published>2024-12-10T00:00:00.000Z</published>
     </entry>
@@ -363,12 +372,5 @@
         <link href="https://nodeweekly.com/issues/558"/>
         <updated>2024-12-03T00:00:00.000Z</updated>
         <published>2024-12-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[会员场景端快照与ER缓存优化实践]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537256&amp;idx=1&amp;sn=ea26df1a45265daaf11b1812595ae7ac&amp;chksm=83973530b4e0bc2638db36a0e7d2c94ceb57abe7c69b96345097f39e45b23378e96d6d41f07f#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537256&amp;idx=1&amp;sn=ea26df1a45265daaf11b1812595ae7ac&amp;chksm=83973530b4e0bc2638db36a0e7d2c94ceb57abe7c69b96345097f39e45b23378e96d6d41f07f#rd"/>
-        <updated>2024-12-02T00:00:00.000Z</updated>
-        <published>2024-12-02T00:00:00.000Z</published>
     </entry>
 </feed>

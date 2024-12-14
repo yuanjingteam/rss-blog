@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-14 08:36:27。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-12-14 10:51:49。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -290,6 +290,7 @@
 
 
 
+- [【极客公园】-OpenAI-喊话马斯克：告我实现不了-AGI；《黑神话：悟空》获TGA-年度动作游戏；50%-年轻人始终保持在线｜极客早知道-](http://www.geekpark.net/news/344187)
 - [【前端早读课】【第2999期】如何用Three.js-+-Blender打造一个web-3D展览馆](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264000&idx=1&sn=b5e0a2ea935955afd34b9ae42db3ece9&chksm=bd48cd848a3f4492b99c80842ab0707f78f4b936949438745dc98dcf3797a6b7666859379226#rd)
 - [【前端早读课】【第2838期】vivo-游戏中心低代码平台的提效秘诀](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260503&idx=1&sn=79c89b4d2734e64c107ad9fadb9b30e7&chksm=bd48dfd38a3f56c5ec1c2c44514784a86badd8861bcdf5ae988aa12b6c36f1dcadc8233d1f0c#rd)
 - [【前端早读课】【招聘】广州酷狗音乐直播部门招Web、游戏前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246110&idx=2&sn=d8a0d3acae6398b99e904704617468aa&chksm=bd49179a8a3e9e8c383b110112ed00b0e534af4ffda48ae40f114234bd91fc286c7f578fdb24&scene=27#wechat_redirect)
@@ -309,7 +310,6 @@
 - [【前端早读课】【小册】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=1&sn=eedae5958157d82239b91934721df32e#wechat_redirect)
 - [【前端大全】Threejs-地图3D可视化](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616228&idx=2&sn=f9eb9a5eb9362697867dc45b08971bd2&chksm=8022a425b7552d33fd8ce54924f0edc0342d5c2bef06f8bbb235a6ba8abaac20c77cf6699905#rd)
 - [【前端大全】使用-Three.js-实现跳一跳游戏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607548&idx=2&sn=614be89b0ca6ef450947e3e13c31ffd0&chksm=8022863db7550f2b3c6da334e167dc41b9dad493bd82e9be13d1bbaba055da42013a22378671#rd)
-- [【前端大全】一看就懂---从零开始的游戏开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601868&idx=2&sn=1153039359303240b60969da6cac6e4b&chksm=8022ec0db755651b5f99cb7fc72e9dd3e7e08566e02bfe44ac6db6f6476fdf65331480f5a4f1#rd)
 - [......【查看更多】......](/details/tags/dev-game.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -470,8 +470,8 @@
 
 
 
-- [【极客公园】-OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344017)
 - [【极客公园】-OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344057)
+- [【极客公园】-OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344017)
 - [【极客公园】-亚马逊推出新一代基础模型-Nova：主打性价比，预告图像和视频模型-](http://www.geekpark.net/news/343848)
 - [【前端早读课】【第3176期】WebCodecs-开启-Web-音视频新篇章](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268861&idx=1&sn=46adb56e8947b228290e1f5e4559efcb&chksm=bd48ff798a3f766fcaf59966dd8f9b93c2a20edbdb4ace2bddcaa536fbab4201034fc5c03732#rd)
 - [【前端早读课】【第3161期】用-ChatGPT-打工人来完成掘金年度打榜直播的抽奖](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=1&sn=924c4c8dc071836e89b541ce9e43ae4e&chksm=bd48fc2c8a3f753afd05dacc98b544e6a669f4e5e00874d639833eb9241d5dfdf3ffabeb4e04#rd)
@@ -720,26 +720,26 @@
 
 
 
-- [【极客公园】-iPhone17-相机大改，变横向一条；百度吉利转账为极越员工交社保；谷歌推出全新-Android-XR-系统-](http://www.geekpark.net/news/344141)
 - [【极客公园】-面壁智能获新一轮数亿元融资，继续聚焦端侧AI-](http://www.geekpark.net/news/344186)
-- [【极客公园】-和水滴聊聊，怎么用大模型造一个接近-99%-真人水平的「Sales-Agent」-](http://www.geekpark.net/news/344137)
+- [【极客公园】-iPhone17-相机大改，变横向一条；百度吉利转账为极越员工交社保；谷歌推出全新-Android-XR-系统-](http://www.geekpark.net/news/344141)
 - [【极客公园】-苹果发-iOS18.2，Siri-合体-ChatGPT；传剪映收入近百亿，获三位数增长；马斯克成全球首个-4000-亿美元身家富豪｜极客早知道-](http://www.geekpark.net/news/344095)
-- [【极客公园】-为什么说，巨头-Adobe-可能输给这家-SaaS-创业公司？-](http://www.geekpark.net/news/344093)
+- [【极客公园】-和水滴聊聊，怎么用大模型造一个接近-99%-真人水平的「Sales-Agent」-](http://www.geekpark.net/news/344137)
 - [【极客公园】-OpenAI-发布「代码神器」；苹果-MacBook-Pro-或变「打孔屏」；保时捷：中国车主平均年收-300-万元-](http://www.geekpark.net/news/344060)
-- [【极客公园】-人形机器人，能横扫工业场景吗？-](http://www.geekpark.net/news/344052)
+- [【极客公园】-为什么说，巨头-Adobe-可能输给这家-SaaS-创业公司？-](http://www.geekpark.net/news/344093)
 - [【极客公园】-OpenAI-的-Sora-上线，官网挤爆；雷军：新车-YU7-提前上线，解除伪装；苹果：对-AGI-不感兴趣｜极客早知道-](http://www.geekpark.net/news/344014)
-- [【极客公园】-专访亚马逊云科技-AI-科学总监：Scaling-Law-是否依然有效-](http://www.geekpark.net/news/344016)
-- [【极客公园】-企业部署生成式-AI，五个最大的挑战是什么？-](http://www.geekpark.net/news/344015)
-- [【极客公园】-第一批-AI-员工，即将入职电商公司-](http://www.geekpark.net/news/343983)
-- [【极客公园】-杨植麟和朱啸虎的争议背后，什么才是问题的关键？-](http://www.geekpark.net/news/343982)
+- [【极客公园】-人形机器人，能横扫工业场景吗？-](http://www.geekpark.net/news/344052)
 - [【极客公园】-马云现身蚂蚁集团，寄语未来-20-年；小米考虑支持苹果手表、耳机；特斯拉低价小车明年亮相-](http://www.geekpark.net/news/343958)
+- [【极客公园】-杨植麟和朱啸虎的争议背后，什么才是问题的关键？-](http://www.geekpark.net/news/343982)
+- [【极客公园】-第一批-AI-员工，即将入职电商公司-](http://www.geekpark.net/news/343983)
+- [【极客公园】-企业部署生成式-AI，五个最大的挑战是什么？-](http://www.geekpark.net/news/344015)
+- [【极客公园】-专访亚马逊云科技-AI-科学总监：Scaling-Law-是否依然有效-](http://www.geekpark.net/news/344016)
 - [【极客公园】-传小米汽车将推-15-万增程-SUV；X-推「无监管」文生图，能生成各种明星；AI-团队悬赏，骗-AI-说我爱你即拿钱-](http://www.geekpark.net/news/343952)
 - [【极客公园】-杨植麟发信回应朱啸虎：分歧会被解决；微信查删单向好友功能上线；OpenAI-发布微调强化工具-|-极客早知道-](http://www.geekpark.net/news/343944)
-- [【极客公园】-OpenAI-年底炸圈开幕：首发-o1-正式版-+-200-美元-Pro-会员-](http://www.geekpark.net/news/343878)
 - [【极客公园】-OpenAI-发-o1-完成体；库克：从没考虑-Apple-AI-收费；史玉柱推「脑白金咖啡」，针对互联网人-](http://www.geekpark.net/news/343879)
-- [【极客公园】-马斯克玩坏了-X，2000-万「Twitter-难民」疯狂涌向这个-App-](http://www.geekpark.net/news/343841)
+- [【极客公园】-OpenAI-年底炸圈开幕：首发-o1-正式版-+-200-美元-Pro-会员-](http://www.geekpark.net/news/343878)
 - [【极客公园】-1-天-1-个，OpenAI-将连发-12-款新产品；传苹果-AI-国内正式与百度合作；5-年重建，巴黎圣母院本周开放-](http://www.geekpark.net/news/343833)
-- [【极客公园】-2024-站酷百大设计榜重磅发布，黑悟空、烟台新地标「时光塔」等上榜-](http://www.geekpark.net/news/343818)
+- [【极客公园】-马斯克玩坏了-X，2000-万「Twitter-难民」疯狂涌向这个-App-](http://www.geekpark.net/news/343841)
+- [【极客公园】-3.62-万亿美元，苹果重回世界第一；腾讯「王者」衍生大作被曝已停摆；马斯克讨薪失败，天价薪酬被驳回｜极客早知道-](http://www.geekpark.net/news/343790)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
