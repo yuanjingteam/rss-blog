@@ -12,12 +12,12 @@
 
 [![](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml/badge.svg)](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-13 18:02:15，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-14 08:36:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [极客公园](#极客公园)![](/assets/dot.png)   
-- [SuperTechFans](#supertechfans)  
+- [极客公园](#极客公园)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -49,7 +49,7 @@
 
 
 - [2024-12-13--iPhone17-相机大改，变横向一条；百度吉利转账为极越员工交社保；谷歌推出全新-Android-XR-系统-](http://www.geekpark.net/news/344141)  
-- [2024-12-13--面壁智能获新一轮数亿元融资，继续聚焦端侧AI-](http://www.geekpark.net/news/344186) ![](/assets/new.png)  
+- [2024-12-13--面壁智能获新一轮数亿元融资，继续聚焦端侧AI-](http://www.geekpark.net/news/344186)  
 - [2024-12-12--和水滴聊聊，怎么用大模型造一个接近-99%-真人水平的「Sales-Agent」-](http://www.geekpark.net/news/344137)  
 - [2024-12-12--苹果发-iOS18.2，Siri-合体-ChatGPT；传剪映收入近百亿，获三位数增长；马斯克成全球首个-4000-亿美元身家富豪｜极客早知道-](http://www.geekpark.net/news/344095)  
 - [2024-12-12--Google-深夜狙击-OpenAI：新-Agent-功能可以自己打开浏览器查资料了-](http://www.geekpark.net/news/344096)  
@@ -79,6 +79,7 @@
 </summary>
 
 
+- [2024-12-14-2024-12-14-HackerNews](https://supertechfans.com/cn/post/2024-12-14-HackerNews/) ![](/assets/new.png)  
 - [2024-12-13-2024-12-13-HackerNews](https://supertechfans.com/cn/post/2024-12-13-HackerNews/)  
 - [2024-12-12-2024-12-12-HackerNews](https://supertechfans.com/cn/post/2024-12-12-HackerNews/)  
 - [2024-12-11-2024-12-11-HackerNews](https://supertechfans.com/cn/post/2024-12-11-HackerNews/)  
