@@ -12,12 +12,12 @@
 
 [![](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml/badge.svg)](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-14 10:51:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-15 11:02:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [极客公园](#极客公园)![](/assets/dot.png)   
-- [SuperTechFans](#supertechfans)  
+- [极客公园](#极客公园)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -48,7 +48,7 @@
 </summary>
 
 
-- [2024-12-14--OpenAI-喊话马斯克：告我实现不了-AGI；《黑神话：悟空》获TGA-年度动作游戏；50%-年轻人始终保持在线｜极客早知道-](http://www.geekpark.net/news/344187) ![](/assets/new.png)  
+- [2024-12-14--OpenAI-喊话马斯克：告我实现不了-AGI；《黑神话：悟空》获TGA-年度动作游戏；50%-年轻人始终保持在线｜极客早知道-](http://www.geekpark.net/news/344187)  
 - [2024-12-13--面壁智能获新一轮数亿元融资，继续聚焦端侧AI-](http://www.geekpark.net/news/344186)  
 - [2024-12-13--iPhone17-相机大改，变横向一条；百度吉利转账为极越员工交社保；谷歌推出全新-Android-XR-系统-](http://www.geekpark.net/news/344141)  
 - [2024-12-12--Google-深夜狙击-OpenAI：新-Agent-功能可以自己打开浏览器查资料了-](http://www.geekpark.net/news/344096)  
@@ -79,6 +79,7 @@
 </summary>
 
 
+- [2024-12-15-2024-12-15-HackerNews](https://supertechfans.com/cn/post/2024-12-15-HackerNews/) ![](/assets/new.png)  
 - [2024-12-14-2024-12-14-HackerNews](https://supertechfans.com/cn/post/2024-12-14-HackerNews/)  
 - [2024-12-13-2024-12-13-HackerNews](https://supertechfans.com/cn/post/2024-12-13-HackerNews/)  
 - [2024-12-12-2024-12-12-HackerNews](https://supertechfans.com/cn/post/2024-12-12-HackerNews/)  

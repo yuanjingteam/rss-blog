@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-14 10:51:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-15 11:02:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -32,6 +32,7 @@
 - [2024-12-02--鸿蒙智行「满一年」，华为如何用最快速度卖出-50-万台车-](http://www.geekpark.net/news/343730) 
 - [2024-12-01--广汽华为将携手打造新品牌；马斯克申请禁令并指控-OpenAI；CES-展商遭大规模拒签-](http://www.geekpark.net/news/343710) 
 - [2024-11-30--传京东秒送换将，原美团系高管接手达达集团核心业务线；旷视撤回科创板IPO；马云现身阿里园区｜极客早知道-](http://www.geekpark.net/news/343708) 
+- [2024-12-15-2024-12-15-HackerNews](https://supertechfans.com/cn/post/2024-12-15-HackerNews/) 
 - [2024-12-14-2024-12-14-HackerNews](https://supertechfans.com/cn/post/2024-12-14-HackerNews/) 
 - [2024-12-13-2024-12-13-HackerNews](https://supertechfans.com/cn/post/2024-12-13-HackerNews/) 
 - [2024-12-12-2024-12-12-HackerNews](https://supertechfans.com/cn/post/2024-12-12-HackerNews/) 
