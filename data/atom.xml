@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2024-12-17T02:56:02.042Z</updated>
+    <updated>2024-12-17T12:14:01.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -126,8 +126,8 @@
         <title type="html"><![CDATA[
         OpenAI 正式发布 Sora，一文看懂它的文生视频功能到底强在哪？
       ]]></title>
-        <id>http://www.geekpark.net/news/344017</id>
-        <link href="http://www.geekpark.net/news/344017"/>
+        <id>http://www.geekpark.net/news/344057</id>
+        <link href="http://www.geekpark.net/news/344057"/>
         <updated>2024-12-10T00:00:00.000Z</updated>
         <published>2024-12-10T00:00:00.000Z</published>
     </entry>
@@ -135,8 +135,8 @@
         <title type="html"><![CDATA[
         OpenAI 正式发布 Sora，一文看懂它的文生视频功能到底强在哪？
       ]]></title>
-        <id>http://www.geekpark.net/news/344057</id>
-        <link href="http://www.geekpark.net/news/344057"/>
+        <id>http://www.geekpark.net/news/344017</id>
+        <link href="http://www.geekpark.net/news/344017"/>
         <updated>2024-12-10T00:00:00.000Z</updated>
         <published>2024-12-10T00:00:00.000Z</published>
     </entry>
