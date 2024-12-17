@@ -12,14 +12,14 @@
 
 [![](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml/badge.svg)](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-17 20:14:01，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-17 22:01:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [极客公园](#极客公园)![](/assets/dot.png)   
+- [极客公园](#极客公园)  
 - [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -49,9 +49,9 @@
 
 
 - [2024-12-17--扎克伯格套现超过-22-亿美元；极越夏一平发长文道歉信；Lucid-工程师称自购小米-SU7-学造车-](http://www.geekpark.net/news/344244)  
-- [2024-12-17--宇树科技王兴兴：人形机器人很热，但是要把所有细节做到极致-](http://www.geekpark.net/news/344263) ![](/assets/new.png)  
-- [2024-12-17--王小川：AI-医疗，代表了-AGI-之后更大的世界-](http://www.geekpark.net/news/344264) ![](/assets/new.png)  
-- [2024-12-17--为什么说-AI-落地营销，才是真正的科技平权？-](http://www.geekpark.net/news/344312) ![](/assets/new.png)  
+- [2024-12-17--宇树科技王兴兴：人形机器人很热，但是要把所有细节做到极致-](http://www.geekpark.net/news/344263)  
+- [2024-12-17--王小川：AI-医疗，代表了-AGI-之后更大的世界-](http://www.geekpark.net/news/344264)  
+- [2024-12-17--为什么说-AI-落地营销，才是真正的科技平权？-](http://www.geekpark.net/news/344312)  
 - [2024-12-14--OpenAI-喊话马斯克：告我实现不了-AGI；《黑神话：悟空》获TGA-年度动作游戏；50%-年轻人始终保持在线｜极客早知道-](http://www.geekpark.net/news/344187)  
 - [2024-12-14--看见创新力量！极客公园-2024-年度「InnoForce-50」发布-](http://www.geekpark.net/news/344189)  
 - [2024-12-13--iPhone17-相机大改，变横向一条；百度吉利转账为极越员工交社保；谷歌推出全新-Android-XR-系统-](http://www.geekpark.net/news/344141)  
@@ -130,6 +130,7 @@
 </summary>
 
 
+- [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560) ![](/assets/new.png)  
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)  
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)  
@@ -149,7 +150,6 @@
 - [2024-08-06-Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543)  
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)  
 - [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)  
-- [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

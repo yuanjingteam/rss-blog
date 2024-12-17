@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-17 20:14:01。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-12-17 22:01:17。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -192,6 +192,7 @@
 - [【蚊子前端博客】深入理解-node-中的-crypto-加密模块](https://www.xiabingbao.com/post/node/node-crypto.html)
 - [【蚊子前端博客】node多进程的创建与守护](https://www.xiabingbao.com/post/node/node-process-create-guard.html)
 - [【蚊子前端博客】腾讯新闻抢金达人活动node同构直出渲染方案的总结](https://www.xiabingbao.com/post/node/node-isomorphism-straight.html)
+- [【Node-Weekly】A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)
 - [【Node-Weekly】A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)
 - [【Node-Weekly】Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)
 - [【Node-Weekly】Node-v23.2-released](https://nodeweekly.com/issues/555)
@@ -201,7 +202,6 @@
 - [【Node-Weekly】Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)
 - [【Node-Weekly】All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550)
 - [【Node-Weekly】Principles-for-doing-Node-right-at-scale](https://nodeweekly.com/issues/549)
-- [【Node-Weekly】Express.js-5.0](https://nodeweekly.com/issues/547)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

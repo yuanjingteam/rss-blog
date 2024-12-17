@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-17 20:14:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-17 22:01:17。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -17,6 +17,7 @@
 - [2020-04-05-深入理解-node-中的-crypto-加密模块](https://www.xiabingbao.com/post/node/node-crypto.html) 
 - [2020-01-01-node多进程的创建与守护](https://www.xiabingbao.com/post/node/node-process-create-guard.html) 
 - [2019-10-21-腾讯新闻抢金达人活动node同构直出渲染方案的总结](https://www.xiabingbao.com/post/node/node-isomorphism-straight.html) 
+- [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560) 
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558) 
 - [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556) 
 - [2024-11-12-Node-v23.2-released](https://nodeweekly.com/issues/555) 
