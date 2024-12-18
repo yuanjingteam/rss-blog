@@ -12,12 +12,12 @@
 
 [![](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml/badge.svg)](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-18 08:36:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-18 10:50:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [极客公园](#极客公园)![](/assets/dot.png)   
-- [SuperTechFans](#supertechfans)  
+- [极客公园](#极客公园)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -48,7 +48,7 @@
 </summary>
 
 
-- [2024-12-18--保时捷中国区裁员，员工-N+6-赔偿；TikTok-向美国最高法院提交紧急请求；美团试点「骑手过度跑单将被强制下线」-](http://www.geekpark.net/news/344314) ![](/assets/new.png)  
+- [2024-12-18--保时捷中国区裁员，员工-N+6-赔偿；TikTok-向美国最高法院提交紧急请求；美团试点「骑手过度跑单将被强制下线」-](http://www.geekpark.net/news/344314)  
 - [2024-12-17--为什么说-AI-落地营销，才是真正的科技平权？-](http://www.geekpark.net/news/344312)  
 - [2024-12-17--王小川：AI-医疗，代表了-AGI-之后更大的世界-](http://www.geekpark.net/news/344264)  
 - [2024-12-17--宇树科技王兴兴：人形机器人很热，但是要把所有细节做到极致-](http://www.geekpark.net/news/344263)  
@@ -79,6 +79,7 @@
 </summary>
 
 
+- [2024-12-18-2024-12-18-HackerNews](https://supertechfans.com/cn/post/2024-12-18-HackerNews/) ![](/assets/new.png)  
 - [2024-12-17-2024-12-17-HackerNews](https://supertechfans.com/cn/post/2024-12-17-HackerNews/)  
 - [2024-12-16-2024-12-16-HackerNews](https://supertechfans.com/cn/post/2024-12-16-HackerNews/)  
 - [2024-12-15-2024-12-15-HackerNews](https://supertechfans.com/cn/post/2024-12-15-HackerNews/)  
