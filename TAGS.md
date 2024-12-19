@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-19 00:01:35。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-12-19 10:51:41。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -290,6 +290,7 @@
 
 
 
+- [【极客公园】-字节发布豆包视觉理解、3D生成等新模型；OpenAI-员工迎最多1000万美元套现机会；黑悟空获-Steam-年度最佳游戏提名-](http://www.geekpark.net/news/344368)
 - [【极客公园】-OpenAI-喊话马斯克：告我实现不了-AGI；《黑神话：悟空》获TGA-年度动作游戏；50%-年轻人始终保持在线｜极客早知道-](http://www.geekpark.net/news/344187)
 - [【前端早读课】【第2999期】如何用Three.js-+-Blender打造一个web-3D展览馆](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264000&idx=1&sn=b5e0a2ea935955afd34b9ae42db3ece9&chksm=bd48cd848a3f4492b99c80842ab0707f78f4b936949438745dc98dcf3797a6b7666859379226#rd)
 - [【前端早读课】【第2838期】vivo-游戏中心低代码平台的提效秘诀](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260503&idx=1&sn=79c89b4d2734e64c107ad9fadb9b30e7&chksm=bd48dfd38a3f56c5ec1c2c44514784a86badd8861bcdf5ae988aa12b6c36f1dcadc8233d1f0c#rd)
@@ -309,7 +310,6 @@
 - [【前端早读课】【微信小游戏】牙牙快跑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=2&sn=e9fb95069d9fcd85a395ec9875a5524a#wechat_redirect)
 - [【前端早读课】【小册】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=1&sn=eedae5958157d82239b91934721df32e#wechat_redirect)
 - [【前端大全】Threejs-地图3D可视化](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616228&idx=2&sn=f9eb9a5eb9362697867dc45b08971bd2&chksm=8022a425b7552d33fd8ce54924f0edc0342d5c2bef06f8bbb235a6ba8abaac20c77cf6699905#rd)
-- [【前端大全】使用-Three.js-实现跳一跳游戏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607548&idx=2&sn=614be89b0ca6ef450947e3e13c31ffd0&chksm=8022863db7550f2b3c6da334e167dc41b9dad493bd82e9be13d1bbaba055da42013a22378671#rd)
 - [......【查看更多】......](/details/tags/dev-game.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -471,8 +471,8 @@
 
 
 - [【极客公园】-Sora-vs-海螺-AI：国产模型掀翻「视频王者」？-](http://www.geekpark.net/news/344316)
-- [【极客公园】-OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344057)
 - [【极客公园】-OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344017)
+- [【极客公园】-OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344057)
 - [【极客公园】-亚马逊推出新一代基础模型-Nova：主打性价比，预告图像和视频模型-](http://www.geekpark.net/news/343848)
 - [【前端早读课】【第3176期】WebCodecs-开启-Web-音视频新篇章](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268861&idx=1&sn=46adb56e8947b228290e1f5e4559efcb&chksm=bd48ff798a3f766fcaf59966dd8f9b93c2a20edbdb4ace2bddcaa536fbab4201034fc5c03732#rd)
 - [【前端早读课】【第3161期】用-ChatGPT-打工人来完成掘金年度打榜直播的抽奖](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=1&sn=924c4c8dc071836e89b541ce9e43ae4e&chksm=bd48fc2c8a3f753afd05dacc98b544e6a669f4e5e00874d639833eb9241d5dfdf3ffabeb4e04#rd)
@@ -720,26 +720,26 @@
 
 
 
-- [【极客公园】-余凯：科技让机器的归机器，人的归人-](http://www.geekpark.net/news/344367)
-- [【极客公园】-跑分超-o1，还会看图思考，数理化正在被-AI「完爆」-](http://www.geekpark.net/news/344341)
-- [【极客公园】-为什么-AI-需要一次-Web-2.0-式的革命？-](http://www.geekpark.net/news/344343)
-- [【极客公园】-周鸿祎：AI-是赋能者，而不是单纯的颠覆者-](http://www.geekpark.net/news/344344)
 - [【极客公园】-打开日本市场背后，Dify-是怎么做-AI-全球化的？-](http://www.geekpark.net/news/344369)
-- [【极客公园】-为什么说-AI-落地营销，才是真正的科技平权？-](http://www.geekpark.net/news/344312)
-- [【极客公园】-王小川：AI-医疗，代表了-AGI-之后更大的世界-](http://www.geekpark.net/news/344264)
-- [【极客公园】-宇树科技王兴兴：人形机器人很热，但是要把所有细节做到极致-](http://www.geekpark.net/news/344263)
+- [【极客公园】-周鸿祎：AI-是赋能者，而不是单纯的颠覆者-](http://www.geekpark.net/news/344344)
+- [【极客公园】-为什么-AI-需要一次-Web-2.0-式的革命？-](http://www.geekpark.net/news/344343)
+- [【极客公园】-跑分超-o1，还会看图思考，数理化正在被-AI「完爆」-](http://www.geekpark.net/news/344341)
+- [【极客公园】-余凯：科技让机器的归机器，人的归人-](http://www.geekpark.net/news/344367)
 - [【极客公园】-扎克伯格套现超过-22-亿美元；极越夏一平发长文道歉信；Lucid-工程师称自购小米-SU7-学造车-](http://www.geekpark.net/news/344244)
+- [【极客公园】-宇树科技王兴兴：人形机器人很热，但是要把所有细节做到极致-](http://www.geekpark.net/news/344263)
+- [【极客公园】-王小川：AI-医疗，代表了-AGI-之后更大的世界-](http://www.geekpark.net/news/344264)
+- [【极客公园】-为什么说-AI-落地营销，才是真正的科技平权？-](http://www.geekpark.net/news/344312)
 - [【极客公园】-看见创新力量！极客公园-2024-年度「InnoForce-50」发布-](http://www.geekpark.net/news/344189)
-- [【极客公园】-面壁智能获新一轮数亿元融资，继续聚焦端侧AI-](http://www.geekpark.net/news/344186)
 - [【极客公园】-iPhone17-相机大改，变横向一条；百度吉利转账为极越员工交社保；谷歌推出全新-Android-XR-系统-](http://www.geekpark.net/news/344141)
-- [【极客公园】-苹果发-iOS18.2，Siri-合体-ChatGPT；传剪映收入近百亿，获三位数增长；马斯克成全球首个-4000-亿美元身家富豪｜极客早知道-](http://www.geekpark.net/news/344095)
+- [【极客公园】-面壁智能获新一轮数亿元融资，继续聚焦端侧AI-](http://www.geekpark.net/news/344186)
 - [【极客公园】-和水滴聊聊，怎么用大模型造一个接近-99%-真人水平的「Sales-Agent」-](http://www.geekpark.net/news/344137)
-- [【极客公园】-OpenAI-发布「代码神器」；苹果-MacBook-Pro-或变「打孔屏」；保时捷：中国车主平均年收-300-万元-](http://www.geekpark.net/news/344060)
+- [【极客公园】-苹果发-iOS18.2，Siri-合体-ChatGPT；传剪映收入近百亿，获三位数增长；马斯克成全球首个-4000-亿美元身家富豪｜极客早知道-](http://www.geekpark.net/news/344095)
 - [【极客公园】-为什么说，巨头-Adobe-可能输给这家-SaaS-创业公司？-](http://www.geekpark.net/news/344093)
-- [【极客公园】-OpenAI-的-Sora-上线，官网挤爆；雷军：新车-YU7-提前上线，解除伪装；苹果：对-AGI-不感兴趣｜极客早知道-](http://www.geekpark.net/news/344014)
+- [【极客公园】-OpenAI-发布「代码神器」；苹果-MacBook-Pro-或变「打孔屏」；保时捷：中国车主平均年收-300-万元-](http://www.geekpark.net/news/344060)
 - [【极客公园】-人形机器人，能横扫工业场景吗？-](http://www.geekpark.net/news/344052)
-- [【极客公园】-马云现身蚂蚁集团，寄语未来-20-年；小米考虑支持苹果手表、耳机；特斯拉低价小车明年亮相-](http://www.geekpark.net/news/343958)
-- [【极客公园】-杨植麟和朱啸虎的争议背后，什么才是问题的关键？-](http://www.geekpark.net/news/343982)
+- [【极客公园】-OpenAI-的-Sora-上线，官网挤爆；雷军：新车-YU7-提前上线，解除伪装；苹果：对-AGI-不感兴趣｜极客早知道-](http://www.geekpark.net/news/344014)
+- [【极客公园】-专访亚马逊云科技-AI-科学总监：Scaling-Law-是否依然有效-](http://www.geekpark.net/news/344016)
+- [【极客公园】-企业部署生成式-AI，五个最大的挑战是什么？-](http://www.geekpark.net/news/344015)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

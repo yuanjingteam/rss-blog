@@ -12,12 +12,12 @@
 
 [![](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml/badge.svg)](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-19 00:01:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-19 10:51:41，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [极客公园](#极客公园)![](/assets/dot.png)   
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -48,25 +48,25 @@
 </summary>
 
 
-- [2024-12-18--余凯：科技让机器的归机器，人的归人-](http://www.geekpark.net/news/344367)  
-- [2024-12-18--Sora-vs-海螺-AI：国产模型掀翻「视频王者」？-](http://www.geekpark.net/news/344316)  
-- [2024-12-18--保时捷中国区裁员，员工-N+6-赔偿；TikTok-向美国最高法院提交紧急请求；美团试点「骑手过度跑单将被强制下线」-](http://www.geekpark.net/news/344314)  
-- [2024-12-18--跑分超-o1，还会看图思考，数理化正在被-AI「完爆」-](http://www.geekpark.net/news/344341)  
-- [2024-12-18--为什么-AI-需要一次-Web-2.0-式的革命？-](http://www.geekpark.net/news/344343)  
+- [2024-12-19--字节发布豆包视觉理解、3D生成等新模型；OpenAI-员工迎最多1000万美元套现机会；黑悟空获-Steam-年度最佳游戏提名-](http://www.geekpark.net/news/344368) ![](/assets/new.png)  
+- [2024-12-18--打开日本市场背后，Dify-是怎么做-AI-全球化的？-](http://www.geekpark.net/news/344369)  
 - [2024-12-18--周鸿祎：AI-是赋能者，而不是单纯的颠覆者-](http://www.geekpark.net/news/344344)  
-- [2024-12-18--打开日本市场背后，Dify-是怎么做-AI-全球化的？-](http://www.geekpark.net/news/344369) ![](/assets/new.png)  
-- [2024-12-17--为什么说-AI-落地营销，才是真正的科技平权？-](http://www.geekpark.net/news/344312)  
-- [2024-12-17--王小川：AI-医疗，代表了-AGI-之后更大的世界-](http://www.geekpark.net/news/344264)  
-- [2024-12-17--宇树科技王兴兴：人形机器人很热，但是要把所有细节做到极致-](http://www.geekpark.net/news/344263)  
+- [2024-12-18--为什么-AI-需要一次-Web-2.0-式的革命？-](http://www.geekpark.net/news/344343)  
+- [2024-12-18--跑分超-o1，还会看图思考，数理化正在被-AI「完爆」-](http://www.geekpark.net/news/344341)  
+- [2024-12-18--保时捷中国区裁员，员工-N+6-赔偿；TikTok-向美国最高法院提交紧急请求；美团试点「骑手过度跑单将被强制下线」-](http://www.geekpark.net/news/344314)  
+- [2024-12-18--Sora-vs-海螺-AI：国产模型掀翻「视频王者」？-](http://www.geekpark.net/news/344316)  
+- [2024-12-18--余凯：科技让机器的归机器，人的归人-](http://www.geekpark.net/news/344367)  
 - [2024-12-17--扎克伯格套现超过-22-亿美元；极越夏一平发长文道歉信；Lucid-工程师称自购小米-SU7-学造车-](http://www.geekpark.net/news/344244)  
-- [2024-12-14--看见创新力量！极客公园-2024-年度「InnoForce-50」发布-](http://www.geekpark.net/news/344189)  
+- [2024-12-17--宇树科技王兴兴：人形机器人很热，但是要把所有细节做到极致-](http://www.geekpark.net/news/344263)  
+- [2024-12-17--王小川：AI-医疗，代表了-AGI-之后更大的世界-](http://www.geekpark.net/news/344264)  
+- [2024-12-17--为什么说-AI-落地营销，才是真正的科技平权？-](http://www.geekpark.net/news/344312)  
 - [2024-12-14--OpenAI-喊话马斯克：告我实现不了-AGI；《黑神话：悟空》获TGA-年度动作游戏；50%-年轻人始终保持在线｜极客早知道-](http://www.geekpark.net/news/344187)  
-- [2024-12-13--面壁智能获新一轮数亿元融资，继续聚焦端侧AI-](http://www.geekpark.net/news/344186)  
+- [2024-12-14--看见创新力量！极客公园-2024-年度「InnoForce-50」发布-](http://www.geekpark.net/news/344189)  
 - [2024-12-13--iPhone17-相机大改，变横向一条；百度吉利转账为极越员工交社保；谷歌推出全新-Android-XR-系统-](http://www.geekpark.net/news/344141)  
-- [2024-12-12--Google-深夜狙击-OpenAI：新-Agent-功能可以自己打开浏览器查资料了-](http://www.geekpark.net/news/344096)  
-- [2024-12-12--苹果发-iOS18.2，Siri-合体-ChatGPT；传剪映收入近百亿，获三位数增长；马斯克成全球首个-4000-亿美元身家富豪｜极客早知道-](http://www.geekpark.net/news/344095)  
+- [2024-12-13--面壁智能获新一轮数亿元融资，继续聚焦端侧AI-](http://www.geekpark.net/news/344186)  
 - [2024-12-12--和水滴聊聊，怎么用大模型造一个接近-99%-真人水平的「Sales-Agent」-](http://www.geekpark.net/news/344137)  
-- [2024-12-11--OpenAI-发布「代码神器」；苹果-MacBook-Pro-或变「打孔屏」；保时捷：中国车主平均年收-300-万元-](http://www.geekpark.net/news/344060)  
+- [2024-12-12--苹果发-iOS18.2，Siri-合体-ChatGPT；传剪映收入近百亿，获三位数增长；马斯克成全球首个-4000-亿美元身家富豪｜极客早知道-](http://www.geekpark.net/news/344095)  
+- [2024-12-12--Google-深夜狙击-OpenAI：新-Agent-功能可以自己打开浏览器查资料了-](http://www.geekpark.net/news/344096)  
 - [2024-12-11--为什么说，巨头-Adobe-可能输给这家-SaaS-创业公司？-](http://www.geekpark.net/news/344093)  
 - [......【查看更多】......](/details/极客公园.md)
 
@@ -79,6 +79,7 @@
 </summary>
 
 
+- [2024-12-19-2024-12-19-HackerNews](https://supertechfans.com/cn/post/2024-12-19-HackerNews/) ![](/assets/new.png)  
 - [2024-12-18-2024-12-18-HackerNews](https://supertechfans.com/cn/post/2024-12-18-HackerNews/)  
 - [2024-12-17-2024-12-17-HackerNews](https://supertechfans.com/cn/post/2024-12-17-HackerNews/)  
 - [2024-12-16-2024-12-16-HackerNews](https://supertechfans.com/cn/post/2024-12-16-HackerNews/)  
