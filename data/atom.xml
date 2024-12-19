@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2024-12-19T02:51:42.118Z</updated>
+    <updated>2024-12-19T10:01:33.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -24,19 +24,19 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[
-        Sora vs 海螺 AI：国产模型掀翻「视频王者」？
+        保时捷中国区裁员，员工 N+6 赔偿；TikTok 向美国最高法院提交紧急请求；美团试点「骑手过度跑单将被强制下线」
       ]]></title>
-        <id>http://www.geekpark.net/news/344316</id>
-        <link href="http://www.geekpark.net/news/344316"/>
+        <id>http://www.geekpark.net/news/344314</id>
+        <link href="http://www.geekpark.net/news/344314"/>
         <updated>2024-12-18T00:00:00.000Z</updated>
         <published>2024-12-18T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[
-        保时捷中国区裁员，员工 N+6 赔偿；TikTok 向美国最高法院提交紧急请求；美团试点「骑手过度跑单将被强制下线」
+        Sora vs 海螺 AI：国产模型掀翻「视频王者」？
       ]]></title>
-        <id>http://www.geekpark.net/news/344314</id>
-        <link href="http://www.geekpark.net/news/344314"/>
+        <id>http://www.geekpark.net/news/344316</id>
+        <link href="http://www.geekpark.net/news/344316"/>
         <updated>2024-12-18T00:00:00.000Z</updated>
         <published>2024-12-18T00:00:00.000Z</published>
     </entry>
@@ -160,8 +160,8 @@
         <title type="html"><![CDATA[
         OpenAI 正式发布 Sora，一文看懂它的文生视频功能到底强在哪？
       ]]></title>
-        <id>http://www.geekpark.net/news/344057</id>
-        <link href="http://www.geekpark.net/news/344057"/>
+        <id>http://www.geekpark.net/news/344017</id>
+        <link href="http://www.geekpark.net/news/344017"/>
         <updated>2024-12-10T00:00:00.000Z</updated>
         <published>2024-12-10T00:00:00.000Z</published>
     </entry>
@@ -169,8 +169,8 @@
         <title type="html"><![CDATA[
         OpenAI 正式发布 Sora，一文看懂它的文生视频功能到底强在哪？
       ]]></title>
-        <id>http://www.geekpark.net/news/344017</id>
-        <link href="http://www.geekpark.net/news/344017"/>
+        <id>http://www.geekpark.net/news/344057</id>
+        <link href="http://www.geekpark.net/news/344057"/>
         <updated>2024-12-10T00:00:00.000Z</updated>
         <published>2024-12-10T00:00:00.000Z</published>
     </entry>
