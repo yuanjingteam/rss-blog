@@ -12,15 +12,15 @@
 
 [![](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml/badge.svg)](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-19 18:01:33，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-20 02:01:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [极客公园](#极客公园)![](/assets/dot.png)   
+- [极客公园](#极客公园)  
 - [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -49,11 +49,11 @@
 
 
 - [2024-12-19--字节发布豆包视觉理解、3D生成等新模型；OpenAI-员工迎最多1000万美元套现机会；黑悟空获-Steam-年度最佳游戏提名-](http://www.geekpark.net/news/344368)  
-- [2024-12-19--潘乱对谈小宇宙CEO-Kyth：播客是在饱和时代，提供稀缺价值-](http://www.geekpark.net/news/344391) ![](/assets/new.png)  
-- [2024-12-19--对话阿里国际站总裁张阔：AI-时代的电商应该怎么做？-](http://www.geekpark.net/news/344392) ![](/assets/new.png)  
-- [2024-12-19--好产品与时代共振｜2024-年度极客最爱好物-](http://www.geekpark.net/news/344404) ![](/assets/new.png)  
-- [2024-12-19--具身智能出不来「-ChatGPT」，为什么？-](http://www.geekpark.net/news/344405) ![](/assets/new.png)  
-- [2024-12-19--AI-教育的「iPhone-时刻」，就是现在？-](http://www.geekpark.net/news/344415) ![](/assets/new.png)  
+- [2024-12-19--潘乱对谈小宇宙CEO-Kyth：播客是在饱和时代，提供稀缺价值-](http://www.geekpark.net/news/344391)  
+- [2024-12-19--对话阿里国际站总裁张阔：AI-时代的电商应该怎么做？-](http://www.geekpark.net/news/344392)  
+- [2024-12-19--好产品与时代共振｜2024-年度极客最爱好物-](http://www.geekpark.net/news/344404)  
+- [2024-12-19--具身智能出不来「-ChatGPT」，为什么？-](http://www.geekpark.net/news/344405)  
+- [2024-12-19--AI-教育的「iPhone-时刻」，就是现在？-](http://www.geekpark.net/news/344415)  
 - [2024-12-18--余凯：科技让机器的归机器，人的归人-](http://www.geekpark.net/news/344367)  
 - [2024-12-18--Sora-vs-海螺-AI：国产模型掀翻「视频王者」？-](http://www.geekpark.net/news/344316)  
 - [2024-12-18--保时捷中国区裁员，员工-N+6-赔偿；TikTok-向美国最高法院提交紧急请求；美团试点「骑手过度跑单将被强制下线」-](http://www.geekpark.net/news/344314)  
@@ -163,6 +163,7 @@
 </summary>
 
 
+- [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717) ![](/assets/new.png)  
 - [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716)  
 - [2024-12-05-Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715)  
 - [2024-11-21-Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714)  
@@ -182,7 +183,6 @@
 - [2024-08-15-The-npm-tea-party](https://javascriptweekly.com/issues/700)  
 - [2024-08-01-How-Googlebot-sees-your-JavaScript](https://javascriptweekly.com/issues/699)  
 - [2024-07-25-What's-new-for-us-in-ECMAScript-2024](https://javascriptweekly.com/issues/698)  
-- [2024-07-18-Exploring-JavaScript-ES2024-Edition](https://javascriptweekly.com/issues/697)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
