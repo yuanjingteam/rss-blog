@@ -12,15 +12,15 @@
 
 [![](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml/badge.svg)](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-20 02:01:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-20 08:34:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [极客公园](#极客公园)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -79,6 +79,7 @@
 </summary>
 
 
+- [2024-12-20-2024-12-20-HackerNews](https://supertechfans.com/cn/post/2024-12-20-HackerNews/) ![](/assets/new.png)  
 - [2024-12-19-2024-12-19-HackerNews](https://supertechfans.com/cn/post/2024-12-19-HackerNews/)  
 - [2024-12-18-2024-12-18-HackerNews](https://supertechfans.com/cn/post/2024-12-18-HackerNews/)  
 - [2024-12-17-2024-12-17-HackerNews](https://supertechfans.com/cn/post/2024-12-17-HackerNews/)  
@@ -163,7 +164,7 @@
 </summary>
 
 
-- [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717) ![](/assets/new.png)  
+- [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)  
 - [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716)  
 - [2024-12-05-Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715)  
 - [2024-11-21-Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714)  
