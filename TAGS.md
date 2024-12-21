@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-21 10:39:32。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-12-21 14:01:15。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -471,8 +471,8 @@
 
 
 - [【极客公园】-Sora-vs-海螺-AI：国产模型掀翻「视频王者」？-](http://www.geekpark.net/news/344316)
-- [【极客公园】-OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344057)
 - [【极客公园】-OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344017)
+- [【极客公园】-OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344057)
 - [【极客公园】-亚马逊推出新一代基础模型-Nova：主打性价比，预告图像和视频模型-](http://www.geekpark.net/news/343848)
 - [【前端早读课】【第3176期】WebCodecs-开启-Web-音视频新篇章](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268861&idx=1&sn=46adb56e8947b228290e1f5e4559efcb&chksm=bd48ff798a3f766fcaf59966dd8f9b93c2a20edbdb4ace2bddcaa536fbab4201034fc5c03732#rd)
 - [【前端早读课】【第3161期】用-ChatGPT-打工人来完成掘金年度打榜直播的抽奖](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=1&sn=924c4c8dc071836e89b541ce9e43ae4e&chksm=bd48fc2c8a3f753afd05dacc98b544e6a669f4e5e00874d639833eb9241d5dfdf3ffabeb4e04#rd)
@@ -721,25 +721,25 @@
 
 
 - [【极客公园】-OpenAI发布高级推理模型o3；传雷军亲自重金招募大模型领军人才；小米-YU7-无伪装实车曝光-](http://www.geekpark.net/news/344497)
-- [【极客公园】-内容创作的「Windows-时代」来了-](http://www.geekpark.net/news/344482)
-- [【极客公园】-大模型落地，苦「最强」久矣-](http://www.geekpark.net/news/344471)
-- [【极客公园】-买了-3-副-AI-眼镜的人，心里到底在想什么？-](http://www.geekpark.net/news/344434)
-- [【极客公园】-苹果就-AI-与腾讯字节谈判；百度、吉利垫付，极越员工获「N+1」赔偿；余承东称智界要打造年轻人-DreamCar｜极客早知道-](http://www.geekpark.net/news/344432)
+- [【极客公园】-999-元的-AI-眼镜来了，闪极拉开「百镜大战」序幕-](http://www.geekpark.net/news/344498)
 - [【极客公园】-2024年国产剧的关键角色，都在这儿了-](http://www.geekpark.net/news/344467)
-- [【极客公园】-潘乱对谈小宇宙CEO-Kyth：播客是在饱和时代，提供稀缺价值-](http://www.geekpark.net/news/344391)
-- [【极客公园】-对话阿里国际站总裁张阔：AI-时代的电商应该怎么做？-](http://www.geekpark.net/news/344392)
-- [【极客公园】-好产品与时代共振｜2024-年度极客最爱好物-](http://www.geekpark.net/news/344404)
-- [【极客公园】-具身智能出不来「-ChatGPT」，为什么？-](http://www.geekpark.net/news/344405)
+- [【极客公园】-苹果就-AI-与腾讯字节谈判；百度、吉利垫付，极越员工获「N+1」赔偿；余承东称智界要打造年轻人-DreamCar｜极客早知道-](http://www.geekpark.net/news/344432)
+- [【极客公园】-买了-3-副-AI-眼镜的人，心里到底在想什么？-](http://www.geekpark.net/news/344434)
+- [【极客公园】-大模型落地，苦「最强」久矣-](http://www.geekpark.net/news/344471)
+- [【极客公园】-内容创作的「Windows-时代」来了-](http://www.geekpark.net/news/344482)
 - [【极客公园】-AI-教育的「iPhone-时刻」，就是现在？-](http://www.geekpark.net/news/344415)
-- [【极客公园】-余凯：科技让机器的归机器，人的归人-](http://www.geekpark.net/news/344367)
-- [【极客公园】-跑分超-o1，还会看图思考，数理化正在被-AI「完爆」-](http://www.geekpark.net/news/344341)
-- [【极客公园】-为什么-AI-需要一次-Web-2.0-式的革命？-](http://www.geekpark.net/news/344343)
-- [【极客公园】-周鸿祎：AI-是赋能者，而不是单纯的颠覆者-](http://www.geekpark.net/news/344344)
+- [【极客公园】-具身智能出不来「-ChatGPT」，为什么？-](http://www.geekpark.net/news/344405)
+- [【极客公园】-好产品与时代共振｜2024-年度极客最爱好物-](http://www.geekpark.net/news/344404)
+- [【极客公园】-对话阿里国际站总裁张阔：AI-时代的电商应该怎么做？-](http://www.geekpark.net/news/344392)
+- [【极客公园】-潘乱对谈小宇宙CEO-Kyth：播客是在饱和时代，提供稀缺价值-](http://www.geekpark.net/news/344391)
 - [【极客公园】-打开日本市场背后，Dify-是怎么做-AI-全球化的？-](http://www.geekpark.net/news/344369)
-- [【极客公园】-为什么说-AI-落地营销，才是真正的科技平权？-](http://www.geekpark.net/news/344312)
-- [【极客公园】-王小川：AI-医疗，代表了-AGI-之后更大的世界-](http://www.geekpark.net/news/344264)
-- [【极客公园】-宇树科技王兴兴：人形机器人很热，但是要把所有细节做到极致-](http://www.geekpark.net/news/344263)
+- [【极客公园】-周鸿祎：AI-是赋能者，而不是单纯的颠覆者-](http://www.geekpark.net/news/344344)
+- [【极客公园】-为什么-AI-需要一次-Web-2.0-式的革命？-](http://www.geekpark.net/news/344343)
+- [【极客公园】-跑分超-o1，还会看图思考，数理化正在被-AI「完爆」-](http://www.geekpark.net/news/344341)
+- [【极客公园】-余凯：科技让机器的归机器，人的归人-](http://www.geekpark.net/news/344367)
 - [【极客公园】-扎克伯格套现超过-22-亿美元；极越夏一平发长文道歉信；Lucid-工程师称自购小米-SU7-学造车-](http://www.geekpark.net/news/344244)
+- [【极客公园】-宇树科技王兴兴：人形机器人很热，但是要把所有细节做到极致-](http://www.geekpark.net/news/344263)
+- [【极客公园】-王小川：AI-医疗，代表了-AGI-之后更大的世界-](http://www.geekpark.net/news/344264)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
