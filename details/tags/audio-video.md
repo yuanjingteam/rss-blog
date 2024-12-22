@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-22 10:47:21。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-22 14:01:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 音视频相关
 
@@ -8,8 +8,8 @@
 
 
 - [2024-12-18--Sora-vs-海螺-AI：国产模型掀翻「视频王者」？-](http://www.geekpark.net/news/344316) 
-- [2024-12-10--OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344057) 
 - [2024-12-10--OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344017) 
+- [2024-12-10--OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344057) 
 - [2024-12-05--亚马逊推出新一代基础模型-Nova：主打性价比，预告图像和视频模型-](http://www.geekpark.net/news/343848) 
 - [2024-01-21-【第3176期】WebCodecs-开启-Web-音视频新篇章](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268861&idx=1&sn=46adb56e8947b228290e1f5e4559efcb&chksm=bd48ff798a3f766fcaf59966dd8f9b93c2a20edbdb4ace2bddcaa536fbab4201034fc5c03732#rd) 
 - [2024-01-06-【第3161期】用-ChatGPT-打工人来完成掘金年度打榜直播的抽奖](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=1&sn=924c4c8dc071836e89b541ce9e43ae4e&chksm=bd48fc2c8a3f753afd05dacc98b544e6a669f4e5e00874d639833eb9241d5dfdf3ffabeb4e04#rd) 

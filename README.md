@@ -12,12 +12,12 @@
 
 [![](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml/badge.svg)](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-22 10:47:20，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-22 14:01:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [极客公园](#极客公园)![](/assets/dot.png)   
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -48,26 +48,26 @@
 </summary>
 
 
-- [2024-12-22--传-GPT-5-开发不顺；蔚来第三品牌新车首秀，预售价-14.88-万元；广电总局要求加强微短剧片名审核-](http://www.geekpark.net/news/344500) ![](/assets/new.png)  
-- [2024-12-21--999-元的-AI-眼镜来了，闪极拉开「百镜大战」序幕-](http://www.geekpark.net/news/344498)  
+- [2024-12-22--传-GPT-5-开发不顺；蔚来第三品牌新车首秀，预售价-14.88-万元；广电总局要求加强微短剧片名审核-](http://www.geekpark.net/news/344500)  
+- [2024-12-22--短剧出海的秘密：ReeIShort如何让外国人爱上「霸总」？-](http://www.geekpark.net/news/344502) ![](/assets/new.png)  
 - [2024-12-21--OpenAI发布高级推理模型o3；传雷军亲自重金招募大模型领军人才；小米-YU7-无伪装实车曝光-](http://www.geekpark.net/news/344497)  
-- [2024-12-20--内容创作的「Windows-时代」来了-](http://www.geekpark.net/news/344482)  
-- [2024-12-20--大模型落地，苦「最强」久矣-](http://www.geekpark.net/news/344471)  
-- [2024-12-20--买了-3-副-AI-眼镜的人，心里到底在想什么？-](http://www.geekpark.net/news/344434)  
-- [2024-12-20--苹果就-AI-与腾讯字节谈判；百度、吉利垫付，极越员工获「N+1」赔偿；余承东称智界要打造年轻人-DreamCar｜极客早知道-](http://www.geekpark.net/news/344432)  
+- [2024-12-21--999-元的-AI-眼镜来了，闪极拉开「百镜大战」序幕-](http://www.geekpark.net/news/344498)  
 - [2024-12-20--2024年国产剧的关键角色，都在这儿了-](http://www.geekpark.net/news/344467)  
-- [2024-12-19--字节发布豆包视觉理解、3D生成等新模型；OpenAI-员工迎最多1000万美元套现机会；黑悟空获-Steam-年度最佳游戏提名-](http://www.geekpark.net/news/344368)  
-- [2024-12-19--潘乱对谈小宇宙CEO-Kyth：播客是在饱和时代，提供稀缺价值-](http://www.geekpark.net/news/344391)  
-- [2024-12-19--对话阿里国际站总裁张阔：AI-时代的电商应该怎么做？-](http://www.geekpark.net/news/344392)  
-- [2024-12-19--好产品与时代共振｜2024-年度极客最爱好物-](http://www.geekpark.net/news/344404)  
-- [2024-12-19--具身智能出不来「-ChatGPT」，为什么？-](http://www.geekpark.net/news/344405)  
+- [2024-12-20--苹果就-AI-与腾讯字节谈判；百度、吉利垫付，极越员工获「N+1」赔偿；余承东称智界要打造年轻人-DreamCar｜极客早知道-](http://www.geekpark.net/news/344432)  
+- [2024-12-20--买了-3-副-AI-眼镜的人，心里到底在想什么？-](http://www.geekpark.net/news/344434)  
+- [2024-12-20--大模型落地，苦「最强」久矣-](http://www.geekpark.net/news/344471)  
+- [2024-12-20--内容创作的「Windows-时代」来了-](http://www.geekpark.net/news/344482)  
 - [2024-12-19--AI-教育的「iPhone-时刻」，就是现在？-](http://www.geekpark.net/news/344415)  
-- [2024-12-18--余凯：科技让机器的归机器，人的归人-](http://www.geekpark.net/news/344367)  
-- [2024-12-18--Sora-vs-海螺-AI：国产模型掀翻「视频王者」？-](http://www.geekpark.net/news/344316)  
-- [2024-12-18--保时捷中国区裁员，员工-N+6-赔偿；TikTok-向美国最高法院提交紧急请求；美团试点「骑手过度跑单将被强制下线」-](http://www.geekpark.net/news/344314)  
-- [2024-12-18--跑分超-o1，还会看图思考，数理化正在被-AI「完爆」-](http://www.geekpark.net/news/344341)  
-- [2024-12-18--为什么-AI-需要一次-Web-2.0-式的革命？-](http://www.geekpark.net/news/344343)  
+- [2024-12-19--具身智能出不来「-ChatGPT」，为什么？-](http://www.geekpark.net/news/344405)  
+- [2024-12-19--好产品与时代共振｜2024-年度极客最爱好物-](http://www.geekpark.net/news/344404)  
+- [2024-12-19--对话阿里国际站总裁张阔：AI-时代的电商应该怎么做？-](http://www.geekpark.net/news/344392)  
+- [2024-12-19--潘乱对谈小宇宙CEO-Kyth：播客是在饱和时代，提供稀缺价值-](http://www.geekpark.net/news/344391)  
+- [2024-12-19--字节发布豆包视觉理解、3D生成等新模型；OpenAI-员工迎最多1000万美元套现机会；黑悟空获-Steam-年度最佳游戏提名-](http://www.geekpark.net/news/344368)  
+- [2024-12-18--打开日本市场背后，Dify-是怎么做-AI-全球化的？-](http://www.geekpark.net/news/344369)  
 - [2024-12-18--周鸿祎：AI-是赋能者，而不是单纯的颠覆者-](http://www.geekpark.net/news/344344)  
+- [2024-12-18--为什么-AI-需要一次-Web-2.0-式的革命？-](http://www.geekpark.net/news/344343)  
+- [2024-12-18--跑分超-o1，还会看图思考，数理化正在被-AI「完爆」-](http://www.geekpark.net/news/344341)  
+- [2024-12-18--保时捷中国区裁员，员工-N+6-赔偿；TikTok-向美国最高法院提交紧急请求；美团试点「骑手过度跑单将被强制下线」-](http://www.geekpark.net/news/344314)  
 - [......【查看更多】......](/details/极客公园.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -79,7 +79,7 @@
 </summary>
 
 
-- [2024-12-22-2024-12-22-HackerNews](https://supertechfans.com/cn/post/2024-12-22-HackerNews/) ![](/assets/new.png)  
+- [2024-12-22-2024-12-22-HackerNews](https://supertechfans.com/cn/post/2024-12-22-HackerNews/)  
 - [2024-12-21-2024-12-21-HackerNews](https://supertechfans.com/cn/post/2024-12-21-HackerNews/)  
 - [2024-12-20-2024-12-20-HackerNews](https://supertechfans.com/cn/post/2024-12-20-HackerNews/)  
 - [2024-12-19-2024-12-19-HackerNews](https://supertechfans.com/cn/post/2024-12-19-HackerNews/)  
