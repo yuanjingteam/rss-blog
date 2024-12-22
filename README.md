@@ -12,11 +12,11 @@
 
 [![](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml/badge.svg)](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-22 14:01:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-23 02:01:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [极客公园](#极客公园)![](/assets/dot.png)   
+- [极客公园](#极客公园)  
 - [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
@@ -34,7 +34,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -49,7 +49,7 @@
 
 
 - [2024-12-22--传-GPT-5-开发不顺；蔚来第三品牌新车首秀，预售价-14.88-万元；广电总局要求加强微短剧片名审核-](http://www.geekpark.net/news/344500)  
-- [2024-12-22--短剧出海的秘密：ReeIShort如何让外国人爱上「霸总」？-](http://www.geekpark.net/news/344502) ![](/assets/new.png)  
+- [2024-12-22--短剧出海的秘密：ReeIShort如何让外国人爱上「霸总」？-](http://www.geekpark.net/news/344502)  
 - [2024-12-21--OpenAI发布高级推理模型o3；传雷军亲自重金招募大模型领军人才；小米-YU7-无伪装实车曝光-](http://www.geekpark.net/news/344497)  
 - [2024-12-21--999-元的-AI-眼镜来了，闪极拉开「百镜大战」序幕-](http://www.geekpark.net/news/344498)  
 - [2024-12-20--2024年国产剧的关键角色，都在这儿了-](http://www.geekpark.net/news/344467)  
@@ -600,6 +600,7 @@
 </summary>
 
 
+- [2024-12-23-如何使用JS获取系统内存、CPU/GPU、电量等信息](https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/) ![](/assets/new.png)  
 - [2024-12-11-全新的CSS相对颜色语法-使用from和calc](https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/)  
 - [2024-12-06-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/)  
 - [2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/)  
@@ -619,7 +620,6 @@
 - [2024-08-23-不能落后，好好缕缕CSS滚动动画](https://www.zhangxinxu.com/wordpress/2024/08/css-scroll-timeline/)  
 - [2024-08-10-页面级可视动画View-Transitions-API初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/)  
 - [2024-07-29-独家，MP3音频淡入淡出播放和转换的JS实现](https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/)  
-- [2024-07-23-关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
