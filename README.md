@@ -6,11 +6,11 @@
 
 [![](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml/badge.svg)](https://github.com/yuanjingteam/rss-blog/actions/workflows/server.yml)
 
-:alarm_clock: 更新时间: 2024-12-13 16:58:30，:rocket: 更新条数: +36， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-23 10:43:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
-- [极客公园](#极客公园)![](/assets/dot.png)   
+- [极客公园](#极客公园)  
 - [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
@@ -29,7 +29,7 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
@@ -42,26 +42,26 @@
 </summary>
 
 
-- [2024-12-13--iPhone17-相机大改，变横向一条；百度吉利转账为极越员工交社保；谷歌推出全新-Android-XR-系统-](http://www.geekpark.net/news/344141) ![](/assets/new.png)  
-- [2024-12-12--Google-深夜狙击-OpenAI：新-Agent-功能可以自己打开浏览器查资料了-](http://www.geekpark.net/news/344096) ![](/assets/new.png)  
-- [2024-12-12--苹果发-iOS18.2，Siri-合体-ChatGPT；传剪映收入近百亿，获三位数增长；马斯克成全球首个-4000-亿美元身家富豪｜极客早知道-](http://www.geekpark.net/news/344095) ![](/assets/new.png)  
-- [2024-12-12--和水滴聊聊，怎么用大模型造一个接近-99%-真人水平的「Sales-Agent」-](http://www.geekpark.net/news/344137) ![](/assets/new.png)  
-- [2024-12-11--OpenAI-发布「代码神器」；苹果-MacBook-Pro-或变「打孔屏」；保时捷：中国车主平均年收-300-万元-](http://www.geekpark.net/news/344060) ![](/assets/new.png)  
-- [2024-12-11--为什么说，巨头-Adobe-可能输给这家-SaaS-创业公司？-](http://www.geekpark.net/news/344093) ![](/assets/new.png)  
-- [2024-12-10--OpenAI-的-Sora-上线，官网挤爆；雷军：新车-YU7-提前上线，解除伪装；苹果：对-AGI-不感兴趣｜极客早知道-](http://www.geekpark.net/news/344014) ![](/assets/new.png)  
-- [2024-12-10--人形机器人，能横扫工业场景吗？-](http://www.geekpark.net/news/344052) ![](/assets/new.png)  
-- [2024-12-10--OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344057) ![](/assets/new.png)  
-- [2024-12-10--OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344017) ![](/assets/new.png)  
-- [2024-12-09--马云现身蚂蚁集团，寄语未来-20-年；小米考虑支持苹果手表、耳机；特斯拉低价小车明年亮相-](http://www.geekpark.net/news/343958) ![](/assets/new.png)  
-- [2024-12-09--杨植麟和朱啸虎的争议背后，什么才是问题的关键？-](http://www.geekpark.net/news/343982) ![](/assets/new.png)  
-- [2024-12-09--第一批-AI-员工，即将入职电商公司-](http://www.geekpark.net/news/343983) ![](/assets/new.png)  
-- [2024-12-09--企业部署生成式-AI，五个最大的挑战是什么？-](http://www.geekpark.net/news/344015) ![](/assets/new.png)  
-- [2024-12-09--专访亚马逊云科技-AI-科学总监：Scaling-Law-是否依然有效-](http://www.geekpark.net/news/344016) ![](/assets/new.png)  
-- [2024-12-08--传小米汽车将推-15-万增程-SUV；X-推「无监管」文生图，能生成各种明星；AI-团队悬赏，骗-AI-说我爱你即拿钱-](http://www.geekpark.net/news/343952) ![](/assets/new.png)  
-- [2024-12-07--杨植麟发信回应朱啸虎：分歧会被解决；微信查删单向好友功能上线；OpenAI-发布微调强化工具-|-极客早知道-](http://www.geekpark.net/news/343944) ![](/assets/new.png)  
-- [2024-12-06--OpenAI-发-o1-完成体；库克：从没考虑-Apple-AI-收费；史玉柱推「脑白金咖啡」，针对互联网人-](http://www.geekpark.net/news/343879) ![](/assets/new.png)  
-- [2024-12-06--OpenAI-年底炸圈开幕：首发-o1-正式版-+-200-美元-Pro-会员-](http://www.geekpark.net/news/343878) ![](/assets/new.png)  
-- [2024-12-05--1-天-1-个，OpenAI-将连发-12-款新产品；传苹果-AI-国内正式与百度合作；5-年重建，巴黎圣母院本周开放-](http://www.geekpark.net/news/343833) ![](/assets/new.png)  
+- [2024-12-22--传-GPT-5-开发不顺；蔚来第三品牌新车首秀，预售价-14.88-万元；广电总局要求加强微短剧片名审核-](http://www.geekpark.net/news/344500)  
+- [2024-12-22--短剧出海的秘密：ReeIShort如何让外国人爱上「霸总」？-](http://www.geekpark.net/news/344502)  
+- [2024-12-21--OpenAI发布高级推理模型o3；传雷军亲自重金招募大模型领军人才；小米-YU7-无伪装实车曝光-](http://www.geekpark.net/news/344497)  
+- [2024-12-21--999-元的-AI-眼镜来了，闪极拉开「百镜大战」序幕-](http://www.geekpark.net/news/344498)  
+- [2024-12-20--2024年国产剧的关键角色，都在这儿了-](http://www.geekpark.net/news/344467)  
+- [2024-12-20--苹果就-AI-与腾讯字节谈判；百度、吉利垫付，极越员工获「N+1」赔偿；余承东称智界要打造年轻人-DreamCar｜极客早知道-](http://www.geekpark.net/news/344432)  
+- [2024-12-20--买了-3-副-AI-眼镜的人，心里到底在想什么？-](http://www.geekpark.net/news/344434)  
+- [2024-12-20--大模型落地，苦「最强」久矣-](http://www.geekpark.net/news/344471)  
+- [2024-12-20--内容创作的「Windows-时代」来了-](http://www.geekpark.net/news/344482)  
+- [2024-12-19--AI-教育的「iPhone-时刻」，就是现在？-](http://www.geekpark.net/news/344415)  
+- [2024-12-19--具身智能出不来「-ChatGPT」，为什么？-](http://www.geekpark.net/news/344405)  
+- [2024-12-19--好产品与时代共振｜2024-年度极客最爱好物-](http://www.geekpark.net/news/344404)  
+- [2024-12-19--对话阿里国际站总裁张阔：AI-时代的电商应该怎么做？-](http://www.geekpark.net/news/344392)  
+- [2024-12-19--潘乱对谈小宇宙CEO-Kyth：播客是在饱和时代，提供稀缺价值-](http://www.geekpark.net/news/344391)  
+- [2024-12-19--字节发布豆包视觉理解、3D生成等新模型；OpenAI-员工迎最多1000万美元套现机会；黑悟空获-Steam-年度最佳游戏提名-](http://www.geekpark.net/news/344368)  
+- [2024-12-18--打开日本市场背后，Dify-是怎么做-AI-全球化的？-](http://www.geekpark.net/news/344369)  
+- [2024-12-18--周鸿祎：AI-是赋能者，而不是单纯的颠覆者-](http://www.geekpark.net/news/344344)  
+- [2024-12-18--为什么-AI-需要一次-Web-2.0-式的革命？-](http://www.geekpark.net/news/344343)  
+- [2024-12-18--跑分超-o1，还会看图思考，数理化正在被-AI「完爆」-](http://www.geekpark.net/news/344341)  
+- [2024-12-18--保时捷中国区裁员，员工-N+6-赔偿；TikTok-向美国最高法院提交紧急请求；美团试点「骑手过度跑单将被强制下线」-](http://www.geekpark.net/news/344314)  
 - [......【查看更多】......](/details/极客公园.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -73,11 +73,21 @@
 </summary>
 
 
-- [2024-12-13-2024-12-13-HackerNews](https://supertechfans.com/cn/post/2024-12-13-HackerNews/) ![](/assets/new.png)  
-- [2024-12-12-2024-12-12-HackerNews](https://supertechfans.com/cn/post/2024-12-12-HackerNews/) ![](/assets/new.png)  
-- [2024-12-11-2024-12-11-HackerNews](https://supertechfans.com/cn/post/2024-12-11-HackerNews/) ![](/assets/new.png)  
-- [2024-12-10-2024-12-10-HackerNews](https://supertechfans.com/cn/post/2024-12-10-HackerNews/) ![](/assets/new.png)  
-- [2024-12-09-2024-12-09-HackerNews](https://supertechfans.com/cn/post/2024-12-09-HackerNews/) ![](/assets/new.png)  
+- [2024-12-23-2024-12-23-HackerNews](https://supertechfans.com/cn/post/2024-12-23-HackerNews/) ![](/assets/new.png)  
+- [2024-12-22-2024-12-22-HackerNews](https://supertechfans.com/cn/post/2024-12-22-HackerNews/)  
+- [2024-12-21-2024-12-21-HackerNews](https://supertechfans.com/cn/post/2024-12-21-HackerNews/)  
+- [2024-12-20-2024-12-20-HackerNews](https://supertechfans.com/cn/post/2024-12-20-HackerNews/)  
+- [2024-12-19-2024-12-19-HackerNews](https://supertechfans.com/cn/post/2024-12-19-HackerNews/)  
+- [2024-12-18-2024-12-18-HackerNews](https://supertechfans.com/cn/post/2024-12-18-HackerNews/)  
+- [2024-12-17-2024-12-17-HackerNews](https://supertechfans.com/cn/post/2024-12-17-HackerNews/)  
+- [2024-12-16-2024-12-16-HackerNews](https://supertechfans.com/cn/post/2024-12-16-HackerNews/)  
+- [2024-12-15-2024-12-15-HackerNews](https://supertechfans.com/cn/post/2024-12-15-HackerNews/)  
+- [2024-12-14-2024-12-14-HackerNews](https://supertechfans.com/cn/post/2024-12-14-HackerNews/)  
+- [2024-12-13-2024-12-13-HackerNews](https://supertechfans.com/cn/post/2024-12-13-HackerNews/)  
+- [2024-12-12-2024-12-12-HackerNews](https://supertechfans.com/cn/post/2024-12-12-HackerNews/)  
+- [2024-12-11-2024-12-11-HackerNews](https://supertechfans.com/cn/post/2024-12-11-HackerNews/)  
+- [2024-12-10-2024-12-10-HackerNews](https://supertechfans.com/cn/post/2024-12-10-HackerNews/)  
+- [2024-12-09-2024-12-09-HackerNews](https://supertechfans.com/cn/post/2024-12-09-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -120,6 +130,7 @@
 </summary>
 
 
+- [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)  
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)  
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)  
@@ -139,7 +150,6 @@
 - [2024-08-06-Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543)  
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)  
 - [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)  
-- [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -151,6 +161,7 @@
 </summary>
 
 
+- [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)  
 - [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716)  
 - [2024-12-05-Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715)  
 - [2024-11-21-Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714)  
@@ -170,7 +181,6 @@
 - [2024-08-15-The-npm-tea-party](https://javascriptweekly.com/issues/700)  
 - [2024-08-01-How-Googlebot-sees-your-JavaScript](https://javascriptweekly.com/issues/699)  
 - [2024-07-25-What's-new-for-us-in-ECMAScript-2024](https://javascriptweekly.com/issues/698)  
-- [2024-07-18-Exploring-JavaScript-ES2024-Edition](https://javascriptweekly.com/issues/697)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -585,6 +595,7 @@
 </summary>
 
 
+- [2024-12-23-如何使用JS获取系统内存、CPU/GPU、电量等信息](https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/)  
 - [2024-12-11-全新的CSS相对颜色语法-使用from和calc](https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/)  
 - [2024-12-06-英文单词朗读基于音素预估时长的JS算法](https://www.zhangxinxu.com/wordpress/2024/12/js-word-speach-split-time-calc/)  
 - [2024-12-04-哇哦，font-palette支持动画和palette-mix混合函数了](https://www.zhangxinxu.com/wordpress/2024/12/font-palette-animation-palette-mix/)  
@@ -604,7 +615,6 @@
 - [2024-08-23-不能落后，好好缕缕CSS滚动动画](https://www.zhangxinxu.com/wordpress/2024/08/css-scroll-timeline/)  
 - [2024-08-10-页面级可视动画View-Transitions-API初体验](https://www.zhangxinxu.com/wordpress/2024/08/view-transitions-api/)  
 - [2024-07-29-独家，MP3音频淡入淡出播放和转换的JS实现](https://www.zhangxinxu.com/wordpress/2024/07/js-mp3-audio-fadein-fadeout-convert/)  
-- [2024-07-23-关于《HTML并不简单》这本书](https://www.zhangxinxu.com/wordpress/2024/07/html%e5%b9%b6%e4%b8%8d%e7%ae%80%e5%8d%95/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -616,7 +626,7 @@
 </summary>
 
 
-- [2024-12-13-科技爱好者周刊（第-329-期）：示意图利器-D2](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html) ![](/assets/new.png)  
+- [2024-12-13-科技爱好者周刊（第-329-期）：示意图利器-D2](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html)  
 - [2024-12-06-科技爱好者周刊（第-328-期）：AI-模型不是一门好生意](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html)  
 - [2024-12-02-AI-应用无代码开发教程：工作流模式详解](http://www.ruanyifeng.com/blog/2024/12/no-code-ai-tutorial.html)  
 - [2024-11-29-科技爱好者周刊（第-327-期）：没有链接的互联网](http://www.ruanyifeng.com/blog/2024/11/weekly-issue-327.html)  
