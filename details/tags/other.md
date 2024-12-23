@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-23 02:01:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-23 10:43:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -56,6 +56,7 @@
 - [2024-12-02--中国研发「超级高铁」，时速-1000-公里；特斯拉新版「自动驾驶」即将登场；「AI-医院」年底上线-](http://www.geekpark.net/news/343711) 
 - [2024-12-01--广汽华为将携手打造新品牌；马斯克申请禁令并指控-OpenAI；CES-展商遭大规模拒签-](http://www.geekpark.net/news/343710) 
 - [2024-11-30--传京东秒送换将，原美团系高管接手达达集团核心业务线；旷视撤回科创板IPO；马云现身阿里园区｜极客早知道-](http://www.geekpark.net/news/343708) 
+- [2024-12-23-2024-12-23-HackerNews](https://supertechfans.com/cn/post/2024-12-23-HackerNews/) 
 - [2024-12-22-2024-12-22-HackerNews](https://supertechfans.com/cn/post/2024-12-22-HackerNews/) 
 - [2024-12-21-2024-12-21-HackerNews](https://supertechfans.com/cn/post/2024-12-21-HackerNews/) 
 - [2024-12-20-2024-12-20-HackerNews](https://supertechfans.com/cn/post/2024-12-20-HackerNews/) 
