@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-23 10:43:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-23 11:21:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -7,6 +7,10 @@
 
 
 
+- [2018-03-05-一次canvas中文字转化成图片后清晰度丢失的探索](http://guowenfh.github.io/2018/03/05/2018/canvas-text-to-image-clarity/) 
+- [2017-10-24-从零学习-canvas-一](http://guowenfh.github.io/2017/10/24/2017/learn-canvas-01/) 
+- [2020-05-02-WebP-方案分析与实践](http://jartto.wang/2020/05/02/webp-practice/) 
+- [2013-06-14-WEBP](http://www.btorange.com/2013/06/14/webp.html) 
 - [2024-01-28-【第3183期】神奇的-3D-卡片反光闪烁动效](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268973&idx=1&sn=081c8c6b75c91c1ed91d460e76e1759f&chksm=bd48fee98a3f77ff4a1a79c2b4b066b58ee19b5ddc91349227b42bfffce86f8975e6419bd092#rd) 
 - [2024-01-25-【第3180期】WebGL-Chromakey-实时绿幕抠图](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268890&idx=1&sn=9090c67708057c950d1b3cafa7f21433&chksm=bd48fe9e8a3f77887e4acc991a7b59ff15406fbddf453906e04ef3b8ad9f1a6e8a6679f4de7f#rd) 
 - [2023-08-28-【开源】基于Canvas的开源版"创客贴"](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265368&idx=2&sn=56b7df80b9519c042e4d79db428d5f28&chksm=bd48c0dc8a3f49cace55388ef292880161b5cc97954a7f3147531ccf99381f9754e6d2f4199b#rd) 

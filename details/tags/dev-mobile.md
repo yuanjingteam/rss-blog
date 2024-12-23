@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-23 10:43:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-23 11:21:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 移动开发、Flutter相关
 
@@ -7,6 +7,8 @@
 
 
 
+- [2020-11-12-【Flutter】参与别人flutter项目踩坑填坑记录](https://blog.vadxq.com/article/flutter-run-other-project/) 
+- [2020-10-28-【Flutter安装】2020年末flutter安装找坑排坑](https://blog.vadxq.com/article/flutter-install-pit/) 
 - [2021-01-04-【第2166期】满帮动态化Flutter框架-—-Thresh开源啦~~](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243066&idx=1&sn=28afea87c57128fabcce0517c7b0dcc8&chksm=bd491bbe8a3e92a895fb4c62e407b27072effc2b9f7e5421b906fb25b27c57e4cd102e4b6ac6&scene=27#wechat_redirect) 
 - [2020-07-07-【早读】Service-workers：PWA背后的英雄](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237915&idx=2&sn=eee3250b18c3a4b406f96287183e92ef&chksm=bd49779f8a3efe89f2aa1575149f6dd19ec5aea0dba983784bae9f7e0fa171fad6dbda19bd2e&scene=27#wechat_redirect) 
 - [2020-07-06-flutter究竟有哪些与众不同？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237855&idx=1&sn=a64940d5d1fcd69b159808f60afba216&chksm=bd49745b8a3efd4db747ddf96c4e13519c4820f4cc54b5b6a78f7b96c277212709801f0b9b90&scene=27#wechat_redirect) 

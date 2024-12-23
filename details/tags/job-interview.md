@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-23 10:43:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-23 11:21:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 招聘面试
 
@@ -7,6 +7,11 @@
 
 
 
+- [2021-05-27-聊聊关于如何选择offer](https://taoweng.site/posts/%E8%81%8A%E8%81%8A%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9offer/) 
+- [2020-06-23-5-点可以让你提高面试通过率建议干货](https://taoweng.site/posts/5-%E7%82%B9%E5%8F%AF%E4%BB%A5%E8%AE%A9%E4%BD%A0%E6%8F%90%E9%AB%98%E9%9D%A2%E8%AF%95%E9%80%9A%E8%BF%87%E7%8E%87%E5%BB%BA%E8%AE%AE%E5%B9%B2%E8%B4%A7/) 
+- [2020-05-18-蚂蚁、字节、滴滴面试经历总结](https://taoweng.site/posts/%E8%9A%82%E8%9A%81%E5%AD%97%E8%8A%82%E6%BB%B4%E6%BB%B4%E9%9D%A2%E8%AF%95%E7%BB%8F%E5%8E%86%E6%80%BB%E7%BB%93/) 
+- [2020-05-07-拼多多和酷家乐面试经历总结](https://taoweng.site/posts/%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%92%8C%E9%85%B7%E5%AE%B6%E4%B9%90%E9%9D%A2%E8%AF%95%E7%BB%8F%E5%8E%86%E6%80%BB%E7%BB%93/) 
+- [2019-03-18-为什么现在面试都是面试造火箭](https://taoweng.site/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E9%9D%A2%E8%AF%95%E9%83%BD%E6%98%AF%E9%9D%A2%E8%AF%95%E9%80%A0%E7%81%AB%E7%AE%AD/) 
 - [2024-05-10-从面试官的角度分析下简历中存在的问题](https://www.xiabingbao.com/post/fe/resume-sd9dca.html) 
 - [2023-10-11-给想进国央企的同学介绍一款招聘软件「国聘」](https://www.xiabingbao.com/post/recruit/guopin-s2ccdh.html) 
 - [2023-03-24-Playwright-now-offers-a-UI-mode](https://javascriptweekly.com/issues/631) 

@@ -1,8 +1,56 @@
 [
   {
-    "title": "极客公园",
-    "rss": "https://www.geekpark.net/rss"
+    "title": "Teobler",
+    "rss": "https://teobler.com/rss.xml"
   },
+  {
+    "title": "清竹志",  
+    "rss": "https://blog.vadxq.com/atom.xml"
+  },  
+  {
+    "title": "Blog | Kerminate", 
+    "rss": "https://kerminate.me/atom.xml"
+  },
+  {
+    "title": "rxliuli",
+    "rss": "https://blog.rxliuli.com/atom.xml"
+  },
+  {
+    "title": "一个前端工程师的博客",
+    "rss": "https://www.taoweng.site/rss.xml"
+  },
+  {
+    "title": "吕立青",
+    "rss": "https://blog.jimmylv.info/rss/"
+  },
+  {
+    "title": "臨池不輟",
+    "rss": "https://keelii.com/atom.xml"
+  },
+  {
+    "title": "三省吾身",
+    "rss": "https://blog.guowenfh.com/atom.xml"
+  },
+  {
+    "title": "囧克斯",
+    "rss": "https://jiongks.name/atom.xml"
+  },
+  {
+    "title": "Jartto's blog",
+    "rss": "http://jartto.wang/atom.xml"
+  },
+  {
+    "title": "木匣子",
+    "rss": "https://blog.mutoo.im/atom.xml"
+  },
+  {
+    "title": "冰糖橙子",
+    "rss": "http://www.btorange.com/feed"
+  },
+  {
+    "title": "小猪-部落格",  
+    "rss": "https://xiaozhu.dev/index.xml"
+  },  
   {
     "title": "SuperTechFans",
     "rss": "https://www.supertechfans.com/cn/index.xml"

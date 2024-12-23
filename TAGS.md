@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-12-23 10:43:51。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-12-23 11:21:44。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -38,26 +38,26 @@
 
 
 
-- [【蚊子前端博客】在-React-中显示多个标签，超出省略并可以-hover-显示更多](https://www.xiabingbao.com/post/react/more-tag-sl9voq.html)
-- [【蚊子前端博客】React-请求数据别再使用-useEffect-和-useState，试试-SWR-吧！](https://www.xiabingbao.com/post/react/swr-sl3i5x.html)
-- [【蚊子前端博客】React-的-useEffect-的一些使用场景和技巧](https://www.xiabingbao.com/post/react/useeffect-sk9x0b.html)
-- [【蚊子前端博客】使用-React-实现-todo-list-的-curd-操作](https://www.xiabingbao.com/post/react/todo-list-sjec5l.html)
-- [【蚊子前端博客】React-模板中为什么可以用逻辑与运算符](https://www.xiabingbao.com/post/react/template-logic-sj8com.html)
-- [【蚊子前端博客】React-组件多次调用时如何区分不同的-div-容器](https://www.xiabingbao.com/post/react/react-unique-sj6zro.html)
-- [【蚊子前端博客】基于-gitlab-的-webhook-向飞书发通知](https://www.xiabingbao.com/post/infrastructure/gitlab-webhook-feishu-sgnj5t.html)
-- [【蚊子前端博客】React-中-useState-和-useRef-与全局变量的区别](https://www.xiabingbao.com/post/react/react-usestate-useref-sdk6xp.html)
-- [【蚊子前端博客】使用-React-实现-6-个输入框的短信验证码功能](https://www.xiabingbao.com/post/react/react-captcha-sd3e1b.html)
-- [【蚊子前端博客】基于-React-和-antd-实现的图片裁剪压缩功能](https://www.xiabingbao.com/post/react/react-antd-cropper-s2cbvh.html)
-- [【蚊子前端博客】React18-源码解析之-useContext-的原理](https://www.xiabingbao.com/post/react/react-hook-usecontext-s0f25z.html)
-- [【蚊子前端博客】React18-源码解析之-useReducer-的原理](https://www.xiabingbao.com/post/react/react-usereducer-rxoxia.html)
-- [【蚊子前端博客】如何给-create-react-app-添加构建时间](https://www.xiabingbao.com/post/react/cra-buildtime-rsbym2.html)
-- [【蚊子前端博客】React-中如何自定义和封装-hooks](https://www.xiabingbao.com/post/react/react-hooks-rqwi9a.html)
-- [【蚊子前端博客】2023-年最新最全的-React-面试题](https://www.xiabingbao.com/post/react/react-interview-rqoyyx.html)
-- [【蚊子前端博客】React18-源码解析之-useState-的原理](https://www.xiabingbao.com/post/react/react-usestate-rn5bc0.html)
-- [【蚊子前端博客】React18-源码解析之-hooks-的挂载](https://www.xiabingbao.com/post/react/react-hooks-rjp9x1.html)
-- [【蚊子前端博客】React18-源码解析之-useCallback-和-useMemo](https://www.xiabingbao.com/post/react/react-usecallback-usememo-rjp9zn.html)
-- [【蚊子前端博客】React18-源码解析之-hook-的依赖项更新机制](https://www.xiabingbao.com/post/react/react-hook-deps-equal-rjpa3v.html)
-- [【蚊子前端博客】React18-源码解析之-useRef](https://www.xiabingbao.com/post/react/react-useref-rjpa5p.html)
+- [【Teobler】重新思考-React-项目架构](https://teobler.com/posts/20220920-re-thinking-architecture-of-react-project)
+- [【Teobler】React代码规范](https://teobler.com/posts/20220327-react-coding-standard)
+- [【清竹志】【前端工程化】Vite关于Vue3/React项目工程化总结（献给2021-1024的礼物）](https://blog.vadxq.com/article/vite-engineering-project/)
+- [【Blog | Kerminate】React-深度探索](http://yoursite.com/2019/05/18/React-%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2/)
+- [【一个前端工程师的博客】使用-React-和-TypeScript-编写干净代码的10个必知模式](https://taoweng.site/posts/%E4%BD%BF%E7%94%A8-react-%E5%92%8C-typescript-%E7%BC%96%E5%86%99%E5%B9%B2%E5%87%80%E4%BB%A3%E7%A0%81%E7%9A%8410%E4%B8%AA%E5%BF%85%E7%9F%A5%E6%A8%A1%E5%BC%8F/)
+- [【一个前端工程师的博客】如何应用-SOLID-原则在-React-中整理代码之开闭原则](https://taoweng.site/posts/%E5%A6%82%E4%BD%95%E5%BA%94%E7%94%A8-solid-%E5%8E%9F%E5%88%99%E5%9C%A8-react-%E4%B8%AD%E6%95%B4%E7%90%86%E4%BB%A3%E7%A0%81%E4%B9%8B%E5%BC%80%E9%97%AD%E5%8E%9F%E5%88%99/)
+- [【一个前端工程师的博客】React-代码规范](https://taoweng.site/posts/react-%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83/)
+- [【一个前端工程师的博客】2020-年你应该知道的-React-库](https://taoweng.site/posts/2020-%E5%B9%B4%E4%BD%A0%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%84-react-%E5%BA%93/)
+- [【一个前端工程师的博客】你可能不知道的-React-Hooks](https://taoweng.site/posts/%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84-react-hooks/)
+- [【一个前端工程师的博客】根据-React-历史来聊如何理解虚拟-DOM](https://taoweng.site/posts/%E6%A0%B9%E6%8D%AE-react-%E5%8E%86%E5%8F%B2%E6%9D%A5%E8%81%8A%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E8%99%9A%E6%8B%9F-dom/)
+- [【一个前端工程师的博客】如何对-React-函数式组件进行优化](https://taoweng.site/posts/%E5%A6%82%E4%BD%95%E5%AF%B9-react-%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BB%84%E4%BB%B6%E8%BF%9B%E8%A1%8C%E4%BC%98%E5%8C%96/)
+- [【一个前端工程师的博客】如何让-useEffect-只在依赖变化的时候执行](https://taoweng.site/posts/%E5%A6%82%E4%BD%95%E8%AE%A9-useeffect-%E5%8F%AA%E5%9C%A8%E4%BE%9D%E8%B5%96%E5%8F%98%E5%8C%96%E7%9A%84%E6%97%B6%E5%80%99%E6%89%A7%E8%A1%8C/)
+- [【一个前端工程师的博客】新手学习-React-迷惑的点](https://taoweng.site/posts/%E6%96%B0%E6%89%8B%E5%AD%A6%E4%B9%A0-react-%E8%BF%B7%E6%83%91%E7%9A%84%E7%82%B9/)
+- [【一个前端工程师的博客】Deep-In-React-之详谈-React-16-Diff-策略二](https://taoweng.site/posts/deep-in-react-%E4%B9%8B%E8%AF%A6%E8%B0%88-react-16-diff-%E7%AD%96%E7%95%A5%E4%BA%8C/)
+- [【一个前端工程师的博客】Deep-In-React-之浅谈-React-Fiber-架构（一）](https://taoweng.site/posts/deep-in-react-%E4%B9%8B%E6%B5%85%E8%B0%88-react-fiber-%E6%9E%B6%E6%9E%84%E4%B8%80/)
+- [【一个前端工程师的博客】发布-react-组件到-npm-上](https://taoweng.site/posts/%E5%8F%91%E5%B8%83-react-%E7%BB%84%E4%BB%B6%E5%88%B0-npm-%E4%B8%8A/)
+- [【一个前端工程师的博客】一个例子来谈react的两大优势](https://taoweng.site/posts/%E4%B8%80%E4%B8%AA%E4%BE%8B%E5%AD%90%E6%9D%A5%E8%B0%88react%E7%9A%84%E4%B8%A4%E5%A4%A7%E4%BC%98%E5%8A%BF/)
+- [【三省吾身】从一个简单功能的实现，谈谈-react-中的逻辑复用进化过程](http://guowenfh.github.io/2019/09/17/2019/react-reuse/)
+- [【三省吾身】一个使用-react-的思想去使用-vue-的方式](http://guowenfh.github.io/2019/04/28/2019/react-development-description-vue/)
+- [【三省吾身】React-项目构建](http://guowenfh.github.io/2019/04/11/2019/webpack-build-config/)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -74,26 +74,26 @@
 
 
 
+- [【Blog | Kerminate】Vue3.0-响应式原理解析](http://yoursite.com/2020/01/31/Vue3-0-%E5%93%8D%E5%BA%94%E5%BC%8F%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/)
+- [【Blog | Kerminate】Vue-3.0-会有哪些变化](http://yoursite.com/2019/06/29/Vue3-0-%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96/)
+- [【Blog | Kerminate】参加-VueConf2019](http://yoursite.com/2019/06/08/%E5%8F%82%E5%8A%A0-VueConf2019/)
+- [【三省吾身】在-vue-中使用-jsx-与-class-component-的各种姿势](http://guowenfh.github.io/2019/09/17/2019/vue-jsx-class-component/)
+- [【囧克斯】我和-Vue.js-的十年](https://jiongks.name/blog/my-10-years-with-vuejs)
+- [【囧克斯】vue-mark-display：用-markdown-语法轻松撰写幻灯片](https://jiongks.name/blog/introducing-vue-mark-display)
+- [【囧克斯】VueConf-Hangzhou-见闻](https://jiongks.name/blog/vueconf-hangzhou)
+- [【囧克斯】Vue-2.0-来了！](https://jiongks.name/blog/vue-2-is-here)
+- [【囧克斯】【整理】Vue-2.0-自-beta-1-到-beta-4-以来的主要更新](https://jiongks.name/blog/vue-2-from-beta-1-to-beta-4)
+- [【囧克斯】通过一张图走进-Vue-2.0](https://jiongks.name/blog/a-big-map-to-intro-vue-next)
+- [【囧克斯】Code-Review-for-Vue-2.0-Preview](https://jiongks.name/blog/code-review-for-vue-next)
+- [【囧克斯】Vue-2.0-发布啦！](https://jiongks.name/blog/announcing-vue-2)
+- [【囧克斯】Vue.js-1.0.0-发布了！](https://jiongks.name/blog/vuejs-1-0-0-release)
+- [【囧克斯】Vue.js-源码学习笔记](https://jiongks.name/blog/vue-code-review)
+- [【囧克斯】Vue-+-webpack-项目实践](https://jiongks.name/blog/just-vue)
+- [【小猪-部落格】Vue-文档编写指南「译」](https://xiaozhu.dev/post/vue-docs-writing-guide/)
+- [【小猪-部落格】创造-Vue3-的过程「译」](https://xiaozhu.dev/post/the-process-of-making-vue-3/)
 - [【蚊子前端博客】Vue单页面中进行业务数据的上报](https://www.xiabingbao.com/post/vue/vue-boss-up.html)
 - [【蚊子前端博客】Vue:-单页面应用如何保持登录状态](https://www.xiabingbao.com/post/vue/vue-keep-logininfo.html)
 - [【蚊子前端博客】单页面切换路由时的倒计时和Vue倒计时组件](https://www.xiabingbao.com/post/vue/vue-countdown.html)
-- [【蚊子前端博客】Vue中的嵌套组件中数据无法实时更新的问题](https://www.xiabingbao.com/post/vue/vue-nesting-component.html)
-- [【蚊子前端博客】Vue中对数组特殊的操作](https://www.xiabingbao.com/post/vue/vue-array-observe.html)
-- [【蚊子前端博客】仿Vue中的双向数据绑定实现](https://www.xiabingbao.com/post/vue/vue-two-binding.html)
-- [【蚊子前端博客】Vue与Git结合进行环境区分与自动化部署](https://www.xiabingbao.com/post/git/vue-git-autodeploy.html)
-- [【蚊子前端博客】Vue组件实现tips的总结](https://www.xiabingbao.com/post/vue/2017/09/14/vue-component-tips.html)
-- [【前端早读课】【图书】Vue.js-3-高级编程：UI组件库开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274387&idx=2&sn=9eff3dc80d6f300d94b7c58171ed5b77&chksm=bccb5d26a37a08a1f10b4c6ff47b1656d497a14c44decda9850b4b6454a451013c78957ef584&scene=0#rd)
-- [【前端早读课】【图书】Vue.js-3+TypeScript完全指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267187&idx=2&sn=d464389d42d609a51f8d65b7685b2c17&chksm=bd48f9f78a3f70e1369e07136d5039fe8523158502cde8e2b81598792c7f6bd6670a2da8b90f#rd)
-- [【前端早读课】【第3042期】重新发明-Vue：经验和教训](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265438&idx=1&sn=a5eac9d685901b1d664c30cef7d4878a&chksm=bd48c01a8a3f490ccba5734cc5acfb2dbb32c91a19dcb5bdf4db399ea71297adaf172f326691#rd)
-- [【前端早读课】【活动】VueConf-&amp;-ViteConf-2023。8月26日，苏州见。](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=2&sn=8722e592e3dbbe5d11e7412d1207ba47&chksm=bd48cd178a3f4401e94b986a266d9e0fe4fb257261daa1e54aa528f002ec427432e6fd74c66d#rd)
-- [【前端早读课】【第3008期】VueConf-US-2023：State-of-the-Vuenion](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264147&idx=1&sn=0aca047a6425734aa61f5ab095a0300b&chksm=bd48cd178a3f4401d1d4c623db6d9a068038ebc97c605bac2225d26113c6ff17678163b2eaf2#rd)
-- [【前端早读课】【第2991期】从自研走向开源的-TinyVue-组件库](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263668&idx=1&sn=33e2a54f9f757adf2dd4fd1c1a5945b6&chksm=bd48cb308a3f4226aa3953a4506eb43f68e1e838c4c84560ce3d3ed1f2cafb44fcbb60130e33#rd)
-- [【前端早读课】【第2974期】ChatGPT教用200行代码写一个简版Vue框架——OpenTiny](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263392&idx=1&sn=2841859805edaf9baea4da7c56426b2c&chksm=bd48c8248a3f4132a4d7d06ce896fa714c8c85dfae33512c10d443a98ec0a5363533ca88aefb#rd)
-- [【前端早读课】【第2950期】vite-plugin-vue-devtools：写一个Vue-DevTools，让开发体验飞一会](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262764&idx=1&sn=c47d7ee1e37c5d672e1e41f9f75f4363&chksm=bd48d6a88a3f5fbe9541b16c94f29436c0fff9bef4818064e43c9acd306de372feb9e6259ed4#rd)
-- [【前端早读课】一个-OpenTiny，支持Vue2、Vue3](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262335&idx=2&sn=9734dd3f98aa6c772ff56aa408a111a9&chksm=bd48d4fb8a3f5ded735ab171ad305f4b7e8c49f858bec7d1401ba12affd1679d2b2903b9f11d#rd)
-- [【前端早读课】图形编辑器vue-fabric-editor开源](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262292&idx=2&sn=e6b1eda09b19e30d68822d3175a6e23e&chksm=bd48d4d08a3f5dc6cc2077cb5c78d6bb6d140c5707f5dfff782bd1b88dcdc4a15693c22893d4#rd)
-- [【前端早读课】基于Vue3-的可视化编辑器Everright-formEditor开源](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262109&idx=2&sn=8b6a8e776cb2356bb42605d79d801e44&chksm=bd48d5198a3f5c0fd7bd7315015ad2196ba695a391460d7bb1a94e5431d3cc765d9726685c5c#rd)
-- [【前端早读课】【图书】Spring-Boot+Vue-3-大型前后端分离项目实战](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261480&idx=2&sn=6f2204070f3bc253a6e9e6c24a1820db&chksm=bd48d3ac8a3f5aba92f3acb00702f91b86d653693583fc48bdb5f6ae89cb7f09470cc9170558#rd)
 - [......【查看更多】......](/details/tags/vue.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -110,6 +110,8 @@
 
 
 
+- [【rxliuli】在-Web-中实现一个-TypeScript-Editor](https://blog.rxliuli.com/p/03549d7051e440b7bbdeccf027fac644/)
+- [【一个前端工程师的博客】从两个角度看Typescript中的类型是什么](https://taoweng.site/posts/%E4%BB%8E%E4%B8%A4%E4%B8%AA%E8%A7%92%E5%BA%A6%E7%9C%8Btypescript%E4%B8%AD%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%98%AF%E4%BB%80%E4%B9%88/)
 - [【蚊子前端博客】能用js重写的都会被typescript重写](https://www.xiabingbao.com/post/typescript/typescript-forward.html)
 - [【Node-Weekly】Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545)
 - [【Node-Weekly】Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)
@@ -128,8 +130,6 @@
 - [【JavaScript-Weekly】How-TypeScript-4.9-satisfies](https://javascriptweekly.com/issues/608)
 - [【JavaScript-Weekly】TypeScript-2.6-released](https://javascriptweekly.com/issues/579)
 - [【前端早读课】【第3071期】TypeScript纪录片---开创微软的开源之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266067&idx=1&sn=efd469afca51169b6a565a920b931585&chksm=bd48c5978a3f4c814012a15ca21ad57048219937ad898bd61c9ecc6a6dee53c1388a86420a62#rd)
-- [【前端早读课】【第3047期】基于-RPC-和-TypeScript-的-BFF-设计与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265610&idx=1&sn=d95c6f8c6b99366b2e5f2b868f4d1d59&chksm=bd48c3ce8a3f4ad815b6b47f399c1dea1d8054323b32e51e51f64ffda86665bc8a73df9e6fa2#rd)
-- [【前端早读课】【第3030期】从集合论的角度理解-TypeScript](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264982&idx=1&sn=38d7d660dc6c5dc5fe4a28b2b90c06a9&chksm=bd48ce528a3f4744045c26769b600409d168d40168354af0ed38eca4d6eb4fb0c89c99c35d5e#rd)
 - [......【查看更多】......](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -146,26 +146,26 @@
 
 
 
+- [【清竹志】【包管理器】一个由第三方包管理器与npm冲突导致的bug](https://blog.vadxq.com/article/other-package-manage-error/)
+- [【Blog | Kerminate】Webpack5-changelog](http://yoursite.com/2020/03/27/Webpack5-changelog/)
+- [【Blog | Kerminate】Webpack4-使用总结](http://yoursite.com/2019/03/24/Webpack4-%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/)
+- [【Blog | Kerminate】npm-管理依赖包](http://yoursite.com/2018/12/12/npm-%E7%AE%A1%E7%90%86%E4%BE%9D%E8%B5%96%E5%8C%85/)
+- [【rxliuli】All-in-Vite](https://blog.rxliuli.com/p/ccdf84366137442c95bacac5d9ecd81d/)
+- [【臨池不輟】使用-Pixi.js-构建一个视差滚动器（第三篇）](https://keelii.com/2019/03/20/building-a-parallax-scroller-with-pixijs-cn-3)
+- [【臨池不輟】使用-Pixi.js-构建一个视差滚动器（第二篇）](https://keelii.com/2019/03/18/building-a-parallax-scroller-with-pixijs-cn-2)
+- [【臨池不輟】使用-Pixi.js-构建一个视差滚动器（第一篇）](https://keelii.com/2019/03/17/building-a-parallax-scroller-with-pixijs-cn-1)
+- [【臨池不輟】Sublime-text-3-配置-ESLint-代码检查](https://keelii.com/2017/04/29/sublime-text-3-configure-eslint)
+- [【三省吾身】webpack入坑之旅（零）简介与升级](http://guowenfh.github.io/2018/08/05/vue-webpack-00/)
+- [【囧克斯】博客站迁移至-VitePress-的备忘](https://jiongks.name/blog/migrate-my-blog-to-vitepress)
+- [【木匣子】使用-Webpack-Loader-加载-Icon-Font-映射](https://blog.mutoo.im/2020/02/icon-font-loader/)
+- [【小猪-部落格】Npm-Version](https://xiaozhu.dev/post/npm-version/)
+- [【小猪-部落格】终极构建博客网站方案](https://xiaozhu.dev/post/best-way-to-build-blog/)
 - [【蚊子前端博客】如何在npm上发布你的package](https://www.xiabingbao.com/post/npm/how-to-publish-package-on-npm.html)
 - [【蚊子前端博客】基于webpack搭建前端工程的思考](https://www.xiabingbao.com/post/webpack/webpack-frontend-engineering.html)
 - [【蚊子前端博客】webpack的入门教程](https://www.xiabingbao.com/post/webpack/webpack-started-tutorial.html)
 - [【Node-Weekly】To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521)
 - [【Node-Weekly】npm-by-the-numbers](https://nodeweekly.com/issues/517)
 - [【Node-Weekly】The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516)
-- [【Node-Weekly】Polyfills-gone-rogue](https://nodeweekly.com/issues/503)
-- [【Node-Weekly】You-can-run-GitHub-Gists-with-npx](https://nodeweekly.com/issues/501)
-- [【Node-Weekly】Optimizing-npm-script-performance](https://nodeweekly.com/issues/480)
-- [【Node-Weekly】The-official-npm-site-gets-a-code-explorer](https://nodeweekly.com/issues/466)
-- [【Node-Weekly】An-npm-package-naming-pitfall](https://nodeweekly.com/issues/464)
-- [【Node-Weekly】Now-npm-fans-can-walk-the-Deno-saur](https://nodeweekly.com/issues/463)
-- [【Node-Weekly】Digging-into-dependencies-with-npm-query](https://nodeweekly.com/issues/457)
-- [【Node-Weekly】Creating-an-npm-package-in-2022](https://nodeweekly.com/issues/454)
-- [【Node-Weekly】The-one-with-the-npm-security-stories](https://nodeweekly.com/issues/437)
-- [【JavaScript-Weekly】The-heaviest-npm-packages](https://javascriptweekly.com/issues/704)
-- [【JavaScript-Weekly】The-npm-tea-party](https://javascriptweekly.com/issues/700)
-- [【JavaScript-Weekly】Do-the-ESLint-Evolution](https://javascriptweekly.com/issues/696)
-- [【JavaScript-Weekly】Gulp-is-back---did-it-ever-leave?](https://javascriptweekly.com/issues/687)
-- [【JavaScript-Weekly】Vite-4.0-released](https://javascriptweekly.com/issues/618)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -182,6 +182,16 @@
 
 
 
+- [【Blog | Kerminate】Koa-使用-Decorator-装饰路由](http://yoursite.com/2019/01/12/Koa-%E4%BD%BF%E7%94%A8-Decorator-%E8%A3%85%E9%A5%B0%E8%B7%AF%E7%94%B1/)
+- [【一个前端工程师的博客】cenos下安装node.js和mongodb](https://taoweng.site/posts/cenos%E4%B8%8B%E5%AE%89%E8%A3%85nodejs%E5%92%8Cmongodb/)
+- [【臨池不輟】从实际案例讲-Deno-的应用场景](https://keelii.com/2020/08/15/take-a-look-at-deno-from-actual-case)
+- [【臨池不輟】PhantomJS-&amp;-NodeJS-在京东网站前端监控平台的最佳实践](https://keelii.com/2016/11/17/best-practice-for-phantomjs-and-nodejs-at-jd-s-webdev-front-end-monitor-platform)
+- [【三省吾身】使用-generic-pool-优化-puppeteer-并发问题](http://guowenfh.github.io/2019/06/16/2019/puppeteer-pool/)
+- [【三省吾身】2017-杭州-nodeParty-记录](http://guowenfh.github.io/2018/03/11/2018/2017-hangzhou-node-party/)
+- [【三省吾身】浅谈-electron-中的-session-管理（隔离）](http://guowenfh.github.io/2017/10/21/2017/electron-multiple-session/)
+- [【囧克斯】用-Koa-写服务体验](https://jiongks.name/blog/try-koajs)
+- [【囧克斯】译JavaScript-V8性能小贴士](https://jiongks.name/blog/v8-javascript-performance-tips)
+- [【冰糖橙子】synth-—-为-RESTful-API-而生的node框架](http://www.btorange.com/2014/07/09/synth.html)
 - [【蚊子前端博客】使用-NodeJs-向百度资源推送链接](https://www.xiabingbao.com/post/baidu/send-msg-sldjo9.html)
 - [【蚊子前端博客】Deno2.0-正式发布，向-Node.js-兼容](https://www.xiabingbao.com/post/deno/deno2-sl4l8w.html)
 - [【蚊子前端博客】nodejs-中复制文件和文件夹的多种方式](https://www.xiabingbao.com/post/nodejs/nodejs-copy-file-rcj8kg.html)
@@ -192,16 +202,6 @@
 - [【蚊子前端博客】深入理解-node-中的-crypto-加密模块](https://www.xiabingbao.com/post/node/node-crypto.html)
 - [【蚊子前端博客】node多进程的创建与守护](https://www.xiabingbao.com/post/node/node-process-create-guard.html)
 - [【蚊子前端博客】腾讯新闻抢金达人活动node同构直出渲染方案的总结](https://www.xiabingbao.com/post/node/node-isomorphism-straight.html)
-- [【Node-Weekly】A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)
-- [【Node-Weekly】A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)
-- [【Node-Weekly】Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)
-- [【Node-Weekly】Node-v23.2-released](https://nodeweekly.com/issues/555)
-- [【Node-Weekly】Running-WebAssembly-apps-inside-Node.js](https://nodeweekly.com/issues/554)
-- [【Node-Weekly】Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553)
-- [【Node-Weekly】Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)
-- [【Node-Weekly】Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)
-- [【Node-Weekly】All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550)
-- [【Node-Weekly】Principles-for-doing-Node-right-at-scale](https://nodeweekly.com/issues/549)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -218,6 +218,7 @@
 
 
 
+- [【Blog | Kerminate】从小程序的双线程架构展开](http://yoursite.com/2023/08/12/%E4%BB%8E%E5%B0%8F%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%8F%8C%E7%BA%BF%E7%A8%8B%E6%9E%B6%E6%9E%84%E5%B1%95%E5%BC%80/)
 - [【前端早读课】【第3182期】在微信小程序里运行完整的-Flutter，怎么做到的？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268969&idx=1&sn=17cc541d980b8174b6adbda53b17452e&chksm=bd48feed8a3f77fb291686ae91ba947f79112d60ad0499f476c33ab9e2a1c300eb6f7887dca9#rd)
 - [【前端早读课】【第3178期】使用-Taro-开发鸿蒙原生应用-——-快速上手，鸿蒙应用开发指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268877&idx=1&sn=cec30208dfa165de88eeb5521ef5dff6&chksm=bd48fe898a3f779f92f7a08a03503fb6fd54c30867faaac2ee099e4b897d092e2f12179d848b#rd)
 - [【前端早读课】【招聘】Taro-团队招人啦！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268278&idx=2&sn=901c867c8941353d1e30a1414f44fa1e&chksm=bd48fd328a3f74246dee8da55f3b1d260b4f914fd1d6283898601682026eed55096126825443#rd)
@@ -237,7 +238,6 @@
 - [【前端早读课】【活动】前端充电站武汉专场！Flutter、智能化、小程序等硬核技术等你来~~](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246144&idx=3&sn=c125f771fe8e4027f850c19ef1f167b7&chksm=bd4917c48a3e9ed260b44454f125c22a8247530cabdce9ff015dc9581aa61da4fc7354f07930&scene=27#wechat_redirect)
 - [【前端早读课】【招聘】百度智能小程序研发部招Web前端研发工程师（高级、21届校招、实习）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243414&idx=2&sn=4e71814a78e1c546c165a8a75973d2e1&chksm=bd491a128a3e9304c67e98d3dd0bf7bd72ad994ce149eade295a85973deaf152c334340b72ba&scene=27#wechat_redirect)
 - [【前端早读课】【第2157期】聊聊知乎小程序引擎](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651242645&idx=1&sn=b63c8d4ac1a1534c153ed49699fcb64c&chksm=bd4919118a3e900725c2d93816ef86bc4c86f6363c64750932c596fe5507b232ef17a882dd09&scene=27#wechat_redirect)
-- [【前端早读课】【第2128期】大型小程序如何研发提效](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241302&idx=1&sn=459984a74bd73a6ac1c8d0c4656fc853&chksm=bd4962d28a3eebc462bf56b5bd823851eefe37ef1fbcb03b3b87aaa2154e50b8c558e94e7aff&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/miniprogram.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -254,6 +254,8 @@
 
 
 
+- [【清竹志】【Flutter】参与别人flutter项目踩坑填坑记录](https://blog.vadxq.com/article/flutter-run-other-project/)
+- [【清竹志】【Flutter安装】2020年末flutter安装找坑排坑](https://blog.vadxq.com/article/flutter-install-pit/)
 - [【前端早读课】【第2166期】满帮动态化Flutter框架-—-Thresh开源啦~~](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243066&idx=1&sn=28afea87c57128fabcce0517c7b0dcc8&chksm=bd491bbe8a3e92a895fb4c62e407b27072effc2b9f7e5421b906fb25b27c57e4cd102e4b6ac6&scene=27#wechat_redirect)
 - [【前端早读课】【早读】Service-workers：PWA背后的英雄](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237915&idx=2&sn=eee3250b18c3a4b406f96287183e92ef&chksm=bd49779f8a3efe89f2aa1575149f6dd19ec5aea0dba983784bae9f7e0fa171fad6dbda19bd2e&scene=27#wechat_redirect)
 - [【前端早读课】flutter究竟有哪些与众不同？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651237855&idx=1&sn=a64940d5d1fcd69b159808f60afba216&chksm=bd49745b8a3efd4db747ddf96c4e13519c4820f4cc54b5b6a78f7b96c277212709801f0b9b90&scene=27#wechat_redirect)
@@ -272,8 +274,6 @@
 - [【前端大全】Flutter-不火，天理难容！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651560047&idx=1&sn=068a1ce879b6d65bac4808bd1dca755b&chksm=80254faeb752c6b854331fc17e250e7f4a49847345cef21e989ca0eca69849cfd585f2c59903&scene=27#wechat_redirect)
 - [【前端大全】PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect)
 - [【前端之巅】移动开发界囚徒现身说法，审查困境与控制权探讨](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523118&idx=1&sn=0733cee10bf7d80e428b6faf488529db&chksm=f9522e6dce25a77bb638f85c85fb0bfbb652d579863ba7ae52b46bf26bcc2ec50c96c1a0bc9c#rd)
-- [【前端之巅】准备好抛弃-HTML-了吗？Dart-3.1-和-Flutter-3.13-发布](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522078&idx=1&sn=34f33faddc1868becc53e8e7019aec35&chksm=f952225dce25ab4b3679de3fa7dca5a2c151646478f7b9358564fbcaead2c4e65e0eb8bedf8b#rd)
-- [【前端之巅】现代移动开发哪家强：原生还是跨平台？JetBrains专家：我选Flutter](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521194&idx=1&sn=29fc88be522beb893edfa3e19e44f224&chksm=f95226e9ce25afff159b3b3b58378fd736a029fb6de8e6777f5078ad5c519f048237b5617570#rd)
 - [......【查看更多】......](/details/tags/dev-mobile.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -290,8 +290,6 @@
 
 
 
-- [【极客公园】-字节发布豆包视觉理解、3D生成等新模型；OpenAI-员工迎最多1000万美元套现机会；黑悟空获-Steam-年度最佳游戏提名-](http://www.geekpark.net/news/344368)
-- [【极客公园】-OpenAI-喊话马斯克：告我实现不了-AGI；《黑神话：悟空》获TGA-年度动作游戏；50%-年轻人始终保持在线｜极客早知道-](http://www.geekpark.net/news/344187)
 - [【前端早读课】【第2999期】如何用Three.js-+-Blender打造一个web-3D展览馆](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264000&idx=1&sn=b5e0a2ea935955afd34b9ae42db3ece9&chksm=bd48cd848a3f4492b99c80842ab0707f78f4b936949438745dc98dcf3797a6b7666859379226#rd)
 - [【前端早读课】【第2838期】vivo-游戏中心低代码平台的提效秘诀](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260503&idx=1&sn=79c89b4d2734e64c107ad9fadb9b30e7&chksm=bd48dfd38a3f56c5ec1c2c44514784a86badd8861bcdf5ae988aa12b6c36f1dcadc8233d1f0c#rd)
 - [【前端早读课】【招聘】广州酷狗音乐直播部门招Web、游戏前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246110&idx=2&sn=d8a0d3acae6398b99e904704617468aa&chksm=bd49179a8a3e9e8c383b110112ed00b0e534af4ffda48ae40f114234bd91fc286c7f578fdb24&scene=27#wechat_redirect)
@@ -310,6 +308,8 @@
 - [【前端早读课】【微信小游戏】牙牙快跑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=2&sn=e9fb95069d9fcd85a395ec9875a5524a#wechat_redirect)
 - [【前端早读课】【小册】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=1&sn=eedae5958157d82239b91934721df32e#wechat_redirect)
 - [【前端大全】Threejs-地图3D可视化](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651616228&idx=2&sn=f9eb9a5eb9362697867dc45b08971bd2&chksm=8022a425b7552d33fd8ce54924f0edc0342d5c2bef06f8bbb235a6ba8abaac20c77cf6699905#rd)
+- [【前端大全】使用-Three.js-实现跳一跳游戏](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651607548&idx=2&sn=614be89b0ca6ef450947e3e13c31ffd0&chksm=8022863db7550f2b3c6da334e167dc41b9dad493bd82e9be13d1bbaba055da42013a22378671#rd)
+- [【前端大全】一看就懂---从零开始的游戏开发](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651601868&idx=2&sn=1153039359303240b60969da6cac6e4b&chksm=8022ec0db755651b5f99cb7fc72e9dd3e7e08566e02bfe44ac6db6f6476fdf65331480f5a4f1#rd)
 - [......【查看更多】......](/details/tags/dev-game.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -326,26 +326,26 @@
 
 
 
-- [【蚊子前端博客】如何手写-Array-的-forEach-方法](https://www.xiabingbao.com/post/array/foreach-smiqsg.html)
-- [【蚊子前端博客】如何手写-Array-的-map-方法](https://www.xiabingbao.com/post/array/map-smc0sh.html)
-- [【蚊子前端博客】从-Axios-源码分析如何支持-fetch-方法的](https://www.xiabingbao.com/post/axios/fetch-sm3gn1.html)
-- [【蚊子前端博客】收藏几个常用但访问比较慢的组件的官网网址](https://www.xiabingbao.com/post/fe/url-sm495p.html)
-- [【蚊子前端博客】在-JavaScript-如何判断变量是否为空](https://www.xiabingbao.com/post/fe/is-param-empty-slqts4.html)
-- [【蚊子前端博客】前端趣闻之-JavaScript-语言的诞生和发展](https://www.xiabingbao.com/post/javascript/history-sk37dm.html)
-- [【蚊子前端博客】安全赋值运算符，再也不用写-try-catch-了](https://www.xiabingbao.com/post/promise/async-await-safe-sixaek.html)
-- [【蚊子前端博客】使用-nextjs-重构我的个人博客](https://www.xiabingbao.com/post/nextjs/nextjs-blog-simh0r.html)
-- [【蚊子前端博客】JavaScript-中-toString-的冷知识](https://www.xiabingbao.com/post/fe/js-tostring-se4i09.html)
-- [【蚊子前端博客】JSON-stringify-的一些不常见使用](https://www.xiabingbao.com/post/json/json-stringify-scbnvs.html)
-- [【蚊子前端博客】JavaScript-中数组-Array-的常见操作](https://www.xiabingbao.com/post/array/js-array-sc4ibd.html)
-- [【蚊子前端博客】给-Antd-的-DatePicker-组件实现带有至今的功能](https://www.xiabingbao.com/post/react/abtd-datepicker-tillnow-s3pm8f.html)
-- [【蚊子前端博客】去掉数组中连续的数字](https://www.xiabingbao.com/post/algorithm/eliminate-digit-rq0xd1.html)
-- [【蚊子前端博客】JavaScript-中的-Promise-异步并发控制](https://www.xiabingbao.com/post/promise/promise-concurrency-limit-rg10kz.html)
-- [【蚊子前端博客】在-JavaScript-中循环和定时输出一系列的内容](https://www.xiabingbao.com/post/fe/loop-settimeout-rg18mv.html)
-- [【蚊子前端博客】js-对象中深层数据的key的扁平与展开之间的转换](https://www.xiabingbao.com/post/javascript/obj-flat-parse-rfd1sd.html)
-- [【蚊子前端博客】leetcode-的单向链表与数组的转换](https://www.xiabingbao.com/post/leetcode/leetcode-listnode-array-rdt43w.html)
-- [【蚊子前端博客】http-proxy-middleware-的注意事项](https://www.xiabingbao.com/post/http/http-proxy-middleware-rb15xw.html)
-- [【蚊子前端博客】树形结构转为扁平数组结构](https://www.xiabingbao.com/post/algorithm/tree-to-list-r85xj6.html)
-- [【蚊子前端博客】如何将评论数据从扁平数组结构转为树形结构](https://www.xiabingbao.com/post/comments/comments-list-to-tree-r7zsnb.html)
+- [【清竹志】【前端工程化】Nextjs项目工程化最佳实践总结（献给2023-1024的礼物）](https://blog.vadxq.com/article/nextjs-engineering-project/)
+- [【清竹志】【前端重温系列】this的不可描述与变化原理（献给2020-1024的礼物）](https://blog.vadxq.com/article/frontend-revisited-this/)
+- [【rxliuli】在-Chrome-插件中将-ArrayBuffer-从网页传递到-Devtools-Panel](https://blog.rxliuli.com/p/cc2c3f61d78346188ca4112ef4734184/)
+- [【rxliuli】使用-JavaScript-创建-PoeAI-的-服务端-bot](https://blog.rxliuli.com/p/958e1a550f804fb8b755040bbd040bd2/)
+- [【rxliuli】在-Chrome-扩展的-Shadow-DOM-中使用-shadui/cn-渲染弹窗组件](https://blog.rxliuli.com/p/7e7a1dd99853473ab2af10fdd23dc488/)
+- [【一个前端工程师的博客】JavaScript-二进制全解（ArrayBuffer、DataView、TypedArray、Blob、File、Base64）](https://taoweng.site/posts/javascript-%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%85%A8%E8%A7%A3arraybufferdataviewtypedarrayblobfilebase64/)
+- [【一个前端工程师的博客】4个你从未听说过的强大的-JavaScript-运算符](https://taoweng.site/posts/4%E4%B8%AA%E4%BD%A0%E4%BB%8E%E6%9C%AA%E5%90%AC%E8%AF%B4%E8%BF%87%E7%9A%84%E5%BC%BA%E5%A4%A7%E7%9A%84-javascript-%E8%BF%90%E7%AE%97%E7%AC%A6/)
+- [【一个前端工程师的博客】理解-JavaScript-中的执行上下文和执行栈](https://taoweng.site/posts/%E7%90%86%E8%A7%A3-javascript-%E4%B8%AD%E7%9A%84%E6%89%A7%E8%A1%8C%E4%B8%8A%E4%B8%8B%E6%96%87%E5%92%8C%E6%89%A7%E8%A1%8C%E6%A0%88/)
+- [【一个前端工程师的博客】通过fetch发送-post-请求下载文件](https://taoweng.site/posts/%E9%80%9A%E8%BF%87fetch%E5%8F%91%E9%80%81-post-%E8%AF%B7%E6%B1%82%E4%B8%8B%E8%BD%BD%E6%96%87%E4%BB%B6/)
+- [【一个前端工程师的博客】针对华为事件，我思考了四点](https://taoweng.site/posts/%E9%92%88%E5%AF%B9%E5%8D%8E%E4%B8%BA%E4%BA%8B%E4%BB%B6%E6%88%91%E6%80%9D%E8%80%83%E4%BA%86%E5%9B%9B%E7%82%B9/)
+- [【一个前端工程师的博客】函数式编程之组合](https://taoweng.site/posts/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E4%B9%8B%E7%BB%84%E5%90%88/)
+- [【一个前端工程师的博客】函数式编程里面的基本工具函数实现](https://taoweng.site/posts/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E9%87%8C%E9%9D%A2%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%B7%A5%E5%85%B7%E5%87%BD%E6%95%B0%E5%AE%9E%E7%8E%B0/)
+- [【一个前端工程师的博客】函数式编程资料](https://taoweng.site/posts/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E8%B5%84%E6%96%99/)
+- [【一个前端工程师的博客】认识函数式编程](https://taoweng.site/posts/%E8%AE%A4%E8%AF%86%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B/)
+- [【一个前端工程师的博客】不要再说虚拟-DOM-有多快了](https://taoweng.site/posts/%E4%B8%8D%E8%A6%81%E5%86%8D%E8%AF%B4%E8%99%9A%E6%8B%9F-dom-%E6%9C%89%E5%A4%9A%E5%BF%AB%E4%BA%86/)
+- [【一个前端工程师的博客】一篇文章搞定-ES6](https://taoweng.site/posts/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E6%90%9E%E5%AE%9A-es6/)
+- [【一个前端工程师的博客】JavaScript核心概念之执行上下文和栈](https://taoweng.site/posts/javascript%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5%E4%B9%8B%E6%89%A7%E8%A1%8C%E4%B8%8A%E4%B8%8B%E6%96%87%E5%92%8C%E6%A0%88/)
+- [【一个前端工程师的博客】JavaScript核心概念1:类型转换](https://taoweng.site/posts/javascript%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B51%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2/)
+- [【一个前端工程师的博客】为什么javascript经常被黑？](https://taoweng.site/posts/%E4%B8%BA%E4%BB%80%E4%B9%88javascript%E7%BB%8F%E5%B8%B8%E8%A2%AB%E9%BB%91/)
+- [【一个前端工程师的博客】Javascript-是最好的语言，不服来辩](https://taoweng.site/posts/javascript-%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E8%AF%AD%E8%A8%80%E4%B8%8D%E6%9C%8D%E6%9D%A5%E8%BE%A9/)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -362,26 +362,26 @@
 
 
 
-- [【蚊子前端博客】CSS：水平居中并限定最大的宽度](https://www.xiabingbao.com/post/css/flex-auto-maxwidth.html)
-- [【蚊子前端博客】文字与元素居中的方式](https://www.xiabingbao.com/post/css/css-center.html)
-- [【蚊子前端博客】CSS中margin出现空白的问题](https://www.xiabingbao.com/post/css/css-margin-blank.html)
-- [【蚊子前端博客】移动端里的逐帧动画](https://www.xiabingbao.com/post/animation/phone-animation-steps.html)
-- [【前端早读课】【第3430期】CSS-如何模拟“真实的”进度条？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274514&idx=1&sn=acea5f08803103c736368a52113b421e&chksm=bc0d36ec994ddb51bea78764d7466ff1e9215de7a55b4c6dbffb010f3def222cc120c9ab12c4&scene=0#rd)
-- [【前端早读课】【第3429期】css-doodle-介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274450&idx=1&sn=d3c7630783bb8d7e31244c8bb7d2b2c1&chksm=bc66db7a8c042d52323c0d74c7d8e8ec875a626dbdc9e2610c64a4d003ae67562e4b26b41bc4&scene=0#rd)
-- [【前端早读课】【第3181期】webgl-实现透明视频动画](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268913&idx=1&sn=5cff163a8f7bd3085052f5264baeb99c&chksm=bd48feb58a3f77a3687252439442bc9a822833e4733d1ea5849abb8e205caf88f44d37b1c87b#rd)
-- [【前端早读课】【第3175期】用-View-Transition-API-在-Web-做出-Native-般丝滑的动画](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268857&idx=1&sn=6618a91403f33486ff810a223410d414&chksm=bd48ff7d8a3f766b94c2d94caa6fbb4412e22e10d2698ee66040c78484047f34f64b670d0e7c#rd)
-- [【前端早读课】【第3144期】2023年CSS新特性盘点](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268063&idx=1&sn=275d824d73102d0dbf743efb8ce126cd&chksm=bd48fa5b8a3f734da9e0f87e75530cf0e06b865fbab4a2f81cc8127387f67fabc635df3110a4#rd)
-- [【前端早读课】【第3138期】快速了解-CSS-@starting-style-规则](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267913&idx=1&sn=1f5dec34f4b7fa3b7aef8572544d924d&chksm=bd48facd8a3f73db4dff037ae5735082a06f323f9ffc65079ab51b98c10ea56896fc38e88d67#rd)
-- [【前端早读课】【小册】Web-动画之旅：Web艺术的灵魂](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267913&idx=2&sn=7925667d012b7471e0d3e56ab3d7aee8&chksm=bd48facd8a3f73db8536f4bd7e1bd1e0d44edc9d55ef8e23c146d8178a026accfdfa5cb9634c#rd)
-- [【前端早读课】【第3124期】-CSS前瞻：@media-scripting助你优雅降级](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267667&idx=1&sn=cf056598408a13926e0c89aa12511e7f&chksm=bd48fbd78a3f72c1082a66c14431c1974f91bd04c941384189bc9216ae77648c8de3d807b5d1#rd)
-- [【前端早读课】【第3119期】form-sizing：使用-CSS-实现文本区域的自动增加高度](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267471&idx=1&sn=b1d1e5a4180c806f5539eac8775ebc56&chksm=bd48f80b8a3f711db06c39330cac11a314d3ffef2899dd387fc9dfefe33e82966842b28fabac#rd)
-- [【前端早读课】【第3110期】快速了解CSS-相对颜色](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267270&idx=1&sn=75f59e15741537f44599bbac5d7f87ae&chksm=bd48f9428a3f7054bea9d6ce43424948da753ad66f5e9210bb42370844ff18e43e808aad7a9f#rd)
-- [【前端早读课】【第3093期】CSS-的新篇章：借助-light-dark-轻松实现亮/暗模式颜色的切换](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266641&idx=1&sn=ab6a07c1eaf9f9fe9e8832903d2bbaf6&chksm=bd48c7d58a3f4ec3ecaa22d48e0d14f37ec3bcf232b7b658c48ee3147e22cd131a27adb7b7c5#rd)
-- [【前端早读课】【第3089期】从Web-版-Photoshop中找到的CSS信息](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266471&idx=1&sn=9ca012fb1359298b77da35f5b112ec6c&chksm=bd48c4238a3f4d35c47591b123c81c091859a3596c6e6ae037285d65b10458111c06d94be709#rd)
-- [【前端早读课】【第3060期】图解-60-个-CSS-选择器](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265893&idx=1&sn=c664b580d51bc7efac26c64e94212619&chksm=bd48c2e18a3f4bf7b9fb98e70f37492e32dcaa7e32ea7513a1cfac6ebb87fc33e870ed4bb144#rd)
-- [【前端早读课】【第3048期】CSS-也能实现碰撞检测？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265614&idx=1&sn=0e4eaacba002d352a557b73517eb605c&chksm=bd48c3ca8a3f4adcb9e56520f9b1f5a8a97b54f38150fb615fe86dca632ece62acf695959d9b#rd)
-- [【前端早读课】【第3032期】CSS新特性,超强的-Anchor-Positioning-锚点定位](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265199&idx=1&sn=c3c1d35bdcc1a58ff6168a2b98a7f2c8&chksm=bd48c12b8a3f483d59d579285c9b800af98fe5f7fde3a56efb0b8c7ae289a7b163519699e7c0#rd)
-- [【前端早读课】【第3029期】CSS-如何改变网格布局偶数行的排序？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264718&idx=1&sn=712227e9148da99c52f75205888bfe37&chksm=bd48cf4a8a3f465c51f441f9af73fb697abc58d60b9c1b35dcf580ecb06a5cbf381c6f3c1828#rd)
+- [【Teobler】ChatGPT、Transformer-与注意力机制](https://teobler.com/posts/20240421-chatgpt-attention-and-transformer)
+- [【Blog | Kerminate】background-与-border-设置相同颜色却展示不一样](http://yoursite.com/2018/09/29/background-%E4%B8%8E-border-%E8%AE%BE%E7%BD%AE%E7%9B%B8%E5%90%8C%E9%A2%9C%E8%89%B2%E5%8D%B4%E5%B1%95%E7%A4%BA%E4%B8%8D%E4%B8%80%E6%A0%B7/)
+- [【一个前端工程师的博客】css计数器教程](https://taoweng.site/posts/css%E8%AE%A1%E6%95%B0%E5%99%A8%E6%95%99%E7%A8%8B/)
+- [【一个前端工程师的博客】css实现图片剪裁](https://taoweng.site/posts/css%E5%AE%9E%E7%8E%B0%E5%9B%BE%E7%89%87%E5%89%AA%E8%A3%81/)
+- [【三省吾身】FlexBox-布局详解](http://guowenfh.github.io/2017/05/31/2017/flexLayout/)
+- [【囧克斯】第四届-CSSConf-CN-见闻](https://jiongks.name/blog/cssconf-cn-4)
+- [【囧克斯】译CSS命名神马的真心难](https://jiongks.name/blog/naming-css-stuff-is-really-hard)
+- [【囧克斯】用Sass重新整理自己的博客主题样式](https://jiongks.name/blog/write-my-theme-with-sass)
+- [【囧克斯】用CSS3制作尖角标签按钮样式](https://jiongks.name/blog/css3-tag-buttons)
+- [【囧克斯】WebApp时代的界面布局浅析我在WebReBuild.ORG第五届年会北京站上的主题分享](https://jiongks.name/blog/2011-11-15)
+- [【囧克斯】记实践-CSS-3-中几个-background-*-属性时的陷阱一则](https://jiongks.name/blog/2011-10-26)
+- [【囧克斯】CSS-3-中的-Transition-用法](https://jiongks.name/blog/2011-03-22)
+- [【囧克斯】CSS-中的颜色属性-color-知多少？](https://jiongks.name/blog/2011-03-09)
+- [【囧克斯】CSS-3-中的-Transform-用法，含Matrix注意：不是黑客帝国里的变形金刚……囧](https://jiongks.name/blog/2011-02-22)
+- [【囧克斯】CSS-3-中的圆角边框-border-radius-知多少？](https://jiongks.name/blog/2011-02-15)
+- [【囧克斯】我们该如何在工作时，将HTML-5/CSS-3这些新特性引入我们的Web产品之中呢？](https://jiongks.name/blog/2011-01-27)
+- [【囧克斯】继续研究-Aero-特效在-WPF-下的扩展](https://jiongks.name/blog/2009-09-27)
+- [【囧克斯】浅浅浅谈将-Aero-特效应用到整个窗体](https://jiongks.name/blog/2009-09-26)
+- [【Jartto's blog】CSS-渲染原理以及优化策略](http://jartto.wang/2019/10/23/css-theory-and-optimization/)
+- [【冰糖橙子】chrome-27+-的-SCSS调试](http://www.btorange.com/2013/05/23/scssdebug.html)
 - [......【查看更多】......](/details/tags/css.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -398,6 +398,8 @@
 
 
 
+- [【囧克斯】标签？ID？还是CLASS？](https://jiongks.name/blog/html-or-id-or-class)
+- [【囧克斯】HTML-5-翻来覆去也就这么多东西了](https://jiongks.name/blog/2010-10-31)
 - [【前端早读课】【早阅】-2024年HTML现状调查报告](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274558&idx=1&sn=b5d5e5e13d8d5531c5ed0f3faacc6574&chksm=bc2a92f23a31e63a6a6293ab24ba6b632080c3e93d114f0528d26dae816a4474300da93a4537&scene=0#rd)
 - [【前端早读课】【第3128期】HTML-First](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267748&idx=1&sn=cae191423eb529032b37d28a39cd4fd5&chksm=bd48fb208a3f72367b77eafd414fd2cc34ddd4bd023b5b140d4a5f98b60267ecc24bbf0763f7#rd)
 - [【前端早读课】【第2875期】HTML性能优化-Prerender2.0机制解读](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261127&idx=1&sn=109b33bfb0f90d24f7d64dd696cecbec&chksm=bd48d1438a3f5855efb1d0fd7b6c1ea64f5301696cec21935ab1a9722ba4af40ce7e08f2c913#rd)
@@ -416,8 +418,6 @@
 - [【前端之神】有意思的面试题：统计页面出现次数前三的标签](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486188&idx=1&sn=f330456718f5bba6d772a11ed78149b1&chksm=ce461f7df931966bc21360053c727ef11bc8e850eb2566c041db661c9a509916bb30167e2540#rd)
 - [【前端技术优选】为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063920&idx=1&sn=799ef858a8d64804adbd5ebc25ad03b9&chksm=87c45d60b0b3d476af82360959df1c8c803b7d47b76cd1f416c0e2ed0e7923671fea8b77472e#rd)
 - [【前端技术优选】为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061006&idx=1&sn=0a6225ad1c7fa7db92f4f1421c56f704&chksm=87c4201eb0b3a908673b3ddcbeb562039935f2e5268e74903eb32a86afad6d3d5224009277b3#rd)
-- [【前端技术优选】为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060776&idx=1&sn=ae23a10a1f0dfb3983bbca0c666f5e07&chksm=87c42138b0b3a82e5fe52bcfd5a68be0bbf3d0a2815c9fdf433448d686adc4f4528505eaacb0#rd)
-- [【程序员成长指北】探索如何将html和svg导出为图片](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516680&idx=2&sn=4abe20ce473d022a8fef2653606a3515&chksm=f99284d9cee50dcff3b3051422d88378c0853852b33749e5962645b4bb380f4fd5522f83c6c8#rd)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -434,6 +434,10 @@
 
 
 
+- [【三省吾身】一次canvas中文字转化成图片后清晰度丢失的探索](http://guowenfh.github.io/2018/03/05/2018/canvas-text-to-image-clarity/)
+- [【三省吾身】从零学习-canvas-一](http://guowenfh.github.io/2017/10/24/2017/learn-canvas-01/)
+- [【Jartto's blog】WebP-方案分析与实践](http://jartto.wang/2020/05/02/webp-practice/)
+- [【冰糖橙子】WEBP](http://www.btorange.com/2013/06/14/webp.html)
 - [【前端早读课】【第3183期】神奇的-3D-卡片反光闪烁动效](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268973&idx=1&sn=081c8c6b75c91c1ed91d460e76e1759f&chksm=bd48fee98a3f77ff4a1a79c2b4b066b58ee19b5ddc91349227b42bfffce86f8975e6419bd092#rd)
 - [【前端早读课】【第3180期】WebGL-Chromakey-实时绿幕抠图](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268890&idx=1&sn=9090c67708057c950d1b3cafa7f21433&chksm=bd48fe9e8a3f77887e4acc991a7b59ff15406fbddf453906e04ef3b8ad9f1a6e8a6679f4de7f#rd)
 - [【前端早读课】【开源】基于Canvas的开源版"创客贴"](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265368&idx=2&sn=56b7df80b9519c042e4d79db428d5f28&chksm=bd48c0dc8a3f49cace55388ef292880161b5cc97954a7f3147531ccf99381f9754e6d2f4199b#rd)
@@ -450,10 +454,6 @@
 - [【前端早读课】【第2148期】Figma-+-Gitlab-CI-一键交付-SVG-多色图标库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241995&idx=2&sn=5dd946a0c23cc1c42c1930a7cab3d6ea&chksm=bd49678f8a3eee99f0a3b919c9e34332fbb59238a38347f1f38c3e8ca0a182dffa99de506976&scene=27#wechat_redirect)
 - [【前端早读课】【第2120期】如何1人5天开发完3D数据可视化大屏之二](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241119&idx=2&sn=80f29716da2c5e133f46591a94f8bedb&chksm=bd49631b8a3eea0df262597e44edcb97b3d5ba3b93efe4c8ca2fc1314a2f79fbeecd516991e2&scene=27#wechat_redirect)
 - [【前端早读课】【第2104期】如何1人5天开发完3D数据可视化大屏之一](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651240788&idx=1&sn=c5ed645338a9a2dc76c2bf833c265b35&chksm=bd4960d08a3ee9c6c492601ba01bee34ad839b04e94c644bbff8e1b6658d5cbed939c698b6d7&scene=27#wechat_redirect)
-- [【前端早读课】【第2095期】用Canvas实现一个动态甜甜圈图表](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651240436&idx=2&sn=25849d34dc224bd78f2c082477126a6a&chksm=bd496e708a3ee766ff17c21684a6d428ef9f407b1f25ef3449f950512fd7745d1cfd2778384b&scene=27#wechat_redirect)
-- [【前端早读课】【第2036期】如何将Canvas绘制过程转为视频](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238965&idx=1&sn=01c9e347a9acfb5a544eab1d22cfcaac&chksm=bd496bb18a3ee2a7791a730c5abd0a4a28c67d7b44299e7f1dcd9a97196f3597326fd0eab51e&scene=27#wechat_redirect)
-- [【前端早读课】【第2031期】APNG-那些事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238809&idx=2&sn=ba79090438b9773e29ad4372331987b2&chksm=bd49681d8a3ee10b57805621b5456ed4e5511c66e335ca92ee8ea7898504eecdea1b8479e0a1&scene=27#wechat_redirect)
-- [【前端早读课】【第2012期】支付宝Web3D发展史](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651238341&idx=1&sn=677b288a0e2983ed508eca8a762b132b&chksm=bd4976418a3eff57f7adcb4b391d9c619241246d9f74a25970029366397034b9fbfc9ce9b242&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/canvas-image.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -470,10 +470,8 @@
 
 
 
-- [【极客公园】-Sora-vs-海螺-AI：国产模型掀翻「视频王者」？-](http://www.geekpark.net/news/344316)
-- [【极客公园】-OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344017)
-- [【极客公园】-OpenAI-正式发布-Sora，一文看懂它的文生视频功能到底强在哪？-](http://www.geekpark.net/news/344057)
-- [【极客公园】-亚马逊推出新一代基础模型-Nova：主打性价比，预告图像和视频模型-](http://www.geekpark.net/news/343848)
+- [【一个前端工程师的博客】关于视频你需要知道的基本概念：码率（Bitrate）、帧率（FPS）、分辨率和清晰度](https://taoweng.site/posts/%E5%85%B3%E4%BA%8E%E8%A7%86%E9%A2%91%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5%E7%A0%81%E7%8E%87bitrate%E5%B8%A7%E7%8E%87fps%E5%88%86%E8%BE%A8%E7%8E%87%E5%92%8C%E6%B8%85%E6%99%B0%E5%BA%A6/)
+- [【一个前端工程师的博客】关于图像互动技术前景思考](https://taoweng.site/posts/%E5%85%B3%E4%BA%8E%E5%9B%BE%E5%83%8F%E4%BA%92%E5%8A%A8%E6%8A%80%E6%9C%AF%E5%89%8D%E6%99%AF%E6%80%9D%E8%80%83/)
 - [【前端早读课】【第3176期】WebCodecs-开启-Web-音视频新篇章](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268861&idx=1&sn=46adb56e8947b228290e1f5e4559efcb&chksm=bd48ff798a3f766fcaf59966dd8f9b93c2a20edbdb4ace2bddcaa536fbab4201034fc5c03732#rd)
 - [【前端早读课】【第3161期】用-ChatGPT-打工人来完成掘金年度打榜直播的抽奖](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268520&idx=1&sn=924c4c8dc071836e89b541ce9e43ae4e&chksm=bd48fc2c8a3f753afd05dacc98b544e6a669f4e5e00874d639833eb9241d5dfdf3ffabeb4e04#rd)
 - [【前端早读课】【招聘】TikTok-直播前端团队招前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267748&idx=2&sn=e6f01f23e4e2c28eb286a177bf916c3a&chksm=bd48fb208a3f723631bfb5d475eea7d63db8129261c250f85c04fc0ae9801e6d28ce5219bbd6#rd)
@@ -490,6 +488,8 @@
 - [【前端早读课】【活动】SEE-Conf-2022，9点直播间见！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252080&idx=2&sn=3d86fe867c295107c5ec78bb4d657939&chksm=bd493cf48a3eb5e29950ef4d47a1c73a4dca019ff613e827cf81802cbf84ca5294ebbe50e223#rd)
 - [【前端早读课】Why-WebRTC｜前世今生](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246562&idx=2&sn=ac7b3badf5f30f194ae8b98cf4bf46ef&chksm=bd4916668a3e9f70c6f61f50866faa0e942fb154f17fdd4cb106c611d4a01aa8a72fc80cc9bc&scene=27#wechat_redirect)
 - [【前端早读课】【图书】WebRTC技术详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245783&idx=2&sn=759c93d7784e80bb338886f9f15a2ef8&chksm=bd4915538a3e9c45249c8e8b1193ca77f49cbfacc0987b0107a84754e0008d04ebf32a6455e0&scene=27#wechat_redirect)
+- [【前端早读课】【第2244期】百家号在线视频编辑器的技术演进](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651244922&idx=1&sn=58e737a8485e00107e02d2327dbf08b9&chksm=bd4910fe8a3e99e8a8186b09ea73a6073229c62526d241db27e0bf8558d549c52e77877e0130&scene=27#wechat_redirect)
+- [【前端早读课】【视频】剖析三个常见的API调试工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243986&idx=2&sn=8beb3dbb7464cf582de77deec82caaa0&chksm=bd491c568a3e9540a331d7318dbcbbaa0f9240869c1e5ac7b669bb30927ee25950bec32c8b42&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/audio-video.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -506,6 +506,12 @@
 
 
 
+- [【囧克斯】译Chrome开发者工具中评估性能的五大新特性](https://jiongks.name/blog/devtools-five-performance-features)
+- [【Jartto's blog】Web「性能测试」知多少？](http://jartto.wang/2020/04/05/about-wrk/)
+- [【Jartto's blog】网站性能指标---FMP](http://jartto.wang/2020/03/30/about-web-fmp/)
+- [【Jartto's blog】聚焦-Web-性能指标-TTI](http://jartto.wang/2020/03/29/web-tti/)
+- [【Jartto's blog】网站优化，这些工具你一定用得着](http://jartto.wang/2019/09/08/web-optimization-tools/)
+- [【冰糖橙子】imgSprite:可用性与性能优化](http://www.btorange.com/2011/08/15/imgsprite%e5%8f%af%e7%94%a8%e6%80%a7%e4%b8%8e%e6%80%a7%e8%83%bd%e4%bc%98%e5%8c%96.html)
 - [【蚊子前端博客】工具链极度内卷，留给开发者的性能优化手段已经不多了](https://www.xiabingbao.com/post/fe/fighting-slavrt.html)
 - [【蚊子前端博客】前端性能监控的基本介绍](https://www.xiabingbao.com/post/fe/fe-monitor-rqz6kd.html)
 - [【蚊子前端博客】基于webview的前端页面优化指南](https://www.xiabingbao.com/post/optimization/webview-fe-optimization.html)
@@ -520,12 +526,6 @@
 - [【前端早读课】【第3002期】前端加载超大图片实现秒开解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264026&idx=1&sn=2cdb4f5cbb838b1f89dbc0e2a88ee256&chksm=bd48cd9e8a3f448813e4fd74325a77f8fbc5497ee796e853249fb7c29cd0e46a9fd65d2fcce7#rd)
 - [【前端早读课】【第2984期】搭建自动化-Web-页面性能检测系统-——-实现篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263540&idx=1&sn=fc1071f605ba75873735a80d7e608a98&chksm=bd48cbb08a3f42a62fae39198c96fb26c0280084168d2479d8f55e180ec8418f29a781811a1f#rd)
 - [【前端早读课】【第2983期】搭建自动化-Web-页面性能检测系统-——-设计篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263504&idx=1&sn=2b1cfc90aace8142e55fb1d7b58f5698&chksm=bd48cb948a3f4282921f91371bb408c190a9a642115dec080d202f0352b52d532856aa295d46#rd)
-- [【前端早读课】【第2952期】Google-I/O-2023：提升-Web-核心性能指标优化建议](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262810&idx=1&sn=d310df5debbee050043d6f82d0eb1e34&chksm=bd48d6de8a3f5fc8856088747fd7ece00c2517aca4ff7db8a5abcc71cc1f5413afbb0a825798#rd)
-- [【前端早读课】【第2949期】贴吧低代码高性能规则引擎设计](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262713&idx=1&sn=9b9f7936f187e449cd5215487cd2f4bb&chksm=bd48d77d8a3f5e6b00bfc6d4b74a2dba1df3c6b87dfe49923c2f7a471e5a0a10aedb25e0cb82#rd)
-- [【前端早读课】【第2921期】实践指南-前端性能提升-270%](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262087&idx=1&sn=a62be53ec16e21b80387510504e4b486&chksm=bd48d5038a3f5c154025bd665fd6ae8d6953cd6919d0f7aab9921c06b171cad28e198cd7ebe6#rd)
-- [【前端早读课】【第2908期】现代图片性能优化及体验优化指南](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261723&idx=1&sn=ba612f0e3049fe3ab9a23068b15a2fcb&chksm=bd48d29f8a3f5b89c249582605c60e28afe824eb8526985ffd57a50efdda77d30cd65f957aef#rd)
-- [【前端早读课】【第2826期】2022-年回顾：Web-性能有哪些新变化？](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260064&idx=1&sn=1fde43770ecfc3b71a81aeed68f1ad7b&chksm=bd48dd248a3f54327380b72c7f8c4a3d1e79117c4d6a520ec9156dda0e86f720f24b99be60ed#rd)
-- [【前端早读课】【早说】白帽SEO和黑帽SEO](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259958&idx=3&sn=f296a0ace4bd39ddd8561ab852dc3e86&chksm=bd48ddb28a3f54a4c211b508b03b3cd50085b254a40c278cf6dbfdb2c1958a2491d1c35f9803#rd)
 - [......【查看更多】......](/details/tags/optimization.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -542,26 +542,26 @@
 
 
 
-- [【极客公园】-保时捷中国区裁员，员工-N+6-赔偿；TikTok-向美国最高法院提交紧急请求；美团试点「骑手过度跑单将被强制下线」-](http://www.geekpark.net/news/344314)
-- [【极客公园】-Google-深夜狙击-OpenAI：新-Agent-功能可以自己打开浏览器查资料了-](http://www.geekpark.net/news/344096)
+- [【Teobler】Edge-Function](https://teobler.com/posts/20221128-edge-function)
+- [【一个前端工程师的博客】【面试系列一】如何回答如何理解重排和重绘](https://taoweng.site/posts/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97%E4%B8%80%E5%A6%82%E4%BD%95%E5%9B%9E%E7%AD%94%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E9%87%8D%E6%8E%92%E5%92%8C%E9%87%8D%E7%BB%98/)
+- [【臨池不輟】HTTPie-官方文档中文翻译版](https://keelii.com/2018/09/03/HTTPie)
+- [【臨池不輟】macOS-Sierra-开发环境配置指南](https://keelii.com/2017/10/07/macos-development-setup-guide)
+- [【囧克斯】今天又被chrome给伤了](https://jiongks.name/blog/2011-11-09)
+- [【囧克斯】对《科普几个傲游浏览器的小知识》一文的补充](https://jiongks.name/blog/2011-05-02)
+- [【囧克斯】“作为一名前端开发者，傲游浏览器适合我吗？”——科普几个傲游浏览器的小知识](https://jiongks.name/blog/2011-04-26)
+- [【囧克斯】帮助大家理解贝赛尔曲线Bézier-curve](https://jiongks.name/blog/2011-02-23)
+- [【囧克斯】兼容ie6，是一个创造价值的过程](https://jiongks.name/blog/2010-11-14)
+- [【囧克斯】浏览器、词典、输入法，一个也不能少](https://jiongks.name/blog/2010-05-08)
+- [【囧克斯】IE-9-来势汹汹](https://jiongks.name/blog/2010-04-30)
+- [【木匣子】Edge-浏览器无法访问-VirtualBox-内的网站](https://blog.mutoo.im/2019/07/edge-could-not-access-sites-in-virtualbox-issue/)
+- [【小猪-部落格】深入了解现代浏览器工作原理（二）「译」](https://xiaozhu.dev/post/inside-look-at-modern-web-browser-2/)
+- [【小猪-部落格】深入了解现代浏览器工作原理（一）「译」](https://xiaozhu.dev/post/inside-look-at-modern-web-browser-1/)
 - [【蚊子前端博客】不要再手动拼接-URL-参数，请使用-URLSearchParams](https://www.xiabingbao.com/post/http/url-search-params-slej4l.html)
 - [【蚊子前端博客】如何合并同一接口的相同参数的请求](https://www.xiabingbao.com/post/request/merge-same-sjqio7.html)
 - [【蚊子前端博客】如何避免旧请求的数据覆盖掉最新请求](https://www.xiabingbao.com/post/request/request-sehwjw.html)
 - [【蚊子前端博客】基于-localStorage-实现有过期时间的存储方式](https://www.xiabingbao.com/post/fe/local-expired-storage-rqstpj.html)
 - [【蚊子前端博客】如何重写-localStorage-中的方法](https://www.xiabingbao.com/post/javascript/rewrite-localstorage-rcw995.html)
 - [【蚊子前端博客】深入浅出-http-的缓存机制](https://www.xiabingbao.com/post/http/http-cache-rblrrn.html)
-- [【蚊子前端博客】前端中对-url-的一些常用操作](https://www.xiabingbao.com/post/javascript/url-handler-r7scei.html)
-- [【蚊子前端博客】如何解决移动端的安全区域为0的问题](https://www.xiabingbao.com/post/css/android-safe-area-zero.html)
-- [【蚊子前端博客】一个操作-cookie-的原生方法-cookieStore](https://www.xiabingbao.com/post/js/cookiestore.html)
-- [【蚊子前端博客】axios-源码系列之如何取消请求](https://www.xiabingbao.com/post/request/axios-cancel-request.html)
-- [【蚊子前端博客】基于-websocket-的多端桥接平台](https://www.xiabingbao.com/post/node/connect-multiple-clients-websocket.html)
-- [【蚊子前端博客】同构直出项目中如何实现多终端的接口请求](https://www.xiabingbao.com/post/node/node-request-api.html)
-- [【蚊子前端博客】在红包活动中如何保障账户的安全](https://www.xiabingbao.com/post/fe/redpack-safty.html)
-- [【Node-Weekly】Tough-cookies](https://nodeweekly.com/issues/548)
-- [【Node-Weekly】Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546)
-- [【Node-Weekly】Let's-get-debugging](https://nodeweekly.com/issues/490)
-- [【Node-Weekly】A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449)
-- [【JavaScript-Weekly】Getting-some-closure](https://javascriptweekly.com/issues/656)
 - [......【查看更多】......](/details/tags/browser.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -578,26 +578,26 @@
 
 
 
+- [【清竹志】【图解算法】前端思维学习图解算法数据结构笔记一之算法复杂度](https://blog.vadxq.com/article/illustration-of-algorithm-01/)
+- [【Blog | Kerminate】对比各类-ajax/http-库及最佳选择](http://yoursite.com/2018/12/15/%E5%AF%B9%E6%AF%94%E5%90%84%E7%B1%BB-ajax-http-%E5%BA%93%E5%8F%8A%E6%9C%80%E4%BD%B3%E9%80%89%E6%8B%A9/)
+- [【一个前端工程师的博客】vim-入门指南](https://taoweng.site/posts/vim-%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/)
+- [【吕立青】创造的自由：低代码开发的时代，人人都是创新者](https://blog.jimmylv.info/2021-05-31-the-freedom-to-create-low-code-application/)
+- [【臨池不輟】ProseMirror-编辑器指南中文翻译版](https://keelii.com/2018/12/09/prosemirror-guide-cn)
+- [【臨池不輟】VIM-代码片段插件-ultisnips-使用教程](https://keelii.com/2018/08/26/vim-plugin-ultisnips-advanced-tips)
+- [【臨池不輟】Fuzzy-finderfzf+vim-使用全指南](https://keelii.com/2018/08/13/fuzzy-finder-full-guide)
+- [【臨池不輟】Nginx-配置-Google-fonts-反向代理开启-HTTP2/SSL-支持](https://keelii.com/2017/04/22/proxy-google-fonts-with-ssl-http2-support)
+- [【臨池不輟】sku-多维属性状态判断算法](https://keelii.com/2016/12/22/sku-multi-dimensional-attributes-state-algorithm)
+- [【臨池不輟】Windows-下使用-MinGW-编译安装-gvim-添加-lua-等编程语言支持](https://keelii.com/2016/06/14/compile-vim-on-windows-with-lua-support)
+- [【臨池不輟】可能是-Windows-下最漂亮的-Gvim-配置了](https://keelii.com/2016/06/13/awsome-window-vimrc)
+- [【臨池不輟】免费-https-证书（Let's-Encrypt）申请与配置](https://keelii.com/2016/06/12/free-https-cert-lets-encrypt-apply-install)
+- [【臨池不輟】前端开发工具---编辑器篇](https://keelii.com/2011/05/12/front-end-tooling-editor)
+- [【囧克斯】编辑器小调查结果](https://jiongks.name/blog/code-editor-survay)
+- [【囧克斯】分享Typecho插件：Markdown-解析器-+-编辑器](https://jiongks.name/blog/plugin-markdown)
+- [【木匣子】在-macOS-上使用-eGPU-的体验](https://blog.mutoo.im/2020/09/egpu-experience-on-mac/)
 - [【蚊子前端博客】2023-年最新最全的-http-网络面试题](https://www.xiabingbao.com/post/http/http-interview-rrgt3b.html)
 - [【蚊子前端博客】axios-源码系列之拦截器的实现](https://www.xiabingbao.com/post/request/axios-interceptors.html)
 - [【蚊子前端博客】如何控制多个-toast-提示的展示](https://www.xiabingbao.com/post/react/mult-toast.html)
 - [【Node-Weekly】Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)
-- [【Node-Weekly】A-big-week-for-Fastify](https://nodeweekly.com/issues/441)
-- [【前端早读课】【第3426期】TinyEngine低代码引擎2.0新特性介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274357&idx=1&sn=c57c95837e500713bbec90ffefcdab9f&chksm=bc0ea27c4ced7203b919f25e725af0d1955d7b6f48e6075e74f3e0552c40c3cf01a0922dd0e9&scene=0#rd)
-- [【前端早读课】【第3421期】vercel是如何做微前端迁移的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274265&idx=1&sn=38831d124f11aa352541dbe6f3c06206&chksm=bcad4b309fbc742ec55d204ee17b6219aa6f8dbf4bf2d6885aeda534b9bad6092076e1020305&scene=0#rd)
-- [【前端早读课】【第3143期】如何提升微前端场景下的研发效能？微前端管理平台的设计与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268059&idx=1&sn=f0405c1ff8a64c5abe40eb61e80e2b0b&chksm=bd48fa5f8a3f7349be0b2b48974e3f079a7a86228c00d2338f4841f7f3011008cb1d55a5848d#rd)
-- [【前端早读课】【第3136期】微前端时代：打造高效、灵活的前端开发体系](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267905&idx=1&sn=a86502b39ba83f5be614f1c4307ebe73&chksm=bd48fac58a3f73d3dbf54383d9eef31f117c70a9f7ffac2f113a636e148c56e4cb3228c19136#rd)
-- [【前端早读课】【第3121期】效率前端微应用推进之微前端研发提效](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267521&idx=1&sn=10a6093c015c3147e497fb251e2c08ae&chksm=bd48f8458a3f71534090392cc0860dfd0f376998a4737ba68dc78b97d5736ac0550687447e92#rd)
-- [【前端早读课】【第3120期】低代码在云音乐数据业务中的落地实践与思考](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267492&idx=1&sn=cb18fe37616bc371518083557313e68d&chksm=bd48f8208a3f7136a0b157386ca174103b66f049b1fbe0612f7d3aabe5c90deb2adb211f9813#rd)
-- [【前端早读课】【活动】微盟技术沙龙之页面可视化的技术实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267471&idx=2&sn=b8a46bd1439c3f23fbdd7d38b34c39b7&chksm=bd48f80b8a3f711d1eb2327b4836b62b467d9deef15ce81f5a3961fc43513dc2c85902770bd9#rd)
-- [【前端早读课】【第3112期】携程后台低代码平台的探究与实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267323&idx=1&sn=abc63803663f881e1c4c1d6763bd18bc&chksm=bd48f97f8a3f70690e3cf44b7d9ecdabcf4572e23a3b6ba2c4c5ab885e989cd7c14ac260742e#rd)
-- [【前端早读课】【第3098期】VisActor——面向叙事的智能可视化解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266808&idx=1&sn=0aa8cf7ffcc813bceecbd40261e593ba&chksm=bd48c77c8a3f4e6a6e73fcc0e00f4dd966b2dbb267eae70864186766bae4b6991ea0eede30ed#rd)
-- [【前端早读课】【招聘】厦门作业帮招大前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266522&idx=2&sn=76caccfc4fb6b0b8038bd225aad5514d&chksm=bd48c45e8a3f4d489ab966e197fb700a5086140cd8d1e77f2a50baca1a34a9cc008738efc40c#rd)
-- [【前端早读课】【第3086期】微前端框架MicroApp-1.0正式发布](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266459&idx=1&sn=10a46d29b008f0b8a38145c3f1d4bee6&chksm=bd48c41f8a3f4d09e3e6bbd035f4589d7c4c416738a69a59acb639c0300444a350e41e97ad3c#rd)
-- [【前端早读课】【第3084期】大模型在低代码平台中的应用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266384&idx=1&sn=fc57c6009697277b9eefb35b75ba38ef&chksm=bd48c4d48a3f4dc2c3a308e2e62379c98842ce75c71438cb50d84bf98248cd55654b493795ac#rd)
-- [【前端早读课】【图书】labuladong-的算法笔记](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266348&idx=2&sn=8c70e0bee21c132adc3cc4b91d74ba33&chksm=bd48c4a88a3f4dbe8c87d94562d415fd7bf7250d1986addb481c5ca18ae6dfa25a760a67088f#rd)
-- [【前端早读课】【第3082期】网易云音乐-Tango-低代码引擎实现揭秘](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266333&idx=1&sn=f86383ed3a789a15b5f9199c7a69e0f1&chksm=bd48c4998a3f4d8f421122da41d7fa0296bf9a6000475a4141bed5cb024e8c35ddd51972d692#rd)
-- [【前端早读课】【第3070期】低代码引擎-TinyEngine-正式发布！！！](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266039&idx=1&sn=04cf0bb1062675bef8b362c48fae443a&chksm=bd48c2738a3f4b65c79e9ddfeba6f781d8104674e2bb71285ba43a64566bac95ed9c69d9ac42#rd)
 - [......【查看更多】......](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -614,6 +614,17 @@
 
 
 
+- [【清竹志】【SSH】配置一机多ssh-key共存，根据不同域名自动选择不同ssh-key](https://blog.vadxq.com/article/linux-multiple-ssh-key/)
+- [【Blog | Kerminate】nginx-反向代理](http://yoursite.com/2018/11/17/nginx-%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/)
+- [【一个前端工程师的博客】Mac-Brew-常用命令笔记](https://taoweng.site/posts/mac-brew-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%AC%94%E8%AE%B0/)
+- [【一个前端工程师的博客】数据库基础知识](https://taoweng.site/posts/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/)
+- [【臨池不輟】Java-并发与多线程教程](https://keelii.com/2019/11/24/java-concurrency-and-multithreading-tutorial)
+- [【臨池不輟】译Python-中的-Socket-编程（指南）](https://keelii.com/2018/09/24/socket-programming-in-python)
+- [【囧克斯】PHP+MySQL-学习心得](https://jiongks.name/blog/2009-05-18)
+- [【Jartto's blog】Docker-新书上市一周年](http://jartto.wang/2023/03/19/docker-new-book-online/)
+- [【Jartto's blog】30s-就可以掌握的-Nginx-片段](http://jartto.wang/2023/03/12/30-seconds-of-nginx/)
+- [【Jartto's blog】Docker-边学边用](http://jartto.wang/2020/07/04/learn-docker/)
+- [【木匣子】助你同时维护多个项目的终端神器：Tmux](https://blog.mutoo.im/2020/02/working-on-multiple-project-with-tmux/)
 - [【JavaScript-Weekly】Java-Script-Jarre](https://javascriptweekly.com/issues/621)
 - [【JavaScript-Weekly】Turbo-charged-incremental-bundling-au-Rust](https://javascriptweekly.com/issues/612)
 - [【前端早读课】【第3134期】从历史的角度探讨多种SSR（Server-side-rendering）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267839&idx=1&sn=55328037a00e0800805671a04f70c2e6&chksm=bd48fb7b8a3f726dff096eda3c2ecbb3d70da5641a9c45cf8ccdb49779149233076027ad7bb7#rd)
@@ -623,17 +634,6 @@
 - [【前端早读课】【第2874期】新时代的-SSR-框架破局者：qwik](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261123&idx=1&sn=88fd5ce78243329e3943a4ce56fe38cc&chksm=bd48d1478a3f585191d77def1b4264e2babc49db22529b23b9e27ed30fbfdee3e4908f4d3c9a#rd)
 - [【前端早读课】【第2827期】基于-GraphQL-的云音乐-BFF-建设实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260103&idx=1&sn=a8f7b282ef1297f4b26388ff9430d195&chksm=bd48dd438a3f54554cfe9a628c14d74b7578bf5d244b227b595e6550d78c044f5c315d0d0d31#rd)
 - [【前端早读课】【第2792期】基于-Graphql-的前后端协作方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259350&idx=1&sn=9e39be1bb45c482b02ea819373359067&chksm=bd48d8528a3f51441473babf4cfd586c979d5714a4ecacdf3b54a959ea64f37cd42bea027d94#rd)
-- [【前端早读课】【第2655期】携程基于-GraphQL-的前端-BFF-服务开发实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255983&idx=2&sn=b194a771eba95537896ff441a411c9d7&chksm=bd492d2b8a3ea43d6b6d1057320b41196add6c18b93fb863ffb3d425fdb4ea1bd8519d16eb79#rd)
-- [【前端早读课】【第2604期】前后端接口规范---RESTful-版](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254080&idx=1&sn=3ab86ecf19551ab696ee4d3f19da4f52&chksm=bd4934c48a3ebdd2070fdaf9880bb22cac6b344ad234b337153516d7d0df6899f4c67ffe9837#rd)
-- [【前端早读课】【图书】Docker实战派---容器入门七步法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651254038&idx=2&sn=bc3af86be1c17c27873da39dc82c9d46&chksm=bd4934928a3ebd845481515612c52fd0957f1daeb3c9024715739ad332766a82a03469201ca6#rd)
-- [【前端早读课】【第2548期】前端SSR的落地实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651253087&idx=1&sn=9e473d6df3fbe964e53659211a57346c&chksm=bd4930db8a3eb9cd8acb0e2209218ea2861d037a21ad6bc6d1c2c9d607898ea4f43b18eac637#rd)
-- [【前端早读课】【招聘】深圳普渡科技招聘Web前端开发工程师、Golang后端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246091&idx=2&sn=e3e52d08ae828c5d27deb98d1d09d85b&chksm=bd49178f8a3e9e99ba902c8be73bcd624f7745f5a5d7fbcd11afc814af98d012e9c039790ea4&scene=27#wechat_redirect)
-- [【前端早读课】【第1949期】-代码之上：落地-GraphQL-背后的故事](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651236657&idx=2&sn=7ce5765595a8b8be4d56d662684bf658&chksm=bd4970b58a3ef9a3fbc23c87e4cbfd08efcac98acbecc626a82b0ffaf6218379ddf1cdb2fd1c&scene=27#wechat_redirect)
-- [【前端早读课】【第1757期】Server-X：一款可能提升你十倍工作效率的工具](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234367&idx=1&sn=0a456cc2b627a6e33791380ddc7cb319&chksm=bd4979bb8a3ef0ada6e0e6407e64cc9db7ac8456b9bd9c4ed4984c81c2bbe8588437dcf80004&scene=27#wechat_redirect)
-- [【前端早读课】【第1717期】Nginx入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233689&idx=1&sn=f92f467cdce332c7bf843e28107c33b8&chksm=bd49441d8a3ecd0b9aa74fad180ba033c4079f6181757862f09c80521f21760c3464729c4b1d#rd)
-- [【前端早读课】【第1683期】GraphQL-BFF：微服务背景下的前后端数据交互方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233171&idx=1&sn=6f2550d9433dbb75d52d0aa718ef8801&chksm=bd4942178a3ecb016a4fb938f20acbe7481b17929fc8ceeedde0a018e73536badc341421de5e&scene=27#wechat_redirect)
-- [【前端早读课】【第1590期】GraphQL和Thrift在Airbnb架构中的配合使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=1&sn=316b199dc87587fffcf8b80f1704201e#rd)
-- [【前端早读课】GraphQL-从入门到实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231695&idx=2&sn=1d3bef2add023e2b9e4ca2e33c097ac4#rd)
 - [......【查看更多】......](/details/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -650,6 +650,14 @@
 
 
 
+- [【一个前端工程师的博客】git-commit-规范和-如何在-commit-里使用-emoji](https://taoweng.site/posts/git-commit-%E8%A7%84%E8%8C%83%E5%92%8C-%E5%A6%82%E4%BD%95%E5%9C%A8-commit-%E9%87%8C%E4%BD%BF%E7%94%A8-emoji/)
+- [【一个前端工程师的博客】git-之修改-commit-以及-rebase-的使用](https://taoweng.site/posts/git-%E4%B9%8B%E4%BF%AE%E6%94%B9-commit-%E4%BB%A5%E5%8F%8A-rebase-%E7%9A%84%E4%BD%BF%E7%94%A8/)
+- [【囧克斯】译如何撰写-Git-提交信息](https://jiongks.name/blog/git-commit)
+- [【囧克斯】译Git-分支的最佳实践](https://jiongks.name/blog/a-successful-git-branching-model)
+- [【囧克斯】git和github简介上](https://jiongks.name/blog/2011-06-26)
+- [【囧克斯】git和github简介下](https://jiongks.name/blog/2011-06-26-2)
+- [【Jartto's blog】GitBook-和它有趣的插件](http://jartto.wang/2020/02/02/about-gitbook/)
+- [【Jartto's blog】Git-代码统计](http://jartto.wang/2019/07/09/git-stats/)
 - [【蚊子前端博客】使用-GitHub-搭建了一个静态博客](https://www.xiabingbao.com/post/blog/github-slr2s7.html)
 - [【前端早读课】【早阅】GitHub-Copilot-Edits-功能详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=1&sn=31332b42ef6891c28cd065e0cf5fe77a&chksm=bc1d91bc34800c2efc3069100128007a413a484cb43f4ad645fa2f8a989328e41f1139b123cc&scene=0#rd)
 - [【前端早读课】【图书】AI辅助编程入门：使用GitHub-Copilot零基础开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=2&sn=ab76c1332d66d7e3be3b80a6a6ef3862&chksm=bca19dd4fd367520da1ae50798bfe842615f0fe46262dd29a8c1011c474fc85e514dbe06ed95&scene=0#rd)
@@ -662,14 +670,6 @@
 - [【前端早读课】【第2528期】如何编写-Git-提交消息](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252607&idx=1&sn=008e47a16385a9b9654aff413a5d145a&chksm=bd493efb8a3eb7edb457f25bdee3363b2191a3211fd41fa8f7ddb659bd85630388d6550461f4#rd)
 - [【前端早读课】【第2294期】Gitpod-—-Online-IDE-For-GitHub](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246445&idx=1&sn=ea83fa3157d15e94b8fd6780ce5a64fe&chksm=bd4916e98a3e9fff1bc706ae8ba1a58fcb5c93d71ae7a08acc3fd0ce4a1a8904e9eb8bc7eac9&scene=27#wechat_redirect)
 - [【前端早读课】【第2168期】如何建立GitHub地球仪的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243098&idx=1&sn=cba498cc985feff2a0fdd1c2bc5af7e9&chksm=bd491bde8a3e92c828f3ebafa22e57d4af18fc99936b2cc17f723d9596226a9827901ae66d15&scene=27#wechat_redirect)
-- [【前端早读课】【第2053期】这才是真正的Git——Git实用技巧](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651239333&idx=1&sn=261438a0714eecc592d7b873fdf59274&chksm=bd496a218a3ee337cfd229952f2b18b9fa7c9de179ffaede71e8ac42bade0a1b3d70333b7638&scene=27#wechat_redirect)
-- [【前端早读课】【第2051期】这才是真正的-Git——分支合并](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651239312&idx=1&sn=6694b9cf83f5e994368c70a76865ecf8&chksm=bd496a148a3ee302993ac02dedcca4a13bf470f1a9cefd4a5a18b0234730bca07ce410ae7c60&scene=27#wechat_redirect)
-- [【前端早读课】【第1864期】手撕Git，告别盲目记忆](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235750&idx=1&sn=bdc3d6938b34638c3868d3c69e763f8b&chksm=bd497c228a3ef53478d4c6e9cf3f266f684dc76525917674d0bfa91d50e757837e7545480492&scene=27#wechat_redirect)
-- [【前端早读课】【第1823期】Git子仓库深入浅出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235364&idx=1&sn=1782b02b50ab6c20957bd770346cb082&chksm=bd497da08a3ef4b606e48b3b7bdd2c69bb3889f84c0025287712d65d4f7f048941091fb529e8&scene=27#wechat_redirect)
-- [【前端早读课】【第1739期】为Git仓库里的.idea文件夹正名](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234198&idx=1&sn=5d9daeba19ec2c359fa1ae785a28457d&chksm=bd4946128a3ecf042fb4815a559924b7b6d6873dcc92d1994a8aa761f132818d6b017859d8a6&scene=27#wechat_redirect)
-- [【前端早读课】【第1707期】谈谈-Git-Merge-和-Git-Rebase-的应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651233506&idx=1&sn=187334724965f7c51c1cefbed8ff58ff&chksm=bd4945668a3ecc7015ff915b83594883e81195050834fa9f27563ce6e5b5b130245e69fc1bc6&scene=27#wechat_redirect)
-- [【前端早读课】【第1623期】30分钟让你掌握Git的黑魔法](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232366&idx=1&sn=442517c7f8360f7d3d52c064de9e1a06#rd)
-- [【前端早读课】【第1520期】-Git项目管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231297&idx=1&sn=5d4ee258ddef100d028e14fdd85faf74#wechat_redirect)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -686,6 +686,11 @@
 
 
 
+- [【一个前端工程师的博客】聊聊关于如何选择offer](https://taoweng.site/posts/%E8%81%8A%E8%81%8A%E5%85%B3%E4%BA%8E%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9offer/)
+- [【一个前端工程师的博客】5-点可以让你提高面试通过率建议干货](https://taoweng.site/posts/5-%E7%82%B9%E5%8F%AF%E4%BB%A5%E8%AE%A9%E4%BD%A0%E6%8F%90%E9%AB%98%E9%9D%A2%E8%AF%95%E9%80%9A%E8%BF%87%E7%8E%87%E5%BB%BA%E8%AE%AE%E5%B9%B2%E8%B4%A7/)
+- [【一个前端工程师的博客】蚂蚁、字节、滴滴面试经历总结](https://taoweng.site/posts/%E8%9A%82%E8%9A%81%E5%AD%97%E8%8A%82%E6%BB%B4%E6%BB%B4%E9%9D%A2%E8%AF%95%E7%BB%8F%E5%8E%86%E6%80%BB%E7%BB%93/)
+- [【一个前端工程师的博客】拼多多和酷家乐面试经历总结](https://taoweng.site/posts/%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%92%8C%E9%85%B7%E5%AE%B6%E4%B9%90%E9%9D%A2%E8%AF%95%E7%BB%8F%E5%8E%86%E6%80%BB%E7%BB%93/)
+- [【一个前端工程师的博客】为什么现在面试都是面试造火箭](https://taoweng.site/posts/%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E9%9D%A2%E8%AF%95%E9%83%BD%E6%98%AF%E9%9D%A2%E8%AF%95%E9%80%A0%E7%81%AB%E7%AE%AD/)
 - [【蚊子前端博客】从面试官的角度分析下简历中存在的问题](https://www.xiabingbao.com/post/fe/resume-sd9dca.html)
 - [【蚊子前端博客】给想进国央企的同学介绍一款招聘软件「国聘」](https://www.xiabingbao.com/post/recruit/guopin-s2ccdh.html)
 - [【JavaScript-Weekly】Playwright-now-offers-a-UI-mode](https://javascriptweekly.com/issues/631)
@@ -701,11 +706,6 @@
 - [【前端早读课】【招聘】淘宝买菜前端团队招前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267721&idx=2&sn=7e69226a28b6282fc160adf3add72e60&chksm=bd48fb0d8a3f721b709412f93695411ae20a522084e61e47152a12b7162df0a412010a3b156b#rd)
 - [【前端早读课】【招聘】腾讯互娱英雄联盟前端团队招聘前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267521&idx=2&sn=5e308ce28582913d20900138d616ea72&chksm=bd48f8458a3f71537a25b6f1055d7059fb207bf0a9b09d7f116e03c4cd43548cdba15faac74e#rd)
 - [【前端早读课】【招聘】抖音生活服务招高级/资深前端研发工程师、校招、日常实习生](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267456&idx=2&sn=615f012441792739156e1101338ee9c6&chksm=bd48f8048a3f7112d454384fa59c7a65092e57f57ed9e0e1129a965ccf02508b1cd4a279f947#rd)
-- [【前端早读课】【招聘】字节跳动云计算部门招高级/资深前端研发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267449&idx=2&sn=5f8e26d47ba5f808ec3cfb9d4202455f&chksm=bd48f8fd8a3f71eb303aef98deb17cbe8e2124b113d83cc53c908e7742148a9b7fa13fb895f8#rd)
-- [【前端早读课】【招聘】字节飞书人事招高级/资深前端工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267341&idx=2&sn=e501703d0de491af942c4dd27a934663&chksm=bd48f8898a3f719f52c02e6243706027c57738c5537f13cd12b48f7907562b741df894c4a4a4#rd)
-- [【前端早读课】【招聘】天翼云科技有限公司招高级前端研发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267323&idx=2&sn=5f34566d6d4665935dc040947e970e78&chksm=bd48f97f8a3f7069ee1fa034fdbc3992872fca0c7d676b6a60fbfea950a73d2c9a6b50d0e314#rd)
-- [【前端早读课】【招聘】杭州星喆科技招高级前端开发工程师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267319&idx=2&sn=8819da834a21e82799c854e93a135f8e&chksm=bd48f9738a3f70651a44938c94596f233f507df1d14cb9404a2194fa34cb74c291a1b360f648#rd)
-- [【前端早读课】【招聘】北京马上消费金融（安逸花）招资深前端工程师/架构师](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267110&idx=2&sn=4a17890c6e707800d17cae8525c95467&chksm=bd48f9a28a3f70b4e868c52cf63c7f7268da64e0b1f03282a4030d560d0ac8a5d728cac84f28#rd)
 - [......【查看更多】......](/details/tags/job-interview.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -720,26 +720,26 @@
 
 
 
-- [【极客公园】-传-GPT-5-开发不顺；蔚来第三品牌新车首秀，预售价-14.88-万元；广电总局要求加强微短剧片名审核-](http://www.geekpark.net/news/344500)
-- [【极客公园】-短剧出海的秘密：ReeIShort如何让外国人爱上「霸总」？-](http://www.geekpark.net/news/344502)
-- [【极客公园】-OpenAI发布高级推理模型o3；传雷军亲自重金招募大模型领军人才；小米-YU7-无伪装实车曝光-](http://www.geekpark.net/news/344497)
-- [【极客公园】-999-元的-AI-眼镜来了，闪极拉开「百镜大战」序幕-](http://www.geekpark.net/news/344498)
-- [【极客公园】-2024年国产剧的关键角色，都在这儿了-](http://www.geekpark.net/news/344467)
-- [【极客公园】-苹果就-AI-与腾讯字节谈判；百度、吉利垫付，极越员工获「N+1」赔偿；余承东称智界要打造年轻人-DreamCar｜极客早知道-](http://www.geekpark.net/news/344432)
-- [【极客公园】-买了-3-副-AI-眼镜的人，心里到底在想什么？-](http://www.geekpark.net/news/344434)
-- [【极客公园】-大模型落地，苦「最强」久矣-](http://www.geekpark.net/news/344471)
-- [【极客公园】-内容创作的「Windows-时代」来了-](http://www.geekpark.net/news/344482)
-- [【极客公园】-AI-教育的「iPhone-时刻」，就是现在？-](http://www.geekpark.net/news/344415)
-- [【极客公园】-具身智能出不来「-ChatGPT」，为什么？-](http://www.geekpark.net/news/344405)
-- [【极客公园】-好产品与时代共振｜2024-年度极客最爱好物-](http://www.geekpark.net/news/344404)
-- [【极客公园】-对话阿里国际站总裁张阔：AI-时代的电商应该怎么做？-](http://www.geekpark.net/news/344392)
-- [【极客公园】-潘乱对谈小宇宙CEO-Kyth：播客是在饱和时代，提供稀缺价值-](http://www.geekpark.net/news/344391)
-- [【极客公园】-打开日本市场背后，Dify-是怎么做-AI-全球化的？-](http://www.geekpark.net/news/344369)
-- [【极客公园】-周鸿祎：AI-是赋能者，而不是单纯的颠覆者-](http://www.geekpark.net/news/344344)
-- [【极客公园】-为什么-AI-需要一次-Web-2.0-式的革命？-](http://www.geekpark.net/news/344343)
-- [【极客公园】-跑分超-o1，还会看图思考，数理化正在被-AI「完爆」-](http://www.geekpark.net/news/344341)
-- [【极客公园】-余凯：科技让机器的归机器，人的归人-](http://www.geekpark.net/news/344367)
-- [【极客公园】-扎克伯格套现超过-22-亿美元；极越夏一平发长文道歉信；Lucid-工程师称自购小米-SU7-学造车-](http://www.geekpark.net/news/344244)
+- [【Teobler】关于大模型你需要知道的](https://teobler.com/posts/20240402-what-you-need-to-know-about-llm)
+- [【Teobler】To-Be-An-Excellent-Tech-Lead](https://teobler.com/posts/20221213-to-be-an-excellent-tech-lead)
+- [【Teobler】成为一名优秀的-Tech-Lead](https://teobler.com/posts/20221209-to-be-an-excellent-tech-lead)
+- [【Teobler】我在Thoughtworks的四年](https://teobler.com/posts/20220713-the-fourth-anniversary)
+- [【Teobler】定制西服小知识](https://teobler.com/posts/20220606-suit)
+- [【Teobler】时间都去哪了](https://teobler.com/posts/20220530-where-does-the-time-go)
+- [【清竹志】改名公告：清竹茶馆的新篇章-清竹志](https://blog.vadxq.com/article/change-blog-name-2024/)
+- [【清竹志】【2023年终总结】与逝去的年华道个别](https://blog.vadxq.com/article/2023-year-end-summary/)
+- [【清竹志】【2022年终总结】此去经年，烟消雾散，晨曦微露](https://blog.vadxq.com/article/2022-year-end-summary/)
+- [【清竹志】【1024献礼】生成可掌握钱包和揭秘NFT和token被盗案例以及如何预防被盗](https://blog.vadxq.com/article/generate-wallet-anti-theft/)
+- [【清竹志】【2021年终总结】刚好遇见你，留下百年的期许](https://blog.vadxq.com/article/2021-year-end-summary/)
+- [【清竹志】【Swift】Swift学习计划与资料](https://blog.vadxq.com/article/juan-swift-study-plan/)
+- [【清竹志】【三亚攻略】2021年三亚团建攻略](https://blog.vadxq.com/article/Sanya-team-building-strategy/)
+- [【清竹志】【前端工具】前端工具函数合集](https://blog.vadxq.com/article/fe-tools-functions/)
+- [【清竹志】【2020年终总结】如果这一年你很健康，那便是最好的一年！](https://blog.vadxq.com/article/2020-year-end-summary/)
+- [【清竹志】【前端重温系列】闭包及其涉及知识点的理解](https://blog.vadxq.com/article/frontend-revisited-closure/)
+- [【清竹志】【教程】Macbook使用初始化指南](https://blog.vadxq.com/article/macbook-use-guide/)
+- [【清竹志】【Linux】阿里云服务器初始化操作](https://blog.vadxq.com/article/aliyun-server-init/)
+- [【Blog | Kerminate】Kerminate-的-2020-年度总结](http://yoursite.com/2021/02/15/Kerminate-%E7%9A%84-2020-%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/)
+- [【Blog | Kerminate】Kerminate-的-2019-年度总结](http://yoursite.com/2020/01/29/Kerminate-%E7%9A%84-2019-%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

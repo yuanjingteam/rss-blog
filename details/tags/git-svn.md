@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-23 10:43:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-23 11:21:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Git、SVN
 
@@ -7,6 +7,14 @@
 
 
 
+- [2021-09-05-git-commit-规范和-如何在-commit-里使用-emoji](https://taoweng.site/posts/git-commit-%E8%A7%84%E8%8C%83%E5%92%8C-%E5%A6%82%E4%BD%95%E5%9C%A8-commit-%E9%87%8C%E4%BD%BF%E7%94%A8-emoji/) 
+- [2019-01-23-git-之修改-commit-以及-rebase-的使用](https://taoweng.site/posts/git-%E4%B9%8B%E4%BF%AE%E6%94%B9-commit-%E4%BB%A5%E5%8F%8A-rebase-%E7%9A%84%E4%BD%BF%E7%94%A8/) 
+- [2017-03-20-译如何撰写-Git-提交信息](https://jiongks.name/blog/git-commit) 
+- [2014-01-01-译Git-分支的最佳实践](https://jiongks.name/blog/a-successful-git-branching-model) 
+- [2011-06-27-git和github简介上](https://jiongks.name/blog/2011-06-26) 
+- [2011-06-27-git和github简介下](https://jiongks.name/blog/2011-06-26-2) 
+- [2020-02-02-GitBook-和它有趣的插件](http://jartto.wang/2020/02/02/about-gitbook/) 
+- [2019-07-09-Git-代码统计](http://jartto.wang/2019/07/09/git-stats/) 
 - [2024-10-22-使用-GitHub-搭建了一个静态博客](https://www.xiabingbao.com/post/blog/github-slr2s7.html) 
 - [2024-11-28-【早阅】GitHub-Copilot-Edits-功能详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=1&sn=31332b42ef6891c28cd065e0cf5fe77a&chksm=bc1d91bc34800c2efc3069100128007a413a484cb43f4ad645fa2f8a989328e41f1139b123cc&scene=0#rd) 
 - [2024-11-28-【图书】AI辅助编程入门：使用GitHub-Copilot零基础开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=2&sn=ab76c1332d66d7e3be3b80a6a6ef3862&chksm=bca19dd4fd367520da1ae50798bfe842615f0fe46262dd29a8c1011c474fc85e514dbe06ed95&scene=0#rd) 

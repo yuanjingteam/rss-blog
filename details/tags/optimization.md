@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-23 10:43:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-23 11:21:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -7,6 +7,12 @@
 
 
 
+- [2013-09-18-译Chrome开发者工具中评估性能的五大新特性](https://jiongks.name/blog/devtools-five-performance-features) 
+- [2020-04-05-Web「性能测试」知多少？](http://jartto.wang/2020/04/05/about-wrk/) 
+- [2020-03-30-网站性能指标---FMP](http://jartto.wang/2020/03/30/about-web-fmp/) 
+- [2020-03-29-聚焦-Web-性能指标-TTI](http://jartto.wang/2020/03/29/web-tti/) 
+- [2019-09-08-网站优化，这些工具你一定用得着](http://jartto.wang/2019/09/08/web-optimization-tools/) 
+- [2011-08-15-imgSprite:可用性与性能优化](http://www.btorange.com/2011/08/15/imgsprite%e5%8f%af%e7%94%a8%e6%80%a7%e4%b8%8e%e6%80%a7%e8%83%bd%e4%bc%98%e5%8c%96.html) 
 - [2024-10-13-工具链极度内卷，留给开发者的性能优化手段已经不多了](https://www.xiabingbao.com/post/fe/fighting-slavrt.html) 
 - [2023-03-04-前端性能监控的基本介绍](https://www.xiabingbao.com/post/fe/fe-monitor-rqz6kd.html) 
 - [2019-02-26-基于webview的前端页面优化指南](https://www.xiabingbao.com/post/optimization/webview-fe-optimization.html) 

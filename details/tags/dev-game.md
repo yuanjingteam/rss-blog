@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-23 10:43:51。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-23 11:21:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 游戏开发
 
@@ -7,8 +7,6 @@
 
 
 
-- [2024-12-19--字节发布豆包视觉理解、3D生成等新模型；OpenAI-员工迎最多1000万美元套现机会；黑悟空获-Steam-年度最佳游戏提名-](http://www.geekpark.net/news/344368) 
-- [2024-12-14--OpenAI-喊话马斯克：告我实现不了-AGI；《黑神话：悟空》获TGA-年度动作游戏；50%-年轻人始终保持在线｜极客早知道-](http://www.geekpark.net/news/344187) 
 - [2023-07-15-【第2999期】如何用Three.js-+-Blender打造一个web-3D展览馆](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264000&idx=1&sn=b5e0a2ea935955afd34b9ae42db3ece9&chksm=bd48cd848a3f4492b99c80842ab0707f78f4b936949438745dc98dcf3797a6b7666859379226#rd) 
 - [2023-01-15-【第2838期】vivo-游戏中心低代码平台的提效秘诀](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260503&idx=1&sn=79c89b4d2734e64c107ad9fadb9b30e7&chksm=bd48dfd38a3f56c5ec1c2c44514784a86badd8861bcdf5ae988aa12b6c36f1dcadc8233d1f0c#rd) 
 - [2021-05-19-【招聘】广州酷狗音乐直播部门招Web、游戏前端开发工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246110&idx=2&sn=d8a0d3acae6398b99e904704617468aa&chksm=bd49179a8a3e9e8c383b110112ed00b0e534af4ffda48ae40f114234bd91fc286c7f578fdb24&scene=27#wechat_redirect) 
