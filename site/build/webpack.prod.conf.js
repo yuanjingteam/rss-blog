@@ -123,7 +123,7 @@ const webpackConfig = merge(baseWebpackConfig, {
     // copy feed xml
     new CopyWebpackPlugin([
       {
-        from: path.resolve(__dirname, '../data/atom.xml'),
+        from: path.resolve(__dirname, '../../data/atom.xml'),
         to: config.build.assetsRoot,
         ignore: ['.*']
       }

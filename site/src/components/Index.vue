@@ -1,8 +1,8 @@
 <template>
   <div class="container">
     <div class="fixed-box">
-      <a class="action-feed" href="/atom.xml" title="Feed 订阅"></a>
-      <a class="action-github" href="https://github.com/yuanjingteam/rss-blog" title="GitHub"></a>
+      <!-- <a class="action-feed" href="/atom.xml" title="Feed 订阅"></a>
+      <a class="action-github" href="https://github.com/yuanjingteam/rss-blog" title="GitHub"></a> -->
       <div class="action-top" @click="toTop" title="返回顶部"><van-icon name="arrow-up" /></div>
     </div>
 
