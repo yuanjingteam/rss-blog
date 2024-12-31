@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-12-31 10:41:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-01 00:01:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -146,6 +146,7 @@
 - [2019-05-28-《张乌梅的日记》摘录](http://guowenfh.github.io/2019/05/28/2019/zhang-wu-mei-diary/) 
 - [2018-06-16-中文播客推荐](http://guowenfh.github.io/2018/06/16/2018/podcast-recommend/) 
 - [2016-12-31-2017，一切才刚刚开始。](http://guowenfh.github.io/2016/12/31/annual-report-2016/) 
+- [2024-12-30-有序退网](https://jiongks.name/blog/get-rid-of-the-addictive-internet) 
 - [2024-03-26-我参与《代码之外-Beyond-Code》的故事](https://jiongks.name/blog/beyond-code-fm) 
 - [2022-11-26-写给我的奶奶](https://jiongks.name/blog/to-my-granny) 
 - [2020-04-26-中文格式化小工具-zhlint-及其开发心得](https://jiongks.name/blog/introducing-zhlint) 
@@ -159,8 +160,8 @@
 - [2016-08-27-我理解的-SPA](https://jiongks.name/blog/spa-i-understand) 
 - [2016-08-23-我理解的-Flux-架构](https://jiongks.name/blog/flux-i-understand) 
 - [2016-01-06-务实的小而美](https://jiongks.name/blog/small-and-beautiful) 
-- [2015-08-10-手机淘宝前端的图片相关工作流程梳理](https://jiongks.name/blog/our-image-workflow) 
 - [2015-08-10-译如何成为一名卓越的前端工程师](https://jiongks.name/blog/how-to-become-a-great-front-end-engineer) 
+- [2015-08-10-手机淘宝前端的图片相关工作流程梳理](https://jiongks.name/blog/our-image-workflow) 
 - [2015-08-02-译如何让办公室政治最小化](https://jiongks.name/blog/how-to-minimize-politics-in-your-company) 
 - [2015-06-27-从原型到发布——“团队时间线”-1.0-开发心得](https://jiongks.name/blog/try-fullstack-in-timeline-app) 
 - [2015-01-01-14},-{15](https://jiongks.name/blog/2014-2015) 
