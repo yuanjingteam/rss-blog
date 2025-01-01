@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2024-12-31T16:01:54.330Z</updated>
+    <updated>2025-01-01T02:50:51.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -12,7 +12,7 @@
     <link rel="self" href="https://rss.somecore.cn/atom.xml"/>
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
-    <rights>All rights reserved 2024 by yuanjingteam</rights>
+    <rights>All rights reserved 2025 by yuanjingteam</rights>
     <entry>
         <title type="html"><![CDATA[HTML select下拉框支持hr元素啦]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/</id>
