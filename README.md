@@ -5,14 +5,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-01-03 08:35:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-03 10:43:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Teobler](#teobler)  
 - [清竹志](#清竹志)  
 - [Blog-|-Kerminate](#blog-|-kerminate)  
-- [rxliuli](#rxliuli)  
+- [rxliuli](#rxliuli)![](/assets/dot.png)   
 - [一个前端工程师的博客](#一个前端工程师的博客)  
 - [吕立青](#吕立青)  
 - [臨池不輟](#臨池不輟)  
@@ -22,7 +22,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -136,6 +136,7 @@
 </summary>
 
 
+- [2025-01-02-2024，不上班的第一年](https://blog.rxliuli.com/p/5669c03626ef4b3799adc96d016e332d/) ![](/assets/new.png)  
 - [2024-11-13-在-Chrome-插件中将-ArrayBuffer-从网页传递到-Devtools-Panel](https://blog.rxliuli.com/p/cc2c3f61d78346188ca4112ef4734184/)  
 - [2024-10-16-Mac-Tips-分享：创建一个-Shortcut-快速调整窗口尺寸](https://blog.rxliuli.com/p/c8b48845cf17443ba9bf023b2313e158/)  
 - [2024-09-27-旅行-2024-09](https://blog.rxliuli.com/p/886ce9d0319741cbad613de8dd4466f3/)  
@@ -155,7 +156,6 @@
 - [2024-04-08-週報-2024-04-07](https://blog.rxliuli.com/p/286497702e764c90a265b70065a0337f/)  
 - [2024-04-07-周报-2024-04-07](https://blog.rxliuli.com/p/8e10b7378992417a9ecd203da7b500aa/)  
 - [2024-03-20-All-in-Vite](https://blog.rxliuli.com/p/ccdf84366137442c95bacac5d9ecd81d/)  
-- [2024-03-11-东京游记](https://blog.rxliuli.com/p/da292c72cb5e41b49a540d0e1f819634/)  
 - [......【查看更多】......](/details/rxliuli.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -421,7 +421,7 @@
 </summary>
 
 
-- [2025-01-03-2025-01-03-HackerNews](https://supertechfans.com/cn/post/2025-01-03-HackerNews/) ![](/assets/new.png)  
+- [2025-01-03-2025-01-03-HackerNews](https://supertechfans.com/cn/post/2025-01-03-HackerNews/)  
 - [2025-01-02-2025-01-02-HackerNews](https://supertechfans.com/cn/post/2025-01-02-HackerNews/)  
 - [2025-01-01-2025-01-01-HackerNews](https://supertechfans.com/cn/post/2025-01-01-HackerNews/)  
 - [2024-12-31-2024-12-31-HackerNews](https://supertechfans.com/cn/post/2024-12-31-HackerNews/)  
