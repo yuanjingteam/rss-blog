@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-01-07 23:17:28。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-01-08 02:02:03。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -113,6 +113,7 @@
 - [【rxliuli】在-Web-中实现一个-TypeScript-Editor](https://blog.rxliuli.com/p/03549d7051e440b7bbdeccf027fac644/)
 - [【一个前端工程师的博客】从两个角度看Typescript中的类型是什么](https://taoweng.site/posts/%E4%BB%8E%E4%B8%A4%E4%B8%AA%E8%A7%92%E5%BA%A6%E7%9C%8Btypescript%E4%B8%AD%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%98%AF%E4%BB%80%E4%B9%88/)
 - [【蚊子前端博客】能用js重写的都会被typescript重写](https://www.xiabingbao.com/post/typescript/typescript-forward.html)
+- [【Node-Weekly】Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)
 - [【Node-Weekly】Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545)
 - [【Node-Weekly】Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)
 - [【Node-Weekly】Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524)
@@ -129,7 +130,6 @@
 - [【JavaScript-Weekly】Axios-turns-1.0;-TypeScript-turns-10](https://javascriptweekly.com/issues/609)
 - [【JavaScript-Weekly】How-TypeScript-4.9-satisfies](https://javascriptweekly.com/issues/608)
 - [【JavaScript-Weekly】TypeScript-2.6-released](https://javascriptweekly.com/issues/579)
-- [【前端早读课】【第3071期】TypeScript纪录片---开创微软的开源之路](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651266067&idx=1&sn=efd469afca51169b6a565a920b931585&chksm=bd48c5978a3f4c814012a15ca21ad57048219937ad898bd61c9ecc6a6dee53c1388a86420a62#rd)
 - [......【查看更多】......](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

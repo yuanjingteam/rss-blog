@@ -5,14 +5,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-01-07 23:17:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-08 02:02:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [Teobler](#teobler)  
 - [清竹志](#清竹志)  
 - [Blog-|-Kerminate](#blog-|-kerminate)  
-- [rxliuli](#rxliuli)![](/assets/dot.png)   
+- [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
 - [吕立青](#吕立青)  
 - [臨池不輟](#臨池不輟)  
@@ -24,7 +24,7 @@
 - [小猪-部落格](#小猪-部落格)  
 - [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -137,7 +137,7 @@
 
 
 - [2025-01-02-2024，不上班的第一年](https://blog.rxliuli.com/p/5669c03626ef4b3799adc96d016e332d/)  
-- [2025-01-02-在-Chrome-插件中拦截网络请求](https://blog.rxliuli.com/p/7ffe39eff5c64f5d90acf21518e39d63/) ![](/assets/new.png)  
+- [2025-01-02-在-Chrome-插件中拦截网络请求](https://blog.rxliuli.com/p/7ffe39eff5c64f5d90acf21518e39d63/)  
 - [2024-11-13-在-Chrome-插件中将-ArrayBuffer-从网页传递到-Devtools-Panel](https://blog.rxliuli.com/p/cc2c3f61d78346188ca4112ef4734184/)  
 - [2024-10-16-Mac-Tips-分享：创建一个-Shortcut-快速调整窗口尺寸](https://blog.rxliuli.com/p/c8b48845cf17443ba9bf023b2313e158/)  
 - [2024-09-27-旅行-2024-09](https://blog.rxliuli.com/p/886ce9d0319741cbad613de8dd4466f3/)  
@@ -483,6 +483,7 @@
 </summary>
 
 
+- [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561) ![](/assets/new.png)  
 - [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)  
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)  
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
@@ -502,7 +503,6 @@
 - [2024-08-20-Node-22.6,-Protobuf-ES-2.0,-and-Volta-2.0](https://nodeweekly.com/issues/544)  
 - [2024-08-06-Looking-through-the-Node-toolbox](https://nodeweekly.com/issues/543)  
 - [2024-07-30-Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)  
-- [2024-07-23-Node.js-v22.5-includes-SQLite,-but..](https://nodeweekly.com/issues/541)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

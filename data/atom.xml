@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-01-07T15:17:28.989Z</updated>
+    <updated>2025-01-07T18:02:03.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -17,6 +17,13 @@
         <title type="html"><![CDATA[使用 AI + OPFS 在浏览器中实现 MacOS Finder（文件管理器）]]></title>
         <id>https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/</id>
         <link href="https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/"/>
+        <updated>2025-01-07T00:00:00.000Z</updated>
+        <published>2025-01-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unflagged TypeScript support is just around the corner]]></title>
+        <id>https://nodeweekly.com/issues/561</id>
+        <link href="https://nodeweekly.com/issues/561"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
         <published>2025-01-07T00:00:00.000Z</published>
     </entry>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[前端体验优化之渐进式图片]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524408&amp;idx=2&amp;sn=10dd9fcd37fd7c6662aca3fb0ce61ec5&amp;chksm=f99266e9cee5efffa0cf303fad0a08eaaaf41a01b05714fb97df3c3b78738ac8bdcd0d6f629a#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524408&amp;idx=2&amp;sn=10dd9fcd37fd7c6662aca3fb0ce61ec5&amp;chksm=f99266e9cee5efffa0cf303fad0a08eaaaf41a01b05714fb97df3c3b78738ac8bdcd0d6f629a#rd"/>
-        <updated>2024-12-03T00:00:00.000Z</updated>
-        <published>2024-12-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“应该禁止所有新项目使用 React！”微软资深工程师犀利 diss：“React 是行业标准”简直胡说！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621639&amp;idx=1&amp;sn=eac1fc8ce06c62ef6b28b910374897be&amp;chksm=80225ec6b755d7d056a7f90a27d4dd2ccde9e37aca164f2b7041e31243928f7ae970d583265b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621639&amp;idx=1&amp;sn=eac1fc8ce06c62ef6b28b910374897be&amp;chksm=80225ec6b755d7d056a7f90a27d4dd2ccde9e37aca164f2b7041e31243928f7ae970d583265b#rd"/>
         <updated>2024-12-03T00:00:00.000Z</updated>
         <published>2024-12-03T00:00:00.000Z</published>
     </entry>
