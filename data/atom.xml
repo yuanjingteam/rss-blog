@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-01-07T04:01:53.122Z</updated>
+    <updated>2025-01-07T15:17:28.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -24,6 +24,13 @@
         <title type="html"><![CDATA[一个新的CSS媒体查询prefers-reduced-transparency]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/"/>
+        <updated>2025-01-02T00:00:00.000Z</updated>
+        <published>2025-01-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Chrome 插件中拦截网络请求]]></title>
+        <id>https://blog.rxliuli.com/p/7ffe39eff5c64f5d90acf21518e39d63/</id>
+        <link href="https://blog.rxliuli.com/p/7ffe39eff5c64f5d90acf21518e39d63/"/>
         <updated>2025-01-02T00:00:00.000Z</updated>
         <published>2025-01-02T00:00:00.000Z</published>
     </entry>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[“应该禁止所有新项目使用 React！”微软资深工程师犀利 diss：“React 是行业标准”简直胡说！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621639&amp;idx=1&amp;sn=eac1fc8ce06c62ef6b28b910374897be&amp;chksm=80225ec6b755d7d056a7f90a27d4dd2ccde9e37aca164f2b7041e31243928f7ae970d583265b#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&amp;mid=2651621639&amp;idx=1&amp;sn=eac1fc8ce06c62ef6b28b910374897be&amp;chksm=80225ec6b755d7d056a7f90a27d4dd2ccde9e37aca164f2b7041e31243928f7ae970d583265b#rd"/>
-        <updated>2024-12-03T00:00:00.000Z</updated>
-        <published>2024-12-03T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3425期】JavaScript 高阶技巧]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274352&amp;idx=1&amp;sn=bacf8d5bbcfff58963684e7b1a3119ad&amp;chksm=bc7f23b5dd25ff09ce550137129d4cf0c129ea6533f52c8913e8a01614fffddd65dcda62ae45&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274352&amp;idx=1&amp;sn=bacf8d5bbcfff58963684e7b1a3119ad&amp;chksm=bc7f23b5dd25ff09ce550137129d4cf0c129ea6533f52c8913e8a01614fffddd65dcda62ae45&amp;scene=0#rd"/>
         <updated>2024-12-03T00:00:00.000Z</updated>
         <published>2024-12-03T00:00:00.000Z</published>
     </entry>
