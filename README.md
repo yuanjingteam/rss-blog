@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-01-08 02:02:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-08 08:35:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,9 +22,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -421,6 +421,7 @@
 </summary>
 
 
+- [2025-01-08-2025-01-08-HackerNews](https://supertechfans.com/cn/post/2025-01-08-HackerNews/) ![](/assets/new.png)  
 - [2025-01-07-2025-01-07-HackerNews](https://supertechfans.com/cn/post/2025-01-07-HackerNews/)  
 - [2025-01-06-2025-01-06-HackerNews](https://supertechfans.com/cn/post/2025-01-06-HackerNews/)  
 - [2025-01-05-2025-01-05-HackerNews](https://supertechfans.com/cn/post/2025-01-05-HackerNews/)  
@@ -440,7 +441,6 @@
 - [2024-12-21-2024-12-21-HackerNews](https://supertechfans.com/cn/post/2024-12-21-HackerNews/)  
 - [2024-12-20-2024-12-20-HackerNews](https://supertechfans.com/cn/post/2024-12-20-HackerNews/)  
 - [2024-12-19-2024-12-19-HackerNews](https://supertechfans.com/cn/post/2024-12-19-HackerNews/)  
-- [2024-12-18-2024-12-18-HackerNews](https://supertechfans.com/cn/post/2024-12-18-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -483,7 +483,7 @@
 </summary>
 
 
-- [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561) ![](/assets/new.png)  
+- [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)  
 - [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)  
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)  
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
