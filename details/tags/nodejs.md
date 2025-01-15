@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-15 08:34:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-15 10:39:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -27,6 +27,17 @@
 - [2020-04-05-深入理解-node-中的-crypto-加密模块](https://www.xiabingbao.com/post/node/node-crypto.html) 
 - [2020-01-01-node多进程的创建与守护](https://www.xiabingbao.com/post/node/node-process-create-guard.html) 
 - [2019-10-21-腾讯新闻抢金达人活动node同构直出渲染方案的总结](https://www.xiabingbao.com/post/node/node-isomorphism-straight.html) 
+- [2017-02-25-从0到1学习node八之异步控制工具async](https://www.xiabingbao.com/post/node/2017/02/25/node-async.html) 
+- [2017-02-20-从0到1学习node七之express搭建简易论坛](https://www.xiabingbao.com/post/node/2017/02/20/node-express-forum.html) 
+- [2017-02-18-从0到1学习node六之express初识](https://www.xiabingbao.com/post/node/2017/02/18/node-express-under.html) 
+- [2017-01-23-从0到1学习node五之mysql数据库的操作](https://www.xiabingbao.com/post/node/2017/01/23/node-mysql.html) 
+- [2017-01-19-从0到1学习node四之简易的网络爬虫](https://www.xiabingbao.com/post/node/2017/01/19/node-spider.html) 
+- [2017-01-14-从0到1学习node三之文件操作](https://www.xiabingbao.com/post/node/2017/01/14/node-fs.html) 
+- [2017-01-12-从0到1学习node二之搭建http服务器](https://www.xiabingbao.com/post/node/2017/01/12/node-http-server.html) 
+- [2017-01-10-从0到1学习node一之模块规范](https://www.xiabingbao.com/post/definition/2017/01/10/mod-definition.html) 
+- [2017-01-08-从0到1学习node系列总索引](https://www.xiabingbao.com/post/node/2017/01/08/node-list.html) 
+- [2015-04-06-node-socket实现web的即时聊天系统](https://www.xiabingbao.com/post/node/2015/04/06/node-socket.html) 
+- [2015-03-27-使用node更新google-hosts](https://www.xiabingbao.com/post/node/2015/03/27/node-hosts.html) 
 - [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562) 
 - [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560) 
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558) 

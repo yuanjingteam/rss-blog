@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-15 08:34:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-15 10:39:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 前端进阶相关
 
@@ -26,6 +26,16 @@
 - [2023-03-13-2023-年最新最全的-http-网络面试题](https://www.xiabingbao.com/post/http/http-interview-rrgt3b.html) 
 - [2020-11-14-axios-源码系列之拦截器的实现](https://www.xiabingbao.com/post/request/axios-interceptors.html) 
 - [2020-07-20-如何控制多个-toast-提示的展示](https://www.xiabingbao.com/post/react/mult-toast.html) 
+- [2016-09-14-https的研究与总结](https://www.xiabingbao.com/post/jitiao/2016/09/14/http-https.html) 
+- [2016-09-04-php里简单的对称加密算法](https://www.xiabingbao.com/post/encrypt/2016/09/04/php-simple-encrypt.html) 
+- [2014-07-10-汉诺塔算法演示](https://www.xiabingbao.com/post/js/2014/07/10/js-hanoi.html) 
+- [2014-06-03-http协议报头详解](https://www.xiabingbao.com/post/http/2014/06/03/http-header.html) 
+- [2012-12-04-排序算法之归并排序](https://www.xiabingbao.com/post/sort/2012/12/04/sort-merge.html) 
+- [2012-12-04-排序算法之总结](https://www.xiabingbao.com/post/sort/2012/12/04/sort-summary.html) 
+- [2012-12-02-排序算法之快速排序](https://www.xiabingbao.com/post/sort/2012/12/02/sort-quick.html) 
+- [2012-12-01-排序算法之冒泡排序与选择排序](https://www.xiabingbao.com/post/sort/2012/12/01/sort-bubble-select.html) 
+- [2012-12-01-排序算法之插入排序](https://www.xiabingbao.com/post/sort/2012/12/01/sort-insert.html) 
+- [2012-07-27-如何显示php源码](https://www.xiabingbao.com/post/php/2012/07/27/show-php-source.html) 
 - [2024-07-16-Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540) 
 - [2022-06-09-A-big-week-for-Fastify](https://nodeweekly.com/issues/441) 
 - [2024-12-04-【第3426期】TinyEngine低代码引擎2.0新特性介绍](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274357&idx=1&sn=c57c95837e500713bbec90ffefcdab9f&chksm=bc0ea27c4ced7203b919f25e725af0d1955d7b6f48e6075e74f3e0552c40c3cf01a0922dd0e9&scene=0#rd) 

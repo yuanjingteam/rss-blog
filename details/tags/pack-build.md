@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-15 08:34:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-15 10:39:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -24,6 +24,9 @@
 - [2018-06-30-如何在npm上发布你的package](https://www.xiabingbao.com/post/npm/how-to-publish-package-on-npm.html) 
 - [2017-10-13-基于webpack搭建前端工程的思考](https://www.xiabingbao.com/post/webpack/webpack-frontend-engineering.html) 
 - [2017-09-24-webpack的入门教程](https://www.xiabingbao.com/post/webpack/webpack-started-tutorial.html) 
+- [2016-01-20-对gulp-changed插件的一点思考](https://www.xiabingbao.com/post/gulp/2016/01/20/gulp-changed-ponder.html) 
+- [2015-10-15-jshint在gulp中的使用](https://www.xiabingbao.com/post/gulp/2015/10/15/gulp-jshint.html) 
+- [2015-05-13-gulp:任务自动管理工具](https://www.xiabingbao.com/post/tool/2015/05/13/tool-gulp.html) 
 - [2024-02-20-To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521) 
 - [2024-01-16-npm-by-the-numbers](https://nodeweekly.com/issues/517) 
 - [2024-01-09-The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516) 

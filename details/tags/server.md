@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-15 08:34:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-15 10:39:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -18,6 +18,10 @@
 - [2023-03-12-30s-就可以掌握的-Nginx-片段](http://jartto.wang/2023/03/12/30-seconds-of-nginx/) 
 - [2020-07-04-Docker-边学边用](http://jartto.wang/2020/07/04/learn-docker/) 
 - [2020-02-18-助你同时维护多个项目的终端神器：Tmux](https://blog.mutoo.im/2020/02/working-on-multiple-project-with-tmux/) 
+- [2017-08-27-如何在windows安装php-redis扩展](https://www.xiabingbao.com/post/php/2017/08/27/window-php-redis.html) 
+- [2017-03-21-ci框架在去掉index.php时导致404的解决方案](https://www.xiabingbao.com/post/ci/2017/03/21/ci-index-404.html) 
+- [2013-04-11-PHP中的日期和时间](https://www.xiabingbao.com/post/php/2013/04/11/php-date-time.html) 
+- [2013-04-07-我的php学习经历](https://www.xiabingbao.com/post/php/2013/04/07/my-php-learning.html) 
 - [2023-01-13-Java-Script-Jarre](https://javascriptweekly.com/issues/621) 
 - [2022-10-28-Turbo-charged-incremental-bundling-au-Rust](https://javascriptweekly.com/issues/612) 
 - [2023-12-07-【第3134期】从历史的角度探讨多种SSR（Server-side-rendering）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267839&idx=1&sn=55328037a00e0800805671a04f70c2e6&chksm=bd48fb7b8a3f726dff096eda3c2ecbb3d70da5641a9c45cf8ccdb49779149233076027ad7bb7#rd) 

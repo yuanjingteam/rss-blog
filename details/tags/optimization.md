@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-15 08:34:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-15 10:39:33。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -16,6 +16,7 @@
 - [2024-10-13-工具链极度内卷，留给开发者的性能优化手段已经不多了](https://www.xiabingbao.com/post/fe/fighting-slavrt.html) 
 - [2023-03-04-前端性能监控的基本介绍](https://www.xiabingbao.com/post/fe/fe-monitor-rqz6kd.html) 
 - [2019-02-26-基于webview的前端页面优化指南](https://www.xiabingbao.com/post/optimization/webview-fe-optimization.html) 
+- [2015-05-16-从输入URL到页面加载完成的过程中都发生了什么](https://www.xiabingbao.com/post/browser/2015/05/16/happens-type-in-url-browser.html) 
 - [2024-11-29-【第3423期】代码复用率99%，携程市场洞察平台Donut跨多端高性能技术实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274301&idx=1&sn=5268de6fca1203e5b71d09978c42c73d&chksm=bc2ba5e7b87372490af910f6e70c3952159ec039a6d2680fc2e7f60e979e73a807c10e4c7745&scene=0#rd) 
 - [2024-11-25-【第3422期】字体性能优化终极指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274260&idx=1&sn=02eeed90e4a91745f63d13215773b425&chksm=bc4fbf67d7c8bb09d0a95d606f75cfbf45fc964ff198d96abbea98abff50feded9328197bb74&scene=0#rd) 
 - [2024-01-31-【第3186期】B端加载设计指南：优化用户体验与性能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269013&idx=1&sn=f7deb170b6ef6c38572e98c929919bf6&chksm=bd48fe118a3f7707350f02d22d95584b562be4c85e9adfae733bfe4d571e72f90b71b18c16c5#rd) 

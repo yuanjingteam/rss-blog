@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-01-15 08:34:57。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-01-15 10:39:33。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -163,9 +163,9 @@
 - [【蚊子前端博客】如何在npm上发布你的package](https://www.xiabingbao.com/post/npm/how-to-publish-package-on-npm.html)
 - [【蚊子前端博客】基于webpack搭建前端工程的思考](https://www.xiabingbao.com/post/webpack/webpack-frontend-engineering.html)
 - [【蚊子前端博客】webpack的入门教程](https://www.xiabingbao.com/post/webpack/webpack-started-tutorial.html)
-- [【Node-Weekly】To-npm,-or-not-to-include-npm?](https://nodeweekly.com/issues/521)
-- [【Node-Weekly】npm-by-the-numbers](https://nodeweekly.com/issues/517)
-- [【Node-Weekly】The-latest-npm-registry-shenanigans](https://nodeweekly.com/issues/516)
+- [【蚊子前端博客】对gulp-changed插件的一点思考](https://www.xiabingbao.com/post/gulp/2016/01/20/gulp-changed-ponder.html)
+- [【蚊子前端博客】jshint在gulp中的使用](https://www.xiabingbao.com/post/gulp/2015/10/15/gulp-jshint.html)
+- [【蚊子前端博客】gulp:任务自动管理工具](https://www.xiabingbao.com/post/tool/2015/05/13/tool-gulp.html)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -400,6 +400,7 @@
 
 - [【囧克斯】标签？ID？还是CLASS？](https://jiongks.name/blog/html-or-id-or-class)
 - [【囧克斯】HTML-5-翻来覆去也就这么多东西了](https://jiongks.name/blog/2010-10-31)
+- [【蚊子前端博客】视频video标签在移动端的播放总结](https://www.xiabingbao.com/post/video/2016/09/03/phone-video.html)
 - [【前端早读课】【早阅】-2024年HTML现状调查报告](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274558&idx=1&sn=b5d5e5e13d8d5531c5ed0f3faacc6574&chksm=bc2a92f23a31e63a6a6293ab24ba6b632080c3e93d114f0528d26dae816a4474300da93a4537&scene=0#rd)
 - [【前端早读课】【第3128期】HTML-First](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267748&idx=1&sn=cae191423eb529032b37d28a39cd4fd5&chksm=bd48fb208a3f72367b77eafd414fd2cc34ddd4bd023b5b140d4a5f98b60267ecc24bbf0763f7#rd)
 - [【前端早读课】【第2875期】HTML性能优化-Prerender2.0机制解读](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261127&idx=1&sn=109b33bfb0f90d24f7d64dd696cecbec&chksm=bd48d1438a3f5855efb1d0fd7b6c1ea64f5301696cec21935ab1a9722ba4af40ce7e08f2c913#rd)
@@ -417,7 +418,6 @@
 - [【前端之神】Input标签这么牛？居然也自带颜色选择器功能？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486913&idx=1&sn=eb5a63a24332c1da903b493fc370c98a&chksm=ce461850f9319146b4857125d96006c5065df8f10239d9c40ca0d92af9b2e63f84268fd82764#rd)
 - [【前端之神】有意思的面试题：统计页面出现次数前三的标签](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247486188&idx=1&sn=f330456718f5bba6d772a11ed78149b1&chksm=ce461f7df931966bc21360053c727ef11bc8e850eb2566c041db661c9a509916bb30167e2540#rd)
 - [【前端技术优选】为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451063920&idx=1&sn=799ef858a8d64804adbd5ebc25ad03b9&chksm=87c45d60b0b3d476af82360959df1c8c803b7d47b76cd1f416c0e2ed0e7923671fea8b77472e#rd)
-- [【前端技术优选】为什你应该使用picture标签而不是Img标签](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061006&idx=1&sn=0a6225ad1c7fa7db92f4f1421c56f704&chksm=87c4201eb0b3a908673b3ddcbeb562039935f2e5268e74903eb32a86afad6d3d5224009277b3#rd)
 - [......【查看更多】......](/details/tags/html.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -515,6 +515,7 @@
 - [【蚊子前端博客】工具链极度内卷，留给开发者的性能优化手段已经不多了](https://www.xiabingbao.com/post/fe/fighting-slavrt.html)
 - [【蚊子前端博客】前端性能监控的基本介绍](https://www.xiabingbao.com/post/fe/fe-monitor-rqz6kd.html)
 - [【蚊子前端博客】基于webview的前端页面优化指南](https://www.xiabingbao.com/post/optimization/webview-fe-optimization.html)
+- [【蚊子前端博客】从输入URL到页面加载完成的过程中都发生了什么](https://www.xiabingbao.com/post/browser/2015/05/16/happens-type-in-url-browser.html)
 - [【前端早读课】【第3423期】代码复用率99%，携程市场洞察平台Donut跨多端高性能技术实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274301&idx=1&sn=5268de6fca1203e5b71d09978c42c73d&chksm=bc2ba5e7b87372490af910f6e70c3952159ec039a6d2680fc2e7f60e979e73a807c10e4c7745&scene=0#rd)
 - [【前端早读课】【第3422期】字体性能优化终极指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274260&idx=1&sn=02eeed90e4a91745f63d13215773b425&chksm=bc4fbf67d7c8bb09d0a95d606f75cfbf45fc964ff198d96abbea98abff50feded9328197bb74&scene=0#rd)
 - [【前端早读课】【第3186期】B端加载设计指南：优化用户体验与性能](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269013&idx=1&sn=f7deb170b6ef6c38572e98c929919bf6&chksm=bd48fe118a3f7707350f02d22d95584b562be4c85e9adfae733bfe4d571e72f90b71b18c16c5#rd)
@@ -525,7 +526,6 @@
 - [【前端早读课】【第3006期】前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264139&idx=1&sn=ed94183928f0ab6d29c00d2642bf2dbd&chksm=bd48cd0f8a3f44190f7af9e3234f0cb3f911ba36a257685b06a9423aff51c3f7eeafbea263b7#rd)
 - [【前端早读课】【第3002期】前端加载超大图片实现秒开解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264026&idx=1&sn=2cdb4f5cbb838b1f89dbc0e2a88ee256&chksm=bd48cd9e8a3f448813e4fd74325a77f8fbc5497ee796e853249fb7c29cd0e46a9fd65d2fcce7#rd)
 - [【前端早读课】【第2984期】搭建自动化-Web-页面性能检测系统-——-实现篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263540&idx=1&sn=fc1071f605ba75873735a80d7e608a98&chksm=bd48cbb08a3f42a62fae39198c96fb26c0280084168d2479d8f55e180ec8418f29a781811a1f#rd)
-- [【前端早读课】【第2983期】搭建自动化-Web-页面性能检测系统-——-设计篇](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263504&idx=1&sn=2b1cfc90aace8142e55fb1d7b58f5698&chksm=bd48cb948a3f4282921f91371bb408c190a9a642115dec080d202f0352b52d532856aa295d46#rd)
 - [......【查看更多】......](/details/tags/optimization.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -597,7 +597,7 @@
 - [【蚊子前端博客】2023-年最新最全的-http-网络面试题](https://www.xiabingbao.com/post/http/http-interview-rrgt3b.html)
 - [【蚊子前端博客】axios-源码系列之拦截器的实现](https://www.xiabingbao.com/post/request/axios-interceptors.html)
 - [【蚊子前端博客】如何控制多个-toast-提示的展示](https://www.xiabingbao.com/post/react/mult-toast.html)
-- [【Node-Weekly】Stream-if-you-wanna-go-faster](https://nodeweekly.com/issues/540)
+- [【蚊子前端博客】https的研究与总结](https://www.xiabingbao.com/post/jitiao/2016/09/14/http-https.html)
 - [......【查看更多】......](/details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -625,15 +625,15 @@
 - [【Jartto's blog】30s-就可以掌握的-Nginx-片段](http://jartto.wang/2023/03/12/30-seconds-of-nginx/)
 - [【Jartto's blog】Docker-边学边用](http://jartto.wang/2020/07/04/learn-docker/)
 - [【木匣子】助你同时维护多个项目的终端神器：Tmux](https://blog.mutoo.im/2020/02/working-on-multiple-project-with-tmux/)
+- [【蚊子前端博客】如何在windows安装php-redis扩展](https://www.xiabingbao.com/post/php/2017/08/27/window-php-redis.html)
+- [【蚊子前端博客】ci框架在去掉index.php时导致404的解决方案](https://www.xiabingbao.com/post/ci/2017/03/21/ci-index-404.html)
+- [【蚊子前端博客】PHP中的日期和时间](https://www.xiabingbao.com/post/php/2013/04/11/php-date-time.html)
+- [【蚊子前端博客】我的php学习经历](https://www.xiabingbao.com/post/php/2013/04/07/my-php-learning.html)
 - [【JavaScript-Weekly】Java-Script-Jarre](https://javascriptweekly.com/issues/621)
 - [【JavaScript-Weekly】Turbo-charged-incremental-bundling-au-Rust](https://javascriptweekly.com/issues/612)
 - [【前端早读课】【第3134期】从历史的角度探讨多种SSR（Server-side-rendering）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267839&idx=1&sn=55328037a00e0800805671a04f70c2e6&chksm=bd48fb7b8a3f726dff096eda3c2ecbb3d70da5641a9c45cf8ccdb49779149233076027ad7bb7#rd)
 - [【前端早读课】【图书】Rust程序设计（第2版）](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265904&idx=2&sn=1a6d6e2649bd728c2d7c136ffeb41f18&chksm=bd48c2f48a3f4be2188d5871df192676f01307cf5834262a31d81fef40781c7d138232ca7a94#rd)
 - [【前端早读课】【第2992期】基于-Nginx-实现一个灰度上线系统](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263717&idx=1&sn=b34dd1edd4c089102ecc683c00bf18d8&chksm=bd48cb618a3f4277d610cf290d037a4a60ab5d5b7b5af4a434c916424ee38ddcd3999df7f23c#rd)
-- [【前端早读课】一行命令，安装你的TinyCLI](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651262764&idx=2&sn=c356ac4d99a7e8ec7a440f364bb3be9c&chksm=bd48d6a88a3f5fbe665efdc480727bdb934e37c3d6470acf003ee9f819339d216c15e64c155e#rd)
-- [【前端早读课】【第2874期】新时代的-SSR-框架破局者：qwik](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651261123&idx=1&sn=88fd5ce78243329e3943a4ce56fe38cc&chksm=bd48d1478a3f585191d77def1b4264e2babc49db22529b23b9e27ed30fbfdee3e4908f4d3c9a#rd)
-- [【前端早读课】【第2827期】基于-GraphQL-的云音乐-BFF-建设实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651260103&idx=1&sn=a8f7b282ef1297f4b26388ff9430d195&chksm=bd48dd438a3f54554cfe9a628c14d74b7578bf5d244b227b595e6550d78c044f5c315d0d0d31#rd)
-- [【前端早读课】【第2792期】基于-Graphql-的前后端协作方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259350&idx=1&sn=9e39be1bb45c482b02ea819373359067&chksm=bd48d8528a3f51441473babf4cfd586c979d5714a4ecacdf3b54a959ea64f37cd42bea027d94#rd)
 - [......【查看更多】......](/details/tags/server.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -659,6 +659,8 @@
 - [【Jartto's blog】GitBook-和它有趣的插件](http://jartto.wang/2020/02/02/about-gitbook/)
 - [【Jartto's blog】Git-代码统计](http://jartto.wang/2019/07/09/git-stats/)
 - [【蚊子前端博客】使用-GitHub-搭建了一个静态博客](https://www.xiabingbao.com/post/blog/github-slr2s7.html)
+- [【蚊子前端博客】博客从github迁移到gitcafe上](https://www.xiabingbao.com/post/git/2015/01/28/github-to-gitcafe.html)
+- [【蚊子前端博客】修改git提交历史中的姓名和email](https://www.xiabingbao.com/post/github/2015/01/17/change-git-history-emial.html)
 - [【前端早读课】【早阅】GitHub-Copilot-Edits-功能详解](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=1&sn=31332b42ef6891c28cd065e0cf5fe77a&chksm=bc1d91bc34800c2efc3069100128007a413a484cb43f4ad645fa2f8a989328e41f1139b123cc&scene=0#rd)
 - [【前端早读课】【图书】AI辅助编程入门：使用GitHub-Copilot零基础开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274287&idx=2&sn=ab76c1332d66d7e3be3b80a6a6ef3862&chksm=bca19dd4fd367520da1ae50798bfe842615f0fe46262dd29a8c1011c474fc85e514dbe06ed95&scene=0#rd)
 - [【前端早读课】【第2998期】逆向分析了Github-Copilot](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651263858&idx=1&sn=b701da3cdb53378c14a1edd286a15a68&chksm=bd48caf68a3f43e0a1668df432413adef02a255ae08066376bbd9ee3d2e419009c5025c08461#rd)
@@ -668,8 +670,6 @@
 - [【前端早读课】【第2817期】git-worktree-的使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651259867&idx=1&sn=12ef92b411ac90347e12f76b31fa9bd6&chksm=bd48da5f8a3f53494da73dffb6ff6d21f0e53243e082e3548c0787421c94c9d71a518927372d#rd)
 - [【前端早读课】【第2645期】善用-Git-的-sparse-checkout-跟-shallow-clone/pull-來提高工作效率](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651255278&idx=1&sn=c5552cd167f7653b36ae05f211885fc6&chksm=bd49286a8a3ea17c659022c7e7c4c40fb3c651e108c4b7a1997168520b090adee79f29d8d1e9#rd)
 - [【前端早读课】【第2528期】如何编写-Git-提交消息](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651252607&idx=1&sn=008e47a16385a9b9654aff413a5d145a&chksm=bd493efb8a3eb7edb457f25bdee3363b2191a3211fd41fa8f7ddb659bd85630388d6550461f4#rd)
-- [【前端早读课】【第2294期】Gitpod-—-Online-IDE-For-GitHub](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651246445&idx=1&sn=ea83fa3157d15e94b8fd6780ce5a64fe&chksm=bd4916e98a3e9fff1bc706ae8ba1a58fcb5c93d71ae7a08acc3fd0ce4a1a8904e9eb8bc7eac9&scene=27#wechat_redirect)
-- [【前端早读课】【第2168期】如何建立GitHub地球仪的](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243098&idx=1&sn=cba498cc985feff2a0fdd1c2bc5af7e9&chksm=bd491bde8a3e92c828f3ebafa22e57d4af18fc99936b2cc17f723d9596226a9827901ae66d15&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/git-svn.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
