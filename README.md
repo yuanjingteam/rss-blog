@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-01-15 00:01:48，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-15 08:34:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -22,9 +22,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -39,7 +39,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -421,6 +421,7 @@
 </summary>
 
 
+- [2025-01-15-2025-01-15-HackerNews](https://supertechfans.com/cn/post/2025-01-15-HackerNews/) ![](/assets/new.png)  
 - [2025-01-14-2025-01-14-HackerNews](https://supertechfans.com/cn/post/2025-01-14-HackerNews/)  
 - [2025-01-13-2025-01-13-HackerNews](https://supertechfans.com/cn/post/2025-01-13-HackerNews/)  
 - [2025-01-12-2025-01-12-HackerNews](https://supertechfans.com/cn/post/2025-01-12-HackerNews/)  
@@ -440,7 +441,6 @@
 - [2024-12-28-2024-12-28-HackerNews](https://supertechfans.com/cn/post/2024-12-28-HackerNews/)  
 - [2024-12-27-2024-12-27-HackerNews](https://supertechfans.com/cn/post/2024-12-27-HackerNews/)  
 - [2024-12-26-2024-12-26-HackerNews](https://supertechfans.com/cn/post/2024-12-26-HackerNews/)  
-- [2024-12-25-2024-12-25-HackerNews](https://supertechfans.com/cn/post/2024-12-25-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -483,7 +483,7 @@
 </summary>
 
 
-- [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562) ![](/assets/new.png)  
+- [2025-01-14-2025-is-going-to-be-a-bold-year-for-Express.js](https://nodeweekly.com/issues/562)  
 - [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)  
 - [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)  
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)  
@@ -948,7 +948,7 @@
 </summary>
 
 
-- [2025-01-14-如何手搓SVG半圆弧，手把手教程](https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/) ![](/assets/new.png)  
+- [2025-01-14-如何手搓SVG半圆弧，手把手教程](https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/)  
 - [2025-01-12-Broadcast-Channel-API简介，可实现Web页面广播通信](https://www.zhangxinxu.com/wordpress/2025/01/js-broadcast-channel-api/)  
 - [2025-01-02-一个新的CSS媒体查询prefers-reduced-transparency](https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/)  
 - [2024-12-29-HTML-select下拉框支持hr元素啦](https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/)  
