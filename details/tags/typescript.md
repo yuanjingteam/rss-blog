@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-17 08:34:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-17 09:39:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -7,6 +7,10 @@
 
 
 
+- [2020-01-16-TypeScript-集合转换为交集](https://blog.crimx.com/2020/01/16/typescript-集合转换为交集/) 
+- [2020-01-11-TypeScript-函数泛型部分赋值](https://blog.crimx.com/2020/01/11/typescript-函数泛型部分赋值/) 
+- [2024-06-30-一文看懂TypeScript工具类型](https://www.kai666666.com/2024/06/29/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82TypeScript%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%9E%8B/) 
+- [2024-05-12-TypeScript一些知识点](https://www.kai666666.com/2024/05/12/TypeScript%E4%B8%80%E4%BA%9B%E7%9F%A5%E8%AF%86%E7%82%B9/) 
 - [2024-09-12-在-Web-中实现一个-TypeScript-Editor](https://blog.rxliuli.com/p/03549d7051e440b7bbdeccf027fac644/) 
 - [2020-03-03-从两个角度看Typescript中的类型是什么](https://taoweng.site/posts/%E4%BB%8E%E4%B8%A4%E4%B8%AA%E8%A7%92%E5%BA%A6%E7%9C%8Btypescript%E4%B8%AD%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%98%AF%E4%BB%80%E4%B9%88/) 
 - [2019-05-13-能用js重写的都会被typescript重写](https://www.xiabingbao.com/post/typescript/typescript-forward.html) 

@@ -1,5 +1,13 @@
 [
   {
+    "title": "crimx",
+    "rss": "https://blog.crimx.com/rss.xml"
+  },
+  {
+    "title": "橙光笔记",
+    "rss": "https://www.kai666666.com/atom.xml"
+  },
+  {
     "title": "Teobler",
     "rss": "https://teobler.com/rss.xml"
   },
@@ -69,28 +77,19 @@
   },
   {
     "title": "前端早读课",
-    "rss": [
-      "https://posts.careerengine.us/author/5d1213cb25dbe17eab761cb8/rss",
-      "https://feed.hamibot.com/api/feeds/62823801a4ca6e10e38ecfb0"
-    ]
+    "rss":  "https://posts.careerengine.us/author/5d1213cb25dbe17eab761cb8/rss"
   },
   {
     "title": "前端大全",
-    "rss": [
-      "https://posts.careerengine.us/author/594e6fbdea0d253f1f63cc9e/rss",
-      "https://feed.hamibot.com/api/feeds/6135d5a01269c358aa0f31d3"
-    ]
+    "rss": "https://posts.careerengine.us/author/594e6fbdea0d253f1f63cc9e/rss"
   },
   {
     "title": "前端之巅",
-    "rss": [
-      "https://posts.careerengine.us/author/5c5fac76719f0119cdd6f031/rss",
-      "https://feed.hamibot.com/api/feeds/621ecef7dca58a380c6e1615"
-    ]
+    "rss": "https://posts.careerengine.us/author/5c5fac76719f0119cdd6f031/rss"
   },
   {
     "title": "前端之神",
-    "rss": "https://feed.hamibot.com/api/feeds/621ecef7dca58a380c6e161d"
+    "rss": "https://www.jintiankansha.me/rss/GM2DSNBUGF6DAODFMRSTEZJZHA4TEY3GHEZTQY3GMU2DMMLCGA4TGOLEG42TIOJVGBRTMZBWG5SQ===="
   },
   {
     "title": "前端技术优选",

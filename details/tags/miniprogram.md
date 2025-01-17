@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-17 08:34:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-17 09:39:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 小程序
 
@@ -143,6 +143,7 @@
 - [2023-09-21-推荐11个yyds微信小程序开源项目](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516449&idx=2&sn=2a455c4292c37cb468d95ad63ec9949b&chksm=f99287f0cee50ee61abae116012c7caf329459595d03b18f40a02b9b0feff0ccd91df9eb91c6#rd) 
 - [2022-08-15-太强了！有了这个-GitHub-热门工具，15-分钟内把微信小程序搬进-App！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510252&idx=1&sn=107cfb7ee193a1428beae44278809b96&chksm=f992ae3dcee5272bb7b26234806ff4ae648c87f6e0b618e47be1c31402fd639308880bfd7f84#rd) 
 - [2020-07-31-2020年，该如何选择小程序框架](https://fed.taobao.org/blog/taofed/do71ct/sz7x0q) 
+- [2025-01-16-AI-搞定微信小程序](http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html) 
 - [2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html) 
 - [2020-10-29-微信小程序入门教程之三：脚本编程](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-three.html) 
 - [2020-10-27-微信小程序入门教程之二：页面样式](http://www.ruanyifeng.com/blog/2020/10/wechat-miniprogram-tutorial-part-two.html) 

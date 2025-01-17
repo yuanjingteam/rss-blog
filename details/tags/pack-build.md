@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-17 08:34:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-17 09:39:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -7,6 +7,8 @@
 
 
 
+- [2020-03-30-自定义-Webpack-Target](https://blog.crimx.com/2020/03/29/自定义-webpack-target/) 
+- [2019-10-09-利用-Webpack-API-获取资源清单](https://blog.crimx.com/2019/10/09/利用-webpack-api-获取资源清单/) 
 - [2020-11-02-【包管理器】一个由第三方包管理器与npm冲突导致的bug](https://blog.vadxq.com/article/other-package-manage-error/) 
 - [2020-03-27-Webpack5-changelog](http://yoursite.com/2020/03/27/Webpack5-changelog/) 
 - [2019-03-24-Webpack4-使用总结](http://yoursite.com/2019/03/24/Webpack4-%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/) 

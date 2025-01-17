@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-01-17 08:34:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-17 09:39:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -7,6 +7,8 @@
 
 
 
+- [2024-11-26-Canvas系列（18）：实战-烟花效果](https://www.kai666666.com/2024/11/25/Canvas%E7%B3%BB%E5%88%97%EF%BC%8818%EF%BC%89%EF%BC%9A%E5%AE%9E%E6%88%98-%E7%83%9F%E8%8A%B1%E6%95%88%E6%9E%9C/) 
+- [2021-03-05-Canvas系列（17）：碰撞检测](https://www.kai666666.com/2021/03/05/Canvas%E7%B3%BB%E5%88%97%EF%BC%8817%EF%BC%89%EF%BC%9A%E7%A2%B0%E6%92%9E%E6%A3%80%E6%B5%8B/) 
 - [2018-03-05-一次canvas中文字转化成图片后清晰度丢失的探索](http://guowenfh.github.io/2018/03/05/2018/canvas-text-to-image-clarity/) 
 - [2017-10-24-从零学习-canvas-一](http://guowenfh.github.io/2017/10/24/2017/learn-canvas-01/) 
 - [2020-05-02-WebP-方案分析与实践](http://jartto.wang/2020/05/02/webp-practice/) 

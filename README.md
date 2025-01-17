@@ -5,10 +5,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-01-17 08:34:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-17 09:39:18，:rocket: 更新条数: +38， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
+- [crimx](#crimx)![](/assets/dot.png)   
+- [橙光笔记](#橙光笔记)![](/assets/dot.png)   
 - [Teobler](#teobler)  
 - [清竹志](#清竹志)  
 - [Blog-|-Kerminate](#blog-|-kerminate)  
@@ -22,14 +24,14 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -40,12 +42,64 @@
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](/assets/dot.png)   
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
 - [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
+
+<details open>
+<summary id="crimx">
+ crimx
+</summary>
+
+
+- [2020-07-14-如何在-Sass-中方便引用祖先选择器](https://blog.crimx.com/2020/07/14/如何在-sass-中方便引用祖先选择器/) ![](/assets/new.png)  
+- [2020-07-09-Web-Extension-Live-Reloading](https://blog.crimx.com/2020/07/08/web-extension-live-reloading/) ![](/assets/new.png)  
+- [2020-07-01-如何测试-React-并发模式安全](https://blog.crimx.com/2020/06/30/如何测试-react-并发模式安全/) ![](/assets/new.png)  
+- [2020-03-30-自定义-Webpack-Target](https://blog.crimx.com/2020/03/29/自定义-webpack-target/) ![](/assets/new.png)  
+- [2020-02-26-RxJS-Hooks-and-Suspense:-The-Ultimate-Guide](https://blog.crimx.com/2020/02/26/rxjs-hooks-and-suspense-the-ultimate-guide/) ![](/assets/new.png)  
+- [2020-01-16-TypeScript-集合转换为交集](https://blog.crimx.com/2020/01/16/typescript-集合转换为交集/) ![](/assets/new.png)  
+- [2020-01-11-TypeScript-函数泛型部分赋值](https://blog.crimx.com/2020/01/11/typescript-函数泛型部分赋值/) ![](/assets/new.png)  
+- [2019-11-07-修复-Deepin-Wine-迅雷崩溃](https://blog.crimx.com/2019/11/07/修复-deepin-wine-迅雷崩溃/) ![](/assets/new.png)  
+- [2019-10-21-实现一个有趣的-RxJS-Operator](https://blog.crimx.com/2019/10/21/实现一个有趣的-rxjs-operator/) ![](/assets/new.png)  
+- [2019-10-09-利用-Webpack-API-获取资源清单](https://blog.crimx.com/2019/10/09/利用-webpack-api-获取资源清单/) ![](/assets/new.png)  
+- [......【查看更多】......](/details/crimx.md)
+
+<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="橙光笔记">
+ 橙光笔记
+</summary>
+
+
+- [2024-11-26-Canvas系列（18）：实战-烟花效果](https://www.kai666666.com/2024/11/25/Canvas%E7%B3%BB%E5%88%97%EF%BC%8818%EF%BC%89%EF%BC%9A%E5%AE%9E%E6%88%98-%E7%83%9F%E8%8A%B1%E6%95%88%E6%9E%9C/) ![](/assets/new.png)  
+- [2024-06-30-一文看懂TypeScript工具类型](https://www.kai666666.com/2024/06/29/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82TypeScript%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%9E%8B/) ![](/assets/new.png)  
+- [2024-05-12-TypeScript一些知识点](https://www.kai666666.com/2024/05/12/TypeScript%E4%B8%80%E4%BA%9B%E7%9F%A5%E8%AF%86%E7%82%B9/) ![](/assets/new.png)  
+- [2023-05-23-源码共读-Koa](https://www.kai666666.com/2023/05/23/%E6%BA%90%E7%A0%81%E5%85%B1%E8%AF%BB-Koa/) ![](/assets/new.png)  
+- [2023-05-23-源码共读-Redux](https://www.kai666666.com/2023/05/23/%E6%BA%90%E7%A0%81%E5%85%B1%E8%AF%BB-Redux/) ![](/assets/new.png)  
+- [2023-04-18-H5-history-API](https://www.kai666666.com/2023/04/18/H5-history-API/) ![](/assets/new.png)  
+- [2023-03-11-使用随机数生成器估算π](https://www.kai666666.com/2023/03/10/%E4%BD%BF%E7%94%A8%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%94%9F%E6%88%90%E5%99%A8%E4%BC%B0%E7%AE%97%CF%80/) ![](/assets/new.png)  
+- [2023-03-10-计算整数二进制表示中各个1位的数目](https://www.kai666666.com/2023/03/10/%E8%AE%A1%E7%AE%97%E6%95%B4%E6%95%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E8%A1%A8%E7%A4%BA%E4%B8%AD%E5%90%84%E4%B8%AA1%E4%BD%8D%E7%9A%84%E6%95%B0%E7%9B%AE/) ![](/assets/new.png)  
+- [2022-07-24-《JavaScript-DOM-编程艺术》小记](https://www.kai666666.com/2022/07/24/%E3%80%8AJavaScript-DOM-%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF%E3%80%8B%E5%B0%8F%E8%AE%B0/) ![](/assets/new.png)  
+- [2022-06-04-《Web性能实战》读书笔记](https://www.kai666666.com/2022/06/04/%E3%80%8AWeb%E6%80%A7%E8%83%BD%E5%AE%9E%E6%88%98%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/) ![](/assets/new.png)  
+- [2021-07-30-请你挑战一下这几道nextTick面试题](https://www.kai666666.com/2021/07/30/%E8%AF%B7%E4%BD%A0%E6%8C%91%E6%88%98%E4%B8%80%E4%B8%8B%E8%BF%99%E5%87%A0%E9%81%93nextTick%E9%9D%A2%E8%AF%95%E9%A2%98/) ![](/assets/new.png)  
+- [2021-06-24-for...of循环的使用](https://www.kai666666.com/2021/06/24/for-of%E5%BE%AA%E7%8E%AF%E7%9A%84%E4%BD%BF%E7%94%A8/) ![](/assets/new.png)  
+- [2021-06-20-vue2你该知道的一切（下）](https://www.kai666666.com/2021/06/19/vue2%E4%BD%A0%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%84%E4%B8%80%E5%88%87%EF%BC%88%E4%B8%8B%EF%BC%89/) ![](/assets/new.png)  
+- [2021-06-19-vue2你该知道的一切（上）](https://www.kai666666.com/2021/06/19/vue2%E4%BD%A0%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%84%E4%B8%80%E5%88%87%EF%BC%88%E4%B8%8A%EF%BC%89/) ![](/assets/new.png)  
+- [2021-05-23-《CSS选择器世界》读书笔记](https://www.kai666666.com/2021/05/23/%E3%80%8ACSS%E9%80%89%E6%8B%A9%E5%99%A8%E4%B8%96%E7%95%8C%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/) ![](/assets/new.png)  
+- [2021-03-05-Canvas系列（17）：碰撞检测](https://www.kai666666.com/2021/03/05/Canvas%E7%B3%BB%E5%88%97%EF%BC%8817%EF%BC%89%EF%BC%9A%E7%A2%B0%E6%92%9E%E6%A3%80%E6%B5%8B/) ![](/assets/new.png)  
+- [2021-01-19-promisify与unpromisify](https://www.kai666666.com/2021/01/18/promisify%E4%B8%8Eunpromisify/) ![](/assets/new.png)  
+- [2020-12-08-我的跑步之旅-征程](https://www.kai666666.com/2020/12/08/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E5%BE%81%E7%A8%8B/) ![](/assets/new.png)  
+- [2020-12-07-我的跑步之旅-远行](https://www.kai666666.com/2020/12/07/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E8%BF%9C%E8%A1%8C/) ![](/assets/new.png)  
+- [2020-12-04-我的跑步之旅-起航](https://www.kai666666.com/2020/12/04/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E8%B5%B7%E8%88%AA/) ![](/assets/new.png)  
+- [......【查看更多】......](/details/橙光笔记.md)
+
+<div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="teobler">
@@ -421,7 +475,7 @@
 </summary>
 
 
-- [2025-01-17-2025-01-17-HackerNews](https://supertechfans.com/cn/post/2025-01-17-HackerNews/) ![](/assets/new.png)  
+- [2025-01-17-2025-01-17-HackerNews](https://supertechfans.com/cn/post/2025-01-17-HackerNews/)  
 - [2025-01-16-2025-01-16-HackerNews](https://supertechfans.com/cn/post/2025-01-16-HackerNews/)  
 - [2025-01-15-2025-01-15-HackerNews](https://supertechfans.com/cn/post/2025-01-15-HackerNews/)  
 - [2025-01-14-2025-01-14-HackerNews](https://supertechfans.com/cn/post/2025-01-14-HackerNews/)  
@@ -638,6 +692,11 @@
 </summary>
 
 
+- [2025-01-16-setTimeout-定时器，根本就不准时呀！](http://du.jintiankansha.me/t/akg4RGZwWF!wbQ==) ![](/assets/new.png)  
+- [2025-01-15-来了来了！-Vue-有史以来最鸡肋的-API-它来了！](http://du.jintiankansha.me/t/RjZmTVc4b0JLbw==) ![](/assets/new.png)  
+- [2025-01-14-前端接私活的神器！提供了1500+免费的网页模板](http://du.jintiankansha.me/t/OXJoTnNpSjBJNA==) ![](/assets/new.png)  
+- [2025-01-13-年后准备跳槽的兄弟注意了。。。](http://du.jintiankansha.me/t/ZmZjUTlC!2ZxRw==) ![](/assets/new.png)  
+- [2025-01-12-泪目！3w-Star-的前端启蒙项目，被直接封杀清空仓库！](http://du.jintiankansha.me/t/cFNJWFhCYVNneA==) ![](/assets/new.png)  
 - [2024-12-12-2024前端开发岗位现状](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501527&idx=1&sn=c0a4eb9ace46963ae1f0c63684c76a82&chksm=ce45d346f9325a503a461fa24c6af1df99482c18803cb9c99cb869f195c1e6beaa5ef17076cb#rd)  
 - [2024-12-11-三流前端搞技术，二流前端搞框架，一流前端…](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501518&idx=1&sn=2b86d2068644d9d3c7e76eee38beef4d&chksm=ce45d35ff9325a49f32ef7875f2c1afb33952be59ee4a15b655c619ffe121e8453b781a0ad84#rd)  
 - [2024-12-10-年底这行情，我劝各位前端人还是多留一手准备吧！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501508&idx=1&sn=64db80f02077dfb12003c3b36bf25ea4&chksm=ce45d355f9325a43a91606c68f3c323c785c9d7e05d6c398d51bfafce1a2d4f20e5fcc7eca51#rd)  
@@ -653,11 +712,6 @@
 - [2024-11-30-总结了十个Vue3超级实用但是很冷门的API](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501242&idx=1&sn=bf2646a434ad1a617f9c1c4b8f3d6d2b&chksm=ce45d02bf932593d64eeade53ef2ff3a1ab4ee6cf82e817df1d455cc94a156a6e043369d3fe0#rd)  
 - [2024-11-29-前端已成气候！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501231&idx=1&sn=3a5fb493d05d7bc634c1e3255193088d&chksm=ce45d03ef93259289b1fa996ed2d18ef47b80074876f0b54aceeef6608d9ceed157ad7d8432f#rd)  
 - [2024-11-28-不知道前端代码哪里报错了？我有七种方式去监控它！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501217&idx=1&sn=d625be132c4ac9aefab0c03fdbf92af2&chksm=ce45d030f93259266cbedcd183d68837ea4a71927924855cfcd1fa5e3db3d5c1c3ba416baae9#rd)  
-- [2024-11-27-饿了么面试官：实现一下-Element-UI-官网的主题切换动画！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501216&idx=1&sn=4e6e1a6c17460fb233a19e7f58a5fce8&chksm=ce45d031f9325927d9479bdd80fb135c05c4eb39575bed612fcccd7d8cb47bebfd1b63d0e9e0#rd)  
-- [2024-11-26-Echarts-地图如何点击定位到自己的家乡城市区县](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501210&idx=1&sn=42d91f5871460a8d88559eedf1aa1a6b&chksm=ce45d00bf932591d296b232a2fd298a970703315b51dcea2ae4aba9f86fc6b99116739cd8565#rd)  
-- [2024-11-24-不得不说，Ant-Deisgn-是真的懂前端用户！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501208&idx=1&sn=3480cb147722cb2f3eddf5f5ef5195ed&chksm=ce45d009f932591f8fef94f6ec7986e242f3ec675635892ba7510bb6b163bb84d420cbd7ef27#rd)  
-- [2024-07-18-原创把-Canvas-放到-WebWorker-中去绘制？想都不敢想有多爽！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247496800&idx=1&sn=1b428b2548449d557a0d2edbd80a5942&chksm=ce45e1f1f93268e7442175691177ac9d0328c6cf485e571a76b13af74c8b4e1b5134313b7315#rd)  
-- [2024-07-17-前端行情回暖了！！！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247496774&idx=1&sn=12436aba3e0ebde2e1bec3d27a2d33e8&chksm=ce45e1d7f93268c1e1891660a9dbc0c9ba41dfdf3110c5a735bf77465bcebb538d19f0a160a2#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -979,6 +1033,9 @@
 </summary>
 
 
+- [2025-01-17-科技爱好者周刊（第-334-期）：年终笔记四则](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-334.html) ![](/assets/new.png)  
+- [2025-01-16-AI-搞定微信小程序](http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html) ![](/assets/new.png)  
+- [2025-01-10-科技爱好者周刊（第-333-期）：一切都要支付两次](http://www.ruanyifeng.com/blog/2025/01/weekly-issue-333.html) ![](/assets/new.png)  
 - [2024-12-20-科技爱好者周刊（第-330-期）：李开复梳理人工智能](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-330.html)  
 - [2024-12-13-科技爱好者周刊（第-329-期）：示意图利器-D2](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-329.html)  
 - [2024-12-06-科技爱好者周刊（第-328-期）：AI-模型不是一门好生意](http://www.ruanyifeng.com/blog/2024/12/weekly-issue-328.html)  
@@ -996,9 +1053,6 @@
 - [2024-09-27-科技爱好者周刊（第-319-期）：如何拍出爆款视频](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-319.html)  
 - [2024-09-20-科技爱好者周刊（第-318-期）：创业咖啡馆的记忆](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-318.html)  
 - [2024-09-13-科技爱好者周刊（第-317-期）：驴子、老虎和狮子的寓言](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-317.html)  
-- [2024-09-11-白话多集群：工具和应用助手](http://www.ruanyifeng.com/blog/2024/09/tke-appfabric.html)  
-- [2024-09-06-科技爱好者周刊（第-316-期）：你一生的故事](http://www.ruanyifeng.com/blog/2024/09/weekly-issue-316.html)  
-- [2024-08-30-科技爱好者周刊（第-315-期）：一份谷歌离职报告](http://www.ruanyifeng.com/blog/2024/08/weekly-issue-315.html)  
 - [......【查看更多】......](/details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
