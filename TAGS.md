@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-01-17 09:47:35。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-01-17 16:01:59。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -434,6 +434,7 @@
 
 
 
+- [【橙光笔记】Canvas系列（19）：实战-五彩纸屑](https://www.kai666666.com/2025/01/16/Canvas%E7%B3%BB%E5%88%97%EF%BC%8819%EF%BC%89%EF%BC%9A%E5%AE%9E%E6%88%98-%E4%BA%94%E5%BD%A9%E7%BA%B8%E5%B1%91/)
 - [【橙光笔记】Canvas系列（18）：实战-烟花效果](https://www.kai666666.com/2024/11/25/Canvas%E7%B3%BB%E5%88%97%EF%BC%8818%EF%BC%89%EF%BC%9A%E5%AE%9E%E6%88%98-%E7%83%9F%E8%8A%B1%E6%95%88%E6%9E%9C/)
 - [【橙光笔记】Canvas系列（17）：碰撞检测](https://www.kai666666.com/2021/03/05/Canvas%E7%B3%BB%E5%88%97%EF%BC%8817%EF%BC%89%EF%BC%9A%E7%A2%B0%E6%92%9E%E6%A3%80%E6%B5%8B/)
 - [【三省吾身】一次canvas中文字转化成图片后清晰度丢失的探索](http://guowenfh.github.io/2018/03/05/2018/canvas-text-to-image-clarity/)
@@ -453,7 +454,6 @@
 - [【前端早读课】【第2267期】如何1人5天开发完3D数据可视化大屏之三](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651245750&idx=2&sn=7d20f34029457a5dd5479fd89480fb0d&chksm=bd4915328a3e9c2434d9ed5bf92d76e1ef191704c1270cc56d7f69bd8e33d34e084fa62747d0&scene=27#wechat_redirect)
 - [【前端早读课】【第2199期】如何在WebGL中实现短视频卡点动效](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243948&idx=1&sn=7f2c609ed504f046a6adf5703ce9756b&chksm=bd491c288a3e953e3f18db66784e4ef22563ce8b7478f8ce593b4e68819777c6260959321fbe&scene=27#wechat_redirect)
 - [【前端早读课】【第2182期】揭秘3D互动技术在蚂蚁数字金融的应用实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651243499&idx=1&sn=86b7b264866f33ce94f748819fe5c2ec&chksm=bd491a6f8a3e9379b6b94317bd32413f5d0a939609d5d0bdc6fb92852dbe6203f1d38dbf0942&scene=27#wechat_redirect)
-- [【前端早读课】【第2148期】Figma-+-Gitlab-CI-一键交付-SVG-多色图标库](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651241995&idx=2&sn=5dd946a0c23cc1c42c1930a7cab3d6ea&chksm=bd49678f8a3eee99f0a3b919c9e34332fbb59238a38347f1f38c3e8ca0a182dffa99de506976&scene=27#wechat_redirect)
 - [......【查看更多】......](/details/tags/canvas-image.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
