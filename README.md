@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-01-18 00:02:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-18 08:33:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-01-18-2025-01-18-HackerNews](https://supertechfans.com/cn/post/2025-01-18-HackerNews/) ![](/assets/new.png)  
 - [2025-01-17-2025-01-17-HackerNews](https://supertechfans.com/cn/post/2025-01-17-HackerNews/)  
 - [2025-01-16-2025-01-16-HackerNews](https://supertechfans.com/cn/post/2025-01-16-HackerNews/)  
 - [2025-01-15-2025-01-15-HackerNews](https://supertechfans.com/cn/post/2025-01-15-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-01-01-2025-01-01-HackerNews](https://supertechfans.com/cn/post/2025-01-01-HackerNews/)  
 - [2024-12-31-2024-12-31-HackerNews](https://supertechfans.com/cn/post/2024-12-31-HackerNews/)  
 - [2024-12-29-2024-12-29-HackerNews](https://supertechfans.com/cn/post/2024-12-29-HackerNews/)  
-- [2024-12-28-2024-12-28-HackerNews](https://supertechfans.com/cn/post/2024-12-28-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -568,7 +568,7 @@
 </summary>
 
 
-- [2025-01-17-An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719) ![](/assets/new.png)  
+- [2025-01-17-An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719)  
 - [2025-01-10-The-projects-that-shaped-JavaScript-in-2024](https://javascriptweekly.com/issues/718)  
 - [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)  
 - [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716)  
