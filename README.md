@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-01-19 04:01:46，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-19 10:43:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,14 +24,14 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-01-19-2025-01-19-HackerNews](https://supertechfans.com/cn/post/2025-01-19-HackerNews/) ![](/assets/new.png)  
 - [2025-01-18-2025-01-18-HackerNews](https://supertechfans.com/cn/post/2025-01-18-HackerNews/)  
 - [2025-01-17-2025-01-17-HackerNews](https://supertechfans.com/cn/post/2025-01-17-HackerNews/)  
 - [2025-01-16-2025-01-16-HackerNews](https://supertechfans.com/cn/post/2025-01-16-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-01-02-2025-01-02-HackerNews](https://supertechfans.com/cn/post/2025-01-02-HackerNews/)  
 - [2025-01-01-2025-01-01-HackerNews](https://supertechfans.com/cn/post/2025-01-01-HackerNews/)  
 - [2024-12-31-2024-12-31-HackerNews](https://supertechfans.com/cn/post/2024-12-31-HackerNews/)  
-- [2024-12-29-2024-12-29-HackerNews](https://supertechfans.com/cn/post/2024-12-29-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -692,8 +692,8 @@
 </summary>
 
 
-- [2025-01-18-分享一些-Vue-实用且常用的开发工具库](http://du.jintiankansha.me/t/VzFxcE5Gck9JVQ==) ![](/assets/new.png)  
-- [2025-01-17-前端行情回暖了！！！](http://du.jintiankansha.me/t/VjVkVzQ0eEtyTQ==) ![](/assets/new.png)  
+- [2025-01-18-分享一些-Vue-实用且常用的开发工具库](http://du.jintiankansha.me/t/VzFxcE5Gck9JVQ==)  
+- [2025-01-17-前端行情回暖了！！！](http://du.jintiankansha.me/t/VjVkVzQ0eEtyTQ==)  
 - [2025-01-16-setTimeout-定时器，根本就不准时呀！](http://du.jintiankansha.me/t/akg4RGZwWF!wbQ==)  
 - [2025-01-15-来了来了！-Vue-有史以来最鸡肋的-API-它来了！](http://du.jintiankansha.me/t/RjZmTVc4b0JLbw==)  
 - [2025-01-14-前端接私活的神器！提供了1500+免费的网页模板](http://du.jintiankansha.me/t/OXJoTnNpSjBJNA==)  
