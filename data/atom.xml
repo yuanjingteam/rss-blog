@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-01-21T00:34:23.957Z</updated>
+    <updated>2025-01-21T16:01:49.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[NodeBB, the Node.js powered forum system]]></title>
+        <id>https://nodeweekly.com/issues/563</id>
+        <link href="https://nodeweekly.com/issues/563"/>
+        <updated>2025-01-21T00:00:00.000Z</updated>
+        <published>2025-01-21T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[分享一些 Vue 实用且常用的开发工具库]]></title>
         <id>http://du.jintiankansha.me/t/VzFxcE5Gck9JVQ==</id>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[【图书】基于大模型的RGA应用开发与优化-构建企业级LLM应用]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274375&amp;idx=2&amp;sn=e87cc1e140c88a9206d33fe3a68ac621&amp;chksm=bc0cca53d35d0b65e5d8832d2af0bb0df4368649dd94416b58c7307e28b85826e29c575c8333&amp;scene=0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274375&amp;idx=2&amp;sn=e87cc1e140c88a9206d33fe3a68ac621&amp;chksm=bc0cca53d35d0b65e5d8832d2af0bb0df4368649dd94416b58c7307e28b85826e29c575c8333&amp;scene=0#rd"/>
-        <updated>2024-12-05T00:00:00.000Z</updated>
-        <published>2024-12-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle engages its lawyers and JavaScript turns 29]]></title>
-        <id>https://javascriptweekly.com/issues/715</id>
-        <link href="https://javascriptweekly.com/issues/715"/>
         <updated>2024-12-05T00:00:00.000Z</updated>
         <published>2024-12-05T00:00:00.000Z</published>
     </entry>
