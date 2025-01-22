@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-01-22T00:35:13.394Z</updated>
+    <updated>2025-01-22T12:13:43.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -14,11 +14,32 @@
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
     <entry>
+        <title type="html"><![CDATA[Set.has 和 Array.includes 到底应该用哪个？]]></title>
+        <id>http://du.jintiankansha.me/t/eFhHRDUyTX!rQw==</id>
+        <link href="http://du.jintiankansha.me/t/eFhHRDUyTX!rQw=="/>
+        <updated>2025-01-22T00:00:00.000Z</updated>
+        <published>2025-01-22T00:00:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NodeBB, the Node.js powered forum system]]></title>
         <id>https://nodeweekly.com/issues/563</id>
         <link href="https://nodeweekly.com/issues/563"/>
         <updated>2025-01-21T00:00:00.000Z</updated>
         <published>2025-01-21T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分享 9 个神奇且超级实用的 JavaScript 数组方法]]></title>
+        <id>http://du.jintiankansha.me/t/cWw1akkyQloyWQ==</id>
+        <link href="http://du.jintiankansha.me/t/cWw1akkyQloyWQ=="/>
+        <updated>2025-01-20T00:00:00.000Z</updated>
+        <published>2025-01-20T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发一个组件库，需要学哪些技术栈呢？]]></title>
+        <id>http://du.jintiankansha.me/t/VWYxWTRNMUhxcw==</id>
+        <link href="http://du.jintiankansha.me/t/VWYxWTRNMUhxcw=="/>
+        <updated>2025-01-19T00:00:00.000Z</updated>
+        <published>2025-01-19T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[分享一些 Vue 实用且常用的开发工具库]]></title>
@@ -339,27 +360,6 @@
         <title type="html"><![CDATA[React Diff 算法的源码应该怎么读]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516868&amp;idx=1&amp;sn=c17857ddad0582ab57f07f3a0022c452&amp;chksm=eb07babddc7033ab05ad6b31e9fd36732ac2e2f82edec5a07530a64ae1e8a795bb24c622a115#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516868&amp;idx=1&amp;sn=c17857ddad0582ab57f07f3a0022c452&amp;chksm=eb07babddc7033ab05ad6b31e9fd36732ac2e2f82edec5a07530a64ae1e8a795bb24c622a115#rd"/>
-        <updated>2024-12-05T00:00:00.000Z</updated>
-        <published>2024-12-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI 年终大战：连续 12 天直播，一大堆东西会发布]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500091&amp;idx=1&amp;sn=f4790cbe1b57fd31686693c7ce813206&amp;chksm=c2b300c4f5c489d256927c808f859b187249ff4798e7fcbaaf66189503e4cb35ce64e2c53d5c#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&amp;mid=2247500091&amp;idx=1&amp;sn=f4790cbe1b57fd31686693c7ce813206&amp;chksm=c2b300c4f5c489d256927c808f859b187249ff4798e7fcbaaf66189503e4cb35ce64e2c53d5c#rd"/>
-        <updated>2024-12-05T00:00:00.000Z</updated>
-        <published>2024-12-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一文彻底说清楚SSR渲染]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524471&amp;idx=2&amp;sn=30a2b94e9cfb4c1b922c4843c15482db&amp;chksm=f99266a6cee5efb0bee3fcff2b58a8aaab0ec6375b005443f957087df99069a04f4853dc2140#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524471&amp;idx=2&amp;sn=30a2b94e9cfb4c1b922c4843c15482db&amp;chksm=f99266a6cee5efb0bee3fcff2b58a8aaab0ec6375b005443f957087df99069a04f4853dc2140#rd"/>
-        <updated>2024-12-05T00:00:00.000Z</updated>
-        <published>2024-12-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【图书】基于大模型的RGA应用开发与优化-构建企业级LLM应用]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274375&amp;idx=2&amp;sn=e87cc1e140c88a9206d33fe3a68ac621&amp;chksm=bc0cca53d35d0b65e5d8832d2af0bb0df4368649dd94416b58c7307e28b85826e29c575c8333&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274375&amp;idx=2&amp;sn=e87cc1e140c88a9206d33fe3a68ac621&amp;chksm=bc0cca53d35d0b65e5d8832d2af0bb0df4368649dd94416b58c7307e28b85826e29c575c8333&amp;scene=0#rd"/>
         <updated>2024-12-05T00:00:00.000Z</updated>
         <published>2024-12-05T00:00:00.000Z</published>
     </entry>

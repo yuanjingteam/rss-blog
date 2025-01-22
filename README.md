@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-01-22 08:35:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-22 20:13:43，:rocket: 更新条数: +5， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,14 +24,14 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -45,7 +45,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)  
+- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
 
 ## 文章链接
 
@@ -475,7 +475,7 @@
 </summary>
 
 
-- [2025-01-22-2025-01-22-HackerNews](https://supertechfans.com/cn/post/2025-01-22-HackerNews/) ![](/assets/new.png)  
+- [2025-01-22-2025-01-22-HackerNews](https://supertechfans.com/cn/post/2025-01-22-HackerNews/)  
 - [2025-01-21-2025-01-21-HackerNews](https://supertechfans.com/cn/post/2025-01-21-HackerNews/)  
 - [2025-01-20-2025-01-20-HackerNews](https://supertechfans.com/cn/post/2025-01-20-HackerNews/)  
 - [2025-01-19-2025-01-19-HackerNews](https://supertechfans.com/cn/post/2025-01-19-HackerNews/)  
@@ -692,6 +692,10 @@
 </summary>
 
 
+- [2025-01-22-Set.has-和-Array.includes-到底应该用哪个？](http://du.jintiankansha.me/t/eFhHRDUyTX!rQw==) ![](/assets/new.png)  
+- [2025-01-21-前端行情变了，差别真的挺大。。。](http://du.jintiankansha.me/t/ek5BWnJIcn!BTQ==) ![](/assets/new.png)  
+- [2025-01-20-分享-9-个神奇且超级实用的-JavaScript-数组方法](http://du.jintiankansha.me/t/cWw1akkyQloyWQ==) ![](/assets/new.png)  
+- [2025-01-19-开发一个组件库，需要学哪些技术栈呢？](http://du.jintiankansha.me/t/VWYxWTRNMUhxcw==) ![](/assets/new.png)  
 - [2025-01-18-分享一些-Vue-实用且常用的开发工具库](http://du.jintiankansha.me/t/VzFxcE5Gck9JVQ==)  
 - [2025-01-17-前端行情回暖了！！！](http://du.jintiankansha.me/t/VjVkVzQ0eEtyTQ==)  
 - [2025-01-16-setTimeout-定时器，根本就不准时呀！](http://du.jintiankansha.me/t/akg4RGZwWF!wbQ==)  
@@ -708,10 +712,6 @@
 - [2024-12-06-因为不看前端文档，导致白忙活一整天](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501425&idx=1&sn=a6ee9a3c4412c0d73d87bd2cf030dd31&chksm=ce45d3e0f9325af69a1ac91ba2d2dc0be015294f02421a1479d33069077645819e8eed8e568b#rd)  
 - [2024-12-05-前端行情变了，差别真的挺大。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501401&idx=1&sn=0dde7df600c4bd121d437960cbffacb6&chksm=ce45d3c8f9325adeb93fd7afe18854ad1b4f19054d1c5c324f063103b23346443846938d4f32#rd)  
 - [2024-12-04-搭建公司知识管理平台，分享一点心得！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501392&idx=1&sn=2087ef421e4c665e83cb55ff09cd4f6a&chksm=ce45d3c1f9325ad77439c6f6d779df7028149fb96b17d18d6fff999c1e2b49789f4a83b75d8f#rd)  
-- [2024-12-03-又是阿里前端组带出来的风气！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501359&idx=1&sn=03d220ec2f1a805168cb697b28917c2c&chksm=ce45d3bef9325aa8ddcc39839c94a527a51d7fd89000de4a84d101549f8c4202f1e5710629ee#rd)  
-- [2024-12-02-2024-了，前端到底是“技术深度”重要还是“技术广度”重要？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501312&idx=1&sn=f577e40a9d6fbb5af76526bef969e163&chksm=ce45d391f9325a876582038cfd0c73120e0ad7b2ecb9918748799865598bc096b569429b5538#rd)  
-- [2024-12-01-Vite-6.0-到底更新了啥玩意啊？？？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501254&idx=1&sn=28d5ed0b572a33898d775be1455e9362&chksm=ce45d057f93259415d3569d2dd85740b78f63376d3f593c7d317483f9259ae25eff36e4085e3#rd)  
-- [2024-11-30-总结了十个Vue3超级实用但是很冷门的API](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501242&idx=1&sn=bf2646a434ad1a617f9c1c4b8f3d6d2b&chksm=ce45d02bf932593d64eeade53ef2ff3a1ab4ee6cf82e817df1d455cc94a156a6e043369d3fe0#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1126,6 +1126,7 @@
 </summary>
 
 
+- [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://hughfenghen.github.io/posts/2025/01/22/proxy-switch-cli/) ![](/assets/new.png)  
 - [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/)  
 - [2024-10-31-WebAV-SDK（Web-视频编辑）V1-发布](https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released/)  
 - [2024-10-28-纯-Web-视频剪辑](https://hughfenghen.github.io/posts/2024/10/28/webav-video-editor/)  
@@ -1142,10 +1143,9 @@
 - [2023-10-06-WebCodecs-开启-Web-音视频新篇章](https://hughfenghen.github.io/posts/2023/10/06/webcodecs-new-era-for-media-on-the-web/)  
 - [2023-10-02-【译】WebCodecs-说明](https://hughfenghen.github.io/posts/2023/10/02/webcodecs-explainer/)  
 - [2023-09-19-解决-Edge-117-浏览器视频变色](https://hughfenghen.github.io/posts/2023/09/19/edge117-amd-hevc-bugfix/)  
-- [2023-08-19-Web-音视频（六）图像素材处理](https://hughfenghen.github.io/posts/2023/08/19/webav-6-process-image/)  
 - [2023-08-19-Web-音视频（七）中期回顾](https://hughfenghen.github.io/posts/2023/08/19/webav-7-mid-review/)  
+- [2023-08-19-Web-音视频（六）图像素材处理](https://hughfenghen.github.io/posts/2023/08/19/webav-6-process-image/)  
 - [2023-08-18-【转】我在-20-年的软件工程师生涯中学到的事情](https://hughfenghen.github.io/posts/2023/08/18/twenty-things-software-engineer/)  
-- [2023-08-12-Web-音视频（五）在浏览器中合成视频](https://hughfenghen.github.io/posts/2023/08/12/webav-5-combine/)  
 - [......【查看更多】......](/details/风痕·術&思.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
