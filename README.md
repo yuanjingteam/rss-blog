@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-01-24 08:34:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-25 02:01:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -475,7 +475,7 @@
 </summary>
 
 
-- [2025-01-24-2025-01-24-HackerNews](https://supertechfans.com/cn/post/2025-01-24-HackerNews/) ![](/assets/new.png)  
+- [2025-01-24-2025-01-24-HackerNews](https://supertechfans.com/cn/post/2025-01-24-HackerNews/)  
 - [2025-01-23-2025-01-23-HackerNews](https://supertechfans.com/cn/post/2025-01-23-HackerNews/)  
 - [2025-01-22-2025-01-22-HackerNews](https://supertechfans.com/cn/post/2025-01-22-HackerNews/)  
 - [2025-01-21-2025-01-21-HackerNews](https://supertechfans.com/cn/post/2025-01-21-HackerNews/)  
@@ -568,6 +568,7 @@
 </summary>
 
 
+- [2025-01-24-Bun's-on-a-roll-with-v1.2](https://javascriptweekly.com/issues/720) ![](/assets/new.png)  
 - [2025-01-17-An-introduction-to-building-live-collaborative-JS-apps](https://javascriptweekly.com/issues/719)  
 - [2025-01-10-The-projects-that-shaped-JavaScript-in-2024](https://javascriptweekly.com/issues/718)  
 - [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)  
@@ -587,7 +588,6 @@
 - [2024-09-05-Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703)  
 - [2024-08-29-JavaScript's-Rust-tool-belt](https://javascriptweekly.com/issues/702)  
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701)  
-- [2024-08-15-The-npm-tea-party](https://javascriptweekly.com/issues/700)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
