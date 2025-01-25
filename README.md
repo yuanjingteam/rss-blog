@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-01-25 10:35:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-25 20:01:52，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,14 +24,14 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)  
+- [前端之神](#前端之神)![](/assets/dot.png)   
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -475,7 +475,7 @@
 </summary>
 
 
-- [2025-01-25-2025-01-25-HackerNews](https://supertechfans.com/cn/post/2025-01-25-HackerNews/) ![](/assets/new.png)  
+- [2025-01-25-2025-01-25-HackerNews](https://supertechfans.com/cn/post/2025-01-25-HackerNews/)  
 - [2025-01-24-2025-01-24-HackerNews](https://supertechfans.com/cn/post/2025-01-24-HackerNews/)  
 - [2025-01-23-2025-01-23-HackerNews](https://supertechfans.com/cn/post/2025-01-23-HackerNews/)  
 - [2025-01-22-2025-01-22-HackerNews](https://supertechfans.com/cn/post/2025-01-22-HackerNews/)  
@@ -692,6 +692,8 @@
 </summary>
 
 
+- [2025-01-24-真有程序员转行做保安去了，祝好！](http://du.jintiankansha.me/t/NTNQejNSbjZRNA==) ![](/assets/new.png)  
+- [2025-01-23-前端的响应从未如此简单！渲染视图的写法也发生大变化！](http://du.jintiankansha.me/t/TWtPYT!FQzhDTg==) ![](/assets/new.png)  
 - [2025-01-22-Set.has-和-Array.includes-到底应该用哪个？](http://du.jintiankansha.me/t/eFhHRDUyTX!rQw==)  
 - [2025-01-21-前端行情变了，差别真的挺大。。。](http://du.jintiankansha.me/t/ek5BWnJIcn!BTQ==)  
 - [2025-01-20-分享-9-个神奇且超级实用的-JavaScript-数组方法](http://du.jintiankansha.me/t/cWw1akkyQloyWQ==)  
@@ -710,8 +712,6 @@
 - [2024-12-08-95%的人都回答不上来的问题：函数的length是多少？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501449&idx=1&sn=d8404dbe3d626e31a2816b05f9c5cee1&chksm=ce45d318f9325a0e4f7a1fd938f7f2724d9d3d7aecb4c0a8882c1f40b10cdce65874d9df3dd2#rd)  
 - [2024-12-07-Vue3-项目中，如何设计一个表单配置生成器？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501434&idx=1&sn=80a391451924e275da0a98de506a6f06&chksm=ce45d3ebf9325afd547e8ab0f9fd74c3e478363a98023a987d54579d4bf4de3fb884304ad779#rd)  
 - [2024-12-06-因为不看前端文档，导致白忙活一整天](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501425&idx=1&sn=a6ee9a3c4412c0d73d87bd2cf030dd31&chksm=ce45d3e0f9325af69a1ac91ba2d2dc0be015294f02421a1479d33069077645819e8eed8e568b#rd)  
-- [2024-12-05-前端行情变了，差别真的挺大。。。](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501401&idx=1&sn=0dde7df600c4bd121d437960cbffacb6&chksm=ce45d3c8f9325adeb93fd7afe18854ad1b4f19054d1c5c324f063103b23346443846938d4f32#rd)  
-- [2024-12-04-搭建公司知识管理平台，分享一点心得！](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501392&idx=1&sn=2087ef421e4c665e83cb55ff09cd4f6a&chksm=ce45d3c1f9325ad77439c6f6d779df7028149fb96b17d18d6fff999c1e2b49789f4a83b75d8f#rd)  
 - [......【查看更多】......](/details/前端之神.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
