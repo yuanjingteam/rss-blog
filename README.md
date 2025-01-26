@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-01-25 20:01:52，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-01-26 10:40:50，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,14 +24,14 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [前端之神](#前端之神)![](/assets/dot.png)   
+- [前端之神](#前端之神)  
 - [前端技术优选](#前端技术优选)  
 - [程序员成长指北](#程序员成长指北)  
 - [iCSS前端趣闻](#icss前端趣闻)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-01-26-2025-01-26-HackerNews](https://supertechfans.com/cn/post/2025-01-26-HackerNews/) ![](/assets/new.png)  
 - [2025-01-25-2025-01-25-HackerNews](https://supertechfans.com/cn/post/2025-01-25-HackerNews/)  
 - [2025-01-24-2025-01-24-HackerNews](https://supertechfans.com/cn/post/2025-01-24-HackerNews/)  
 - [2025-01-23-2025-01-23-HackerNews](https://supertechfans.com/cn/post/2025-01-23-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-01-09-2025-01-09-HackerNews](https://supertechfans.com/cn/post/2025-01-09-HackerNews/)  
 - [2025-01-08-2025-01-08-HackerNews](https://supertechfans.com/cn/post/2025-01-08-HackerNews/)  
 - [2025-01-07-2025-01-07-HackerNews](https://supertechfans.com/cn/post/2025-01-07-HackerNews/)  
-- [2025-01-06-2025-01-06-HackerNews](https://supertechfans.com/cn/post/2025-01-06-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -692,8 +692,8 @@
 </summary>
 
 
-- [2025-01-24-真有程序员转行做保安去了，祝好！](http://du.jintiankansha.me/t/NTNQejNSbjZRNA==) ![](/assets/new.png)  
-- [2025-01-23-前端的响应从未如此简单！渲染视图的写法也发生大变化！](http://du.jintiankansha.me/t/TWtPYT!FQzhDTg==) ![](/assets/new.png)  
+- [2025-01-24-真有程序员转行做保安去了，祝好！](http://du.jintiankansha.me/t/NTNQejNSbjZRNA==)  
+- [2025-01-23-前端的响应从未如此简单！渲染视图的写法也发生大变化！](http://du.jintiankansha.me/t/TWtPYT!FQzhDTg==)  
 - [2025-01-22-Set.has-和-Array.includes-到底应该用哪个？](http://du.jintiankansha.me/t/eFhHRDUyTX!rQw==)  
 - [2025-01-21-前端行情变了，差别真的挺大。。。](http://du.jintiankansha.me/t/ek5BWnJIcn!BTQ==)  
 - [2025-01-20-分享-9-个神奇且超级实用的-JavaScript-数组方法](http://du.jintiankansha.me/t/cWw1akkyQloyWQ==)  
