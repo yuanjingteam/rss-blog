@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-02-04T02:39:32.014Z</updated>
+    <updated>2025-02-04T16:01:13.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[A TypeScript release targeted at Node developers]]></title>
+        <id>https://nodeweekly.com/issues/565</id>
+        <link href="https://nodeweekly.com/issues/565"/>
+        <updated>2025-02-04T00:00:00.000Z</updated>
+        <published>2025-02-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A WebAssembly compiler in 192 bytes]]></title>
         <id>https://javascriptweekly.com/issues/721</id>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[Vue3 项目中，如何设计一个表单配置生成器？]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501434&amp;idx=1&amp;sn=80a391451924e275da0a98de506a6f06&amp;chksm=ce45d3ebf9325afd547e8ab0f9fd74c3e478363a98023a987d54579d4bf4de3fb884304ad779#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&amp;mid=2247501434&amp;idx=1&amp;sn=80a391451924e275da0a98de506a6f06&amp;chksm=ce45d3ebf9325afd547e8ab0f9fd74c3e478363a98023a987d54579d4bf4de3fb884304ad779#rd"/>
-        <updated>2024-12-07T00:00:00.000Z</updated>
-        <published>2024-12-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【早阅】React 19 正式发布]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274442&amp;idx=1&amp;sn=9a26dce6366b20268f223d264ae1206a&amp;chksm=bce510036663e7f581317c7a4a743b20383c691a7f32e0833ef188a7a033eb0b02a34198d328&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274442&amp;idx=1&amp;sn=9a26dce6366b20268f223d264ae1206a&amp;chksm=bce510036663e7f581317c7a4a743b20383c691a7f32e0833ef188a7a033eb0b02a34198d328&amp;scene=0#rd"/>
         <updated>2024-12-07T00:00:00.000Z</updated>
         <published>2024-12-07T00:00:00.000Z</published>
     </entry>

@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-02-04 10:39:31。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-02-05 00:01:13。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -117,6 +117,7 @@
 - [【rxliuli】在-Web-中实现一个-TypeScript-Editor](https://blog.rxliuli.com/p/03549d7051e440b7bbdeccf027fac644/)
 - [【一个前端工程师的博客】从两个角度看Typescript中的类型是什么](https://taoweng.site/posts/%E4%BB%8E%E4%B8%A4%E4%B8%AA%E8%A7%92%E5%BA%A6%E7%9C%8Btypescript%E4%B8%AD%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%98%AF%E4%BB%80%E4%B9%88/)
 - [【蚊子前端博客】能用js重写的都会被typescript重写](https://www.xiabingbao.com/post/typescript/typescript-forward.html)
+- [【Node-Weekly】A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565)
 - [【Node-Weekly】Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)
 - [【Node-Weekly】Now-Node-can-run-even-more-TypeScript](https://nodeweekly.com/issues/545)
 - [【Node-Weekly】Node-can-run-TypeScript-sort-of](https://nodeweekly.com/issues/542)
@@ -129,7 +130,6 @@
 - [【JavaScript-Weekly】TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)
 - [【JavaScript-Weekly】Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640)
 - [【JavaScript-Weekly】Why-Svelte-is-converting-TypeScript-to-JSDoc](https://javascriptweekly.com/issues/638)
-- [【JavaScript-Weekly】Astro-2.0-and-TypeScript-5.0-beta](https://javascriptweekly.com/issues/623)
 - [......【查看更多】......](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
