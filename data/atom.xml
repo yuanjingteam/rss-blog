@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-02-07T00:34:28.252Z</updated>
+    <updated>2025-02-07T16:01:52.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[Oracle dabbles in some JavaScript comedy]]></title>
+        <id>https://javascriptweekly.com/issues/722</id>
+        <link href="https://javascriptweekly.com/issues/722"/>
+        <updated>2025-02-07T00:00:00.000Z</updated>
+        <published>2025-02-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JS Array数组新的with方法，你知道作用吗？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/02/js-array-with/</id>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[用Three.js搞个炫酷风场图]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524571&amp;idx=1&amp;sn=8ea78c7ca6679f73b8f308f137fdbef1&amp;chksm=f992660acee5ef1cfde89358f6fe2d8e88996edbf5e5d8bb2436d98aec9e6c65c4d4a7763289#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524571&amp;idx=1&amp;sn=8ea78c7ca6679f73b8f308f137fdbef1&amp;chksm=f992660acee5ef1cfde89358f6fe2d8e88996edbf5e5d8bb2436d98aec9e6c65c4d4a7763289#rd"/>
-        <updated>2024-12-07T00:00:00.000Z</updated>
-        <published>2024-12-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聊聊 Node.js 最近支持的 SO_REUSEPORT]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524571&amp;idx=2&amp;sn=c69326ffeb1ba716ec89ca328422d9bf&amp;chksm=f992660acee5ef1ca57321399be5a03602eca59b7024c5a0c76fbe96a3b839cdec30802be6f2#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524571&amp;idx=2&amp;sn=c69326ffeb1ba716ec89ca328422d9bf&amp;chksm=f992660acee5ef1ca57321399be5a03602eca59b7024c5a0c76fbe96a3b839cdec30802be6f2#rd"/>
         <updated>2024-12-07T00:00:00.000Z</updated>
         <published>2024-12-07T00:00:00.000Z</published>
     </entry>
