@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-02-18 10:40:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-02-18 20:13:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -8,6 +8,7 @@
 
 
 - [2022-11-28-Edge-Function](https://teobler.com/posts/20221128-edge-function) 
+- [2025-02-16-当吾辈遇上-Firefox-中-9-年的陈年老-Bug](https://blog.rxliuli.com/p/23bc670bb5e54e6190d3ecf39cc3efd4/) 
 - [2025-01-02-在-Chrome-插件中拦截网络请求](https://blog.rxliuli.com/p/7ffe39eff5c64f5d90acf21518e39d63/) 
 - [2022-03-16-【面试系列一】如何回答如何理解重排和重绘](https://taoweng.site/posts/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97%E4%B8%80%E5%A6%82%E4%BD%95%E5%9B%9E%E7%AD%94%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E9%87%8D%E6%8E%92%E5%92%8C%E9%87%8D%E7%BB%98/) 
 - [2018-09-04-HTTPie-官方文档中文翻译版](https://keelii.com/2018/09/03/HTTPie) 
