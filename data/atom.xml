@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-02-24T02:46:40.648Z</updated>
+    <updated>2025-02-24T08:01:54.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[HTML permission元素和Permissions API简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/"/>
+        <updated>2025-02-24T00:00:00.000Z</updated>
+        <published>2025-02-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[当吾辈遇上 Firefox 中 9 年的陈年老 Bug]]></title>
         <id>https://blog.rxliuli.com/p/23bc670bb5e54e6190d3ecf39cc3efd4/</id>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[React Diff 算法的源码应该怎么读]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524587&amp;idx=2&amp;sn=633d38f9d5573a2ed04cecf8aa903410&amp;chksm=f992663acee5ef2c5d3793f8febb20faf922892aa311811ef6bd50ad6167220505b2158bce23#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524587&amp;idx=2&amp;sn=633d38f9d5573a2ed04cecf8aa903410&amp;chksm=f992663acee5ef2c5d3793f8febb20faf922892aa311811ef6bd50ad6167220505b2158bce23#rd"/>
-        <updated>2024-12-09T00:00:00.000Z</updated>
-        <published>2024-12-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[目前最快的 Node.js HTTP 客户端库 Undici 发布 v7 版本！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524587&amp;idx=1&amp;sn=80bc7865e2db7206461ffb5f18b93427&amp;chksm=f992663acee5ef2c7d442515799465e471f21ed7ee2714c85038b256de1866225f9e79ee2683#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524587&amp;idx=1&amp;sn=80bc7865e2db7206461ffb5f18b93427&amp;chksm=f992663acee5ef2c7d442515799465e471f21ed7ee2714c85038b256de1866225f9e79ee2683#rd"/>
         <updated>2024-12-09T00:00:00.000Z</updated>
         <published>2024-12-09T00:00:00.000Z</published>
     </entry>
