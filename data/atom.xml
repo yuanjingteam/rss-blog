@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-02-25T08:01:47.724Z</updated>
+    <updated>2025-02-25T16:01:48.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[Node 23.8 introduces the URL Pattern API]]></title>
+        <id>https://nodeweekly.com/issues/567</id>
+        <link href="https://nodeweekly.com/issues/567"/>
+        <updated>2025-02-25T00:00:00.000Z</updated>
+        <published>2025-02-25T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML permission元素和Permissions API简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/</id>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[React 19 稳定版，它终于来了！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516890&amp;idx=1&amp;sn=d76d0b6acc0b35811eff806d71a19f61&amp;chksm=eb07baa3dc7033b5a7ed67052f4ceb05c4591757931fdaa3b4d6738d23cc79db966cb50dbcd0#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516890&amp;idx=1&amp;sn=d76d0b6acc0b35811eff806d71a19f61&amp;chksm=eb07baa3dc7033b5a7ed67052f4ceb05c4591757931fdaa3b4d6738d23cc79db966cb50dbcd0#rd"/>
-        <updated>2024-12-09T00:00:00.000Z</updated>
-        <published>2024-12-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Diff 算法的源码应该怎么读]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524587&amp;idx=2&amp;sn=633d38f9d5573a2ed04cecf8aa903410&amp;chksm=f992663acee5ef2c5d3793f8febb20faf922892aa311811ef6bd50ad6167220505b2158bce23#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524587&amp;idx=2&amp;sn=633d38f9d5573a2ed04cecf8aa903410&amp;chksm=f992663acee5ef2c5d3793f8febb20faf922892aa311811ef6bd50ad6167220505b2158bce23#rd"/>
         <updated>2024-12-09T00:00:00.000Z</updated>
         <published>2024-12-09T00:00:00.000Z</published>
     </entry>
