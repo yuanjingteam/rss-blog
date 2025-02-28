@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-02-28 10:46:34，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-01 00:02:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -45,7 +45,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -475,7 +475,7 @@
 </summary>
 
 
-- [2025-02-28-2025-02-28-HackerNews](https://supertechfans.com/cn/post/2025-02-28-HackerNews/) ![](/assets/new.png)  
+- [2025-02-28-2025-02-28-HackerNews](https://supertechfans.com/cn/post/2025-02-28-HackerNews/)  
 - [2025-02-27-2025-02-27-HackerNews](https://supertechfans.com/cn/post/2025-02-27-HackerNews/)  
 - [2025-02-26-2025-02-26-HackerNews](https://supertechfans.com/cn/post/2025-02-26-HackerNews/)  
 - [2025-02-25-2025-02-25-HackerNews](https://supertechfans.com/cn/post/2025-02-25-HackerNews/)  
@@ -568,6 +568,7 @@
 </summary>
 
 
+- [2025-02-28-Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725) ![](/assets/new.png)  
 - [2025-02-21-The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724)  
 - [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723)  
 - [2025-02-07-Oracle-dabbles-in-some-JavaScript-comedy](https://javascriptweekly.com/issues/722)  
@@ -587,7 +588,6 @@
 - [2024-10-10-A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708)  
 - [2024-10-03-Evan-You's-next-big-adventure](https://javascriptweekly.com/issues/707)  
 - [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706)  
-- [2024-09-19-Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1126,7 +1126,7 @@
 </summary>
 
 
-- [2025-02-09-从-React-看前端-UI-代码范式革命](https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/) ![](/assets/new.png)  
+- [2025-02-09-从-React-看前端-UI-代码范式革命](https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/)  
 - [2025-01-22-在终端（Terminal）中快捷使用代理的方法](https://hughfenghen.github.io/posts/2025/01/22/proxy-switch-cli/)  
 - [2025-01-07-使用-AI-+-OPFS-在浏览器中实现-MacOS-Finder（文件管理器）](https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/)  
 - [2024-10-31-WebAV-SDK-Web-Video-Editing-V1-Release](https://hughfenghen.github.io/posts/2024/10/31/webav-v1-released-en/)  

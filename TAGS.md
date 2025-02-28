@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-02-28 10:46:34。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-03-01 00:02:06。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -124,12 +124,12 @@
 - [【Node-Weekly】Node-21.7-and-TypeScript-5.4](https://nodeweekly.com/issues/524)
 - [【Node-Weekly】TypeScript-4.7-supports-ES-modules-in-Node.js](https://nodeweekly.com/issues/439)
 - [【Node-Weekly】Writing-an-SD-card-driver-in-TypeScript](https://nodeweekly.com/issues/424)
+- [【JavaScript-Weekly】Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725)
 - [【JavaScript-Weekly】The-biggest-TypeScript-release-in-years?](https://javascriptweekly.com/issues/692)
 - [【JavaScript-Weekly】Postgres-in-TypeScript](https://javascriptweekly.com/issues/677)
 - [【JavaScript-Weekly】Microsoft-spills-the-tea-on-TypeScript](https://javascriptweekly.com/issues/655)
 - [【JavaScript-Weekly】TypeScript-5.2,-Node-20.6,-and-Astro-3.0](https://javascriptweekly.com/issues/653)
 - [【JavaScript-Weekly】Microsoft-shrunk-the-TypeScript](https://javascriptweekly.com/issues/640)
-- [【JavaScript-Weekly】Why-Svelte-is-converting-TypeScript-to-JSDoc](https://javascriptweekly.com/issues/638)
 - [......【查看更多】......](/details/tags/typescript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-02-28T02:46:34.880Z</updated>
+    <updated>2025-02-28T16:02:07.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[Doom for TypeScript types]]></title>
+        <id>https://javascriptweekly.com/issues/725</id>
+        <link href="https://javascriptweekly.com/issues/725"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <published>2025-02-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node 23.8 introduces the URL Pattern API]]></title>
         <id>https://nodeweekly.com/issues/567</id>
@@ -355,12 +362,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274484&amp;idx=1&amp;sn=6e50ccc6ca737dbe24e5089d9f3105ed&amp;chksm=bcd1a23deaaaddbf5a08b506830311e2066ac309529d52862f2922eaac135794041fb9255bc2&amp;scene=0#rd"/>
         <updated>2024-12-10T00:00:00.000Z</updated>
         <published>2024-12-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大模型“翻车”背后的技术原理及解决方案]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537305&amp;idx=1&amp;sn=ff4f459e24bf7c40d4850e6de5dcd952&amp;chksm=83973541b4e0bc576cd9bb16d332a34acfed0f95b3fc1a85d576812e4084fd59baf2cbae920e#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzAxNDEwNjk5OQ==&amp;mid=2650537305&amp;idx=1&amp;sn=ff4f459e24bf7c40d4850e6de5dcd952&amp;chksm=83973541b4e0bc576cd9bb16d332a34acfed0f95b3fc1a85d576812e4084fd59baf2cbae920e#rd"/>
-        <updated>2024-12-09T00:00:00.000Z</updated>
-        <published>2024-12-09T00:00:00.000Z</published>
     </entry>
 </feed>
