@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-03-05 08:37:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-05 14:01:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -20,6 +20,7 @@
 - [2022-07-13-我在Thoughtworks的四年](https://teobler.com/posts/20220713-the-fourth-anniversary) 
 - [2022-06-06-定制西服小知识](https://teobler.com/posts/20220606-suit) 
 - [2022-05-30-时间都去哪了](https://teobler.com/posts/20220530-where-does-the-time-go) 
+- [2025-03-05-激战“后DeepSeek时代”：全球大模型开启“地狱级”内卷模式](https://blog.vadxq.com/article/post-deepseek-era-llm-status/) 
 - [2024-10-24-改名公告：清竹茶馆的新篇章-清竹志](https://blog.vadxq.com/article/change-blog-name-2024/) 
 - [2023-12-31-【2023年终总结】与逝去的年华道个别](https://blog.vadxq.com/article/2023-year-end-summary/) 
 - [2022-12-31-【2022年终总结】此去经年，烟消雾散，晨曦微露](https://blog.vadxq.com/article/2022-year-end-summary/) 

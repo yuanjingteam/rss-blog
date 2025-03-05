@@ -5,14 +5,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-03-05 08:37:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-05 14:01:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [crimx](#crimx)  
 - [橙光笔记](#橙光笔记)  
 - [Teobler](#teobler)  
-- [清竹志](#清竹志)  
+- [清竹志](#清竹志)![](/assets/dot.png)   
 - [Blog-|-Kerminate](#blog-|-kerminate)  
 - [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -128,6 +128,7 @@
 </summary>
 
 
+- [2025-03-05-激战“后DeepSeek时代”：全球大模型开启“地狱级”内卷模式](https://blog.vadxq.com/article/post-deepseek-era-llm-status/) ![](/assets/new.png)  
 - [2024-10-24-改名公告：清竹茶馆的新篇章-清竹志](https://blog.vadxq.com/article/change-blog-name-2024/)  
 - [2023-12-31-【2023年终总结】与逝去的年华道个别](https://blog.vadxq.com/article/2023-year-end-summary/)  
 - [2023-10-24-【前端工程化】Nextjs项目工程化最佳实践总结（献给2023-1024的礼物）](https://blog.vadxq.com/article/nextjs-engineering-project/)  
@@ -147,7 +148,6 @@
 - [2020-10-23-【前端重温系列】this的不可描述与变化原理（献给2020-1024的礼物）](https://blog.vadxq.com/article/frontend-revisited-this/)  
 - [2020-10-06-【前端重温系列】闭包及其涉及知识点的理解](https://blog.vadxq.com/article/frontend-revisited-closure/)  
 - [2020-02-20-【教程】Macbook使用初始化指南](https://blog.vadxq.com/article/macbook-use-guide/)  
-- [2019-12-20-【Linux】阿里云服务器初始化操作](https://blog.vadxq.com/article/aliyun-server-init/)  
 - [......【查看更多】......](/details/清竹志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -475,7 +475,7 @@
 </summary>
 
 
-- [2025-03-05-2025-03-05-HackerNews](https://supertechfans.com/cn/post/2025-03-05-HackerNews/) ![](/assets/new.png)  
+- [2025-03-05-2025-03-05-HackerNews](https://supertechfans.com/cn/post/2025-03-05-HackerNews/)  
 - [2025-03-04-2025-03-04-HackerNews](https://supertechfans.com/cn/post/2025-03-04-HackerNews/)  
 - [2025-03-03-2025-03-03-HackerNews](https://supertechfans.com/cn/post/2025-03-03-HackerNews/)  
 - [2025-03-02-2025-03-02-HackerNews](https://supertechfans.com/cn/post/2025-03-02-HackerNews/)  
