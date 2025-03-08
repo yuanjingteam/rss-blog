@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-03-08 10:22:10。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-03-08 14:01:56。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -79,6 +79,7 @@
 - [【Blog | Kerminate】Vue3.0-响应式原理解析](http://yoursite.com/2020/01/31/Vue3-0-%E5%93%8D%E5%BA%94%E5%BC%8F%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/)
 - [【Blog | Kerminate】Vue-3.0-会有哪些变化](http://yoursite.com/2019/06/29/Vue3-0-%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%98%E5%8C%96/)
 - [【Blog | Kerminate】参加-VueConf2019](http://yoursite.com/2019/06/08/%E5%8F%82%E5%8A%A0-VueConf2019/)
+- [【rxliuli】svelte5：一个更糟糕的-vue3](https://blog.rxliuli.com/p/da2dd0d86bc147778bcb0ba3c3e68149/)
 - [【三省吾身】在-vue-中使用-jsx-与-class-component-的各种姿势](http://guowenfh.github.io/2019/09/17/2019/vue-jsx-class-component/)
 - [【囧克斯】我和-Vue.js-的十年](https://jiongks.name/blog/my-10-years-with-vuejs)
 - [【囧克斯】vue-mark-display：用-markdown-语法轻松撰写幻灯片](https://jiongks.name/blog/introducing-vue-mark-display)
@@ -93,7 +94,6 @@
 - [【囧克斯】Vue-+-webpack-项目实践](https://jiongks.name/blog/just-vue)
 - [【小猪-部落格】Vue-文档编写指南「译」](https://xiaozhu.dev/post/vue-docs-writing-guide/)
 - [【小猪-部落格】创造-Vue3-的过程「译」](https://xiaozhu.dev/post/the-process-of-making-vue-3/)
-- [【蚊子前端博客】Vue单页面中进行业务数据的上报](https://www.xiabingbao.com/post/vue/vue-boss-up.html)
 - [......【查看更多】......](/details/tags/vue.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

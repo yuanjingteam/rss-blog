@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-03-08T02:22:10.816Z</updated>
+    <updated>2025-03-08T06:01:56.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -31,6 +31,13 @@
         <title type="html"><![CDATA[TypeScript gets on board with Node's type stripping]]></title>
         <id>https://nodeweekly.com/issues/568</id>
         <link href="https://nodeweekly.com/issues/568"/>
+        <updated>2025-03-04T00:00:00.000Z</updated>
+        <published>2025-03-04T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[svelte5：一个更糟糕的 vue3]]></title>
+        <id>https://blog.rxliuli.com/p/da2dd0d86bc147778bcb0ba3c3e68149/</id>
+        <link href="https://blog.rxliuli.com/p/da2dd0d86bc147778bcb0ba3c3e68149/"/>
         <updated>2025-03-04T00:00:00.000Z</updated>
         <published>2025-03-04T00:00:00.000Z</published>
     </entry>
@@ -355,12 +362,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274514&amp;idx=1&amp;sn=acea5f08803103c736368a52113b421e&amp;chksm=bc0d36ec994ddb51bea78764d7466ff1e9215de7a55b4c6dbffb010f3def222cc120c9ab12c4&amp;scene=0#rd"/>
         <updated>2024-12-11T00:00:00.000Z</updated>
         <published>2024-12-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最新开源：超强的 React 性能测试工具！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516907&amp;idx=2&amp;sn=e41c22244d648fce60e40b5ac2558bdf&amp;chksm=eb07ba92dc7033847aee0ab7f05c2110defe9da93e90dedcc58fb0925b1f7755526ea8fa60b9#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516907&amp;idx=2&amp;sn=e41c22244d648fce60e40b5ac2558bdf&amp;chksm=eb07ba92dc7033847aee0ab7f05c2110defe9da93e90dedcc58fb0925b1f7755526ea8fa60b9#rd"/>
-        <updated>2024-12-10T00:00:00.000Z</updated>
-        <published>2024-12-10T00:00:00.000Z</published>
     </entry>
 </feed>
