@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-03-08 00:01:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-08 10:22:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-03-08-2025-03-08-HackerNews](https://supertechfans.com/cn/post/2025-03-08-HackerNews/) ![](/assets/new.png)  
 - [2025-03-07-2025-03-07-HackerNews](https://supertechfans.com/cn/post/2025-03-07-HackerNews/)  
 - [2025-03-06-2025-03-06-HackerNews](https://supertechfans.com/cn/post/2025-03-06-HackerNews/)  
 - [2025-03-05-2025-03-05-HackerNews](https://supertechfans.com/cn/post/2025-03-05-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-02-19-2025-02-19-HackerNews](https://supertechfans.com/cn/post/2025-02-19-HackerNews/)  
 - [2025-02-18-2025-02-18-HackerNews](https://supertechfans.com/cn/post/2025-02-18-HackerNews/)  
 - [2025-02-17-2025-02-17-HackerNews](https://supertechfans.com/cn/post/2025-02-17-HackerNews/)  
-- [2025-02-16-2025-02-16-HackerNews](https://supertechfans.com/cn/post/2025-02-16-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -568,7 +568,7 @@
 </summary>
 
 
-- [2025-03-07-The-current-state-of-JavaScript-on-the-Web](https://javascriptweekly.com/issues/726) ![](/assets/new.png)  
+- [2025-03-07-The-current-state-of-JavaScript-on-the-Web](https://javascriptweekly.com/issues/726)  
 - [2025-02-28-Doom-for-TypeScript-types](https://javascriptweekly.com/issues/725)  
 - [2025-02-21-The-latest-from-TC39's-recent-meeting](https://javascriptweekly.com/issues/724)  
 - [2025-02-14-It's-time-to-go-ESM-only](https://javascriptweekly.com/issues/723)  
