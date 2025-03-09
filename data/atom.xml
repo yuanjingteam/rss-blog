@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-03-09T02:27:10.615Z</updated>
+    <updated>2025-03-09T14:01:52.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS @supports规则又新增font-tech,font-format判断]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/"/>
+        <updated>2025-03-09T00:00:00.000Z</updated>
+        <published>2025-03-09T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The current state of JavaScript on the Web]]></title>
         <id>https://javascriptweekly.com/issues/726</id>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[“应该禁止所有新项目使用 React！”微软资深工程师犀利 diss：“React 是行业标准”简直胡说！]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525584&amp;idx=1&amp;sn=d283a381bf41a50900fed32022f90602&amp;chksm=f952d193ce255885bb36d1edabe1857eb3f1253bba97872884d06104ed802b4a6be0599abb35#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525584&amp;idx=1&amp;sn=d283a381bf41a50900fed32022f90602&amp;chksm=f952d193ce255885bb36d1edabe1857eb3f1253bba97872884d06104ed802b4a6be0599abb35#rd"/>
-        <updated>2024-12-11T00:00:00.000Z</updated>
-        <published>2024-12-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【第3430期】CSS 如何模拟“真实的”进度条？]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274514&amp;idx=1&amp;sn=acea5f08803103c736368a52113b421e&amp;chksm=bc0d36ec994ddb51bea78764d7466ff1e9215de7a55b4c6dbffb010f3def222cc120c9ab12c4&amp;scene=0#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274514&amp;idx=1&amp;sn=acea5f08803103c736368a52113b421e&amp;chksm=bc0d36ec994ddb51bea78764d7466ff1e9215de7a55b4c6dbffb010f3def222cc120c9ab12c4&amp;scene=0#rd"/>
         <updated>2024-12-11T00:00:00.000Z</updated>
         <published>2024-12-11T00:00:00.000Z</published>
     </entry>
