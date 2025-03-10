@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-03-09 22:01:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-10 10:28:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-03-10-2025-03-10-HackerNews](https://supertechfans.com/cn/post/2025-03-10-HackerNews/) ![](/assets/new.png)  
 - [2025-03-09-2025-03-09-HackerNews](https://supertechfans.com/cn/post/2025-03-09-HackerNews/)  
 - [2025-03-08-2025-03-08-HackerNews](https://supertechfans.com/cn/post/2025-03-08-HackerNews/)  
 - [2025-03-07-2025-03-07-HackerNews](https://supertechfans.com/cn/post/2025-03-07-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-02-21-2025-02-21-HackerNews](https://supertechfans.com/cn/post/2025-02-21-HackerNews/)  
 - [2025-02-20-2025-02-20-HackerNews](https://supertechfans.com/cn/post/2025-02-20-HackerNews/)  
 - [2025-02-19-2025-02-19-HackerNews](https://supertechfans.com/cn/post/2025-02-19-HackerNews/)  
-- [2025-02-18-2025-02-18-HackerNews](https://supertechfans.com/cn/post/2025-02-18-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1002,7 +1002,7 @@
 </summary>
 
 
-- [2025-03-09-CSS-@supports规则又新增font-tech,font-format判断](https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/) ![](/assets/new.png)  
+- [2025-03-09-CSS-@supports规则又新增font-tech,font-format判断](https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/)  
 - [2025-03-05-终于等到了，CSS-offset-path全浏览器全支持](https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/)  
 - [2025-02-24-HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/)  
 - [2025-02-12-不要搞混了，不是text而是CSS-font-size-adjust属性](https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/)  
