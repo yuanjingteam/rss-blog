@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-03-11T00:37:11.245Z</updated>
+    <updated>2025-03-11T16:02:05.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[Another way to look inside your npm packages]]></title>
+        <id>https://nodeweekly.com/issues/569</id>
+        <link href="https://nodeweekly.com/issues/569"/>
+        <updated>2025-03-11T00:00:00.000Z</updated>
+        <published>2025-03-11T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS @supports规则又新增font-tech,font-format判断]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/</id>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[项目中常用的Nginx配置总结]]></title>
         <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524614&amp;idx=1&amp;sn=fd17c885a2ef8dc88b5e928468bccefd&amp;chksm=f99267d7cee5eec13e2668572a46cd83ea72f30ec5bc9caae7374ba4930756cdb18552b4b005#rd</id>
         <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524614&amp;idx=1&amp;sn=fd17c885a2ef8dc88b5e928468bccefd&amp;chksm=f99267d7cee5eec13e2668572a46cd83ea72f30ec5bc9caae7374ba4930756cdb18552b4b005#rd"/>
-        <updated>2024-12-11T00:00:00.000Z</updated>
-        <published>2024-12-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“应该禁止所有新项目使用 React！”微软资深工程师犀利 diss：“React 是行业标准”简直胡说！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525584&amp;idx=1&amp;sn=d283a381bf41a50900fed32022f90602&amp;chksm=f952d193ce255885bb36d1edabe1857eb3f1253bba97872884d06104ed802b4a6be0599abb35#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&amp;mid=2247525584&amp;idx=1&amp;sn=d283a381bf41a50900fed32022f90602&amp;chksm=f952d193ce255885bb36d1edabe1857eb3f1253bba97872884d06104ed802b4a6be0599abb35#rd"/>
         <updated>2024-12-11T00:00:00.000Z</updated>
         <published>2024-12-11T00:00:00.000Z</published>
     </entry>
