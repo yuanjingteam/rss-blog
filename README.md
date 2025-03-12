@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-03-12 00:02:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-12 08:36:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-03-12-2025-03-12-HackerNews](https://supertechfans.com/cn/post/2025-03-12-HackerNews/) ![](/assets/new.png)  
 - [2025-03-11-2025-03-11-HackerNews](https://supertechfans.com/cn/post/2025-03-11-HackerNews/)  
 - [2025-03-10-2025-03-10-HackerNews](https://supertechfans.com/cn/post/2025-03-10-HackerNews/)  
 - [2025-03-09-2025-03-09-HackerNews](https://supertechfans.com/cn/post/2025-03-09-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-02-23-2025-02-23-HackerNews](https://supertechfans.com/cn/post/2025-02-23-HackerNews/)  
 - [2025-02-22-2025-02-22-HackerNews](https://supertechfans.com/cn/post/2025-02-22-HackerNews/)  
 - [2025-02-21-2025-02-21-HackerNews](https://supertechfans.com/cn/post/2025-02-21-HackerNews/)  
-- [2025-02-20-2025-02-20-HackerNews](https://supertechfans.com/cn/post/2025-02-20-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -537,7 +537,7 @@
 </summary>
 
 
-- [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569) ![](/assets/new.png)  
+- [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569)  
 - [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)  
 - [2025-02-25-Node-23.8-introduces-the-URL-Pattern-API](https://nodeweekly.com/issues/567)  
 - [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566)  

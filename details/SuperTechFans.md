@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-03-11 08:37:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-12 08:36:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## SuperTechFans
 
 
 
 
+- [2025-03-12-2025-03-12-HackerNews](https://supertechfans.com/cn/post/2025-03-12-HackerNews/) 
 - [2025-03-11-2025-03-11-HackerNews](https://supertechfans.com/cn/post/2025-03-11-HackerNews/) 
 - [2025-03-10-2025-03-10-HackerNews](https://supertechfans.com/cn/post/2025-03-10-HackerNews/) 
 - [2025-03-09-2025-03-09-HackerNews](https://supertechfans.com/cn/post/2025-03-09-HackerNews/) 
