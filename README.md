@@ -5,14 +5,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-03-17 02:01:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-17 10:54:23，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [crimx](#crimx)  
 - [橙光笔记](#橙光笔记)  
 - [Teobler](#teobler)  
-- [清竹志](#清竹志)  
+- [清竹志](#清竹志)![](/assets/dot.png)   
 - [Blog-|-Kerminate](#blog-|-kerminate)  
 - [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -128,6 +128,7 @@
 </summary>
 
 
+- [2025-03-17-颠覆传统搜索！全球AI搜索工具正在攻城略地](https://blog.vadxq.com/article/ai-search-vs-origin-search/) ![](/assets/new.png)  
 - [2025-03-05-激战“后DeepSeek时代”：全球大模型开启“地狱级”内卷模式](https://blog.vadxq.com/article/post-deepseek-era-llm-status/)  
 - [2024-10-24-改名公告：清竹茶馆的新篇章-清竹志](https://blog.vadxq.com/article/change-blog-name-2024/)  
 - [2023-12-31-【2023年终总结】与逝去的年华道个别](https://blog.vadxq.com/article/2023-year-end-summary/)  
@@ -147,7 +148,6 @@
 - [2020-10-26-【SSH】配置一机多ssh-key共存，根据不同域名自动选择不同ssh-key](https://blog.vadxq.com/article/linux-multiple-ssh-key/)  
 - [2020-10-23-【前端重温系列】this的不可描述与变化原理（献给2020-1024的礼物）](https://blog.vadxq.com/article/frontend-revisited-this/)  
 - [2020-10-06-【前端重温系列】闭包及其涉及知识点的理解](https://blog.vadxq.com/article/frontend-revisited-closure/)  
-- [2020-02-20-【教程】Macbook使用初始化指南](https://blog.vadxq.com/article/macbook-use-guide/)  
 - [......【查看更多】......](/details/清竹志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-03-17-2025-03-17-HackerNews](https://supertechfans.com/cn/post/2025-03-17-HackerNews/) ![](/assets/new.png)  
 - [2025-03-16-2025-03-16-HackerNews](https://supertechfans.com/cn/post/2025-03-16-HackerNews/)  
 - [2025-03-15-2025-03-15-HackerNews](https://supertechfans.com/cn/post/2025-03-15-HackerNews/)  
 - [2025-03-14-2025-03-14-HackerNews](https://supertechfans.com/cn/post/2025-03-14-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-02-28-2025-02-28-HackerNews](https://supertechfans.com/cn/post/2025-02-28-HackerNews/)  
 - [2025-02-27-2025-02-27-HackerNews](https://supertechfans.com/cn/post/2025-02-27-HackerNews/)  
 - [2025-02-26-2025-02-26-HackerNews](https://supertechfans.com/cn/post/2025-02-26-HackerNews/)  
-- [2025-02-25-2025-02-25-HackerNews](https://supertechfans.com/cn/post/2025-02-25-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1002,7 +1002,7 @@
 </summary>
 
 
-- [2025-03-17-一种更好的文字隐藏的方法-::first-line伪元素](https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/) ![](/assets/new.png)  
+- [2025-03-17-一种更好的文字隐藏的方法-::first-line伪元素](https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/)  
 - [2025-03-09-CSS-@supports规则又新增font-tech,font-format判断](https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/)  
 - [2025-03-05-终于等到了，CSS-offset-path全浏览器全支持](https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/)  
 - [2025-02-24-HTML-permission元素和Permissions-API简介](https://www.zhangxinxu.com/wordpress/2025/02/html-permission-api/)  
