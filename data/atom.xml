@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-03-18T00:37:17.300Z</updated>
+    <updated>2025-03-18T16:01:48.887Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[Node 20 gains require(esm) support by default]]></title>
+        <id>https://nodeweekly.com/issues/570</id>
+        <link href="https://nodeweekly.com/issues/570"/>
+        <updated>2025-03-18T00:00:00.000Z</updated>
+        <published>2025-03-18T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can you understand this JavaScript?]]></title>
         <id>https://javascriptweekly.com/issues/727</id>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[全新的CSS相对颜色语法-使用from和calc()]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/"/>
-        <updated>2024-12-11T00:00:00.000Z</updated>
-        <published>2024-12-11T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[antd 对 ai 下手了！Vue 开发者表示羡慕！]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516910&amp;idx=1&amp;sn=020001d07614212b26fcd43c390d5639&amp;chksm=eb07ba97dc703381f7dbbcf9643321878b5d587c68b56d5b3de636ba5291f22adab2b465324b#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&amp;mid=2247516910&amp;idx=1&amp;sn=020001d07614212b26fcd43c390d5639&amp;chksm=eb07ba97dc703381f7dbbcf9643321878b5d587c68b56d5b3de636ba5291f22adab2b465324b#rd"/>
         <updated>2024-12-11T00:00:00.000Z</updated>
         <published>2024-12-11T00:00:00.000Z</published>
     </entry>
