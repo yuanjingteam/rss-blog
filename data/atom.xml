@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-03-22T00:36:43.822Z</updated>
+    <updated>2025-03-22T10:01:53.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -110,6 +110,13 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/02/js-set-intersection-union-difference/"/>
         <updated>2025-02-10T00:00:00.000Z</updated>
         <published>2025-02-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 React 看前端 UI 代码范式革命]]></title>
+        <id>https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/</id>
+        <link href="https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
+        <updated>2025-02-09T00:00:00.000Z</updated>
+        <published>2025-02-09T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[从 React 看前端 UI 代码范式革命]]></title>
@@ -274,6 +281,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[使用 AI + OPFS 在浏览器中实现 MacOS Finder（文件管理器）]]></title>
+        <id>https://fenghen.me/posts/2025/01/07/opfs-finder/</id>
+        <link href="https://fenghen.me/posts/2025/01/07/opfs-finder/"/>
+        <updated>2025-01-07T00:00:00.000Z</updated>
+        <published>2025-01-07T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 AI + OPFS 在浏览器中实现 MacOS Finder（文件管理器）]]></title>
         <id>https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/</id>
         <link href="https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
@@ -348,19 +362,5 @@
         <link href="http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&amp;mid=2651274558&amp;idx=1&amp;sn=b5d5e5e13d8d5531c5ed0f3faacc6574&amp;chksm=bc2a92f23a31e63a6a6293ab24ba6b632080c3e93d114f0528d26dae816a4474300da93a4537&amp;scene=0#rd"/>
         <updated>2024-12-12T00:00:00.000Z</updated>
         <published>2024-12-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmarking Node's recent performance enhancements]]></title>
-        <id>https://javascriptweekly.com/issues/716</id>
-        <link href="https://javascriptweekly.com/issues/716"/>
-        <updated>2024-12-12T00:00:00.000Z</updated>
-        <published>2024-12-12T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全新的CSS相对颜色语法-使用from和calc()]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/12/css-relative-color-from-calc/"/>
-        <updated>2024-12-11T00:00:00.000Z</updated>
-        <published>2024-12-11T00:00:00.000Z</published>
     </entry>
 </feed>
