@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-03-25 10:54:43。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-25 22:02:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -39,6 +39,7 @@
 - [2017-01-08-从0到1学习node系列总索引](https://www.xiabingbao.com/post/node/2017/01/08/node-list.html) 
 - [2015-04-06-node-socket实现web的即时聊天系统](https://www.xiabingbao.com/post/node/2015/04/06/node-socket.html) 
 - [2015-03-27-使用node更新google-hosts](https://www.xiabingbao.com/post/node/2015/03/27/node-hosts.html) 
+- [2025-03-25-Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571) 
 - [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570) 
 - [2025-02-25-Node-23.8-introduces-the-URL-Pattern-API](https://nodeweekly.com/issues/567) 
 - [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564) 

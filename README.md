@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-03-25 10:54:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-03-25 22:02:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -475,7 +475,7 @@
 </summary>
 
 
-- [2025-03-25-2025-03-25-HackerNews](https://supertechfans.com/cn/post/2025-03-25-HackerNews/) ![](/assets/new.png)  
+- [2025-03-25-2025-03-25-HackerNews](https://supertechfans.com/cn/post/2025-03-25-HackerNews/)  
 - [2025-03-24-2025-03-24-HackerNews](https://supertechfans.com/cn/post/2025-03-24-HackerNews/)  
 - [2025-03-23-2025-03-23-HackerNews](https://supertechfans.com/cn/post/2025-03-23-HackerNews/)  
 - [2025-03-22-2025-03-22-HackerNews](https://supertechfans.com/cn/post/2025-03-22-HackerNews/)  
@@ -537,6 +537,7 @@
 </summary>
 
 
+- [2025-03-25-Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571) ![](/assets/new.png)  
 - [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570)  
 - [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569)  
 - [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)  
@@ -556,7 +557,6 @@
 - [2024-11-05-Running-WebAssembly-apps-inside-Node.js](https://nodeweekly.com/issues/554)  
 - [2024-10-29-Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553)  
 - [2024-10-22-Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)  
-- [2024-10-15-Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
