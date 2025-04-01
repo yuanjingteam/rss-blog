@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-04-01 16:01:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-01 18:02:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -14,7 +14,7 @@
 - [Teobler](#teobler)  
 - [清竹志](#清竹志)  
 - [Blog-|-Kerminate](#blog-|-kerminate)  
-- [rxliuli](#rxliuli)  
+- [rxliuli](#rxliuli)![](/assets/dot.png)   
 - [一个前端工程师的博客](#一个前端工程师的博客)  
 - [吕立青](#吕立青)  
 - [臨池不輟](#臨池不輟)  
@@ -45,7 +45,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -190,12 +190,13 @@
 </summary>
 
 
+- [2025-03-13-转换-Chrome-Extension-为-Safari-版本](https://blog.rxliuli.com/p/1a7d920368904cd38a0ea562cf90b246/) ![](/assets/new.png)  
 - [2025-03-04-svelte5：一个更糟糕的-vue3](https://blog.rxliuli.com/p/da2dd0d86bc147778bcb0ba3c3e68149/)  
 - [2025-02-23-记录一次从-Prisma-到-Drizzle-的迁移](https://blog.rxliuli.com/p/4140cb8be8b044a5bb9cebe0930e3a4a/)  
 - [2025-02-16-当吾辈遇上-Firefox-中-9-年的陈年老-Bug](https://blog.rxliuli.com/p/23bc670bb5e54e6190d3ecf39cc3efd4/)  
 - [2025-01-30-将数据导入到-Cloudflare-D1](https://blog.rxliuli.com/p/c0fd3afbe1784fc38267caab8316c3a5/)  
-- [2025-01-02-2024，不上班的第一年](https://blog.rxliuli.com/p/5669c03626ef4b3799adc96d016e332d/)  
 - [2025-01-02-在-Chrome-插件中拦截网络请求](https://blog.rxliuli.com/p/7ffe39eff5c64f5d90acf21518e39d63/)  
+- [2025-01-02-2024，不上班的第一年](https://blog.rxliuli.com/p/5669c03626ef4b3799adc96d016e332d/)  
 - [2024-11-13-在-Chrome-插件中将-ArrayBuffer-从网页传递到-Devtools-Panel](https://blog.rxliuli.com/p/cc2c3f61d78346188ca4112ef4734184/)  
 - [2024-10-16-Mac-Tips-分享：创建一个-Shortcut-快速调整窗口尺寸](https://blog.rxliuli.com/p/c8b48845cf17443ba9bf023b2313e158/)  
 - [2024-09-27-旅行-2024-09](https://blog.rxliuli.com/p/886ce9d0319741cbad613de8dd4466f3/)  
@@ -209,7 +210,6 @@
 - [2024-05-29-周报-2024-05-26](https://blog.rxliuli.com/p/30b1b683648a4617a5c04bd6e234dddd/)  
 - [2024-05-21-周报-2024-05-12](https://blog.rxliuli.com/p/bad908e3481c4981a4da32a44275c4b4/)  
 - [2024-05-03-周报-2024-05-01](https://blog.rxliuli.com/p/7ebabda6f3a44a9b83cc5c5109b126e2/)  
-- [2024-04-23-周报-2024-04-21](https://blog.rxliuli.com/p/d89be1b1552947beac6579405b5923e3/)  
 - [......【查看更多】......](/details/rxliuli.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1126,7 +1126,7 @@
 </summary>
 
 
-- [2025-03-29-2025-裸辞计划](https://fenghen.me/posts/2025/03/29/_2025-plan/) ![](/assets/new.png)  
+- [2025-03-29-2025-裸辞计划](https://fenghen.me/posts/2025/03/29/_2025-plan/)  
 - [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://fenghen.me/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
 - [2025-03-12-AI-媒介将如何重塑人类社会（风痕、Claude-访谈记录）](https://hughfenghen.github.io/posts/2025/03/12/how-ai-media-will-reshaping-human-society/)  
 - [2025-02-09-从-React-看前端-UI-代码范式革命](https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/)  

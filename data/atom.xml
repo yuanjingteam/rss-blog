@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-04-01T08:01:37.061Z</updated>
+    <updated>2025-04-01T10:02:04.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -40,6 +40,13 @@
         <link href="https://javascriptweekly.com/issues/727"/>
         <updated>2025-03-14T00:00:00.000Z</updated>
         <published>2025-03-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[转换 Chrome Extension 为 Safari 版本]]></title>
+        <id>https://blog.rxliuli.com/p/1a7d920368904cd38a0ea562cf90b246/</id>
+        <link href="https://blog.rxliuli.com/p/1a7d920368904cd38a0ea562cf90b246/"/>
+        <updated>2025-03-13T00:00:00.000Z</updated>
+        <published>2025-03-13T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Another way to look inside your npm packages]]></title>
@@ -355,12 +362,5 @@
         <link href="https://nodeweekly.com/issues/560"/>
         <updated>2024-12-17T00:00:00.000Z</updated>
         <published>2024-12-17T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 年前端安全报告]]></title>
-        <id>http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524628&amp;idx=2&amp;sn=a9531a4f7fa218a2f089c3a812a0ec76&amp;chksm=f99267c5cee5eed3ef1680ef7601abf54a9ddb66c86e3cc5dc1e58b32c0b8fad6d0565b55796#rd</id>
-        <link href="http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&amp;mid=2247524628&amp;idx=2&amp;sn=a9531a4f7fa218a2f089c3a812a0ec76&amp;chksm=f99267c5cee5eed3ef1680ef7601abf54a9ddb66c86e3cc5dc1e58b32c0b8fad6d0565b55796#rd"/>
-        <updated>2024-12-12T00:00:00.000Z</updated>
-        <published>2024-12-12T00:00:00.000Z</published>
     </entry>
 </feed>
