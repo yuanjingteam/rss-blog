@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-04-01 18:02:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-02 02:01:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -14,7 +14,7 @@
 - [Teobler](#teobler)  
 - [清竹志](#清竹志)  
 - [Blog-|-Kerminate](#blog-|-kerminate)  
-- [rxliuli](#rxliuli)![](/assets/dot.png)   
+- [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
 - [吕立青](#吕立青)  
 - [臨池不輟](#臨池不輟)  
@@ -26,7 +26,7 @@
 - [小猪-部落格](#小猪-部落格)  
 - [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -190,7 +190,7 @@
 </summary>
 
 
-- [2025-03-13-转换-Chrome-Extension-为-Safari-版本](https://blog.rxliuli.com/p/1a7d920368904cd38a0ea562cf90b246/) ![](/assets/new.png)  
+- [2025-03-13-转换-Chrome-Extension-为-Safari-版本](https://blog.rxliuli.com/p/1a7d920368904cd38a0ea562cf90b246/)  
 - [2025-03-04-svelte5：一个更糟糕的-vue3](https://blog.rxliuli.com/p/da2dd0d86bc147778bcb0ba3c3e68149/)  
 - [2025-02-23-记录一次从-Prisma-到-Drizzle-的迁移](https://blog.rxliuli.com/p/4140cb8be8b044a5bb9cebe0930e3a4a/)  
 - [2025-02-16-当吾辈遇上-Firefox-中-9-年的陈年老-Bug](https://blog.rxliuli.com/p/23bc670bb5e54e6190d3ecf39cc3efd4/)  
@@ -537,6 +537,7 @@
 </summary>
 
 
+- [2025-04-01-Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572) ![](/assets/new.png)  
 - [2025-03-25-Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571)  
 - [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570)  
 - [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569)  
@@ -556,7 +557,6 @@
 - [2024-11-12-Node-v23.2-released](https://nodeweekly.com/issues/555)  
 - [2024-11-05-Running-WebAssembly-apps-inside-Node.js](https://nodeweekly.com/issues/554)  
 - [2024-10-29-Node-22-is-now-in-LTS](https://nodeweekly.com/issues/553)  
-- [2024-10-22-Node-v23,-and-a-proper-hello-to-Express-v5](https://nodeweekly.com/issues/552)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
