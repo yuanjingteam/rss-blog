@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-04-01T00:43:49.243Z</updated>
+    <updated>2025-04-01T08:01:37.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -127,15 +127,15 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[从 React 看前端 UI 代码范式革命]]></title>
-        <id>https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/</id>
-        <link href="https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
+        <id>https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/</id>
+        <link href="https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
         <updated>2025-02-09T00:00:00.000Z</updated>
         <published>2025-02-09T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[从 React 看前端 UI 代码范式革命]]></title>
-        <id>https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/</id>
-        <link href="https://hughfenghen.github.io/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
+        <id>https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/</id>
+        <link href="https://fenghen.me/posts/2025/02/09/react-shaped-frontend-ui-paradigms/"/>
         <updated>2025-02-09T00:00:00.000Z</updated>
         <published>2025-02-09T00:00:00.000Z</published>
     </entry>
@@ -295,15 +295,15 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[使用 AI + OPFS 在浏览器中实现 MacOS Finder（文件管理器）]]></title>
-        <id>https://fenghen.me/posts/2025/01/07/opfs-finder/</id>
-        <link href="https://fenghen.me/posts/2025/01/07/opfs-finder/"/>
+        <id>https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/</id>
+        <link href="https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
         <published>2025-01-07T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[使用 AI + OPFS 在浏览器中实现 MacOS Finder（文件管理器）]]></title>
-        <id>https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/</id>
-        <link href="https://hughfenghen.github.io/posts/2025/01/07/opfs-finder/"/>
+        <id>https://fenghen.me/posts/2025/01/07/opfs-finder/</id>
+        <link href="https://fenghen.me/posts/2025/01/07/opfs-finder/"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
         <published>2025-01-07T00:00:00.000Z</published>
     </entry>
