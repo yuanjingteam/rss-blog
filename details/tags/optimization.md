@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-04-03 10:55:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-03 20:14:49。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 性能优化
 
@@ -8,6 +8,7 @@
 
 
 - [2022-06-04-《Web性能实战》读书笔记](https://www.kai666666.com/2022/06/04/%E3%80%8AWeb%E6%80%A7%E8%83%BD%E5%AE%9E%E6%88%98%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/) 
+- [2025-04-03-Cloudflare-D1-数据库查询优化之路](https://blog.rxliuli.com/p/8b37a7e055664884b0c83014edb89e78/) 
 - [2013-09-18-译Chrome开发者工具中评估性能的五大新特性](https://jiongks.name/blog/devtools-five-performance-features) 
 - [2020-04-05-Web「性能测试」知多少？](http://jartto.wang/2020/04/05/about-wrk/) 
 - [2020-03-30-网站性能指标---FMP](http://jartto.wang/2020/03/30/about-web-fmp/) 

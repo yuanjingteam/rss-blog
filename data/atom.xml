@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-04-03T02:55:01.857Z</updated>
+    <updated>2025-04-03T12:14:49.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare D1 数据库查询优化之路]]></title>
+        <id>https://blog.rxliuli.com/p/8b37a7e055664884b0c83014edb89e78/</id>
+        <link href="https://blog.rxliuli.com/p/8b37a7e055664884b0c83014edb89e78/"/>
+        <updated>2025-04-03T00:00:00.000Z</updated>
+        <published>2025-04-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Express 5.x enters the limelight]]></title>
         <id>https://nodeweekly.com/issues/572</id>
@@ -355,12 +362,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/"/>
         <updated>2024-12-23T00:00:00.000Z</updated>
         <published>2024-12-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 2024 JavaScript retrospective]]></title>
-        <id>https://javascriptweekly.com/issues/717</id>
-        <link href="https://javascriptweekly.com/issues/717"/>
-        <updated>2024-12-19T00:00:00.000Z</updated>
-        <published>2024-12-19T00:00:00.000Z</published>
     </entry>
 </feed>

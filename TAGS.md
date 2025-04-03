@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-04-03 10:55:01。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-04-03 20:14:49。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -507,6 +507,7 @@
 
 
 - [【橙光笔记】《Web性能实战》读书笔记](https://www.kai666666.com/2022/06/04/%E3%80%8AWeb%E6%80%A7%E8%83%BD%E5%AE%9E%E6%88%98%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/)
+- [【rxliuli】Cloudflare-D1-数据库查询优化之路](https://blog.rxliuli.com/p/8b37a7e055664884b0c83014edb89e78/)
 - [【囧克斯】译Chrome开发者工具中评估性能的五大新特性](https://jiongks.name/blog/devtools-five-performance-features)
 - [【Jartto's blog】Web「性能测试」知多少？](http://jartto.wang/2020/04/05/about-wrk/)
 - [【Jartto's blog】网站性能指标---FMP](http://jartto.wang/2020/03/30/about-web-fmp/)
@@ -525,7 +526,6 @@
 - [【前端早读课】【第3043期】不一样的"代码拆分"+"预加载"实现应用性能及体验兼得](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651265447&idx=1&sn=b5037fb086454a75bf778e7f53c316e5&chksm=bd48c0238a3f493501f3fc00c07ccf87fcfcb7a590061e3867071670d1399532f974b7a2f9e3#rd)
 - [【前端早读课】万字分享：新QQ-NT桌面版的内存优化探索](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264538&idx=1&sn=4d0012b55a61c4a627b43ade460a0223&chksm=bd48cf9e8a3f46883ea49c5fe969c2ae7fb4b23e0649c183da85624055945c7f05c3674aa57d#rd)
 - [【前端早读课】【第3006期】前端文件流、切片下载和上传：优化文件传输效率与用户体验](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264139&idx=1&sn=ed94183928f0ab6d29c00d2642bf2dbd&chksm=bd48cd0f8a3f44190f7af9e3234f0cb3f911ba36a257685b06a9423aff51c3f7eeafbea263b7#rd)
-- [【前端早读课】【第3002期】前端加载超大图片实现秒开解决方案](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651264026&idx=1&sn=2cdb4f5cbb838b1f89dbc0e2a88ee256&chksm=bd48cd9e8a3f448813e4fd74325a77f8fbc5497ee796e853249fb7c29cd0e46a9fd65d2fcce7#rd)
 - [......【查看更多】......](/details/tags/optimization.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
