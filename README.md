@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-04-03 20:14:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-04 08:38:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -14,7 +14,7 @@
 - [Teobler](#teobler)  
 - [清竹志](#清竹志)  
 - [Blog-|-Kerminate](#blog-|-kerminate)  
-- [rxliuli](#rxliuli)![](/assets/dot.png)   
+- [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
 - [吕立青](#吕立青)  
 - [臨池不輟](#臨池不輟)  
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -190,7 +190,7 @@
 </summary>
 
 
-- [2025-04-03-Cloudflare-D1-数据库查询优化之路](https://blog.rxliuli.com/p/8b37a7e055664884b0c83014edb89e78/) ![](/assets/new.png)  
+- [2025-04-03-Cloudflare-D1-数据库查询优化之路](https://blog.rxliuli.com/p/8b37a7e055664884b0c83014edb89e78/)  
 - [2025-03-13-转换-Chrome-Extension-为-Safari-版本](https://blog.rxliuli.com/p/1a7d920368904cd38a0ea562cf90b246/)  
 - [2025-03-04-svelte5：一个更糟糕的-vue3](https://blog.rxliuli.com/p/da2dd0d86bc147778bcb0ba3c3e68149/)  
 - [2025-02-23-记录一次从-Prisma-到-Drizzle-的迁移](https://blog.rxliuli.com/p/4140cb8be8b044a5bb9cebe0930e3a4a/)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-04-04-2025-04-04-HackerNews](https://supertechfans.com/cn/post/2025-04-04-HackerNews/) ![](/assets/new.png)  
 - [2025-04-03-2025-04-03-HackerNews](https://supertechfans.com/cn/post/2025-04-03-HackerNews/)  
 - [2025-04-02-2025-04-02-HackerNews](https://supertechfans.com/cn/post/2025-04-02-HackerNews/)  
 - [2025-04-01-2025-04-01-HackerNews](https://supertechfans.com/cn/post/2025-04-01-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-03-18-2025-03-18-HackerNews](https://supertechfans.com/cn/post/2025-03-18-HackerNews/)  
 - [2025-03-17-2025-03-17-HackerNews](https://supertechfans.com/cn/post/2025-03-17-HackerNews/)  
 - [2025-03-16-2025-03-16-HackerNews](https://supertechfans.com/cn/post/2025-03-16-HackerNews/)  
-- [2025-03-15-2025-03-15-HackerNews](https://supertechfans.com/cn/post/2025-03-15-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
