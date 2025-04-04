@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-04-04T00:38:02.506Z</updated>
+    <updated>2025-04-04T16:01:39.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript trademark fight rumbles on]]></title>
+        <id>https://javascriptweekly.com/issues/730</id>
+        <link href="https://javascriptweekly.com/issues/730"/>
+        <updated>2025-04-04T00:00:00.000Z</updated>
+        <published>2025-04-04T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare D1 数据库查询优化之路]]></title>
         <id>https://blog.rxliuli.com/p/8b37a7e055664884b0c83014edb89e78/</id>
@@ -355,12 +362,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/"/>
         <updated>2024-12-29T00:00:00.000Z</updated>
         <published>2024-12-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用JS获取系统内存、CPU/GPU、电量等信息]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/12/js-get-memory-cpu-gpu-battery/"/>
-        <updated>2024-12-23T00:00:00.000Z</updated>
-        <published>2024-12-23T00:00:00.000Z</published>
     </entry>
 </feed>
