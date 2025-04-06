@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-04-06T02:59:05.359Z</updated>
+    <updated>2025-04-06T14:01:33.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[JS EditContext API 简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/"/>
+        <updated>2025-04-06T00:00:00.000Z</updated>
+        <published>2025-04-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The JavaScript trademark fight rumbles on]]></title>
         <id>https://javascriptweekly.com/issues/730</id>
@@ -355,12 +362,5 @@
         <link href="https://blog.rxliuli.com/p/7ffe39eff5c64f5d90acf21518e39d63/"/>
         <updated>2025-01-02T00:00:00.000Z</updated>
         <published>2025-01-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HTML select下拉框支持hr元素啦]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2024/12/html-select-support-hr/"/>
-        <updated>2024-12-29T00:00:00.000Z</updated>
-        <published>2024-12-29T00:00:00.000Z</published>
     </entry>
 </feed>
