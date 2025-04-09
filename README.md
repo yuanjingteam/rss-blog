@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-04-09 00:01:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-09 08:38:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-04-09-2025-04-09-HackerNews](https://supertechfans.com/cn/post/2025-04-09-HackerNews/) ![](/assets/new.png)  
 - [2025-04-08-2025-04-08-HackerNews](https://supertechfans.com/cn/post/2025-04-08-HackerNews/)  
 - [2025-04-07-2025-04-07-HackerNews](https://supertechfans.com/cn/post/2025-04-07-HackerNews/)  
 - [2025-04-06-2025-04-06-HackerNews](https://supertechfans.com/cn/post/2025-04-06-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-03-23-2025-03-23-HackerNews](https://supertechfans.com/cn/post/2025-03-23-HackerNews/)  
 - [2025-03-22-2025-03-22-HackerNews](https://supertechfans.com/cn/post/2025-03-22-HackerNews/)  
 - [2025-03-21-2025-03-21-HackerNews](https://supertechfans.com/cn/post/2025-03-21-HackerNews/)  
-- [2025-03-20-2025-03-20-HackerNews](https://supertechfans.com/cn/post/2025-03-20-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -537,7 +537,7 @@
 </summary>
 
 
-- [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573) ![](/assets/new.png)  
+- [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573)  
 - [2025-04-01-Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572)  
 - [2025-03-25-Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571)  
 - [2025-03-18-Node-20-gains-requireesm-support-by-default](https://nodeweekly.com/issues/570)  
