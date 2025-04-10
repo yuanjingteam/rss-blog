@@ -5,14 +5,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-04-10 10:56:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-10 14:12:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [crimx](#crimx)  
 - [橙光笔记](#橙光笔记)  
 - [Teobler](#teobler)  
-- [清竹志](#清竹志)  
+- [清竹志](#清竹志)![](/assets/dot.png)   
 - [Blog-|-Kerminate](#blog-|-kerminate)  
 - [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -128,6 +128,7 @@
 </summary>
 
 
+- [2025-04-10-激战“后DeepSeek时代”：全球大模型开启“地狱级”内卷模式](https://blog.vadxq.com/article/agent2agent-protocol-open-by-google/) ![](/assets/new.png)  
 - [2025-03-17-颠覆传统搜索！全球AI搜索工具正在攻城略地](https://blog.vadxq.com/article/ai-search-vs-origin-search/)  
 - [2025-03-05-激战“后DeepSeek时代”：全球大模型开启“地狱级”内卷模式](https://blog.vadxq.com/article/post-deepseek-era-llm-status/)  
 - [2024-10-24-改名公告：清竹茶馆的新篇章-清竹志](https://blog.vadxq.com/article/change-blog-name-2024/)  
@@ -147,7 +148,6 @@
 - [2020-10-28-【Flutter安装】2020年末flutter安装找坑排坑](https://blog.vadxq.com/article/flutter-install-pit/)  
 - [2020-10-26-【SSH】配置一机多ssh-key共存，根据不同域名自动选择不同ssh-key](https://blog.vadxq.com/article/linux-multiple-ssh-key/)  
 - [2020-10-23-【前端重温系列】this的不可描述与变化原理（献给2020-1024的礼物）](https://blog.vadxq.com/article/frontend-revisited-this/)  
-- [2020-10-06-【前端重温系列】闭包及其涉及知识点的理解](https://blog.vadxq.com/article/frontend-revisited-closure/)  
 - [......【查看更多】......](/details/清竹志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -475,7 +475,7 @@
 </summary>
 
 
-- [2025-04-10-2025-04-10-HackerNews](https://supertechfans.com/cn/post/2025-04-10-HackerNews/) ![](/assets/new.png)  
+- [2025-04-10-2025-04-10-HackerNews](https://supertechfans.com/cn/post/2025-04-10-HackerNews/)  
 - [2025-04-09-2025-04-09-HackerNews](https://supertechfans.com/cn/post/2025-04-09-HackerNews/)  
 - [2025-04-08-2025-04-08-HackerNews](https://supertechfans.com/cn/post/2025-04-08-HackerNews/)  
 - [2025-04-07-2025-04-07-HackerNews](https://supertechfans.com/cn/post/2025-04-07-HackerNews/)  
