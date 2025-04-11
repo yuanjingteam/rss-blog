@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-04-11T12:15:04.870Z</updated>
+    <updated>2025-04-11T14:01:45.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[Comparing Tauri and Electron]]></title>
+        <id>https://javascriptweekly.com/issues/731</id>
+        <link href="https://javascriptweekly.com/issues/731"/>
+        <updated>2025-04-11T00:00:00.000Z</updated>
+        <published>2025-04-11T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JS EditContext API 简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/</id>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[一个新的CSS媒体查询prefers-reduced-transparency]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/"/>
-        <updated>2025-01-02T00:00:00.000Z</updated>
-        <published>2025-01-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 Chrome 插件中拦截网络请求]]></title>
-        <id>https://blog.rxliuli.com/p/7ffe39eff5c64f5d90acf21518e39d63/</id>
-        <link href="https://blog.rxliuli.com/p/7ffe39eff5c64f5d90acf21518e39d63/"/>
         <updated>2025-01-02T00:00:00.000Z</updated>
         <published>2025-01-02T00:00:00.000Z</published>
     </entry>
