@@ -5,14 +5,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-04-10 14:12:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-11 08:38:48，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [crimx](#crimx)  
 - [橙光笔记](#橙光笔记)  
 - [Teobler](#teobler)  
-- [清竹志](#清竹志)![](/assets/dot.png)   
+- [清竹志](#清竹志)  
 - [Blog-|-Kerminate](#blog-|-kerminate)  
 - [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -128,7 +128,7 @@
 </summary>
 
 
-- [2025-04-10-激战“后DeepSeek时代”：全球大模型开启“地狱级”内卷模式](https://blog.vadxq.com/article/agent2agent-protocol-open-by-google/) ![](/assets/new.png)  
+- [2025-04-10-激战“后DeepSeek时代”：全球大模型开启“地狱级”内卷模式](https://blog.vadxq.com/article/agent2agent-protocol-open-by-google/)  
 - [2025-03-17-颠覆传统搜索！全球AI搜索工具正在攻城略地](https://blog.vadxq.com/article/ai-search-vs-origin-search/)  
 - [2025-03-05-激战“后DeepSeek时代”：全球大模型开启“地狱级”内卷模式](https://blog.vadxq.com/article/post-deepseek-era-llm-status/)  
 - [2024-10-24-改名公告：清竹茶馆的新篇章-清竹志](https://blog.vadxq.com/article/change-blog-name-2024/)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-04-11-2025-04-11-HackerNews](https://supertechfans.com/cn/post/2025-04-11-HackerNews/) ![](/assets/new.png)  
 - [2025-04-10-2025-04-10-HackerNews](https://supertechfans.com/cn/post/2025-04-10-HackerNews/)  
 - [2025-04-09-2025-04-09-HackerNews](https://supertechfans.com/cn/post/2025-04-09-HackerNews/)  
 - [2025-04-08-2025-04-08-HackerNews](https://supertechfans.com/cn/post/2025-04-08-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-03-25-2025-03-25-HackerNews](https://supertechfans.com/cn/post/2025-03-25-HackerNews/)  
 - [2025-03-24-2025-03-24-HackerNews](https://supertechfans.com/cn/post/2025-03-24-HackerNews/)  
 - [2025-03-23-2025-03-23-HackerNews](https://supertechfans.com/cn/post/2025-03-23-HackerNews/)  
-- [2025-03-22-2025-03-22-HackerNews](https://supertechfans.com/cn/post/2025-03-22-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
