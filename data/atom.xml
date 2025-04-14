@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-04-14T00:41:45.440Z</updated>
+    <updated>2025-04-14T16:02:05.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[DOM新特性之caretPositionFromPoint API]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/"/>
+        <updated>2025-04-14T00:00:00.000Z</updated>
+        <published>2025-04-14T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comparing Tauri and Electron]]></title>
         <id>https://javascriptweekly.com/issues/731</id>
@@ -355,12 +362,5 @@
         <link href="https://nodeweekly.com/issues/561"/>
         <updated>2025-01-07T00:00:00.000Z</updated>
         <published>2025-01-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一个新的CSS媒体查询prefers-reduced-transparency]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/01/css-media-cprefers-reduced-transparency/"/>
-        <updated>2025-01-02T00:00:00.000Z</updated>
-        <published>2025-01-02T00:00:00.000Z</published>
     </entry>
 </feed>
