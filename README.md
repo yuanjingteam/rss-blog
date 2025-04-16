@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-04-16 00:01:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-16 08:39:40，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-04-16-2025-04-16-HackerNews](https://supertechfans.com/cn/post/2025-04-16-HackerNews/) ![](/assets/new.png)  
 - [2025-04-15-2025-04-15-HackerNews](https://supertechfans.com/cn/post/2025-04-15-HackerNews/)  
 - [2025-04-14-2025-04-14-HackerNews](https://supertechfans.com/cn/post/2025-04-14-HackerNews/)  
 - [2025-04-13-2025-04-13-HackerNews](https://supertechfans.com/cn/post/2025-04-13-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-03-30-2025-03-30-HackerNews](https://supertechfans.com/cn/post/2025-03-30-HackerNews/)  
 - [2025-03-29-2025-03-29-HackerNews](https://supertechfans.com/cn/post/2025-03-29-HackerNews/)  
 - [2025-03-28-2025-03-28-HackerNews](https://supertechfans.com/cn/post/2025-03-28-HackerNews/)  
-- [2025-03-27-2025-03-27-HackerNews](https://supertechfans.com/cn/post/2025-03-27-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -537,7 +537,7 @@
 </summary>
 
 
-- [2025-04-15-Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574) ![](/assets/new.png)  
+- [2025-04-15-Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574)  
 - [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573)  
 - [2025-04-01-Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572)  
 - [2025-03-25-Node-gets-the-URLPattern-API](https://nodeweekly.com/issues/571)  
