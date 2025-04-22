@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-04-22 10:58:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-23 00:01:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -475,7 +475,7 @@
 </summary>
 
 
-- [2025-04-22-2025-04-22-HackerNews](https://supertechfans.com/cn/post/2025-04-22-HackerNews/) ![](/assets/new.png)  
+- [2025-04-22-2025-04-22-HackerNews](https://supertechfans.com/cn/post/2025-04-22-HackerNews/)  
 - [2025-04-21-2025-04-21-HackerNews](https://supertechfans.com/cn/post/2025-04-21-HackerNews/)  
 - [2025-04-20-2025-04-20-HackerNews](https://supertechfans.com/cn/post/2025-04-20-HackerNews/)  
 - [2025-04-19-2025-04-19-HackerNews](https://supertechfans.com/cn/post/2025-04-19-HackerNews/)  
@@ -537,6 +537,7 @@
 </summary>
 
 
+- [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575) ![](/assets/new.png)  
 - [2025-04-15-Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574)  
 - [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573)  
 - [2025-04-01-Express-5.x-enters-the-limelight](https://nodeweekly.com/issues/572)  
@@ -556,7 +557,6 @@
 - [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557)  
 - [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556)  
-- [2024-11-12-Node-v23.2-released](https://nodeweekly.com/issues/555)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
