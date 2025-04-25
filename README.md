@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-04-24 16:12:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-04-25 08:39:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-04-25-2025-04-25-HackerNews](https://supertechfans.com/cn/post/2025-04-25-HackerNews/) ![](/assets/new.png)  
 - [2025-04-24-2025-04-24-HackerNews](https://supertechfans.com/cn/post/2025-04-24-HackerNews/)  
 - [2025-04-23-2025-04-23-HackerNews](https://supertechfans.com/cn/post/2025-04-23-HackerNews/)  
 - [2025-04-22-2025-04-22-HackerNews](https://supertechfans.com/cn/post/2025-04-22-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-04-07-2025-04-07-HackerNews](https://supertechfans.com/cn/post/2025-04-07-HackerNews/)  
 - [2025-04-06-2025-04-06-HackerNews](https://supertechfans.com/cn/post/2025-04-06-HackerNews/)  
 - [2025-04-05-2025-04-05-HackerNews](https://supertechfans.com/cn/post/2025-04-05-HackerNews/)  
-- [2025-04-04-2025-04-04-HackerNews](https://supertechfans.com/cn/post/2025-04-04-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1002,7 +1002,7 @@
 </summary>
 
 
-- [2025-04-24-介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/) ![](/assets/new.png)  
+- [2025-04-24-介绍两个DOM新方法setHTMLUnsafe和getHTML](https://www.zhangxinxu.com/wordpress/2025/04/dom-sethtmlunsafe-parsehtmlunsafe/)  
 - [2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/)  
 - [2025-04-06-JS-EditContext-API-简介](https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/)  
 - [2025-03-27-光速了解script-style-link元素新增的blocking属性](https://www.zhangxinxu.com/wordpress/2025/03/html-script-blocking/)  
