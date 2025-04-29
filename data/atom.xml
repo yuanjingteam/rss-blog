@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-04-29T10:01:35.969Z</updated>
+    <updated>2025-04-29T14:01:43.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -17,6 +17,13 @@
         <title type="html"><![CDATA[告别transform，是时候直接使用scale, rotate属性啦]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/04/css-scale-rotate-translate/"/>
+        <updated>2025-04-29T00:00:00.000Z</updated>
+        <published>2025-04-29T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koa 3.0, Node 22.15.0, and a V8 boost]]></title>
+        <id>https://nodeweekly.com/issues/576</id>
+        <link href="https://nodeweekly.com/issues/576"/>
         <updated>2025-04-29T00:00:00.000Z</updated>
         <published>2025-04-29T00:00:00.000Z</published>
     </entry>
@@ -355,12 +362,5 @@
         <link href="http://du.jintiankansha.me/t/RjZmTVc4b0JLbw=="/>
         <updated>2025-01-15T00:00:00.000Z</updated>
         <published>2025-01-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何手搓SVG半圆弧，手把手教程]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/01/svg-arc-path-circle/"/>
-        <updated>2025-01-14T00:00:00.000Z</updated>
-        <published>2025-01-14T00:00:00.000Z</published>
     </entry>
 </feed>
