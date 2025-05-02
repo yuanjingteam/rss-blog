@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-05-02 11:02:49，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-03 00:02:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -475,7 +475,7 @@
 </summary>
 
 
-- [2025-05-02-2025-05-02-HackerNews](https://supertechfans.com/cn/post/2025-05-02-HackerNews/) ![](/assets/new.png)  
+- [2025-05-02-2025-05-02-HackerNews](https://supertechfans.com/cn/post/2025-05-02-HackerNews/)  
 - [2025-05-01-2025-05-01-HackerNews](https://supertechfans.com/cn/post/2025-05-01-HackerNews/)  
 - [2025-04-30-2025-04-30-HackerNews](https://supertechfans.com/cn/post/2025-04-30-HackerNews/)  
 - [2025-04-29-2025-04-29-HackerNews](https://supertechfans.com/cn/post/2025-04-29-HackerNews/)  
@@ -568,6 +568,7 @@
 </summary>
 
 
+- [2025-05-02-Making-V8-eager-to-compile-your-JavaScript](https://javascriptweekly.com/issues/734) ![](/assets/new.png)  
 - [2025-04-25-Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733)  
 - [2025-04-18-TC39:-No-to-records-and-tuples,-yes-to-enums](https://javascriptweekly.com/issues/732)  
 - [2025-04-11-Comparing-Tauri-and-Electron](https://javascriptweekly.com/issues/731)  
@@ -587,7 +588,6 @@
 - [2024-12-19-A-2024-JavaScript-retrospective](https://javascriptweekly.com/issues/717)  
 - [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716)  
 - [2024-12-05-Oracle-engages-its-lawyers-and-JavaScript-turns-29](https://javascriptweekly.com/issues/715)  
-- [2024-11-21-Exploring-JavaScript-symbols](https://javascriptweekly.com/issues/714)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
