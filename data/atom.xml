@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-05-06T00:40:31.156Z</updated>
+    <updated>2025-05-06T16:02:02.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[Node.js 24 released]]></title>
+        <id>https://nodeweekly.com/issues/577</id>
+        <link href="https://nodeweekly.com/issues/577"/>
+        <updated>2025-05-06T00:00:00.000Z</updated>
+        <published>2025-05-06T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making V8 eager to compile your JavaScript]]></title>
         <id>https://javascriptweekly.com/issues/734</id>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[AI 搞定微信小程序]]></title>
         <id>http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html</id>
         <link href="http://www.ruanyifeng.com/blog/2025/01/tencent-cloud-copilot.html"/>
-        <updated>2025-01-16T00:00:00.000Z</updated>
-        <published>2025-01-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[setTimeout 定时器，根本就不准时呀！]]></title>
-        <id>http://du.jintiankansha.me/t/akg4RGZwWF!wbQ==</id>
-        <link href="http://du.jintiankansha.me/t/akg4RGZwWF!wbQ=="/>
         <updated>2025-01-16T00:00:00.000Z</updated>
         <published>2025-01-16T00:00:00.000Z</published>
     </entry>

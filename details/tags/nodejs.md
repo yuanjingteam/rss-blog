@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-05-06 08:40:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-07 00:02:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -39,6 +39,7 @@
 - [2017-01-08-从0到1学习node系列总索引](https://www.xiabingbao.com/post/node/2017/01/08/node-list.html) 
 - [2015-04-06-node-socket实现web的即时聊天系统](https://www.xiabingbao.com/post/node/2015/04/06/node-socket.html) 
 - [2015-03-27-使用node更新google-hosts](https://www.xiabingbao.com/post/node/2015/03/27/node-hosts.html) 
+- [2025-05-06-Node.js-24-released](https://nodeweekly.com/issues/577) 
 - [2025-04-29-Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576) 
 - [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575) 
 - [2025-04-15-Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574) 
