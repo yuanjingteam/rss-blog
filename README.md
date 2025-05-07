@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-05-07 00:02:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-07 08:40:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-05-07-2025-05-07-HackerNews](https://supertechfans.com/cn/post/2025-05-07-HackerNews/) ![](/assets/new.png)  
 - [2025-05-06-2025-05-06-HackerNews](https://supertechfans.com/cn/post/2025-05-06-HackerNews/)  
 - [2025-05-05-2025-05-05-HackerNews](https://supertechfans.com/cn/post/2025-05-05-HackerNews/)  
 - [2025-05-04-2025-05-04-HackerNews](https://supertechfans.com/cn/post/2025-05-04-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-04-20-2025-04-20-HackerNews](https://supertechfans.com/cn/post/2025-04-20-HackerNews/)  
 - [2025-04-19-2025-04-19-HackerNews](https://supertechfans.com/cn/post/2025-04-19-HackerNews/)  
 - [2025-04-17-2025-04-17-HackerNews](https://supertechfans.com/cn/post/2025-04-17-HackerNews/)  
-- [2025-04-16-2025-04-16-HackerNews](https://supertechfans.com/cn/post/2025-04-16-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -537,7 +537,7 @@
 </summary>
 
 
-- [2025-05-06-Node.js-24-released](https://nodeweekly.com/issues/577) ![](/assets/new.png)  
+- [2025-05-06-Node.js-24-released](https://nodeweekly.com/issues/577)  
 - [2025-04-29-Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576)  
 - [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575)  
 - [2025-04-15-Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574)  
