@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-05-13 06:01:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-13 22:00:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -475,7 +475,7 @@
 </summary>
 
 
-- [2025-05-13-2025-05-13-HackerNews](https://supertechfans.com/cn/post/2025-05-13-HackerNews/) ![](/assets/new.png)  
+- [2025-05-13-2025-05-13-HackerNews](https://supertechfans.com/cn/post/2025-05-13-HackerNews/)  
 - [2025-05-12-2025-05-12-HackerNews](https://supertechfans.com/cn/post/2025-05-12-HackerNews/)  
 - [2025-05-11-2025-05-11-HackerNews](https://supertechfans.com/cn/post/2025-05-11-HackerNews/)  
 - [2025-05-10-2025-05-10-HackerNews](https://supertechfans.com/cn/post/2025-05-10-HackerNews/)  
@@ -537,6 +537,7 @@
 </summary>
 
 
+- [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578) ![](/assets/new.png)  
 - [2025-05-06-Node.js-24-released](https://nodeweekly.com/issues/577)  
 - [2025-04-29-Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576)  
 - [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575)  
@@ -556,7 +557,6 @@
 - [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561)  
 - [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560)  
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559)  
-- [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

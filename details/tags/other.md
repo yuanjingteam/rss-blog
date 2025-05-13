@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-05-13 06:01:39。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-13 22:00:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -588,6 +588,7 @@
 - [2012-03-14-二叉排序树-C语言程序](https://www.xiabingbao.com/post/binarytree/2012/03/14/binary-sort-tree-c.html) 
 - [2011-07-23-poj-3069-Saruman's-Army-思路题解-C语言](https://www.xiabingbao.com/post/acm/2011/07/23/poj-3069-sarumans-army.html) 
 - [2011-07-20-杭电-step1.2.5-Higher-Math-的输出格式错误](https://www.xiabingbao.com/post/acm/2011/07/20/hdu-step125.html) 
+- [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578) 
 - [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573) 
 - [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566) 
 - [2024-12-10-requireesm-makes-it-to-LTS](https://nodeweekly.com/issues/559) 
