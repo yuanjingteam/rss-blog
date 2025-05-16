@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-05-15T03:04:09.681Z</updated>
+    <updated>2025-05-16T03:06:19.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -31,6 +31,13 @@
         <title type="html"><![CDATA[Node.js 24 released]]></title>
         <id>https://nodeweekly.com/issues/577</id>
         <link href="https://nodeweekly.com/issues/577"/>
+        <updated>2025-05-06T00:00:00.000Z</updated>
+        <published>2025-05-06T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在构建时而非运行时编译 Markdown]]></title>
+        <id>https://blog.rxliuli.com/p/777c31e33d1e4e54803c785787e2e085/</id>
+        <link href="https://blog.rxliuli.com/p/777c31e33d1e4e54803c785787e2e085/"/>
         <updated>2025-05-06T00:00:00.000Z</updated>
         <published>2025-05-06T00:00:00.000Z</published>
     </entry>
@@ -355,12 +362,5 @@
         <link href="http://du.jintiankansha.me/t/VzFxcE5Gck9JVQ=="/>
         <updated>2025-01-18T00:00:00.000Z</updated>
         <published>2025-01-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An introduction to building live collaborative JS apps]]></title>
-        <id>https://javascriptweekly.com/issues/719</id>
-        <link href="https://javascriptweekly.com/issues/719"/>
-        <updated>2025-01-17T00:00:00.000Z</updated>
-        <published>2025-01-17T00:00:00.000Z</published>
     </entry>
 </feed>

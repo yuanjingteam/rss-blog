@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-05-15 11:04:09。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-05-16 11:06:19。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -152,6 +152,7 @@
 - [【Blog | Kerminate】Webpack5-changelog](http://yoursite.com/2020/03/27/Webpack5-changelog/)
 - [【Blog | Kerminate】Webpack4-使用总结](http://yoursite.com/2019/03/24/Webpack4-%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/)
 - [【Blog | Kerminate】npm-管理依赖包](http://yoursite.com/2018/12/12/npm-%E7%AE%A1%E7%90%86%E4%BE%9D%E8%B5%96%E5%8C%85/)
+- [【rxliuli】在构建时而非运行时编译-Markdown](https://blog.rxliuli.com/p/777c31e33d1e4e54803c785787e2e085/)
 - [【rxliuli】All-in-Vite](https://blog.rxliuli.com/p/ccdf84366137442c95bacac5d9ecd81d/)
 - [【臨池不輟】使用-Pixi.js-构建一个视差滚动器（第三篇）](https://keelii.com/2019/03/20/building-a-parallax-scroller-with-pixijs-cn-3)
 - [【臨池不輟】使用-Pixi.js-构建一个视差滚动器（第二篇）](https://keelii.com/2019/03/18/building-a-parallax-scroller-with-pixijs-cn-2)
@@ -165,7 +166,6 @@
 - [【蚊子前端博客】如何在npm上发布你的package](https://www.xiabingbao.com/post/npm/how-to-publish-package-on-npm.html)
 - [【蚊子前端博客】基于webpack搭建前端工程的思考](https://www.xiabingbao.com/post/webpack/webpack-frontend-engineering.html)
 - [【蚊子前端博客】webpack的入门教程](https://www.xiabingbao.com/post/webpack/webpack-started-tutorial.html)
-- [【蚊子前端博客】对gulp-changed插件的一点思考](https://www.xiabingbao.com/post/gulp/2016/01/20/gulp-changed-ponder.html)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

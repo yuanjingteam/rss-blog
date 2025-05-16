@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-05-15 11:04:09。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-16 11:06:19。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -13,6 +13,7 @@
 - [2020-03-27-Webpack5-changelog](http://yoursite.com/2020/03/27/Webpack5-changelog/) 
 - [2019-03-24-Webpack4-使用总结](http://yoursite.com/2019/03/24/Webpack4-%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93/) 
 - [2018-12-12-npm-管理依赖包](http://yoursite.com/2018/12/12/npm-%E7%AE%A1%E7%90%86%E4%BE%9D%E8%B5%96%E5%8C%85/) 
+- [2025-05-06-在构建时而非运行时编译-Markdown](https://blog.rxliuli.com/p/777c31e33d1e4e54803c785787e2e085/) 
 - [2024-03-20-All-in-Vite](https://blog.rxliuli.com/p/ccdf84366137442c95bacac5d9ecd81d/) 
 - [2019-03-20-使用-Pixi.js-构建一个视差滚动器（第三篇）](https://keelii.com/2019/03/20/building-a-parallax-scroller-with-pixijs-cn-3) 
 - [2019-03-18-使用-Pixi.js-构建一个视差滚动器（第二篇）](https://keelii.com/2019/03/18/building-a-parallax-scroller-with-pixijs-cn-2) 
