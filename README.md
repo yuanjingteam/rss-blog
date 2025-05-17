@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-05-16 20:15:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-05-17 08:38:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-05-17-2025-05-17-HackerNews](https://supertechfans.com/cn/post/2025-05-17-HackerNews/) ![](/assets/new.png)  
 - [2025-05-16-2025-05-16-HackerNews](https://supertechfans.com/cn/post/2025-05-16-HackerNews/)  
 - [2025-05-15-2025-05-15-HackerNews](https://supertechfans.com/cn/post/2025-05-15-HackerNews/)  
 - [2025-05-14-2025-05-14-HackerNews](https://supertechfans.com/cn/post/2025-05-14-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-04-30-2025-04-30-HackerNews](https://supertechfans.com/cn/post/2025-04-30-HackerNews/)  
 - [2025-04-29-2025-04-29-HackerNews](https://supertechfans.com/cn/post/2025-04-29-HackerNews/)  
 - [2025-04-28-2025-04-28-HackerNews](https://supertechfans.com/cn/post/2025-04-28-HackerNews/)  
-- [2025-04-27-2025-04-27-HackerNews](https://supertechfans.com/cn/post/2025-04-27-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -568,7 +568,7 @@
 </summary>
 
 
-- [2025-05-16-The-power-of-generators](https://javascriptweekly.com/issues/736) ![](/assets/new.png)  
+- [2025-05-16-The-power-of-generators](https://javascriptweekly.com/issues/736)  
 - [2025-05-09-Big-Node,-VS-Code,-and-Mantine-updates](https://javascriptweekly.com/issues/735)  
 - [2025-05-02-Making-V8-eager-to-compile-your-JavaScript](https://javascriptweekly.com/issues/734)  
 - [2025-04-25-Bring-back-the-fun-with-p5.js-2.0](https://javascriptweekly.com/issues/733)  
