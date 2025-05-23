@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-05-22T18:00:51.166Z</updated>
+    <updated>2025-05-23T16:00:54.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[A timeline of JavaScript's history]]></title>
+        <id>https://javascriptweekly.com/issues/737</id>
+        <link href="https://javascriptweekly.com/issues/737"/>
+        <updated>2025-05-23T00:00:00.000Z</updated>
+        <published>2025-05-23T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS animation-composition可以让动画效果累加]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/</id>
@@ -355,12 +362,5 @@
         <link href="http://du.jintiankansha.me/t/VWYxWTRNMUhxcw=="/>
         <updated>2025-01-19T00:00:00.000Z</updated>
         <published>2025-01-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享一些 Vue 实用且常用的开发工具库]]></title>
-        <id>http://du.jintiankansha.me/t/VzFxcE5Gck9JVQ==</id>
-        <link href="http://du.jintiankansha.me/t/VzFxcE5Gck9JVQ=="/>
-        <updated>2025-01-18T00:00:00.000Z</updated>
-        <published>2025-01-18T00:00:00.000Z</published>
     </entry>
 </feed>
