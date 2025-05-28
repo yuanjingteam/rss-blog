@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-05-28T00:40:14.092Z</updated>
+    <updated>2025-05-28T08:12:00.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[震惊，有生之年居然看到CSS attr()全属性支持]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/"/>
+        <updated>2025-05-28T00:00:00.000Z</updated>
+        <published>2025-05-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What the Node.js team has been discussing lately]]></title>
         <id>https://nodeweekly.com/issues/579</id>
@@ -355,12 +362,5 @@
         <link href="https://nodeweekly.com/issues/563"/>
         <updated>2025-01-21T00:00:00.000Z</updated>
         <published>2025-01-21T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分享 9 个神奇且超级实用的 JavaScript 数组方法]]></title>
-        <id>http://du.jintiankansha.me/t/cWw1akkyQloyWQ==</id>
-        <link href="http://du.jintiankansha.me/t/cWw1akkyQloyWQ=="/>
-        <updated>2025-01-20T00:00:00.000Z</updated>
-        <published>2025-01-20T00:00:00.000Z</published>
     </entry>
 </feed>
