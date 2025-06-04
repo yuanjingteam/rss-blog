@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-06-04 00:00:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-04 08:40:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-06-04-2025-06-04-HackerNews](https://supertechfans.com/cn/post/2025-06-04-HackerNews/) ![](/assets/new.png)  
 - [2025-06-03-2025-06-03-HackerNews](https://supertechfans.com/cn/post/2025-06-03-HackerNews/)  
 - [2025-06-02-2025-06-02-HackerNews](https://supertechfans.com/cn/post/2025-06-02-HackerNews/)  
 - [2025-06-01-2025-06-01-HackerNews](https://supertechfans.com/cn/post/2025-06-01-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-05-18-2025-05-18-HackerNews](https://supertechfans.com/cn/post/2025-05-18-HackerNews/)  
 - [2025-05-17-2025-05-17-HackerNews](https://supertechfans.com/cn/post/2025-05-17-HackerNews/)  
 - [2025-05-16-2025-05-16-HackerNews](https://supertechfans.com/cn/post/2025-05-16-HackerNews/)  
-- [2025-05-15-2025-05-15-HackerNews](https://supertechfans.com/cn/post/2025-05-15-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -537,7 +537,7 @@
 </summary>
 
 
-- [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580) ![](/assets/new.png)  
+- [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)  
 - [2025-05-27-What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579)  
 - [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)  
 - [2025-05-06-Node.js-24-released](https://nodeweekly.com/issues/577)  
