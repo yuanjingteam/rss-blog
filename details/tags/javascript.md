@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-06-04 18:01:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-05 02:00:57。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -12,6 +12,7 @@
 - [2022-07-24-《JavaScript-DOM-编程艺术》小记](https://www.kai666666.com/2022/07/24/%E3%80%8AJavaScript-DOM-%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF%E3%80%8B%E5%B0%8F%E8%AE%B0/) 
 - [2023-10-24-【前端工程化】Nextjs项目工程化最佳实践总结（献给2023-1024的礼物）](https://blog.vadxq.com/article/nextjs-engineering-project/) 
 - [2020-10-23-【前端重温系列】this的不可描述与变化原理（献给2020-1024的礼物）](https://blog.vadxq.com/article/frontend-revisited-this/) 
+- [2025-05-28-JavaScript-流式写入文件](https://blog.rxliuli.com/p/4163a2afe21f4cbe907a7beeccd7730c/) 
 - [2024-11-13-在-Chrome-插件中将-ArrayBuffer-从网页传递到-Devtools-Panel](https://blog.rxliuli.com/p/cc2c3f61d78346188ca4112ef4734184/) 
 - [2024-08-20-使用-JavaScript-创建-PoeAI-的-服务端-bot](https://blog.rxliuli.com/p/958e1a550f804fb8b755040bbd040bd2/) 
 - [2024-08-16-在-Chrome-扩展的-Shadow-DOM-中使用-shadui/cn-渲染弹窗组件](https://blog.rxliuli.com/p/7e7a1dd99853473ab2af10fdd23dc488/) 
