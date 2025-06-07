@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-06-06 22:00:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-07 11:07:00，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-06-07-2025-06-07-HackerNews](https://supertechfans.com/cn/post/2025-06-07-HackerNews/) ![](/assets/new.png)  
 - [2025-06-06-2025-06-06-HackerNews](https://supertechfans.com/cn/post/2025-06-06-HackerNews/)  
 - [2025-06-05-2025-06-05-HackerNews](https://supertechfans.com/cn/post/2025-06-05-HackerNews/)  
 - [2025-06-04-2025-06-04-HackerNews](https://supertechfans.com/cn/post/2025-06-04-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-05-21-2025-05-21-HackerNews](https://supertechfans.com/cn/post/2025-05-21-HackerNews/)  
 - [2025-05-20-2025-05-20-HackerNews](https://supertechfans.com/cn/post/2025-05-20-HackerNews/)  
 - [2025-05-19-2025-05-19-HackerNews](https://supertechfans.com/cn/post/2025-05-19-HackerNews/)  
-- [2025-05-18-2025-05-18-HackerNews](https://supertechfans.com/cn/post/2025-05-18-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -568,7 +568,7 @@
 </summary>
 
 
-- [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739) ![](/assets/new.png)  
+- [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739)  
 - [2025-05-30-How-Remix-is-shaking-things-up](https://javascriptweekly.com/issues/738)  
 - [2025-05-23-A-timeline-of-JavaScript's-history](https://javascriptweekly.com/issues/737)  
 - [2025-05-16-The-power-of-generators](https://javascriptweekly.com/issues/736)  
