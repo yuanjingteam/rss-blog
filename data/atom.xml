@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-06-10T00:40:40.039Z</updated>
+    <updated>2025-06-10T14:00:51.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[Node 24.2, and some EOL warnings]]></title>
+        <id>https://nodeweekly.com/issues/581</id>
+        <link href="https://nodeweekly.com/issues/581"/>
+        <updated>2025-06-10T00:00:00.000Z</updated>
+        <published>2025-06-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JS PageSwap PageReveal事件干嘛用的？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/</id>
@@ -355,12 +362,5 @@
         <link href="https://nodeweekly.com/issues/564"/>
         <updated>2025-01-28T00:00:00.000Z</updated>
         <published>2025-01-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前端的响应从未如此简单！渲染视图的写法也发生大变化！]]></title>
-        <id>http://du.jintiankansha.me/t/TWtPYT!FQzhDTg==</id>
-        <link href="http://du.jintiankansha.me/t/TWtPYT!FQzhDTg=="/>
-        <updated>2025-01-23T00:00:00.000Z</updated>
-        <published>2025-01-23T00:00:00.000Z</published>
     </entry>
 </feed>
