@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-06-10 22:00:51，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-11 11:11:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-06-11-2025-06-11-HackerNews](https://supertechfans.com/cn/post/2025-06-11-HackerNews/) ![](/assets/new.png)  
 - [2025-06-10-2025-06-10-HackerNews](https://supertechfans.com/cn/post/2025-06-10-HackerNews/)  
 - [2025-06-09-2025-06-09-HackerNews](https://supertechfans.com/cn/post/2025-06-09-HackerNews/)  
 - [2025-06-08-2025-06-08-HackerNews](https://supertechfans.com/cn/post/2025-06-08-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-05-25-2025-05-25-HackerNews](https://supertechfans.com/cn/post/2025-05-25-HackerNews/)  
 - [2025-05-24-2025-05-24-HackerNews](https://supertechfans.com/cn/post/2025-05-24-HackerNews/)  
 - [2025-05-23-2025-05-23-HackerNews](https://supertechfans.com/cn/post/2025-05-23-HackerNews/)  
-- [2025-05-22-2025-05-22-HackerNews](https://supertechfans.com/cn/post/2025-05-22-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -537,7 +537,7 @@
 </summary>
 
 
-- [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581) ![](/assets/new.png)  
+- [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581)  
 - [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)  
 - [2025-05-27-What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579)  
 - [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)  
