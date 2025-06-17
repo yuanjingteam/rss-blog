@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-06-17 08:40:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-17 22:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -14,6 +14,7 @@
 - [2024-09-12-在-Web-中实现一个-TypeScript-Editor](https://blog.rxliuli.com/p/03549d7051e440b7bbdeccf027fac644/) 
 - [2020-03-03-从两个角度看Typescript中的类型是什么](https://taoweng.site/posts/%E4%BB%8E%E4%B8%A4%E4%B8%AA%E8%A7%92%E5%BA%A6%E7%9C%8Btypescript%E4%B8%AD%E7%9A%84%E7%B1%BB%E5%9E%8B%E6%98%AF%E4%BB%80%E4%B9%88/) 
 - [2019-05-13-能用js重写的都会被typescript重写](https://www.xiabingbao.com/post/typescript/typescript-forward.html) 
+- [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582) 
 - [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568) 
 - [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565) 
 - [2025-01-07-Unflagged-TypeScript-support-is-just-around-the-corner](https://nodeweekly.com/issues/561) 
