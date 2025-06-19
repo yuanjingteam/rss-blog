@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-06-18 18:01:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-19 08:41:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-06-19-2025-06-19-HackerNews](https://supertechfans.com/cn/post/2025-06-19-HackerNews/) ![](/assets/new.png)  
 - [2025-06-18-2025-06-18-HackerNews](https://supertechfans.com/cn/post/2025-06-18-HackerNews/)  
 - [2025-06-17-2025-06-17-HackerNews](https://supertechfans.com/cn/post/2025-06-17-HackerNews/)  
 - [2025-06-16-2025-06-16-HackerNews](https://supertechfans.com/cn/post/2025-06-16-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-06-02-2025-06-02-HackerNews](https://supertechfans.com/cn/post/2025-06-02-HackerNews/)  
 - [2025-06-01-2025-06-01-HackerNews](https://supertechfans.com/cn/post/2025-06-01-HackerNews/)  
 - [2025-05-31-2025-05-31-HackerNews](https://supertechfans.com/cn/post/2025-05-31-HackerNews/)  
-- [2025-05-30-2025-05-30-HackerNews](https://supertechfans.com/cn/post/2025-05-30-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1002,7 +1002,7 @@
 </summary>
 
 
-- [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/) ![](/assets/new.png)  
+- [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/)  
 - [2025-06-13-CSS-::scroll-button-::scroll-marker伪元素又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/css-scroll-button-marker/)  
 - [2025-06-04-JS-PageSwap-PageReveal事件干嘛用的？](https://www.zhangxinxu.com/wordpress/2025/06/js-pageswapevent/)  
 - [2025-05-28-震惊，有生之年居然看到CSS-attr全属性支持](https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/)  
