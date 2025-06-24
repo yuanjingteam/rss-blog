@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-06-24 11:12:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-06-25 00:00:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -475,7 +475,7 @@
 </summary>
 
 
-- [2025-06-24-2025-06-24-HackerNews](https://supertechfans.com/cn/post/2025-06-24-HackerNews/) ![](/assets/new.png)  
+- [2025-06-24-2025-06-24-HackerNews](https://supertechfans.com/cn/post/2025-06-24-HackerNews/)  
 - [2025-06-23-2025-06-23-HackerNews](https://supertechfans.com/cn/post/2025-06-23-HackerNews/)  
 - [2025-06-22-2025-06-22-HackerNews](https://supertechfans.com/cn/post/2025-06-22-HackerNews/)  
 - [2025-06-21-2025-06-21-HackerNews](https://supertechfans.com/cn/post/2025-06-21-HackerNews/)  
@@ -537,6 +537,7 @@
 </summary>
 
 
+- [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583) ![](/assets/new.png)  
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)  
 - [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581)  
 - [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)  
@@ -556,7 +557,6 @@
 - [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566)  
 - [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565)  
 - [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564)  
-- [2025-01-21-NodeBB,-the-Node.js-powered-forum-system](https://nodeweekly.com/issues/563)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
