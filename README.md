@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-07-01 14:00:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-01 22:00:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -14,7 +14,7 @@
 - [Teobler](#teobler)  
 - [清竹志](#清竹志)  
 - [Blog-|-Kerminate](#blog-|-kerminate)  
-- [rxliuli](#rxliuli)![](/assets/dot.png)   
+- [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
 - [吕立青](#吕立青)  
 - [臨池不輟](#臨池不輟)  
@@ -26,7 +26,7 @@
 - [小猪-部落格](#小猪-部落格)  
 - [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -190,7 +190,7 @@
 </summary>
 
 
-- [2025-06-28-再游新疆----自驾](https://blog.rxliuli.com/p/441b6ecfd6f24623b87cfd9bbed7856b/) ![](/assets/new.png)  
+- [2025-06-28-再游新疆----自驾](https://blog.rxliuli.com/p/441b6ecfd6f24623b87cfd9bbed7856b/)  
 - [2025-05-28-JavaScript-流式写入文件](https://blog.rxliuli.com/p/4163a2afe21f4cbe907a7beeccd7730c/)  
 - [2025-05-06-在构建时而非运行时编译-Markdown](https://blog.rxliuli.com/p/777c31e33d1e4e54803c785787e2e085/)  
 - [2025-04-24-在-Web-中解压大型-ZIP-并保持目录结构](https://blog.rxliuli.com/p/7b8a2da0ca00490cb79b6574b5b8744e/)  
@@ -537,6 +537,7 @@
 </summary>
 
 
+- [2025-07-01-Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584) ![](/assets/new.png)  
 - [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583)  
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)  
 - [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581)  
@@ -556,7 +557,6 @@
 - [2025-02-25-Node-23.8-introduces-the-URL-Pattern-API](https://nodeweekly.com/issues/567)  
 - [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566)  
 - [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565)  
-- [2025-01-28-Things-people-get-wrong-about-Electron](https://nodeweekly.com/issues/564)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
