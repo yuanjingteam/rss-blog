@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-07-08 08:41:18。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-08 22:09:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## JavaScript
 
@@ -184,6 +184,7 @@
 - [2014-01-03-js的数组问题](https://www.xiabingbao.com/post/javascript/2014/01/03/js-array.html) 
 - [2013-11-05-js事件在不同浏览器之间的差异](https://www.xiabingbao.com/post/javascript/2013/10/15/js-browser-diff.html) 
 - [2012-12-13-异步传输ajax](https://www.xiabingbao.com/post/js/2012/12/13/javascript-ajax.html) 
+- [2025-07-08-A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585) 
 - [2024-11-26-Taking-the-JavaScript-trademark-fight-to-the-USPTO](https://nodeweekly.com/issues/557) 
 - [2023-02-02-SQL-in-your-JavaScript](https://nodeweekly.com/issues/472) 
 - [2022-08-11-Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450) 

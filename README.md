@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-07-08 08:41:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-08 22:09:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -475,7 +475,7 @@
 </summary>
 
 
-- [2025-07-08-2025-07-08-HackerNews](https://supertechfans.com/cn/post/2025-07-08-HackerNews/) ![](/assets/new.png)  
+- [2025-07-08-2025-07-08-HackerNews](https://supertechfans.com/cn/post/2025-07-08-HackerNews/)  
 - [2025-07-07-2025-07-07-HackerNews](https://supertechfans.com/cn/post/2025-07-07-HackerNews/)  
 - [2025-07-06-2025-07-06-HackerNews](https://supertechfans.com/cn/post/2025-07-06-HackerNews/)  
 - [2025-07-04-2025-07-04-HackerNews](https://supertechfans.com/cn/post/2025-07-04-HackerNews/)  
@@ -537,6 +537,7 @@
 </summary>
 
 
+- [2025-07-08-A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585) ![](/assets/new.png)  
 - [2025-07-01-Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)  
 - [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583)  
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)  
@@ -556,7 +557,6 @@
 - [2025-03-04-TypeScript-gets-on-board-with-Node's-type-stripping](https://nodeweekly.com/issues/568)  
 - [2025-02-25-Node-23.8-introduces-the-URL-Pattern-API](https://nodeweekly.com/issues/567)  
 - [2025-02-11-Why-it's-time-to-go-'ESM-only'](https://nodeweekly.com/issues/566)  
-- [2025-02-04-A-TypeScript-release-targeted-at-Node-developers](https://nodeweekly.com/issues/565)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
