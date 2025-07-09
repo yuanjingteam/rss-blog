@@ -5,14 +5,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-07-09 08:42:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-09 11:15:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [crimx](#crimx)  
 - [橙光笔记](#橙光笔记)  
 - [Teobler](#teobler)  
-- [清竹志](#清竹志)  
+- [清竹志](#清竹志)![](/assets/dot.png)   
 - [Blog-|-Kerminate](#blog-|-kerminate)  
 - [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -128,6 +128,7 @@
 </summary>
 
 
+- [2025-07-09-Vercel收购NuxtLabs，我和尤雨溪一样心情复杂](https://blog.vadxq.com/article/nuxtlabs-is-joining-vercel/) ![](/assets/new.png)  
 - [2025-06-24-免费平替Claude-Code：Google-Gemini-CLI深度解析与实践指南](https://blog.vadxq.com/article/gemini-cli-intro-practice/)  
 - [2025-04-16-Newsletter逆天福利：三种方式获取全年免费-AI/SaaS-工具包（含团体购买兑换防坑指南）](https://blog.vadxq.com/article/lenny-newsletter-buy-tips/)  
 - [2025-04-10-激战“后DeepSeek时代”：全球大模型开启“地狱级”内卷模式](https://blog.vadxq.com/article/agent2agent-protocol-open-by-google/)  
@@ -147,7 +148,6 @@
 - [2020-12-31-【2020年终总结】如果这一年你很健康，那便是最好的一年！](https://blog.vadxq.com/article/2020-year-end-summary/)  
 - [2020-11-12-【Flutter】参与别人flutter项目踩坑填坑记录](https://blog.vadxq.com/article/flutter-run-other-project/)  
 - [2020-11-02-【包管理器】一个由第三方包管理器与npm冲突导致的bug](https://blog.vadxq.com/article/other-package-manage-error/)  
-- [2020-10-28-【Flutter安装】2020年末flutter安装找坑排坑](https://blog.vadxq.com/article/flutter-install-pit/)  
 - [......【查看更多】......](/details/清竹志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -475,7 +475,7 @@
 </summary>
 
 
-- [2025-07-09-2025-07-09-HackerNews](https://supertechfans.com/cn/post/2025-07-09-HackerNews/) ![](/assets/new.png)  
+- [2025-07-09-2025-07-09-HackerNews](https://supertechfans.com/cn/post/2025-07-09-HackerNews/)  
 - [2025-07-08-2025-07-08-HackerNews](https://supertechfans.com/cn/post/2025-07-08-HackerNews/)  
 - [2025-07-07-2025-07-07-HackerNews](https://supertechfans.com/cn/post/2025-07-07-HackerNews/)  
 - [2025-07-06-2025-07-06-HackerNews](https://supertechfans.com/cn/post/2025-07-06-HackerNews/)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-07-09 08:42:26。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-09 11:15:11。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -20,6 +20,7 @@
 - [2022-07-13-我在Thoughtworks的四年](https://teobler.com/posts/20220713-the-fourth-anniversary) 
 - [2022-06-06-定制西服小知识](https://teobler.com/posts/20220606-suit) 
 - [2022-05-30-时间都去哪了](https://teobler.com/posts/20220530-where-does-the-time-go) 
+- [2025-07-09-Vercel收购NuxtLabs，我和尤雨溪一样心情复杂](https://blog.vadxq.com/article/nuxtlabs-is-joining-vercel/) 
 - [2025-06-24-免费平替Claude-Code：Google-Gemini-CLI深度解析与实践指南](https://blog.vadxq.com/article/gemini-cli-intro-practice/) 
 - [2025-04-16-Newsletter逆天福利：三种方式获取全年免费-AI/SaaS-工具包（含团体购买兑换防坑指南）](https://blog.vadxq.com/article/lenny-newsletter-buy-tips/) 
 - [2025-04-10-激战“后DeepSeek时代”：全球大模型开启“地狱级”内卷模式](https://blog.vadxq.com/article/agent2agent-protocol-open-by-google/) 
