@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-07-08 22:09:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-09 08:42:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-07-09-2025-07-09-HackerNews](https://supertechfans.com/cn/post/2025-07-09-HackerNews/) ![](/assets/new.png)  
 - [2025-07-08-2025-07-08-HackerNews](https://supertechfans.com/cn/post/2025-07-08-HackerNews/)  
 - [2025-07-07-2025-07-07-HackerNews](https://supertechfans.com/cn/post/2025-07-07-HackerNews/)  
 - [2025-07-06-2025-07-06-HackerNews](https://supertechfans.com/cn/post/2025-07-06-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-06-21-2025-06-21-HackerNews](https://supertechfans.com/cn/post/2025-06-21-HackerNews/)  
 - [2025-06-20-2025-06-20-HackerNews](https://supertechfans.com/cn/post/2025-06-20-HackerNews/)  
 - [2025-06-19-2025-06-19-HackerNews](https://supertechfans.com/cn/post/2025-06-19-HackerNews/)  
-- [2025-06-18-2025-06-18-HackerNews](https://supertechfans.com/cn/post/2025-06-18-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -537,7 +537,7 @@
 </summary>
 
 
-- [2025-07-08-A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585) ![](/assets/new.png)  
+- [2025-07-08-A-way-to-get-your-JSON-under-control](https://nodeweekly.com/issues/585)  
 - [2025-07-01-Running-Gemma-3n-from-Node](https://nodeweekly.com/issues/584)  
 - [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583)  
 - [2025-06-17-One-step-closer-to-TypeScript](https://nodeweekly.com/issues/582)  
