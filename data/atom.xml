@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-07-10T00:42:46.444Z</updated>
+    <updated>2025-07-10T12:15:42.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[HTML新search元素,h1规则要变,声明式Shadow DOM]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/"/>
+        <updated>2025-07-10T00:00:00.000Z</updated>
+        <published>2025-07-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A way to get your JSON under control]]></title>
         <id>https://nodeweekly.com/issues/585</id>
@@ -355,12 +362,5 @@
         <link href="https://blog.rxliuli.com/p/23bc670bb5e54e6190d3ecf39cc3efd4/"/>
         <updated>2025-02-16T00:00:00.000Z</updated>
         <published>2025-02-16T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不要搞混了，不是text而是CSS font-size-adjust属性]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/02/css-font-size-adjust/"/>
-        <updated>2025-02-12T00:00:00.000Z</updated>
-        <published>2025-02-12T00:00:00.000Z</published>
     </entry>
 </feed>
