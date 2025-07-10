@@ -5,14 +5,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-07-09 11:15:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-10 08:42:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [crimx](#crimx)  
 - [橙光笔记](#橙光笔记)  
 - [Teobler](#teobler)  
-- [清竹志](#清竹志)![](/assets/dot.png)   
+- [清竹志](#清竹志)  
 - [Blog-|-Kerminate](#blog-|-kerminate)  
 - [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -128,7 +128,7 @@
 </summary>
 
 
-- [2025-07-09-Vercel收购NuxtLabs，我和尤雨溪一样心情复杂](https://blog.vadxq.com/article/nuxtlabs-is-joining-vercel/) ![](/assets/new.png)  
+- [2025-07-09-Vercel收购NuxtLabs，我和尤雨溪一样心情复杂](https://blog.vadxq.com/article/nuxtlabs-is-joining-vercel/)  
 - [2025-06-24-免费平替Claude-Code：Google-Gemini-CLI深度解析与实践指南](https://blog.vadxq.com/article/gemini-cli-intro-practice/)  
 - [2025-04-16-Newsletter逆天福利：三种方式获取全年免费-AI/SaaS-工具包（含团体购买兑换防坑指南）](https://blog.vadxq.com/article/lenny-newsletter-buy-tips/)  
 - [2025-04-10-激战“后DeepSeek时代”：全球大模型开启“地狱级”内卷模式](https://blog.vadxq.com/article/agent2agent-protocol-open-by-google/)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-07-10-2025-07-10-HackerNews](https://supertechfans.com/cn/post/2025-07-10-HackerNews/) ![](/assets/new.png)  
 - [2025-07-09-2025-07-09-HackerNews](https://supertechfans.com/cn/post/2025-07-09-HackerNews/)  
 - [2025-07-08-2025-07-08-HackerNews](https://supertechfans.com/cn/post/2025-07-08-HackerNews/)  
 - [2025-07-07-2025-07-07-HackerNews](https://supertechfans.com/cn/post/2025-07-07-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-06-22-2025-06-22-HackerNews](https://supertechfans.com/cn/post/2025-06-22-HackerNews/)  
 - [2025-06-21-2025-06-21-HackerNews](https://supertechfans.com/cn/post/2025-06-21-HackerNews/)  
 - [2025-06-20-2025-06-20-HackerNews](https://supertechfans.com/cn/post/2025-06-20-HackerNews/)  
-- [2025-06-19-2025-06-19-HackerNews](https://supertechfans.com/cn/post/2025-06-19-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
