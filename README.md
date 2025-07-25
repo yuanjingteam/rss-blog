@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-07-25 08:43:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-25 18:01:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -475,7 +475,7 @@
 </summary>
 
 
-- [2025-07-25-2025-07-25-HackerNews](https://supertechfans.com/cn/post/2025-07-25-HackerNews/) ![](/assets/new.png)  
+- [2025-07-25-2025-07-25-HackerNews](https://supertechfans.com/cn/post/2025-07-25-HackerNews/)  
 - [2025-07-24-2025-07-24-HackerNews](https://supertechfans.com/cn/post/2025-07-24-HackerNews/)  
 - [2025-07-21-2025-07-21-HackerNews](https://supertechfans.com/cn/post/2025-07-21-HackerNews/)  
 - [2025-07-20-2025-07-20-HackerNews](https://supertechfans.com/cn/post/2025-07-20-HackerNews/)  
@@ -1002,6 +1002,7 @@
 </summary>
 
 
+- [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/) ![](/assets/new.png)  
 - [2025-07-16-JS正则新特性：安全过滤RegExp.escape方法](https://www.zhangxinxu.com/wordpress/2025/07/js-regexp-escape/)  
 - [2025-07-10-HTML新search元素,h1规则要变,声明式Shadow-DOM](https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/)  
 - [2025-07-04-好诶，select下拉框元素支持样式完全自定义啦！](https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/)  
@@ -1021,7 +1022,6 @@
 - [2025-03-23-研究下attachInternals方法，可让普通元素有表单特性](https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/)  
 - [2025-03-17-一种更好的文字隐藏的方法-::first-line伪元素](https://www.zhangxinxu.com/wordpress/2025/03/css-first-line-hidden-text/)  
 - [2025-03-09-CSS-@supports规则又新增font-tech,font-format判断](https://www.zhangxinxu.com/wordpress/2025/03/css-supports-font-tech-format/)  
-- [2025-03-05-终于等到了，CSS-offset-path全浏览器全支持](https://www.zhangxinxu.com/wordpress/2025/03/css-offset-path/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
