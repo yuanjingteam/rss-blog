@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-07-29 22:13:30。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-07-30 00:11:03。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## TypeScript
 
@@ -91,8 +91,11 @@
 - [2021-01-13-实现一个-async/await-（typescript-版）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651567035&idx=2&sn=68d45e1a62f505e4be7a60ebb35f7f1c&chksm=8025647ab752ed6c784b69ba2a0d34aa01c11dca1c7d9114f29fb05e1bc2b11f8a44ee6d9377&scene=27#wechat_redirect) 
 - [2021-01-11-实现一个符合-Promise/A+规范的-Promise（typescript-版）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651566799&idx=3&sn=c626dc8cfc4de9a0d799e67f481a64a0&chksm=8025650eb752ec1804b5056b9dbd5e8e3ca3be419875cd5978bdfa8ee09944d8517f5374214c&scene=27#wechat_redirect) 
 - [2021-01-06-Typescript-代码整洁之道](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651566497&idx=3&sn=efc56ca9b7bdc0dfc67bdab83c0662bc&chksm=80256660b752ef767f9a0376274edbdaaeaed7727e0d6a2702aceb568f1418b77a13216df66b&scene=27#wechat_redirect) 
+- [2021-01-06-Typescript-代码整洁之道](http://posts.careerengine.us/p/60daaadd7555f36f991cd4e5) 
 - [2020-12-28-一份不可多得的-TypeScript-学习指南](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651565822&idx=2&sn=082f027648c1c1ce9cc94364a73e6afa&chksm=8025793fb752f0299922ee2fcfa7aaf3b11457d1a43188876ae59ae55d1253eae5b71ecdbbd0&scene=27#wechat_redirect) 
+- [2020-12-28-一份不可多得的-TypeScript-学习指南](http://posts.careerengine.us/p/60daaafb79ce89701dd48a2f) 
 - [2020-12-12-大规模采用-TypeScript-之后的-10-个见解](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651564501&idx=1&sn=b06009003a9d0b4297daf94a4e4e749e&chksm=80257e14b752f7023deadeb3ff0f4efee28f5b1b24c4f4f75d14fa06453d80359754ea4e1667&scene=27#wechat_redirect) 
+- [2020-12-12-大规模采用-TypeScript-之后的-10-个见解](http://posts.careerengine.us/p/60daaafb79ce89701dd48a40) 
 - [2020-10-28-TypeScript：-请停止使用-any](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651563369&idx=2&sn=527b912eee074fadd5721efafb249ea0&chksm=802572a8b752fbbe4bddf663af5554e726ac33c770b221e4ad45f6dcaa65a6a9fabf5a990cc2&scene=27#wechat_redirect) 
 - [2020-09-19-TypeScript之父：JS不是竞争对手](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651562240&idx=1&sn=117f96ef2ba89dbe85ddd2c73c02293d&chksm=802576c1b752ffd7f9058fbb4b46775155277fcf6909b2f2aea90a3a9596bae950701eca1770&scene=27#wechat_redirect) 
 - [2020-08-27-TypeScript-4.0-来了，有什么新的关注点？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651561748&idx=1&sn=afc3305b64e460f318c92708e4e5c0dd&chksm=802548d5b752c1c326e688562c3ea34eb01dd960cdadedec776b389f8973325ebc901b971428&scene=27#wechat_redirect) 
@@ -105,8 +108,10 @@
 - [2019-09-17-Google-员工吐槽-TypeScript-：类型检查不太好](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557084&idx=2&sn=de053beae633826074b326fe86019de8&chksm=80255b1db752d20bf8c663ad4571517cdea93055ca24dcd13fc8f47c1b3dec3617338da96949#rd) 
 - [2019-09-03-增长最快的TypeScript-，你不得不看！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557012&idx=1&sn=cefe8085d0da91d051643191f68057fd&chksm=80255b55b752d243b1614f95b29b9d5e259c2399930231f61185c4b19a109a46005221bea02a#rd) 
 - [2023-12-20-前端框架自欺欺人，TypeScript全无必要？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523432&idx=1&sn=f7f4df4457b5fefa7fef036e5a9c22a6&chksm=f952292bce25a03d0ea6e34fb403408df9febb1fe0ebd913a3f82209174f4c545466b4acb12c#rd) 
+- [2023-12-20-前端框架自欺欺人，TypeScript全无必要？](http://posts.careerengine.us/p/65b3027f64ebc06ad5144829) 
 - [2023-12-08-前端老手10年心得，JavaScript/TypeScript项目保养实用指南](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247523250&idx=1&sn=f9b66750d54748a11ddfc7e7e0e39398&chksm=f9522ef1ce25a7e73f3298662e23d254d9c2cc0c259cbd63dded43d3420b319d654b3af1e5c5#rd) 
 - [2023-09-11-Ruby-on-Rails的创始人将TypeScript从Turbo框架中移除，引起社区不满](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247522183&idx=1&sn=153672445b5286bcfead32e10a1c57de&chksm=f95222c4ce25abd2b97882a0d5aa52f8a576f253a3563de2366d0c843e19b4d1756108434b6c#rd) 
+- [2023-09-11-Ruby-on-Rails的创始人将TypeScript从Turbo框架中移除，引起社区不满](http://posts.careerengine.us/p/65b3027e64ebc06ad5144821) 
 - [2023-07-26-C#-和-TypeScript-之父亲自带队开源-TypeChat，又一-AI-技术瓶颈被攻破？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521543&idx=1&sn=544ff2ecfc6e620273c939dd9d6c8f58&chksm=f9522044ce25a9527515c7911eea47ef2e0047540054397e4ffe153664aa6c536a37a2780a00#rd) 
 - [2023-07-07-TypeScript中的Object.keys类型为什么非要这么设计？](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247521347&idx=1&sn=f3c8c094efef227608fbc3022596039b&chksm=f9522100ce25a81607ab7961f54e0b3bce51b6cce16775181705de898c514ac89b9572e7d8a9#rd) 
 - [2023-05-17-“TypeScript不值得！”前端框架Svelte作者宣布重构代码，反向迁移到JavaScript引争议](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247520906&idx=1&sn=df1c2a82aa6b58489ae4bd56afda6c23&chksm=f95227c9ce25aedf903db7463021f89a5f55e706a336780fd959ae7c5c68d9a839423abc004d#rd) 
