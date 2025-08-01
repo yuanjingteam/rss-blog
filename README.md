@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-08-01 11:46:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-02 00:11:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,9 +25,9 @@
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
 - [SuperTechFans](#supertechfans)  
-- [蚊子前端博客](#蚊子前端博客)![](/assets/dot.png)   
+- [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -506,7 +506,7 @@
 </summary>
 
 
-- [2025-08-01-自己封装-uuid-踩的一个小坑](https://www.xiabingbao.com/post/uuid-bug-t0alsa.html) ![](/assets/new.png)  
+- [2025-08-01-自己封装-uuid-踩的一个小坑](https://www.xiabingbao.com/post/uuid-bug-t0alsa.html)  
 - [2025-07-31-CKEditor5-光标在粘贴的图片下一行](https://www.xiabingbao.com/post/ckeditor-cursor-t09i1o.html)  
 - [2025-06-26-软考出成绩了，没过](https://www.xiabingbao.com/post/ruankao-sygsf0.html)  
 - [2025-03-12-好久没有更新文章了](https://www.xiabingbao.com/post/longtimenosee-st0n0w.html)  
@@ -568,6 +568,7 @@
 </summary>
 
 
+- [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747) ![](/assets/new.png)  
 - [2025-07-25-Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)  
 - [2025-07-18-A-tricky,-educational-quiz:-it's-about-time..](https://javascriptweekly.com/issues/745)  
 - [2025-07-11-The-details-of-TC39's-last-meeting](https://javascriptweekly.com/issues/744)  
@@ -587,7 +588,6 @@
 - [2025-04-04-The-JavaScript-trademark-fight-rumbles-on](https://javascriptweekly.com/issues/730)  
 - [2025-03-28-The-tale-of-a-bizarre-bug-encountered-in-Google-Docs](https://javascriptweekly.com/issues/729)  
 - [2025-03-21-The-Rsdoctor-will-see-you-now](https://javascriptweekly.com/issues/728)  
-- [2025-03-14-Can-you-understand-this-JavaScript?](https://javascriptweekly.com/issues/727)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
