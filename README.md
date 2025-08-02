@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-08-02 00:11:08，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-02 11:18:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-08-02-2025-08-02-HackerNews](https://supertechfans.com/cn/post/2025-08-02-HackerNews/) ![](/assets/new.png)  
 - [2025-08-01-2025-08-01-HackerNews](https://supertechfans.com/cn/post/2025-08-01-HackerNews/)  
 - [2025-07-31-2025-07-31-HackerNews](https://supertechfans.com/cn/post/2025-07-31-HackerNews/)  
 - [2025-07-30-2025-07-30-HackerNews](https://supertechfans.com/cn/post/2025-07-30-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-07-12-2025-07-12-HackerNews](https://supertechfans.com/cn/post/2025-07-12-HackerNews/)  
 - [2025-07-11-2025-07-11-HackerNews](https://supertechfans.com/cn/post/2025-07-11-HackerNews/)  
 - [2025-07-10-2025-07-10-HackerNews](https://supertechfans.com/cn/post/2025-07-10-HackerNews/)  
-- [2025-07-09-2025-07-09-HackerNews](https://supertechfans.com/cn/post/2025-07-09-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -568,7 +568,7 @@
 </summary>
 
 
-- [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747) ![](/assets/new.png)  
+- [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)  
 - [2025-07-25-Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)  
 - [2025-07-18-A-tricky,-educational-quiz:-it's-about-time..](https://javascriptweekly.com/issues/745)  
 - [2025-07-11-The-details-of-TC39's-last-meeting](https://javascriptweekly.com/issues/744)  
