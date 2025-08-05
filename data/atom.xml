@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-08-05T00:45:12.065Z</updated>
+    <updated>2025-08-05T18:13:43.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[How JSON.stringify is about to get much faster]]></title>
+        <id>https://nodeweekly.com/issues/589</id>
+        <link href="https://nodeweekly.com/issues/589"/>
+        <updated>2025-08-05T00:00:00.000Z</updated>
+        <published>2025-08-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jumbo-sized JavaScript for issue 747]]></title>
         <id>https://javascriptweekly.com/issues/747</id>
@@ -159,6 +166,13 @@
         <link href="https://nodeweekly.com/issues/581"/>
         <updated>2025-06-10T00:00:00.000Z</updated>
         <published>2025-06-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实践: 使用 Hono 开发全栈应用]]></title>
+        <id>https://blog.rxliuli.com/p/b39acb5cf6bd45e6b221b4175c8ad097/</id>
+        <link href="https://blog.rxliuli.com/p/b39acb5cf6bd45e6b221b4175c8ad097/"/>
+        <updated>2025-06-07T00:00:00.000Z</updated>
+        <published>2025-06-07T00:00:00.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JS PageSwap PageReveal事件干嘛用的？]]></title>
@@ -348,19 +362,5 @@
         <link href="https://nodeweekly.com/issues/570"/>
         <updated>2025-03-18T00:00:00.000Z</updated>
         <published>2025-03-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can you understand this JavaScript?]]></title>
-        <id>https://javascriptweekly.com/issues/727</id>
-        <link href="https://javascriptweekly.com/issues/727"/>
-        <updated>2025-03-14T00:00:00.000Z</updated>
-        <published>2025-03-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[转换 Chrome Extension 为 Safari 版本]]></title>
-        <id>https://blog.rxliuli.com/p/1a7d920368904cd38a0ea562cf90b246/</id>
-        <link href="https://blog.rxliuli.com/p/1a7d920368904cd38a0ea562cf90b246/"/>
-        <updated>2025-03-13T00:00:00.000Z</updated>
-        <published>2025-03-13T00:00:00.000Z</published>
     </entry>
 </feed>
