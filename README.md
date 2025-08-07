@@ -5,12 +5,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-08-06 11:27:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-07 08:44:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [crimx](#crimx)  
-- [橙光笔记](#橙光笔记)![](/assets/dot.png)   
+- [橙光笔记](#橙光笔记)  
 - [Teobler](#teobler)  
 - [清竹志](#清竹志)  
 - [Blog-|-Kerminate](#blog-|-kerminate)  
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -76,7 +76,7 @@
 </summary>
 
 
-- [2025-08-05-源码共读---grid-layout-plus](https://www.kai666666.com/2025/08/05/%E6%BA%90%E7%A0%81%E5%85%B1%E8%AF%BB-grid-layout-plus/) ![](/assets/new.png)  
+- [2025-08-05-源码共读---grid-layout-plus](https://www.kai666666.com/2025/08/05/%E6%BA%90%E7%A0%81%E5%85%B1%E8%AF%BB-grid-layout-plus/)  
 - [2025-07-21-Canvas系列（21）：多边形碰撞检测](https://www.kai666666.com/2025/07/21/Canvas%E7%B3%BB%E5%88%97%EF%BC%8821%EF%BC%89%EF%BC%9A%E5%A4%9A%E8%BE%B9%E5%BD%A2%E7%A2%B0%E6%92%9E%E6%A3%80%E6%B5%8B/)  
 - [2025-02-08-Canvas系列（20）：画布中画满圆](https://www.kai666666.com/2025/02/08/Canvas%E7%B3%BB%E5%88%97%EF%BC%8820%EF%BC%89%EF%BC%9A%E7%94%BB%E5%B8%83%E4%B8%AD%E7%94%BB%E6%BB%A1%E5%9C%86/)  
 - [2025-01-17-Canvas系列（19）：实战-五彩纸屑](https://www.kai666666.com/2025/01/16/Canvas%E7%B3%BB%E5%88%97%EF%BC%8819%EF%BC%89%EF%BC%9A%E5%AE%9E%E6%88%98-%E4%BA%94%E5%BD%A9%E7%BA%B8%E5%B1%91/)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-08-07-2025-08-07-HackerNews](https://supertechfans.com/cn/post/2025-08-07-HackerNews/) ![](/assets/new.png)  
 - [2025-08-06-2025-08-06-HackerNews](https://supertechfans.com/cn/post/2025-08-06-HackerNews/)  
 - [2025-08-05-2025-08-05-HackerNews](https://supertechfans.com/cn/post/2025-08-05-HackerNews/)  
 - [2025-08-04-2025-08-04-HackerNews](https://supertechfans.com/cn/post/2025-08-04-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-07-17-2025-07-17-HackerNews](https://supertechfans.com/cn/post/2025-07-17-HackerNews/)  
 - [2025-07-16-2025-07-16-HackerNews](https://supertechfans.com/cn/post/2025-07-16-HackerNews/)  
 - [2025-07-15-2025-07-15-HackerNews](https://supertechfans.com/cn/post/2025-07-15-HackerNews/)  
-- [2025-07-14-2025-07-14-HackerNews](https://supertechfans.com/cn/post/2025-07-14-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
