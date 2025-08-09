@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-08-08 20:16:43，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-09 11:13:30，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-08-09-2025-08-09-HackerNews](https://supertechfans.com/cn/post/2025-08-09-HackerNews/) ![](/assets/new.png)  
 - [2025-08-08-2025-08-08-HackerNews](https://supertechfans.com/cn/post/2025-08-08-HackerNews/)  
 - [2025-08-07-2025-08-07-HackerNews](https://supertechfans.com/cn/post/2025-08-07-HackerNews/)  
 - [2025-08-06-2025-08-06-HackerNews](https://supertechfans.com/cn/post/2025-08-06-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-07-19-2025-07-19-HackerNews](https://supertechfans.com/cn/post/2025-07-19-HackerNews/)  
 - [2025-07-18-2025-07-18-HackerNews](https://supertechfans.com/cn/post/2025-07-18-HackerNews/)  
 - [2025-07-17-2025-07-17-HackerNews](https://supertechfans.com/cn/post/2025-07-17-HackerNews/)  
-- [2025-07-16-2025-07-16-HackerNews](https://supertechfans.com/cn/post/2025-07-16-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -568,7 +568,7 @@
 </summary>
 
 
-- [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748) ![](/assets/new.png)  
+- [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)  
 - [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)  
 - [2025-07-25-Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)  
 - [2025-07-18-A-tricky,-educational-quiz:-it's-about-time..](https://javascriptweekly.com/issues/745)  
