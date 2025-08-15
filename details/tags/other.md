@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-08-15 08:42:13。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-15 18:01:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -160,6 +160,7 @@
 - [2016-10-04-简单方法解决-Macbook-电源接口接触不良的问题](https://keelii.com/2016/10/04/rebuild-mbp-power-cord) 
 - [2016-07-31-京东单品页前端开发那些不得不说的事儿](https://keelii.com/2016/07/31/something-have-to-say-with-JD-item) 
 - [2016-07-04-使用-lisp-简单描述加法运算](https://keelii.com/2016/07/04/describe-a-simple-add-method-use-lisp) 
+- [2016-06-13-关于我](https://keelii.com/2016/06/13/about) 
 - [2016-06-10-测试文章](https://keelii.com/2016/06/10/test-post) 
 - [2012-08-19-前端，改变](https://keelii.com/2012/08/19/front-end-makes-change) 
 - [2019-06-04-再谈中文字体的子集化与动态创建字体](http://guowenfh.github.io/2019/06/04/2019/font-carrier2/) 
