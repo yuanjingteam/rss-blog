@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-08-15 18:01:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-15 20:14:55，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -278,6 +278,7 @@
 </summary>
 
 
+- [2025-08-16-相信数字还是相信直觉](https://keelii.com/2025/08/16/numbers-or-intuition) ![](/assets/new.png)  
 - [2022-05-19-我做程序员这十年](https://keelii.com/2022/05/19/ten-years-programming)  
 - [2022-05-15-从《如梦令·昨夜雨疏风骤》读出人生三重境界](https://keelii.com/2022/05/15/ru-meng-ling)  
 - [2021-10-25-所谓的设计系统](https://keelii.com/2021/10/25/so-called-design-system)  
@@ -287,17 +288,16 @@
 - [2019-11-25-Java-并发与多线程教程](https://keelii.com/2019/11/24/java-concurrency-and-multithreading-tutorial)  
 - [2019-08-26-漫谈哲学与编程](https://keelii.com/2019/08/25/philosophy-and-programming)  
 - [2019-07-07-我想要-AOP-—-使用-AOP-分离关注点](https://keelii.com/2019/07/06/i-want-my-aop-cn)  
-- [2019-07-04-Nestjs-框架教程（第十篇：拦截器）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-10)  
-- [2019-07-04-Nestjs-框架教程（第九篇：守卫）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-9)  
-- [2019-07-04-Nestjs-框架教程（第八篇：管道）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-8)  
-- [2019-07-04-Nestjs-框架教程（第七篇：异常过滤器）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-7)  
-- [2019-07-04-Nestjs-框架教程（第六篇：中间件）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-6)  
-- [2019-07-04-Nestjs-框架教程（第五篇：模块）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-5)  
-- [2019-07-04-Nestjs-框架教程（第四篇：Providers）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-4)  
-- [2019-07-04-Nestjs-框架教程（第三篇：控制器）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-3)  
-- [2019-07-04-Nestjs-框架教程（第二篇：入门）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-2)  
 - [2019-07-04-Nestjs-框架教程（第一篇：简介）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-1)  
-- [2019-06-21-复联4是一集电视剧，3才是一部电影](https://keelii.com/2019/06/20/why-avengers-3-is-better-6-7)  
+- [2019-07-04-Nestjs-框架教程（第二篇：入门）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-2)  
+- [2019-07-04-Nestjs-框架教程（第三篇：控制器）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-3)  
+- [2019-07-04-Nestjs-框架教程（第四篇：Providers）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-4)  
+- [2019-07-04-Nestjs-框架教程（第五篇：模块）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-5)  
+- [2019-07-04-Nestjs-框架教程（第六篇：中间件）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-6)  
+- [2019-07-04-Nestjs-框架教程（第七篇：异常过滤器）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-7)  
+- [2019-07-04-Nestjs-框架教程（第八篇：管道）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-8)  
+- [2019-07-04-Nestjs-框架教程（第九篇：守卫）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-9)  
+- [2019-07-04-Nestjs-框架教程（第十篇：拦截器）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-10)  
 - [......【查看更多】......](/details/臨池不輟.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1002,6 +1002,7 @@
 </summary>
 
 
+- [2025-08-15-这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/) ![](/assets/new.png)  
 - [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/)  
 - [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)  
 - [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/)  
@@ -1021,7 +1022,6 @@
 - [2025-04-14-DOM新特性之caretPositionFromPoint-API](https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/)  
 - [2025-04-06-JS-EditContext-API-简介](https://www.zhangxinxu.com/wordpress/2025/04/js-editcontext-api/)  
 - [2025-03-27-光速了解script-style-link元素新增的blocking属性](https://www.zhangxinxu.com/wordpress/2025/03/html-script-blocking/)  
-- [2025-03-23-研究下attachInternals方法，可让普通元素有表单特性](https://www.zhangxinxu.com/wordpress/2025/03/html-element-elementinternals-attachinternals/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

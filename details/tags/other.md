@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-08-15 18:01:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-15 20:14:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -131,6 +131,7 @@
 - [2021-03-13-事物间丰富的关联，是我们抽象、感知和思考的重要部分-|-Roam-Newsletter-漫游研究所周报-2021W11](https://blog.jimmylv.info/2021-03-13-roam-newsletter-roamcn2021w11/) 
 - [2021-03-09-为什么说-Roam-远不只是一个笔记应用-|-Roam-Newsletter-漫游研究所周报-2021W10](https://blog.jimmylv.info/2021-03-09-roam-newsletter-roamcn2021w10/) 
 - [2021-03-08-【译】深度解析-Roam-数据结构-——-为什么-Roam-远不只是一个笔记应用](https://blog.jimmylv.info/2021-03-08-roam-data-structure-query-zh-translation/) 
+- [2025-08-16-相信数字还是相信直觉](https://keelii.com/2025/08/16/numbers-or-intuition) 
 - [2022-05-19-我做程序员这十年](https://keelii.com/2022/05/19/ten-years-programming) 
 - [2022-05-15-从《如梦令·昨夜雨疏风骤》读出人生三重境界](https://keelii.com/2022/05/15/ru-meng-ling) 
 - [2021-10-25-所谓的设计系统](https://keelii.com/2021/10/25/so-called-design-system) 
