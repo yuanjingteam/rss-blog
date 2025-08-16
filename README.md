@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-08-15 20:14:55，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-16 11:07:38，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -17,14 +17,14 @@
 - [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
 - [吕立青](#吕立青)  
-- [臨池不輟](#臨池不輟)![](/assets/dot.png)   
+- [臨池不輟](#臨池不輟)  
 - [三省吾身](#三省吾身)  
 - [囧克斯](#囧克斯)  
 - [Jartto's-blog](#jartto's-blog)  
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -278,7 +278,7 @@
 </summary>
 
 
-- [2025-08-16-相信数字还是相信直觉](https://keelii.com/2025/08/16/numbers-or-intuition) ![](/assets/new.png)  
+- [2025-08-16-相信数字还是相信直觉](https://keelii.com/2025/08/16/numbers-or-intuition)  
 - [2022-05-19-我做程序员这十年](https://keelii.com/2022/05/19/ten-years-programming)  
 - [2022-05-15-从《如梦令·昨夜雨疏风骤》读出人生三重境界](https://keelii.com/2022/05/15/ru-meng-ling)  
 - [2021-10-25-所谓的设计系统](https://keelii.com/2021/10/25/so-called-design-system)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-08-16-2025-08-16-HackerNews](https://supertechfans.com/cn/post/2025-08-16-HackerNews/) ![](/assets/new.png)  
 - [2025-08-15-2025-08-15-HackerNews](https://supertechfans.com/cn/post/2025-08-15-HackerNews/)  
 - [2025-08-14-2025-08-14-HackerNews](https://supertechfans.com/cn/post/2025-08-14-HackerNews/)  
 - [2025-08-13-2025-08-13-HackerNews](https://supertechfans.com/cn/post/2025-08-13-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-07-29-2025-07-29-HackerNews](https://supertechfans.com/cn/post/2025-07-29-HackerNews/)  
 - [2025-07-26-2025-07-26-HackerNews](https://supertechfans.com/cn/post/2025-07-26-HackerNews/)  
 - [2025-07-25-2025-07-25-HackerNews](https://supertechfans.com/cn/post/2025-07-25-HackerNews/)  
-- [2025-07-24-2025-07-24-HackerNews](https://supertechfans.com/cn/post/2025-07-24-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1002,7 +1002,7 @@
 </summary>
 
 
-- [2025-08-15-这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/) ![](/assets/new.png)  
+- [2025-08-15-这个有点屌CSS-@container-scroll-state容器滚动查询](https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/)  
 - [2025-08-07-CSS索引和数量匹配函数sibling-index-sibling-count简介](https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/)  
 - [2025-07-31-HTML-popover再进化-–-新增hint类型提示框](https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/)  
 - [2025-07-25-CSS倒反天罡居然支持if函数了](https://www.zhangxinxu.com/wordpress/2025/07/css-if-function/)  
