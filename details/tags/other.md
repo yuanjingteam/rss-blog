@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-08-22 08:38:50。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-22 22:00:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -724,6 +724,7 @@
 - [2022-01-20-Eleventy-1.0](https://nodeweekly.com/issues/421) 
 - [2022-01-13-📦-Broken-packages](https://nodeweekly.com/issues/420) 
 - [2021-12-09-Security](https://nodeweekly.com/issues/417) 
+- [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749) 
 - [2025-07-18-A-tricky,-educational-quiz:-it's-about-time..](https://javascriptweekly.com/issues/745) 
 - [2025-06-13-Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740) 
 - [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739) 
