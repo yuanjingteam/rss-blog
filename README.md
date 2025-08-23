@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-08-22 22:00:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-23 08:37:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -475,6 +475,7 @@
 </summary>
 
 
+- [2025-08-23-2025-08-23-HackerNews](https://supertechfans.com/cn/post/2025-08-23-HackerNews/) ![](/assets/new.png)  
 - [2025-08-22-2025-08-22-HackerNews](https://supertechfans.com/cn/post/2025-08-22-HackerNews/)  
 - [2025-08-21-2025-08-21-HackerNews](https://supertechfans.com/cn/post/2025-08-21-HackerNews/)  
 - [2025-08-20-2025-08-20-HackerNews](https://supertechfans.com/cn/post/2025-08-20-HackerNews/)  
@@ -494,7 +495,6 @@
 - [2025-08-05-2025-08-05-HackerNews](https://supertechfans.com/cn/post/2025-08-05-HackerNews/)  
 - [2025-08-04-2025-08-04-HackerNews](https://supertechfans.com/cn/post/2025-08-04-HackerNews/)  
 - [2025-08-03-2025-08-03-HackerNews](https://supertechfans.com/cn/post/2025-08-03-HackerNews/)  
-- [2025-08-02-2025-08-02-HackerNews](https://supertechfans.com/cn/post/2025-08-02-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -568,7 +568,7 @@
 </summary>
 
 
-- [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749) ![](/assets/new.png)  
+- [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749)  
 - [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)  
 - [2025-08-01-Jumbo-sized-JavaScript-for-issue-747](https://javascriptweekly.com/issues/747)  
 - [2025-07-25-Will-WebAssembly-ever-get-DOM-support?](https://javascriptweekly.com/issues/746)  
