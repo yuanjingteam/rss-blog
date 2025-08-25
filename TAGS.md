@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-08-25 08:41:20。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-08-26 00:00:46。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -729,6 +729,7 @@
 - [【橙光笔记】我的跑步之旅-征程](https://www.kai666666.com/2020/12/08/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E5%BE%81%E7%A8%8B/)
 - [【橙光笔记】我的跑步之旅-远行](https://www.kai666666.com/2020/12/07/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E8%BF%9C%E8%A1%8C/)
 - [【橙光笔记】我的跑步之旅-起航](https://www.kai666666.com/2020/12/04/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E8%B5%B7%E8%88%AA/)
+- [【Teobler】20个小时，我鞭策AI做了一个投顾MVP](https://teobler.com/posts/20250825-fund-assistant-mvp)
 - [【Teobler】关于大模型你需要知道的](https://teobler.com/posts/20240402-what-you-need-to-know-about-llm)
 - [【Teobler】To-Be-An-Excellent-Tech-Lead](https://teobler.com/posts/20221213-to-be-an-excellent-tech-lead)
 - [【Teobler】成为一名优秀的-Tech-Lead](https://teobler.com/posts/20221209-to-be-an-excellent-tech-lead)
@@ -739,7 +740,6 @@
 - [【清竹志】免费平替Claude-Code：Google-Gemini-CLI深度解析与实践指南](https://blog.vadxq.com/article/gemini-cli-intro-practice/)
 - [【清竹志】Newsletter逆天福利：三种方式获取全年免费-AI/SaaS-工具包（含团体购买兑换防坑指南）](https://blog.vadxq.com/article/lenny-newsletter-buy-tips/)
 - [【清竹志】激战“后DeepSeek时代”：全球大模型开启“地狱级”内卷模式](https://blog.vadxq.com/article/agent2agent-protocol-open-by-google/)
-- [【清竹志】颠覆传统搜索！全球AI搜索工具正在攻城略地](https://blog.vadxq.com/article/ai-search-vs-origin-search/)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

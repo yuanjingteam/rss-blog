@@ -5,13 +5,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-08-25 08:41:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-26 00:00:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [crimx](#crimx)  
 - [橙光笔记](#橙光笔记)  
-- [Teobler](#teobler)  
+- [Teobler](#teobler)![](/assets/dot.png)   
 - [清竹志](#清竹志)  
 - [Blog-|-Kerminate](#blog-|-kerminate)  
 - [rxliuli](#rxliuli)  
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -107,6 +107,7 @@
 </summary>
 
 
+- [2025-08-25-20个小时，我鞭策AI做了一个投顾MVP](https://teobler.com/posts/20250825-fund-assistant-mvp) ![](/assets/new.png)  
 - [2024-04-21-ChatGPT、Transformer-与注意力机制](https://teobler.com/posts/20240421-chatgpt-attention-and-transformer)  
 - [2024-04-02-关于大模型你需要知道的](https://teobler.com/posts/20240402-what-you-need-to-know-about-llm)  
 - [2022-12-13-To-Be-An-Excellent-Tech-Lead](https://teobler.com/posts/20221213-to-be-an-excellent-tech-lead)  
@@ -475,7 +476,7 @@
 </summary>
 
 
-- [2025-08-25-2025-08-25-HackerNews](https://supertechfans.com/cn/post/2025-08-25-HackerNews/) ![](/assets/new.png)  
+- [2025-08-25-2025-08-25-HackerNews](https://supertechfans.com/cn/post/2025-08-25-HackerNews/)  
 - [2025-08-24-2025-08-24-HackerNews](https://supertechfans.com/cn/post/2025-08-24-HackerNews/)  
 - [2025-08-23-2025-08-23-HackerNews](https://supertechfans.com/cn/post/2025-08-23-HackerNews/)  
 - [2025-08-22-2025-08-22-HackerNews](https://supertechfans.com/cn/post/2025-08-22-HackerNews/)  
