@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-08-26T03:02:46.041Z</updated>
+    <updated>2025-08-26T12:15:57.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[抢先学习大开眼界的CSS corner-shape属性]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/"/>
+        <updated>2025-08-26T00:00:00.000Z</updated>
+        <published>2025-08-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Express support coming to Cloudflare Workers?]]></title>
         <id>https://nodeweekly.com/issues/590</id>
@@ -355,12 +362,5 @@
         <link href="https://nodeweekly.com/issues/574"/>
         <updated>2025-04-15T00:00:00.000Z</updated>
         <published>2025-04-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOM新特性之caretPositionFromPoint API]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/04/dom-caretpositionfrompoint-api/"/>
-        <updated>2025-04-14T00:00:00.000Z</updated>
-        <published>2025-04-14T00:00:00.000Z</published>
     </entry>
 </feed>
