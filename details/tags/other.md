@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-08-31 22:00:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-01 00:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -290,6 +290,7 @@
 - [2009-04-23-青春，就是……](https://jiongks.name/blog/2009-04-23) 
 - [2009-04-15-令人荡气回肠的切尔西·斯坦福桥](https://jiongks.name/blog/2009-04-15) 
 - [2009-04-14-我已经离不开了一个名叫博客的东西](https://jiongks.name/blog/2009-04-13) 
+- [2025-08-31-好久不见，我想和你聊聊！](http://jartto.wang/2025/08/31/recent-summary/) 
 - [2020-07-29-了不起的-Istio](http://jartto.wang/2020/07/29/istio-1/) 
 - [2020-07-15-一文了解-Kubernetes](http://jartto.wang/2020/07/15/start-k8s/) 
 - [2020-05-25-将博客搬至-CSDN](http://jartto.wang/2020/05/25/blog-to-csdn/) 

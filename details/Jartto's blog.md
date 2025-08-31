@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2025-08-31 22:00:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-01 00:00:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Jartto's blog
 
 
 
 
+- [2025-08-31-好久不见，我想和你聊聊！](http://jartto.wang/2025/08/31/recent-summary/) 
 - [2023-05-16-用-Tauri+Rust+Yew-来构建你的跨端桌面应用](http://jartto.wang/2023/05/16/tauri-rust-demo/) 
 - [2023-03-19-Docker-新书上市一周年](http://jartto.wang/2023/03/19/docker-new-book-online/) 
 - [2023-03-12-30s-就可以掌握的-Nginx-片段](http://jartto.wang/2023/03/12/30-seconds-of-nginx/) 

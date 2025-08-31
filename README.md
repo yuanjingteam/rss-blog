@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-08-31 22:00:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-01 00:00:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -372,7 +372,8 @@
 </summary>
 
 
-- [2023-05-16-用-Tauri+Rust+Yew-来构建你的跨端桌面应用](http://jartto.wang/2023/05/16/tauri-rust-demo/) ![](/assets/new.png)  
+- [2025-08-31-好久不见，我想和你聊聊！](http://jartto.wang/2025/08/31/recent-summary/) ![](/assets/new.png)  
+- [2023-05-16-用-Tauri+Rust+Yew-来构建你的跨端桌面应用](http://jartto.wang/2023/05/16/tauri-rust-demo/)  
 - [2023-03-19-Docker-新书上市一周年](http://jartto.wang/2023/03/19/docker-new-book-online/)  
 - [2023-03-12-30s-就可以掌握的-Nginx-片段](http://jartto.wang/2023/03/12/30-seconds-of-nginx/)  
 - [2020-07-29-了不起的-Istio](http://jartto.wang/2020/07/29/istio-1/)  
@@ -391,7 +392,6 @@
 - [2019-10-23-CSS-渲染原理以及优化策略](http://jartto.wang/2019/10/23/css-theory-and-optimization/)  
 - [2019-09-08-网站优化，这些工具你一定用得着](http://jartto.wang/2019/09/08/web-optimization-tools/)  
 - [2019-08-24-程序员如何减少开发中的-Bug？](http://jartto.wang/2019/08/24/how-to-decrease-bugs/)  
-- [2019-07-13-使用-Electron5.0-构建你的-React-项目](http://jartto.wang/2019/07/13/use-electron-5/)  
 - [......【查看更多】......](/details/Jartto's blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
