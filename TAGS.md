@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-08-31 08:41:35。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-08-31 22:00:58。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -160,12 +160,12 @@
 - [【臨池不輟】Sublime-text-3-配置-ESLint-代码检查](https://keelii.com/2017/04/29/sublime-text-3-configure-eslint)
 - [【三省吾身】webpack入坑之旅（零）简介与升级](http://guowenfh.github.io/2018/08/05/vue-webpack-00/)
 - [【囧克斯】博客站迁移至-VitePress-的备忘](https://jiongks.name/blog/migrate-my-blog-to-vitepress)
+- [【Jartto's blog】用-Tauri+Rust+Yew-来构建你的跨端桌面应用](http://jartto.wang/2023/05/16/tauri-rust-demo/)
 - [【木匣子】使用-Webpack-Loader-加载-Icon-Font-映射](https://blog.mutoo.im/2020/02/icon-font-loader/)
 - [【小猪-部落格】Npm-Version](https://xiaozhu.dev/post/npm-version/)
 - [【小猪-部落格】终极构建博客网站方案](https://xiaozhu.dev/post/best-way-to-build-blog/)
 - [【蚊子前端博客】如何在npm上发布你的package](https://www.xiabingbao.com/post/npm/how-to-publish-package-on-npm.html)
 - [【蚊子前端博客】基于webpack搭建前端工程的思考](https://www.xiabingbao.com/post/webpack/webpack-frontend-engineering.html)
-- [【蚊子前端博客】webpack的入门教程](https://www.xiabingbao.com/post/webpack/webpack-started-tutorial.html)
 - [......【查看更多】......](/details/tags/pack-build.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

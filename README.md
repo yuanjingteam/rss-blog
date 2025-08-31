@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-08-31 08:41:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-08-31 22:00:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -20,11 +20,11 @@
 - [臨池不輟](#臨池不輟)  
 - [三省吾身](#三省吾身)  
 - [囧克斯](#囧克斯)  
-- [Jartto's-blog](#jartto's-blog)  
+- [Jartto's-blog](#jartto's-blog)![](/assets/dot.png)   
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -372,6 +372,7 @@
 </summary>
 
 
+- [2023-05-16-用-Tauri+Rust+Yew-来构建你的跨端桌面应用](http://jartto.wang/2023/05/16/tauri-rust-demo/) ![](/assets/new.png)  
 - [2023-03-19-Docker-新书上市一周年](http://jartto.wang/2023/03/19/docker-new-book-online/)  
 - [2023-03-12-30s-就可以掌握的-Nginx-片段](http://jartto.wang/2023/03/12/30-seconds-of-nginx/)  
 - [2020-07-29-了不起的-Istio](http://jartto.wang/2020/07/29/istio-1/)  
@@ -391,7 +392,6 @@
 - [2019-09-08-网站优化，这些工具你一定用得着](http://jartto.wang/2019/09/08/web-optimization-tools/)  
 - [2019-08-24-程序员如何减少开发中的-Bug？](http://jartto.wang/2019/08/24/how-to-decrease-bugs/)  
 - [2019-07-13-使用-Electron5.0-构建你的-React-项目](http://jartto.wang/2019/07/13/use-electron-5/)  
-- [2019-07-09-Git-代码统计](http://jartto.wang/2019/07/09/git-stats/)  
 - [......【查看更多】......](/details/Jartto's blog.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -476,7 +476,7 @@
 </summary>
 
 
-- [2025-08-31-2025-08-31-HackerNews](https://supertechfans.com/cn/post/2025-08-31-HackerNews/) ![](/assets/new.png)  
+- [2025-08-31-2025-08-31-HackerNews](https://supertechfans.com/cn/post/2025-08-31-HackerNews/)  
 - [2025-08-30-2025-08-30-HackerNews](https://supertechfans.com/cn/post/2025-08-30-HackerNews/)  
 - [2025-08-29-2025-08-29-HackerNews](https://supertechfans.com/cn/post/2025-08-29-HackerNews/)  
 - [2025-08-28-2025-08-28-HackerNews](https://supertechfans.com/cn/post/2025-08-28-HackerNews/)  
