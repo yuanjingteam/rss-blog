@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-09-01T08:00:57.356Z</updated>
+    <updated>2025-09-01T10:01:12.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[ZingAI.video Online Talking Head Video Editing]]></title>
+        <id>https://fenghen.me/posts/2025/09/01/zingai-overview-en/</id>
+        <link href="https://fenghen.me/posts/2025/09/01/zingai-overview-en/"/>
+        <updated>2025-09-01T00:00:00.000Z</updated>
+        <published>2025-09-01T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZingAI.video 在线口播视频剪辑]]></title>
         <id>https://fenghen.me/posts/2025/09/01/overview/</id>
@@ -355,12 +362,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/04/html-shadowrootmode-shadowrootserializable/"/>
         <updated>2025-04-28T00:00:00.000Z</updated>
         <published>2025-04-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bring back the fun with p5.js 2.0]]></title>
-        <id>https://javascriptweekly.com/issues/733</id>
-        <link href="https://javascriptweekly.com/issues/733"/>
-        <updated>2025-04-25T00:00:00.000Z</updated>
-        <published>2025-04-25T00:00:00.000Z</published>
     </entry>
 </feed>
