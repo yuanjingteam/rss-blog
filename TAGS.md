@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-09-03 08:35:58。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-09-04 00:01:07。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -329,6 +329,7 @@
 - [【crimx】实现一个有趣的-RxJS-Operator](https://blog.crimx.com/2019/10/21/实现一个有趣的-rxjs-operator/)
 - [【橙光笔记】H5-history-API](https://www.kai666666.com/2023/04/18/H5-history-API/)
 - [【橙光笔记】《JavaScript-DOM-编程艺术》小记](https://www.kai666666.com/2022/07/24/%E3%80%8AJavaScript-DOM-%E7%BC%96%E7%A8%8B%E8%89%BA%E6%9C%AF%E3%80%8B%E5%B0%8F%E8%AE%B0/)
+- [【Teobler】My-AI-Pair-Programming-Experiment:-A-Reflection-on-Efficiency-and-Creativity](https://teobler.com/posts/20250903-my-ai-pair-programming-experiment-a-reflection-on-efficiency-and-creativity-en)
 - [【清竹志】【前端工程化】Nextjs项目工程化最佳实践总结（献给2023-1024的礼物）](https://blog.vadxq.com/article/nextjs-engineering-project/)
 - [【清竹志】【前端重温系列】this的不可描述与变化原理（献给2020-1024的礼物）](https://blog.vadxq.com/article/frontend-revisited-this/)
 - [【rxliuli】JavaScript-流式写入文件](https://blog.rxliuli.com/p/4163a2afe21f4cbe907a7beeccd7730c/)
@@ -345,7 +346,6 @@
 - [【一个前端工程师的博客】函数式编程资料](https://taoweng.site/posts/%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B%E8%B5%84%E6%96%99/)
 - [【一个前端工程师的博客】认识函数式编程](https://taoweng.site/posts/%E8%AE%A4%E8%AF%86%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B/)
 - [【一个前端工程师的博客】不要再说虚拟-DOM-有多快了](https://taoweng.site/posts/%E4%B8%8D%E8%A6%81%E5%86%8D%E8%AF%B4%E8%99%9A%E6%8B%9F-dom-%E6%9C%89%E5%A4%9A%E5%BF%AB%E4%BA%86/)
-- [【一个前端工程师的博客】一篇文章搞定-ES6](https://taoweng.site/posts/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E6%90%9E%E5%AE%9A-es6/)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -729,6 +729,7 @@
 - [【橙光笔记】我的跑步之旅-征程](https://www.kai666666.com/2020/12/08/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E5%BE%81%E7%A8%8B/)
 - [【橙光笔记】我的跑步之旅-远行](https://www.kai666666.com/2020/12/07/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E8%BF%9C%E8%A1%8C/)
 - [【橙光笔记】我的跑步之旅-起航](https://www.kai666666.com/2020/12/04/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E8%B5%B7%E8%88%AA/)
+- [【Teobler】我与-AI-的-Pair-Programming：一次关于效率、创造力与反思的实验](https://teobler.com/posts/20250903-my-ai-pair-programming-experiment-a-reflection-on-efficiency-and-creativity)
 - [【Teobler】20个小时，我鞭策AI做了一个投顾MVP](https://teobler.com/posts/20250825-fund-assistant-mvp)
 - [【Teobler】关于大模型你需要知道的](https://teobler.com/posts/20240402-what-you-need-to-know-about-llm)
 - [【Teobler】To-Be-An-Excellent-Tech-Lead](https://teobler.com/posts/20221213-to-be-an-excellent-tech-lead)
@@ -739,7 +740,6 @@
 - [【清竹志】Vercel收购NuxtLabs，我和尤雨溪一样心情复杂](https://blog.vadxq.com/article/nuxtlabs-is-joining-vercel/)
 - [【清竹志】免费平替Claude-Code：Google-Gemini-CLI深度解析与实践指南](https://blog.vadxq.com/article/gemini-cli-intro-practice/)
 - [【清竹志】Newsletter逆天福利：三种方式获取全年免费-AI/SaaS-工具包（含团体购买兑换防坑指南）](https://blog.vadxq.com/article/lenny-newsletter-buy-tips/)
-- [【清竹志】激战“后DeepSeek时代”：全球大模型开启“地狱级”内卷模式](https://blog.vadxq.com/article/agent2agent-protocol-open-by-google/)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

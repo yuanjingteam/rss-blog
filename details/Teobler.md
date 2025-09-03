@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2025-08-26 00:00:46。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-04 00:01:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Teobler
 
 
 
 
+- [2025-09-03-我与-AI-的-Pair-Programming：一次关于效率、创造力与反思的实验](https://teobler.com/posts/20250903-my-ai-pair-programming-experiment-a-reflection-on-efficiency-and-creativity) 
+- [2025-09-03-My-AI-Pair-Programming-Experiment:-A-Reflection-on-Efficiency-and-Creativity](https://teobler.com/posts/20250903-my-ai-pair-programming-experiment-a-reflection-on-efficiency-and-creativity-en) 
 - [2025-08-25-20个小时，我鞭策AI做了一个投顾MVP](https://teobler.com/posts/20250825-fund-assistant-mvp) 
 - [2024-04-21-ChatGPT、Transformer-与注意力机制](https://teobler.com/posts/20240421-chatgpt-attention-and-transformer) 
 - [2024-04-02-关于大模型你需要知道的](https://teobler.com/posts/20240402-what-you-need-to-know-about-llm) 
