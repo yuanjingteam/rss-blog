@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-09-04 08:36:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-04 16:01:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -139,6 +139,7 @@
 - [2021-10-25-所谓的设计系统](https://keelii.com/2021/10/25/so-called-design-system) 
 - [2020-05-11-前端开发的瓶颈与未来之路](https://keelii.com/2020/05/11/frontend-dev-bottleneck-and-future) 
 - [2019-08-26-漫谈哲学与编程](https://keelii.com/2019/08/25/philosophy-and-programming) 
+- [2019-07-14-法布里斯·贝拉-—-一个真正的程序员](https://keelii.com/2019/07/13/a-real-programmer-fabrice-bellard) 
 - [2019-07-07-我想要-AOP-—-使用-AOP-分离关注点](https://keelii.com/2019/07/06/i-want-my-aop-cn) 
 - [2019-06-21-复联4是一集电视剧，3才是一部电影](https://keelii.com/2019/06/20/why-avengers-3-is-better-6-7) 
 - [2019-06-07-也许-Markdown-并不是一个好选择](https://keelii.com/2019/06/06/md-maybe-not-good-enough) 
