@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-09-04 16:01:57，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-05 08:37:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -17,14 +17,14 @@
 - [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
 - [吕立青](#吕立青)  
-- [臨池不輟](#臨池不輟)![](/assets/dot.png)   
+- [臨池不輟](#臨池不輟)  
 - [三省吾身](#三省吾身)  
 - [囧克斯](#囧克斯)  
 - [Jartto's-blog](#jartto's-blog)  
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -290,7 +290,7 @@
 - [2020-05-11-前端开发的瓶颈与未来之路](https://keelii.com/2020/05/11/frontend-dev-bottleneck-and-future)  
 - [2019-11-25-Java-并发与多线程教程](https://keelii.com/2019/11/24/java-concurrency-and-multithreading-tutorial)  
 - [2019-08-26-漫谈哲学与编程](https://keelii.com/2019/08/25/philosophy-and-programming)  
-- [2019-07-14-法布里斯·贝拉-—-一个真正的程序员](https://keelii.com/2019/07/13/a-real-programmer-fabrice-bellard) ![](/assets/new.png)  
+- [2019-07-14-法布里斯·贝拉-—-一个真正的程序员](https://keelii.com/2019/07/13/a-real-programmer-fabrice-bellard)  
 - [2019-07-07-我想要-AOP-—-使用-AOP-分离关注点](https://keelii.com/2019/07/06/i-want-my-aop-cn)  
 - [2019-07-04-Nestjs-框架教程（第十篇：拦截器）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-10)  
 - [2019-07-04-Nestjs-框架教程（第九篇：守卫）](https://keelii.com/2019/07/04/nestjs-framework-tutorial-9)  
@@ -478,6 +478,7 @@
 </summary>
 
 
+- [2025-09-05-2025-09-05-HackerNews](https://supertechfans.com/cn/post/2025-09-05-HackerNews/) ![](/assets/new.png)  
 - [2025-09-04-2025-09-04-HackerNews](https://supertechfans.com/cn/post/2025-09-04-HackerNews/)  
 - [2025-09-03-2025-09-03-HackerNews](https://supertechfans.com/cn/post/2025-09-03-HackerNews/)  
 - [2025-09-02-2025-09-02-HackerNews](https://supertechfans.com/cn/post/2025-09-02-HackerNews/)  
@@ -497,7 +498,6 @@
 - [2025-08-19-2025-08-19-HackerNews](https://supertechfans.com/cn/post/2025-08-19-HackerNews/)  
 - [2025-08-18-2025-08-18-HackerNews](https://supertechfans.com/cn/post/2025-08-18-HackerNews/)  
 - [2025-08-17-2025-08-17-HackerNews](https://supertechfans.com/cn/post/2025-08-17-HackerNews/)  
-- [2025-08-16-2025-08-16-HackerNews](https://supertechfans.com/cn/post/2025-08-16-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
