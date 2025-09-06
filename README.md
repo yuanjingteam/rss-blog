@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-09-06 02:00:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-06 08:35:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -478,6 +478,7 @@
 </summary>
 
 
+- [2025-09-06-2025-09-06-HackerNews](https://supertechfans.com/cn/post/2025-09-06-HackerNews/) ![](/assets/new.png)  
 - [2025-09-05-2025-09-05-HackerNews](https://supertechfans.com/cn/post/2025-09-05-HackerNews/)  
 - [2025-09-04-2025-09-04-HackerNews](https://supertechfans.com/cn/post/2025-09-04-HackerNews/)  
 - [2025-09-03-2025-09-03-HackerNews](https://supertechfans.com/cn/post/2025-09-03-HackerNews/)  
@@ -497,7 +498,6 @@
 - [2025-08-20-2025-08-20-HackerNews](https://supertechfans.com/cn/post/2025-08-20-HackerNews/)  
 - [2025-08-19-2025-08-19-HackerNews](https://supertechfans.com/cn/post/2025-08-19-HackerNews/)  
 - [2025-08-18-2025-08-18-HackerNews](https://supertechfans.com/cn/post/2025-08-18-HackerNews/)  
-- [2025-08-17-2025-08-17-HackerNews](https://supertechfans.com/cn/post/2025-08-17-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -571,7 +571,7 @@
 </summary>
 
 
-- [2025-09-05-Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751) ![](/assets/new.png)  
+- [2025-09-05-Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751)  
 - [2025-08-29-The-latest-on-Oracle's-hold-on-JavaScript](https://javascriptweekly.com/issues/750)  
 - [2025-08-22-We-still-love-jQuery](https://javascriptweekly.com/issues/749)  
 - [2025-08-08-How-JavaScript-really-evolves,-the-inside-story](https://javascriptweekly.com/issues/748)  
