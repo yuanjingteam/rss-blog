@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-09-07 10:55:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-08 08:40:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -478,7 +478,8 @@
 </summary>
 
 
-- [2025-09-07-2025-09-07-HackerNews](https://supertechfans.com/cn/post/2025-09-07-HackerNews/) ![](/assets/new.png)  
+- [2025-09-08-2025-09-08-HackerNews](https://supertechfans.com/cn/post/2025-09-08-HackerNews/) ![](/assets/new.png)  
+- [2025-09-07-2025-09-07-HackerNews](https://supertechfans.com/cn/post/2025-09-07-HackerNews/)  
 - [2025-09-06-2025-09-06-HackerNews](https://supertechfans.com/cn/post/2025-09-06-HackerNews/)  
 - [2025-09-05-2025-09-05-HackerNews](https://supertechfans.com/cn/post/2025-09-05-HackerNews/)  
 - [2025-09-04-2025-09-04-HackerNews](https://supertechfans.com/cn/post/2025-09-04-HackerNews/)  
@@ -497,7 +498,6 @@
 - [2025-08-22-2025-08-22-HackerNews](https://supertechfans.com/cn/post/2025-08-22-HackerNews/)  
 - [2025-08-21-2025-08-21-HackerNews](https://supertechfans.com/cn/post/2025-08-21-HackerNews/)  
 - [2025-08-20-2025-08-20-HackerNews](https://supertechfans.com/cn/post/2025-08-20-HackerNews/)  
-- [2025-08-19-2025-08-19-HackerNews](https://supertechfans.com/cn/post/2025-08-19-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
