@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-09-12 00:01:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-12 08:36:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -45,7 +45,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -478,6 +478,7 @@
 </summary>
 
 
+- [2025-09-12-2025-09-12-HackerNews](https://supertechfans.com/cn/post/2025-09-12-HackerNews/) ![](/assets/new.png)  
 - [2025-09-11-2025-09-11-HackerNews](https://supertechfans.com/cn/post/2025-09-11-HackerNews/)  
 - [2025-09-10-2025-09-10-HackerNews](https://supertechfans.com/cn/post/2025-09-10-HackerNews/)  
 - [2025-09-09-2025-09-09-HackerNews](https://supertechfans.com/cn/post/2025-09-09-HackerNews/)  
@@ -497,7 +498,6 @@
 - [2025-08-26-2025-08-26-HackerNews](https://supertechfans.com/cn/post/2025-08-26-HackerNews/)  
 - [2025-08-25-2025-08-25-HackerNews](https://supertechfans.com/cn/post/2025-08-25-HackerNews/)  
 - [2025-08-24-2025-08-24-HackerNews](https://supertechfans.com/cn/post/2025-08-24-HackerNews/)  
-- [2025-08-23-2025-08-23-HackerNews](https://supertechfans.com/cn/post/2025-08-23-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1129,7 +1129,7 @@
 </summary>
 
 
-- [2025-09-09-终端开发环境搭建](https://fenghen.me/posts/2025/09/09/terminal-dev-env/) ![](/assets/new.png)  
+- [2025-09-09-终端开发环境搭建](https://fenghen.me/posts/2025/09/09/terminal-dev-env/)  
 - [2025-09-01-ZingAI.video-Online-Talking-Head-Video-Editing](https://fenghen.me/posts/2025/09/01/zingai-overview-en/)  
 - [2025-09-01-ZingAI.video-在线口播视频剪辑](https://fenghen.me/posts/2025/09/01/overview/)  
 - [2025-08-20-互联网“骨干协议”-——-BGP-协议](https://fenghen.me/posts/2025/08/20/bgp/)  
