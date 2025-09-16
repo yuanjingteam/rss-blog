@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-09-15 22:01:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-16 08:36:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -478,6 +478,7 @@
 </summary>
 
 
+- [2025-09-16-2025-09-16-HackerNews](https://supertechfans.com/cn/post/2025-09-16-HackerNews/) ![](/assets/new.png)  
 - [2025-09-15-2025-09-15-HackerNews](https://supertechfans.com/cn/post/2025-09-15-HackerNews/)  
 - [2025-09-14-2025-09-14-HackerNews](https://supertechfans.com/cn/post/2025-09-14-HackerNews/)  
 - [2025-09-13-2025-09-13-HackerNews](https://supertechfans.com/cn/post/2025-09-13-HackerNews/)  
@@ -497,7 +498,6 @@
 - [2025-08-30-2025-08-30-HackerNews](https://supertechfans.com/cn/post/2025-08-30-HackerNews/)  
 - [2025-08-29-2025-08-29-HackerNews](https://supertechfans.com/cn/post/2025-08-29-HackerNews/)  
 - [2025-08-28-2025-08-28-HackerNews](https://supertechfans.com/cn/post/2025-08-28-HackerNews/)  
-- [2025-08-27-2025-08-27-HackerNews](https://supertechfans.com/cn/post/2025-08-27-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1005,7 +1005,7 @@
 </summary>
 
 
-- [2025-09-15-使用CSS-linear函数实现更逼真的物理动画效果](https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/) ![](/assets/new.png)  
+- [2025-09-15-使用CSS-linear函数实现更逼真的物理动画效果](https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/)  
 - [2025-09-05-@function自定义函数让CSS支持编程啦](https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/)  
 - [2025-08-29-HTML之快速了解hidden=until-found的作用](https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/)  
 - [2025-08-26-抢先学习大开眼界的CSS-corner-shape属性](https://www.zhangxinxu.com/wordpress/2025/08/css-corner-shape/)  
