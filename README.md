@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-09-16 08:36:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-17 02:01:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -478,7 +478,7 @@
 </summary>
 
 
-- [2025-09-16-2025-09-16-HackerNews](https://supertechfans.com/cn/post/2025-09-16-HackerNews/) ![](/assets/new.png)  
+- [2025-09-16-2025-09-16-HackerNews](https://supertechfans.com/cn/post/2025-09-16-HackerNews/)  
 - [2025-09-15-2025-09-15-HackerNews](https://supertechfans.com/cn/post/2025-09-15-HackerNews/)  
 - [2025-09-14-2025-09-14-HackerNews](https://supertechfans.com/cn/post/2025-09-14-HackerNews/)  
 - [2025-09-13-2025-09-13-HackerNews](https://supertechfans.com/cn/post/2025-09-13-HackerNews/)  
@@ -540,6 +540,7 @@
 </summary>
 
 
+- [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593) ![](/assets/new.png)  
 - [2025-09-09-A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)  
 - [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591)  
 - [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)  
@@ -559,7 +560,6 @@
 - [2025-04-29-Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576)  
 - [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575)  
 - [2025-04-15-Another-way-to-package-Node-apps-into-small-executables](https://nodeweekly.com/issues/574)  
-- [2025-04-08-Three-petabytes-a-month](https://nodeweekly.com/issues/573)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
