@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-09-19T00:37:41.575Z</updated>
+    <updated>2025-09-19T14:01:11.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,20 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS scroll-target-group加:target-current滚动菜单自动高亮]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/"/>
+        <updated>2025-09-19T00:00:00.000Z</updated>
+        <published>2025-09-19T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The attack on the npm ecosystem continues]]></title>
+        <id>https://javascriptweekly.com/issues/753</id>
+        <link href="https://javascriptweekly.com/issues/753"/>
+        <updated>2025-09-19T00:00:00.000Z</updated>
+        <published>2025-09-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pnpm adds support for delayed dependency updates]]></title>
         <id>https://nodeweekly.com/issues/593</id>
@@ -348,19 +362,5 @@
         <link href="https://nodeweekly.com/issues/579"/>
         <updated>2025-05-27T00:00:00.000Z</updated>
         <published>2025-05-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A timeline of JavaScript's history]]></title>
-        <id>https://javascriptweekly.com/issues/737</id>
-        <link href="https://javascriptweekly.com/issues/737"/>
-        <updated>2025-05-23T00:00:00.000Z</updated>
-        <published>2025-05-23T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS animation-composition可以让动画效果累加]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/05/css-animation-composition/"/>
-        <updated>2025-05-12T00:00:00.000Z</updated>
-        <published>2025-05-12T00:00:00.000Z</published>
     </entry>
 </feed>
