@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-09-26 22:01:03，:rocket: 更新条数: +19， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-27 00:01:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,9 +25,9 @@
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
 - [SuperTechFans](#supertechfans)  
-- [蚊子前端博客](#蚊子前端博客)![](/assets/dot.png)   
+- [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -509,24 +509,24 @@
 </summary>
 
 
-- [2025-09-26-微说-|-都是见过吃过的主儿](https://www.xiabingbao.com/talk/t/mg0w7pqn.html) ![](/assets/new.png)  
-- [2025-09-26-微说-|-好一个正义联盟](https://www.xiabingbao.com/talk/t/mg0w89jh.html) ![](/assets/new.png)  
-- [2025-09-26-微说-|-做人要有信](https://www.xiabingbao.com/talk/t/mg0w8sa8.html) ![](/assets/new.png)  
-- [2025-09-26-微说-|-将要制作的一款新产品](https://www.xiabingbao.com/talk/t/mg0w9g11.html) ![](/assets/new.png)  
-- [2025-09-26-微说-|-小聊中医](https://www.xiabingbao.com/talk/t/mg0wam27.html) ![](/assets/new.png)  
-- [2025-09-26-微说-|-能否有一条非户口也能高考的路](https://www.xiabingbao.com/talk/t/mg0wbnog.html) ![](/assets/new.png)  
-- [2025-09-25-微说-|-很好！](https://www.xiabingbao.com/talk/t/mfyrbov2.html) ![](/assets/new.png)  
-- [2025-09-25-微说-|-如果尖锐的批评完全消失](https://www.xiabingbao.com/talk/t/mfyrdheb.html) ![](/assets/new.png)  
-- [2025-09-25-微说-|-追求8小时工作制有错吗？](https://www.xiabingbao.com/talk/t/mfyrgfkz.html) ![](/assets/new.png)  
-- [2025-09-21-微说-|-面朝大海，春暖花开](https://www.xiabingbao.com/talk/t/mfte9zag.html) ![](/assets/new.png)  
-- [2025-09-21-微说-|-封禁用户可以，但要告知具体原因](https://www.xiabingbao.com/talk/t/mfteo15n.html) ![](/assets/new.png)  
-- [2025-09-01-微说-|-程序员的悲哀是什么？](https://www.xiabingbao.com/talk/t/mf0f9uon.html) ![](/assets/new.png)  
-- [2025-08-21-微说-|-2025年出生人口的预测](https://www.xiabingbao.com/talk/t/mel04tir.html) ![](/assets/new.png)  
+- [2025-09-26-微说-|-都是见过吃过的主儿](https://www.xiabingbao.com/talk/t/mg0w7pqn.html)  
+- [2025-09-26-微说-|-好一个正义联盟](https://www.xiabingbao.com/talk/t/mg0w89jh.html)  
+- [2025-09-26-微说-|-做人要有信](https://www.xiabingbao.com/talk/t/mg0w8sa8.html)  
+- [2025-09-26-微说-|-将要制作的一款新产品](https://www.xiabingbao.com/talk/t/mg0w9g11.html)  
+- [2025-09-26-微说-|-小聊中医](https://www.xiabingbao.com/talk/t/mg0wam27.html)  
+- [2025-09-26-微说-|-能否有一条非户口也能高考的路](https://www.xiabingbao.com/talk/t/mg0wbnog.html)  
+- [2025-09-25-微说-|-很好！](https://www.xiabingbao.com/talk/t/mfyrbov2.html)  
+- [2025-09-25-微说-|-如果尖锐的批评完全消失](https://www.xiabingbao.com/talk/t/mfyrdheb.html)  
+- [2025-09-25-微说-|-追求8小时工作制有错吗？](https://www.xiabingbao.com/talk/t/mfyrgfkz.html)  
+- [2025-09-21-微说-|-面朝大海，春暖花开](https://www.xiabingbao.com/talk/t/mfte9zag.html)  
+- [2025-09-21-微说-|-封禁用户可以，但要告知具体原因](https://www.xiabingbao.com/talk/t/mfteo15n.html)  
+- [2025-09-01-微说-|-程序员的悲哀是什么？](https://www.xiabingbao.com/talk/t/mf0f9uon.html)  
+- [2025-08-21-微说-|-2025年出生人口的预测](https://www.xiabingbao.com/talk/t/mel04tir.html)  
 - [2025-08-19-前端在-LiveKit-中如何获取所有的参与者](https://www.xiabingbao.com/post/livekit-participants-t17x15.html)  
 - [2025-08-18-在-Electron-应用中，如何获取-Mac-的摄像头和麦克风权限](https://www.xiabingbao.com/post/electron-mac-media-t16obh.html)  
 - [2025-08-18-在-Electron-中使用-LiveKit-实现屏幕共享](https://www.xiabingbao.com/post/electron-livekit-screenshare-t16q4v.html)  
-- [2025-08-13-微说-|-他们总说要更开放](https://www.xiabingbao.com/talk/t/me9692xt.html) ![](/assets/new.png)  
-- [2025-08-13-微说-|-不要总让台湾艺人表态](https://www.xiabingbao.com/talk/t/me96ef2d.html) ![](/assets/new.png)  
+- [2025-08-13-微说-|-他们总说要更开放](https://www.xiabingbao.com/talk/t/me9692xt.html)  
+- [2025-08-13-微说-|-不要总让台湾艺人表态](https://www.xiabingbao.com/talk/t/me96ef2d.html)  
 - [2025-08-01-自己封装-uuid-踩的一个小坑](https://www.xiabingbao.com/post/uuid-bug-t0alsa.html)  
 - [2025-07-31-CKEditor5-光标在粘贴的图片下一行](https://www.xiabingbao.com/post/ckeditor-cursor-t09i1o.html)  
 - [......【查看更多】......](/details/蚊子前端博客.md)
@@ -571,6 +571,7 @@
 </summary>
 
 
+- [2025-09-26-The-first-browser-with-JavaScript-landed-30-years-ago](https://javascriptweekly.com/issues/754) ![](/assets/new.png)  
 - [2025-09-19-The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753)  
 - [2025-09-12-Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)  
 - [2025-09-05-Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751)  
@@ -590,7 +591,6 @@
 - [2025-05-23-A-timeline-of-JavaScript's-history](https://javascriptweekly.com/issues/737)  
 - [2025-05-16-The-power-of-generators](https://javascriptweekly.com/issues/736)  
 - [2025-05-09-Big-Node,-VS-Code,-and-Mantine-updates](https://javascriptweekly.com/issues/735)  
-- [2025-05-02-Making-V8-eager-to-compile-your-JavaScript](https://javascriptweekly.com/issues/734)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
