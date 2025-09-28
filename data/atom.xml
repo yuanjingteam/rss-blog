@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-09-28T00:41:58.551Z</updated>
+    <updated>2025-09-28T03:00:44.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[React 随想]]></title>
+        <id>https://keelii.com/2025/09/28/react-diary</id>
+        <link href="https://keelii.com/2025/09/28/react-diary"/>
+        <updated>2025-09-28T00:00:00.000Z</updated>
+        <published>2025-09-28T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The first browser with JavaScript landed 30 years ago]]></title>
         <id>https://javascriptweekly.com/issues/754</id>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[震惊，有生之年居然看到CSS attr()全属性支持]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/05/css-attr-function/"/>
-        <updated>2025-05-28T00:00:00.000Z</updated>
-        <published>2025-05-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript 流式写入文件]]></title>
-        <id>https://blog.rxliuli.com/p/4163a2afe21f4cbe907a7beeccd7730c/</id>
-        <link href="https://blog.rxliuli.com/p/4163a2afe21f4cbe907a7beeccd7730c/"/>
         <updated>2025-05-28T00:00:00.000Z</updated>
         <published>2025-05-28T00:00:00.000Z</published>
     </entry>
