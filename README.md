@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-09-28 16:01:18，:rocket: 更新条数: +3， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-09-29 08:39:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,8 +24,8 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
-- [蚊子前端博客](#蚊子前端博客)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
@@ -478,6 +478,7 @@
 </summary>
 
 
+- [2025-09-29-2025-09-29-HackerNews](https://supertechfans.com/cn/post/2025-09-29-HackerNews/) ![](/assets/new.png)  
 - [2025-09-28-2025-09-28-HackerNews](https://supertechfans.com/cn/post/2025-09-28-HackerNews/)  
 - [2025-09-27-2025-09-27-HackerNews](https://supertechfans.com/cn/post/2025-09-27-HackerNews/)  
 - [2025-09-26-2025-09-26-HackerNews](https://supertechfans.com/cn/post/2025-09-26-HackerNews/)  
@@ -497,7 +498,6 @@
 - [2025-09-12-2025-09-12-HackerNews](https://supertechfans.com/cn/post/2025-09-12-HackerNews/)  
 - [2025-09-11-2025-09-11-HackerNews](https://supertechfans.com/cn/post/2025-09-11-HackerNews/)  
 - [2025-09-10-2025-09-10-HackerNews](https://supertechfans.com/cn/post/2025-09-10-HackerNews/)  
-- [2025-09-09-2025-09-09-HackerNews](https://supertechfans.com/cn/post/2025-09-09-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -509,9 +509,9 @@
 </summary>
 
 
-- [2025-09-28-微说-|-牛马有的是，驴不够了！](https://www.xiabingbao.com/talk/t/mg3drepw.html) ![](/assets/new.png)  
-- [2025-09-28-微说-|-可惜了我那些小时候的书本](https://www.xiabingbao.com/talk/t/mg3dw2tj.html) ![](/assets/new.png)  
-- [2025-09-28-微说-|-预估下2025年的出生人口数据](https://www.xiabingbao.com/talk/t/mg3e3nsr.html) ![](/assets/new.png)  
+- [2025-09-28-微说-|-牛马有的是，驴不够了！](https://www.xiabingbao.com/talk/t/mg3drepw.html)  
+- [2025-09-28-微说-|-可惜了我那些小时候的书本](https://www.xiabingbao.com/talk/t/mg3dw2tj.html)  
+- [2025-09-28-微说-|-预估下2025年的出生人口数据](https://www.xiabingbao.com/talk/t/mg3e3nsr.html)  
 - [2025-09-26-微说-|-能否有一条非户口也能高考的路](https://www.xiabingbao.com/talk/t/mg0wbnog.html)  
 - [2025-09-26-微说-|-小聊中医](https://www.xiabingbao.com/talk/t/mg0wam27.html)  
 - [2025-09-26-微说-|-将要制作的一款新产品](https://www.xiabingbao.com/talk/t/mg0w9g11.html)  
