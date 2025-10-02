@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-10-02 08:36:32。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-10-03 00:00:54。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -185,6 +185,7 @@
 - [【橙光笔记】源码共读-Koa](https://www.kai666666.com/2023/05/23/%E6%BA%90%E7%A0%81%E5%85%B1%E8%AF%BB-Koa/)
 - [【Blog | Kerminate】Koa-使用-Decorator-装饰路由](http://yoursite.com/2019/01/12/Koa-%E4%BD%BF%E7%94%A8-Decorator-%E8%A3%85%E9%A5%B0%E8%B7%AF%E7%94%B1/)
 - [【一个前端工程师的博客】cenos下安装node.js和mongodb](https://taoweng.site/posts/cenos%E4%B8%8B%E5%AE%89%E8%A3%85nodejs%E5%92%8Cmongodb/)
+- [【臨池不輟】Node.JS-作者-Ryan-Dahl-的故事](https://keelii.com/2025/10/02/story-of-creator-of-nodejs-ry)
 - [【臨池不輟】从实际案例讲-Deno-的应用场景](https://keelii.com/2020/08/15/take-a-look-at-deno-from-actual-case)
 - [【臨池不輟】PhantomJS-&amp;-NodeJS-在京东网站前端监控平台的最佳实践](https://keelii.com/2016/11/17/best-practice-for-phantomjs-and-nodejs-at-jd-s-webdev-front-end-monitor-platform)
 - [【三省吾身】使用-generic-pool-优化-puppeteer-并发问题](http://guowenfh.github.io/2019/06/16/2019/puppeteer-pool/)
@@ -201,7 +202,6 @@
 - [【蚊子前端博客】nodejs-中如何校验请求中的-referer](https://www.xiabingbao.com/post/nodejs/nodejs-check-referer-r2zde7.html)
 - [【蚊子前端博客】如何在-nodejs-的原生http服务中获取请求参数](https://www.xiabingbao.com/post/nodejs/nodejs-http-getquery-qwurz4.html)
 - [【蚊子前端博客】使用-nodejs-中的-http-模块实现几个超实用的工具](https://www.xiabingbao.com/post/nodejs/nodejs-http-tools.html)
-- [【蚊子前端博客】node同构直出中多级缓存的使用](https://www.xiabingbao.com/post/node/node-ssr-cache.html)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

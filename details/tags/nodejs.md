@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-02 08:36:32。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-03 00:00:54。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -10,6 +10,7 @@
 - [2023-05-23-源码共读-Koa](https://www.kai666666.com/2023/05/23/%E6%BA%90%E7%A0%81%E5%85%B1%E8%AF%BB-Koa/) 
 - [2019-01-12-Koa-使用-Decorator-装饰路由](http://yoursite.com/2019/01/12/Koa-%E4%BD%BF%E7%94%A8-Decorator-%E8%A3%85%E9%A5%B0%E8%B7%AF%E7%94%B1/) 
 - [2018-01-06-cenos下安装node.js和mongodb](https://taoweng.site/posts/cenos%E4%B8%8B%E5%AE%89%E8%A3%85nodejs%E5%92%8Cmongodb/) 
+- [2025-10-02-Node.JS-作者-Ryan-Dahl-的故事](https://keelii.com/2025/10/02/story-of-creator-of-nodejs-ry) 
 - [2020-08-15-从实际案例讲-Deno-的应用场景](https://keelii.com/2020/08/15/take-a-look-at-deno-from-actual-case) 
 - [2016-11-17-PhantomJS-&amp;-NodeJS-在京东网站前端监控平台的最佳实践](https://keelii.com/2016/11/17/best-practice-for-phantomjs-and-nodejs-at-jd-s-webdev-front-end-monitor-platform) 
 - [2019-06-16-使用-generic-pool-优化-puppeteer-并发问题](http://guowenfh.github.io/2019/06/16/2019/puppeteer-pool/) 
