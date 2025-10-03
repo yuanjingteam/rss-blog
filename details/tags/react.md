@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-03 08:36:20。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-04 00:01:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -76,6 +76,7 @@
 - [2019-06-03-Can’t-perform-a-React-state-update-on-an-unmounted-component](https://www.xiabingbao.com/post/react/jump-setstate.html) 
 - [2019-05-12-实现react组件的递归调用](https://www.xiabingbao.com/post/react/react-recursion-comp.html) 
 - [2019-05-10-React:实现一个带有loading效果的按钮组件](https://www.xiabingbao.com/post/react/react-loading-button.html) 
+- [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755) 
 - [2024-05-16-Remix-+-React-Router-==-React-Router?](https://javascriptweekly.com/issues/688) 
 - [2024-02-01-A-Qwik-break-from-React?](https://javascriptweekly.com/issues/673) 
 - [2022-03-25-React-18-due-any-day-now..](https://javascriptweekly.com/issues/582) 
