@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-03 00:00:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-03 08:36:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -17,14 +17,14 @@
 - [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
 - [吕立青](#吕立青)  
-- [臨池不輟](#臨池不輟)![](/assets/dot.png)   
+- [臨池不輟](#臨池不輟)  
 - [三省吾身](#三省吾身)  
 - [囧克斯](#囧克斯)  
 - [Jartto's-blog](#jartto's-blog)  
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -281,7 +281,7 @@
 </summary>
 
 
-- [2025-10-02-Node.JS-作者-Ryan-Dahl-的故事](https://keelii.com/2025/10/02/story-of-creator-of-nodejs-ry) ![](/assets/new.png)  
+- [2025-10-02-Node.JS-作者-Ryan-Dahl-的故事](https://keelii.com/2025/10/02/story-of-creator-of-nodejs-ry)  
 - [2025-09-28-React-随想](https://keelii.com/2025/09/28/react-diary)  
 - [2025-08-16-相信数字还是相信直觉](https://keelii.com/2025/08/16/numbers-or-intuition)  
 - [2022-05-19-我做程序员这十年](https://keelii.com/2022/05/19/ten-years-programming)  
@@ -478,6 +478,7 @@
 </summary>
 
 
+- [2025-10-03-2025-10-03-HackerNews](https://supertechfans.com/cn/post/2025-10-03-HackerNews/) ![](/assets/new.png)  
 - [2025-10-02-2025-10-02-HackerNews](https://supertechfans.com/cn/post/2025-10-02-HackerNews/)  
 - [2025-10-01-2025-10-01-HackerNews](https://supertechfans.com/cn/post/2025-10-01-HackerNews/)  
 - [2025-09-30-2025-09-30-HackerNews](https://supertechfans.com/cn/post/2025-09-30-HackerNews/)  
@@ -497,7 +498,6 @@
 - [2025-09-16-2025-09-16-HackerNews](https://supertechfans.com/cn/post/2025-09-16-HackerNews/)  
 - [2025-09-15-2025-09-15-HackerNews](https://supertechfans.com/cn/post/2025-09-15-HackerNews/)  
 - [2025-09-14-2025-09-14-HackerNews](https://supertechfans.com/cn/post/2025-09-14-HackerNews/)  
-- [2025-09-13-2025-09-13-HackerNews](https://supertechfans.com/cn/post/2025-09-13-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
