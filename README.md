@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-04 00:01:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-04 08:34:31，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -478,6 +478,7 @@
 </summary>
 
 
+- [2025-10-04-2025-10-04-HackerNews](https://supertechfans.com/cn/post/2025-10-04-HackerNews/) ![](/assets/new.png)  
 - [2025-10-03-2025-10-03-HackerNews](https://supertechfans.com/cn/post/2025-10-03-HackerNews/)  
 - [2025-10-02-2025-10-02-HackerNews](https://supertechfans.com/cn/post/2025-10-02-HackerNews/)  
 - [2025-10-01-2025-10-01-HackerNews](https://supertechfans.com/cn/post/2025-10-01-HackerNews/)  
@@ -497,7 +498,6 @@
 - [2025-09-17-2025-09-17-HackerNews](https://supertechfans.com/cn/post/2025-09-17-HackerNews/)  
 - [2025-09-16-2025-09-16-HackerNews](https://supertechfans.com/cn/post/2025-09-16-HackerNews/)  
 - [2025-09-15-2025-09-15-HackerNews](https://supertechfans.com/cn/post/2025-09-15-HackerNews/)  
-- [2025-09-14-2025-09-14-HackerNews](https://supertechfans.com/cn/post/2025-09-14-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -571,7 +571,7 @@
 </summary>
 
 
-- [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755) ![](/assets/new.png)  
+- [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)  
 - [2025-09-26-The-first-browser-with-JavaScript-landed-30-years-ago](https://javascriptweekly.com/issues/754)  
 - [2025-09-19-The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753)  
 - [2025-09-12-Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)  
