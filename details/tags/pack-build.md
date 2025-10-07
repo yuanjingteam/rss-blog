@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-07 10:49:44。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-08 00:01:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -31,6 +31,7 @@
 - [2016-01-20-对gulp-changed插件的一点思考](https://www.xiabingbao.com/post/gulp/2016/01/20/gulp-changed-ponder.html) 
 - [2015-10-15-jshint在gulp中的使用](https://www.xiabingbao.com/post/gulp/2015/10/15/gulp-jshint.html) 
 - [2015-05-13-gulp:任务自动管理工具](https://www.xiabingbao.com/post/tool/2015/05/13/tool-gulp.html) 
+- [2025-10-07-npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595) 
 - [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593) 
 - [2025-09-09-A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592) 
 - [2025-03-11-Another-way-to-look-inside-your-npm-packages](https://nodeweekly.com/issues/569) 

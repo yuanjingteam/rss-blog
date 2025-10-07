@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-07 10:49:44，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-08 00:01:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -478,7 +478,7 @@
 </summary>
 
 
-- [2025-10-07-2025-10-07-HackerNews](https://supertechfans.com/cn/post/2025-10-07-HackerNews/) ![](/assets/new.png)  
+- [2025-10-07-2025-10-07-HackerNews](https://supertechfans.com/cn/post/2025-10-07-HackerNews/)  
 - [2025-10-06-2025-10-06-HackerNews](https://supertechfans.com/cn/post/2025-10-06-HackerNews/)  
 - [2025-10-05-2025-10-05-HackerNews](https://supertechfans.com/cn/post/2025-10-05-HackerNews/)  
 - [2025-10-04-2025-10-04-HackerNews](https://supertechfans.com/cn/post/2025-10-04-HackerNews/)  
@@ -540,6 +540,7 @@
 </summary>
 
 
+- [2025-10-07-npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595) ![](/assets/new.png)  
 - [2025-09-30-Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594)  
 - [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)  
 - [2025-09-09-A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)  
@@ -559,7 +560,6 @@
 - [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)  
 - [2025-05-06-Node.js-24-released](https://nodeweekly.com/issues/577)  
 - [2025-04-29-Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576)  
-- [2025-04-22-Handling-V8's-memory-usage-and-GC](https://nodeweekly.com/issues/575)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
