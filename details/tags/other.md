@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-10-09 10:53:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-10 00:12:04。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -165,6 +165,7 @@
 - [2016-07-31-京东单品页前端开发那些不得不说的事儿](https://keelii.com/2016/07/31/something-have-to-say-with-JD-item) 
 - [2016-07-04-使用-lisp-简单描述加法运算](https://keelii.com/2016/07/04/describe-a-simple-add-method-use-lisp) 
 - [2016-06-13-关于我](https://keelii.com/2016/06/13/about) 
+- [2016-06-13-关于我](https://keelii.com/about) 
 - [2016-06-10-测试文章](https://keelii.com/2016/06/10/test-post) 
 - [2012-08-19-前端，改变](https://keelii.com/2012/08/19/front-end-makes-change) 
 - [2019-06-04-再谈中文字体的子集化与动态创建字体](http://guowenfh.github.io/2019/06/04/2019/font-carrier2/) 
