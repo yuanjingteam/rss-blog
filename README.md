@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-10 02:01:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-10 08:37:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,8 +24,8 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
-- [蚊子前端博客](#蚊子前端博客)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
@@ -478,6 +478,7 @@
 </summary>
 
 
+- [2025-10-10-2025-10-10-HackerNews](https://supertechfans.com/cn/post/2025-10-10-HackerNews/) ![](/assets/new.png)  
 - [2025-10-09-2025-10-09-HackerNews](https://supertechfans.com/cn/post/2025-10-09-HackerNews/)  
 - [2025-10-08-2025-10-08-HackerNews](https://supertechfans.com/cn/post/2025-10-08-HackerNews/)  
 - [2025-10-07-2025-10-07-HackerNews](https://supertechfans.com/cn/post/2025-10-07-HackerNews/)  
@@ -497,7 +498,6 @@
 - [2025-09-23-2025-09-23-HackerNews](https://supertechfans.com/cn/post/2025-09-23-HackerNews/)  
 - [2025-09-22-2025-09-22-HackerNews](https://supertechfans.com/cn/post/2025-09-22-HackerNews/)  
 - [2025-09-21-2025-09-21-HackerNews](https://supertechfans.com/cn/post/2025-09-21-HackerNews/)  
-- [2025-09-20-2025-09-20-HackerNews](https://supertechfans.com/cn/post/2025-09-20-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -509,7 +509,7 @@
 </summary>
 
 
-- [2025-10-10-又是一年的国庆雨季](https://www.xiabingbao.com/post/national-day-rain-t3vhqf.html) ![](/assets/new.png)  
+- [2025-10-10-又是一年的国庆雨季](https://www.xiabingbao.com/post/national-day-rain-t3vhqf.html)  
 - [2025-09-28-微说-|-预估下2025年的出生人口数据](https://www.xiabingbao.com/talk/t/mg3e3nsr.html)  
 - [2025-09-28-微说-|-可惜了我那些小时候的书本](https://www.xiabingbao.com/talk/t/mg3dw2tj.html)  
 - [2025-09-28-微说-|-牛马有的是，驴不够了！](https://www.xiabingbao.com/talk/t/mg3drepw.html)  
