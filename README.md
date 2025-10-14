@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-14 10:54:15，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-15 00:01:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
-- [蚊子前端博客](#蚊子前端博客)![](/assets/dot.png)   
-- [Node-Weekly](#node-weekly)  
+- [SuperTechFans](#supertechfans)  
+- [蚊子前端博客](#蚊子前端博客)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -478,7 +478,7 @@
 </summary>
 
 
-- [2025-10-14-2025-10-14-HackerNews](https://supertechfans.com/cn/post/2025-10-14-HackerNews/) ![](/assets/new.png)  
+- [2025-10-14-2025-10-14-HackerNews](https://supertechfans.com/cn/post/2025-10-14-HackerNews/)  
 - [2025-10-13-2025-10-13-HackerNews](https://supertechfans.com/cn/post/2025-10-13-HackerNews/)  
 - [2025-10-12-2025-10-12-HackerNews](https://supertechfans.com/cn/post/2025-10-12-HackerNews/)  
 - [2025-10-11-2025-10-11-HackerNews](https://supertechfans.com/cn/post/2025-10-11-HackerNews/)  
@@ -509,7 +509,7 @@
 </summary>
 
 
-- [2025-10-14-微说-|-既要、又要、还要、更要！](https://www.xiabingbao.com/talk/t/mgpy3aqq.html) ![](/assets/new.png)  
+- [2025-10-14-微说-|-既要、又要、还要、更要！](https://www.xiabingbao.com/talk/t/mgpy3aqq.html)  
 - [2025-10-10-又是一年的国庆雨季](https://www.xiabingbao.com/post/national-day-rain-t3vhqf.html)  
 - [2025-09-28-微说-|-牛马有的是，驴不够了！](https://www.xiabingbao.com/talk/t/mg3drepw.html)  
 - [2025-09-28-微说-|-可惜了我那些小时候的书本](https://www.xiabingbao.com/talk/t/mg3dw2tj.html)  
@@ -540,6 +540,7 @@
 </summary>
 
 
+- [2025-10-14-Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596) ![](/assets/new.png)  
 - [2025-10-07-npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595)  
 - [2025-09-30-Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594)  
 - [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)  
@@ -559,7 +560,6 @@
 - [2025-05-27-What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579)  
 - [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)  
 - [2025-05-06-Node.js-24-released](https://nodeweekly.com/issues/577)  
-- [2025-04-29-Koa-3.0,-Node-22.15.0,-and-a-V8-boost](https://nodeweekly.com/issues/576)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
