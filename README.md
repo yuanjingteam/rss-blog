@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-13 12:01:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-14 10:54:15，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,8 +24,8 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
-- [蚊子前端博客](#蚊子前端博客)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [蚊子前端博客](#蚊子前端博客)![](/assets/dot.png)   
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -478,6 +478,7 @@
 </summary>
 
 
+- [2025-10-14-2025-10-14-HackerNews](https://supertechfans.com/cn/post/2025-10-14-HackerNews/) ![](/assets/new.png)  
 - [2025-10-13-2025-10-13-HackerNews](https://supertechfans.com/cn/post/2025-10-13-HackerNews/)  
 - [2025-10-12-2025-10-12-HackerNews](https://supertechfans.com/cn/post/2025-10-12-HackerNews/)  
 - [2025-10-11-2025-10-11-HackerNews](https://supertechfans.com/cn/post/2025-10-11-HackerNews/)  
@@ -497,7 +498,6 @@
 - [2025-09-27-2025-09-27-HackerNews](https://supertechfans.com/cn/post/2025-09-27-HackerNews/)  
 - [2025-09-26-2025-09-26-HackerNews](https://supertechfans.com/cn/post/2025-09-26-HackerNews/)  
 - [2025-09-25-2025-09-25-HackerNews](https://supertechfans.com/cn/post/2025-09-25-HackerNews/)  
-- [2025-09-24-2025-09-24-HackerNews](https://supertechfans.com/cn/post/2025-09-24-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -509,25 +509,25 @@
 </summary>
 
 
+- [2025-10-14-微说-|-既要、又要、还要、更要！](https://www.xiabingbao.com/talk/t/mgpy3aqq.html) ![](/assets/new.png)  
 - [2025-10-10-又是一年的国庆雨季](https://www.xiabingbao.com/post/national-day-rain-t3vhqf.html)  
-- [2025-09-28-微说-|-预估下2025年的出生人口数据](https://www.xiabingbao.com/talk/t/mg3e3nsr.html)  
-- [2025-09-28-微说-|-可惜了我那些小时候的书本](https://www.xiabingbao.com/talk/t/mg3dw2tj.html)  
 - [2025-09-28-微说-|-牛马有的是，驴不够了！](https://www.xiabingbao.com/talk/t/mg3drepw.html)  
-- [2025-09-26-微说-|-都是见过吃过的主儿](https://www.xiabingbao.com/talk/t/mg0w7pqn.html)  
-- [2025-09-26-微说-|-好一个正义联盟](https://www.xiabingbao.com/talk/t/mg0w89jh.html)  
-- [2025-09-26-微说-|-做人要有信](https://www.xiabingbao.com/talk/t/mg0w8sa8.html)  
-- [2025-09-26-微说-|-将要制作的一款新产品](https://www.xiabingbao.com/talk/t/mg0w9g11.html)  
-- [2025-09-26-微说-|-小聊中医](https://www.xiabingbao.com/talk/t/mg0wam27.html)  
+- [2025-09-28-微说-|-可惜了我那些小时候的书本](https://www.xiabingbao.com/talk/t/mg3dw2tj.html)  
+- [2025-09-28-微说-|-预估下2025年的出生人口数据](https://www.xiabingbao.com/talk/t/mg3e3nsr.html)  
 - [2025-09-26-微说-|-能否有一条非户口也能高考的路](https://www.xiabingbao.com/talk/t/mg0wbnog.html)  
-- [2025-09-25-微说-|-很好！](https://www.xiabingbao.com/talk/t/mfyrbov2.html)  
-- [2025-09-25-微说-|-如果尖锐的批评完全消失](https://www.xiabingbao.com/talk/t/mfyrdheb.html)  
+- [2025-09-26-微说-|-小聊中医](https://www.xiabingbao.com/talk/t/mg0wam27.html)  
+- [2025-09-26-微说-|-将要制作的一款新产品](https://www.xiabingbao.com/talk/t/mg0w9g11.html)  
+- [2025-09-26-微说-|-做人要有信](https://www.xiabingbao.com/talk/t/mg0w8sa8.html)  
+- [2025-09-26-微说-|-好一个正义联盟](https://www.xiabingbao.com/talk/t/mg0w89jh.html)  
+- [2025-09-26-微说-|-都是见过吃过的主儿](https://www.xiabingbao.com/talk/t/mg0w7pqn.html)  
 - [2025-09-25-微说-|-追求8小时工作制有错吗？](https://www.xiabingbao.com/talk/t/mfyrgfkz.html)  
-- [2025-09-21-微说-|-面朝大海，春暖花开](https://www.xiabingbao.com/talk/t/mfte9zag.html)  
+- [2025-09-25-微说-|-如果尖锐的批评完全消失](https://www.xiabingbao.com/talk/t/mfyrdheb.html)  
+- [2025-09-25-微说-|-很好！](https://www.xiabingbao.com/talk/t/mfyrbov2.html)  
 - [2025-09-21-微说-|-封禁用户可以，但要告知具体原因](https://www.xiabingbao.com/talk/t/mfteo15n.html)  
+- [2025-09-21-微说-|-面朝大海，春暖花开](https://www.xiabingbao.com/talk/t/mfte9zag.html)  
 - [2025-09-01-微说-|-程序员的悲哀是什么？](https://www.xiabingbao.com/talk/t/mf0f9uon.html)  
 - [2025-08-21-微说-|-2025年出生人口的预测](https://www.xiabingbao.com/talk/t/mel04tir.html)  
 - [2025-08-19-前端在-LiveKit-中如何获取所有的参与者](https://www.xiabingbao.com/post/livekit-participants-t17x15.html)  
-- [2025-08-18-在-Electron-应用中，如何获取-Mac-的摄像头和麦克风权限](https://www.xiabingbao.com/post/electron-mac-media-t16obh.html)  
 - [2025-08-18-在-Electron-中使用-LiveKit-实现屏幕共享](https://www.xiabingbao.com/post/electron-livekit-screenshare-t16q4v.html)  
 - [......【查看更多】......](/details/蚊子前端博客.md)
 
@@ -1005,7 +1005,7 @@
 </summary>
 
 
-- [2025-10-13-CSS-field-sizing属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/) ![](/assets/new.png)  
+- [2025-10-13-CSS-field-sizing属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/)  
 - [2025-09-30-使用Intl.Segmenter返回更准确的字符长度](https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/)  
 - [2025-09-19-CSS-scroll-target-group加:target-current滚动菜单自动高亮](https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/)  
 - [2025-09-15-使用CSS-linear函数实现更逼真的物理动画效果](https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/)  
