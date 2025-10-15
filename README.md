@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-15 00:01:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-15 08:38:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -478,6 +478,7 @@
 </summary>
 
 
+- [2025-10-15-2025-10-15-HackerNews](https://supertechfans.com/cn/post/2025-10-15-HackerNews/) ![](/assets/new.png)  
 - [2025-10-14-2025-10-14-HackerNews](https://supertechfans.com/cn/post/2025-10-14-HackerNews/)  
 - [2025-10-13-2025-10-13-HackerNews](https://supertechfans.com/cn/post/2025-10-13-HackerNews/)  
 - [2025-10-12-2025-10-12-HackerNews](https://supertechfans.com/cn/post/2025-10-12-HackerNews/)  
@@ -497,7 +498,6 @@
 - [2025-09-28-2025-09-28-HackerNews](https://supertechfans.com/cn/post/2025-09-28-HackerNews/)  
 - [2025-09-27-2025-09-27-HackerNews](https://supertechfans.com/cn/post/2025-09-27-HackerNews/)  
 - [2025-09-26-2025-09-26-HackerNews](https://supertechfans.com/cn/post/2025-09-26-HackerNews/)  
-- [2025-09-25-2025-09-25-HackerNews](https://supertechfans.com/cn/post/2025-09-25-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -540,7 +540,7 @@
 </summary>
 
 
-- [2025-10-14-Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596) ![](/assets/new.png)  
+- [2025-10-14-Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596)  
 - [2025-10-07-npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595)  
 - [2025-09-30-Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594)  
 - [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)  
