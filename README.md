@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-20 18:01:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-21 10:58:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -478,6 +478,7 @@
 </summary>
 
 
+- [2025-10-21-2025-10-21-HackerNews](https://supertechfans.com/cn/post/2025-10-21-HackerNews/) ![](/assets/new.png)  
 - [2025-10-20-2025-10-20-HackerNews](https://supertechfans.com/cn/post/2025-10-20-HackerNews/)  
 - [2025-10-19-2025-10-19-HackerNews](https://supertechfans.com/cn/post/2025-10-19-HackerNews/)  
 - [2025-10-18-2025-10-18-HackerNews](https://supertechfans.com/cn/post/2025-10-18-HackerNews/)  
@@ -497,7 +498,6 @@
 - [2025-10-04-2025-10-04-HackerNews](https://supertechfans.com/cn/post/2025-10-04-HackerNews/)  
 - [2025-10-03-2025-10-03-HackerNews](https://supertechfans.com/cn/post/2025-10-03-HackerNews/)  
 - [2025-10-02-2025-10-02-HackerNews](https://supertechfans.com/cn/post/2025-10-02-HackerNews/)  
-- [2025-10-01-2025-10-01-HackerNews](https://supertechfans.com/cn/post/2025-10-01-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1005,7 +1005,7 @@
 </summary>
 
 
-- [2025-10-20-CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/) ![](/assets/new.png)  
+- [2025-10-20-CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/)  
 - [2025-10-13-CSS-field-sizing属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/)  
 - [2025-09-30-使用Intl.Segmenter返回更准确的字符长度](https://www.zhangxinxu.com/wordpress/2025/09/js-intl-segmenter-string-length/)  
 - [2025-09-19-CSS-scroll-target-group加:target-current滚动菜单自动高亮](https://www.zhangxinxu.com/wordpress/2025/09/css-scroll-target-group/)  
