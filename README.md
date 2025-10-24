@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-24 08:36:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-25 00:01:15，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -478,7 +478,7 @@
 </summary>
 
 
-- [2025-10-24-2025-10-24-HackerNews](https://supertechfans.com/cn/post/2025-10-24-HackerNews/) ![](/assets/new.png)  
+- [2025-10-24-2025-10-24-HackerNews](https://supertechfans.com/cn/post/2025-10-24-HackerNews/)  
 - [2025-10-23-2025-10-23-HackerNews](https://supertechfans.com/cn/post/2025-10-23-HackerNews/)  
 - [2025-10-22-2025-10-22-HackerNews](https://supertechfans.com/cn/post/2025-10-22-HackerNews/)  
 - [2025-10-21-2025-10-21-HackerNews](https://supertechfans.com/cn/post/2025-10-21-HackerNews/)  
@@ -571,6 +571,7 @@
 </summary>
 
 
+- [2025-10-24-Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758) ![](/assets/new.png)  
 - [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)  
 - [2025-10-10-Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)  
 - [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)  
@@ -590,7 +591,6 @@
 - [2025-06-20-Dr.-Axel's-JavaScript-flashcards](https://javascriptweekly.com/issues/741)  
 - [2025-06-13-Everybody's-gone-lintin'](https://javascriptweekly.com/issues/740)  
 - [2025-06-06-TC39-advances-numerous-proposals-at-latest-meeting](https://javascriptweekly.com/issues/739)  
-- [2025-05-30-How-Remix-is-shaking-things-up](https://javascriptweekly.com/issues/738)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
