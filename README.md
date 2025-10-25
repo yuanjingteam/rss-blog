@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-25 00:01:15，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-25 10:54:59，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -478,6 +478,7 @@
 </summary>
 
 
+- [2025-10-25-2025-10-25-HackerNews](https://supertechfans.com/cn/post/2025-10-25-HackerNews/) ![](/assets/new.png)  
 - [2025-10-24-2025-10-24-HackerNews](https://supertechfans.com/cn/post/2025-10-24-HackerNews/)  
 - [2025-10-23-2025-10-23-HackerNews](https://supertechfans.com/cn/post/2025-10-23-HackerNews/)  
 - [2025-10-22-2025-10-22-HackerNews](https://supertechfans.com/cn/post/2025-10-22-HackerNews/)  
@@ -497,7 +498,6 @@
 - [2025-10-08-2025-10-08-HackerNews](https://supertechfans.com/cn/post/2025-10-08-HackerNews/)  
 - [2025-10-07-2025-10-07-HackerNews](https://supertechfans.com/cn/post/2025-10-07-HackerNews/)  
 - [2025-10-06-2025-10-06-HackerNews](https://supertechfans.com/cn/post/2025-10-06-HackerNews/)  
-- [2025-10-05-2025-10-05-HackerNews](https://supertechfans.com/cn/post/2025-10-05-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -571,7 +571,7 @@
 </summary>
 
 
-- [2025-10-24-Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758) ![](/assets/new.png)  
+- [2025-10-24-Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)  
 - [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)  
 - [2025-10-10-Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)  
 - [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)  
