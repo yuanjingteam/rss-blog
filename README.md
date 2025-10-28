@@ -5,12 +5,12 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-10-28 11:00:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-10-29 02:01:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [crimx](#crimx)  
-- [橙光笔记](#橙光笔记)![](/assets/dot.png)   
+- [橙光笔记](#橙光笔记)  
 - [Teobler](#teobler)  
 - [清竹志](#清竹志)  
 - [Blog-|-Kerminate](#blog-|-kerminate)  
@@ -26,7 +26,7 @@
 - [小猪-部落格](#小猪-部落格)  
 - [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -76,7 +76,7 @@
 </summary>
 
 
-- [2025-10-27-源码共读---cursor-effects](https://www.kai666666.com/2025/10/27/%E6%BA%90%E7%A0%81%E5%85%B1%E8%AF%BB-cursor-effects/) ![](/assets/new.png)  
+- [2025-10-27-源码共读---cursor-effects](https://www.kai666666.com/2025/10/27/%E6%BA%90%E7%A0%81%E5%85%B1%E8%AF%BB-cursor-effects/)  
 - [2025-08-05-源码共读---grid-layout-plus](https://www.kai666666.com/2025/08/05/%E6%BA%90%E7%A0%81%E5%85%B1%E8%AF%BB-grid-layout-plus/)  
 - [2025-07-21-Canvas系列（21）：多边形碰撞检测](https://www.kai666666.com/2025/07/21/Canvas%E7%B3%BB%E5%88%97%EF%BC%8821%EF%BC%89%EF%BC%9A%E5%A4%9A%E8%BE%B9%E5%BD%A2%E7%A2%B0%E6%92%9E%E6%A3%80%E6%B5%8B/)  
 - [2025-02-08-Canvas系列（20）：画布中画满圆](https://www.kai666666.com/2025/02/08/Canvas%E7%B3%BB%E5%88%97%EF%BC%8820%EF%BC%89%EF%BC%9A%E7%94%BB%E5%B8%83%E4%B8%AD%E7%94%BB%E6%BB%A1%E5%9C%86/)  
@@ -540,6 +540,7 @@
 </summary>
 
 
+- [2025-10-28-The-reality-of-adapting-Deno-code-to-run-on-Node](https://nodeweekly.com/issues/598) ![](/assets/new.png)  
 - [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597)  
 - [2025-10-14-Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596)  
 - [2025-10-07-npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595)  
@@ -559,7 +560,6 @@
 - [2025-06-10-Node-24.2,-and-some-EOL-warnings](https://nodeweekly.com/issues/581)  
 - [2025-06-03-PHP-+-Node:-The-odd-couple-of-backend?](https://nodeweekly.com/issues/580)  
 - [2025-05-27-What-the-Node.js-team-has-been-discussing-lately](https://nodeweekly.com/issues/579)  
-- [2025-05-13-Making-and-parsing-RSS-and-Atom-feeds](https://nodeweekly.com/issues/578)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
