@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-11-01 02:01:32，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-01 08:42:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -478,6 +478,7 @@
 </summary>
 
 
+- [2025-11-01-2025-11-01-HackerNews](https://supertechfans.com/cn/post/2025-11-01-HackerNews/) ![](/assets/new.png)  
 - [2025-10-31-2025-10-31-HackerNews](https://supertechfans.com/cn/post/2025-10-31-HackerNews/)  
 - [2025-10-30-2025-10-30-HackerNews](https://supertechfans.com/cn/post/2025-10-30-HackerNews/)  
 - [2025-10-29-2025-10-29-HackerNews](https://supertechfans.com/cn/post/2025-10-29-HackerNews/)  
@@ -497,7 +498,6 @@
 - [2025-10-15-2025-10-15-HackerNews](https://supertechfans.com/cn/post/2025-10-15-HackerNews/)  
 - [2025-10-14-2025-10-14-HackerNews](https://supertechfans.com/cn/post/2025-10-14-HackerNews/)  
 - [2025-10-13-2025-10-13-HackerNews](https://supertechfans.com/cn/post/2025-10-13-HackerNews/)  
-- [2025-10-12-2025-10-12-HackerNews](https://supertechfans.com/cn/post/2025-10-12-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -571,7 +571,7 @@
 </summary>
 
 
-- [2025-10-31-TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759) ![](/assets/new.png)  
+- [2025-10-31-TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759)  
 - [2025-10-24-Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)  
 - [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)  
 - [2025-10-10-Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)  
