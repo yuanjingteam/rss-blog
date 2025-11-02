@@ -5,13 +5,13 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-11-01 08:42:56，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-02 22:01:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [crimx](#crimx)  
 - [橙光笔记](#橙光笔记)  
-- [Teobler](#teobler)  
+- [Teobler](#teobler)![](/assets/dot.png)   
 - [清竹志](#清竹志)  
 - [Blog-|-Kerminate](#blog-|-kerminate)  
 - [rxliuli](#rxliuli)  
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -107,8 +107,9 @@
 </summary>
 
 
-- [2025-09-03-我与-AI-的-Pair-Programming：一次关于效率、创造力与反思的实验](https://teobler.com/posts/20250903-my-ai-pair-programming-experiment-a-reflection-on-efficiency-and-creativity)  
+- [2025-11-01-秋](https://teobler.com/posts/20250903-autumn) ![](/assets/new.png)  
 - [2025-09-03-My-AI-Pair-Programming-Experiment:-A-Reflection-on-Efficiency-and-Creativity](https://teobler.com/posts/20250903-my-ai-pair-programming-experiment-a-reflection-on-efficiency-and-creativity-en)  
+- [2025-09-03-我与-AI-的-Pair-Programming：一次关于效率、创造力与反思的实验](https://teobler.com/posts/20250903-my-ai-pair-programming-experiment-a-reflection-on-efficiency-and-creativity)  
 - [2025-08-25-20个小时，我鞭策AI做了一个投顾MVP](https://teobler.com/posts/20250825-fund-assistant-mvp)  
 - [2024-04-21-ChatGPT、Transformer-与注意力机制](https://teobler.com/posts/20240421-chatgpt-attention-and-transformer)  
 - [2024-04-02-关于大模型你需要知道的](https://teobler.com/posts/20240402-what-you-need-to-know-about-llm)  
@@ -478,7 +479,7 @@
 </summary>
 
 
-- [2025-11-01-2025-11-01-HackerNews](https://supertechfans.com/cn/post/2025-11-01-HackerNews/) ![](/assets/new.png)  
+- [2025-11-01-2025-11-01-HackerNews](https://supertechfans.com/cn/post/2025-11-01-HackerNews/)  
 - [2025-10-31-2025-10-31-HackerNews](https://supertechfans.com/cn/post/2025-10-31-HackerNews/)  
 - [2025-10-30-2025-10-30-HackerNews](https://supertechfans.com/cn/post/2025-10-30-HackerNews/)  
 - [2025-10-29-2025-10-29-HackerNews](https://supertechfans.com/cn/post/2025-10-29-HackerNews/)  

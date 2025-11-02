@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-11-01 08:42:56。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-11-02 22:01:07。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -729,6 +729,7 @@
 - [【橙光笔记】我的跑步之旅-征程](https://www.kai666666.com/2020/12/08/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E5%BE%81%E7%A8%8B/)
 - [【橙光笔记】我的跑步之旅-远行](https://www.kai666666.com/2020/12/07/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E8%BF%9C%E8%A1%8C/)
 - [【橙光笔记】我的跑步之旅-起航](https://www.kai666666.com/2020/12/04/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E8%B5%B7%E8%88%AA/)
+- [【Teobler】秋](https://teobler.com/posts/20250903-autumn)
 - [【Teobler】我与-AI-的-Pair-Programming：一次关于效率、创造力与反思的实验](https://teobler.com/posts/20250903-my-ai-pair-programming-experiment-a-reflection-on-efficiency-and-creativity)
 - [【Teobler】20个小时，我鞭策AI做了一个投顾MVP](https://teobler.com/posts/20250825-fund-assistant-mvp)
 - [【Teobler】关于大模型你需要知道的](https://teobler.com/posts/20240402-what-you-need-to-know-about-llm)
@@ -739,7 +740,6 @@
 - [【Teobler】时间都去哪了](https://teobler.com/posts/20220530-where-does-the-time-go)
 - [【清竹志】Vercel收购NuxtLabs，我和尤雨溪一样心情复杂](https://blog.vadxq.com/article/nuxtlabs-is-joining-vercel/)
 - [【清竹志】免费平替Claude-Code：Google-Gemini-CLI深度解析与实践指南](https://blog.vadxq.com/article/gemini-cli-intro-practice/)
-- [【清竹志】Newsletter逆天福利：三种方式获取全年免费-AI/SaaS-工具包（含团体购买兑换防坑指南）](https://blog.vadxq.com/article/lenny-newsletter-buy-tips/)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

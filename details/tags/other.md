@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-01 08:42:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-02 22:01:07。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -14,6 +14,7 @@
 - [2020-12-08-我的跑步之旅-征程](https://www.kai666666.com/2020/12/08/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E5%BE%81%E7%A8%8B/) 
 - [2020-12-07-我的跑步之旅-远行](https://www.kai666666.com/2020/12/07/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E8%BF%9C%E8%A1%8C/) 
 - [2020-12-04-我的跑步之旅-起航](https://www.kai666666.com/2020/12/04/%E6%88%91%E7%9A%84%E8%B7%91%E6%AD%A5%E4%B9%8B%E6%97%85-%E8%B5%B7%E8%88%AA/) 
+- [2025-11-01-秋](https://teobler.com/posts/20250903-autumn) 
 - [2025-09-03-我与-AI-的-Pair-Programming：一次关于效率、创造力与反思的实验](https://teobler.com/posts/20250903-my-ai-pair-programming-experiment-a-reflection-on-efficiency-and-creativity) 
 - [2025-08-25-20个小时，我鞭策AI做了一个投顾MVP](https://teobler.com/posts/20250825-fund-assistant-mvp) 
 - [2024-04-02-关于大模型你需要知道的](https://teobler.com/posts/20240402-what-you-need-to-know-about-llm) 
