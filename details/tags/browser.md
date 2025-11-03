@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-03 16:01:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-03 18:01:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -14,7 +14,9 @@
 - [2025-01-02-在-Chrome-插件中拦截网络请求](https://blog.rxliuli.com/p/7ffe39eff5c64f5d90acf21518e39d63/) 
 - [2022-03-16-【面试系列一】如何回答如何理解重排和重绘](https://taoweng.site/posts/%E9%9D%A2%E8%AF%95%E7%B3%BB%E5%88%97%E4%B8%80%E5%A6%82%E4%BD%95%E5%9B%9E%E7%AD%94%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E9%87%8D%E6%8E%92%E5%92%8C%E9%87%8D%E7%BB%98/) 
 - [2018-09-04-HTTPie-官方文档中文翻译版](https://keelii.com/2018/09/03/HTTPie) 
+- [2018-09-04-HTTPie-官方文档中文翻译版](https://keelii.com/HTTPie) 
 - [2017-10-08-macOS-Sierra-开发环境配置指南](https://keelii.com/2017/10/07/macos-development-setup-guide) 
+- [2017-10-08-macOS-Sierra-开发环境配置指南](https://keelii.com/macos-development-setup-guide) 
 - [2011-11-10-今天又被chrome给伤了](https://jiongks.name/blog/2011-11-09) 
 - [2011-05-03-对《科普几个傲游浏览器的小知识》一文的补充](https://jiongks.name/blog/2011-05-02) 
 - [2011-04-26-“作为一名前端开发者，傲游浏览器适合我吗？”——科普几个傲游浏览器的小知识](https://jiongks.name/blog/2011-04-26) 

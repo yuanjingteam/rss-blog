@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-03 16:01:24。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-03 18:01:08。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 服务端相关
 
@@ -12,7 +12,9 @@
 - [2019-01-16-Mac-Brew-常用命令笔记](https://taoweng.site/posts/mac-brew-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%AC%94%E8%AE%B0/) 
 - [2018-01-06-数据库基础知识](https://taoweng.site/posts/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/) 
 - [2019-11-25-Java-并发与多线程教程](https://keelii.com/2019/11/24/java-concurrency-and-multithreading-tutorial) 
+- [2019-11-25-Java-并发与多线程教程](https://keelii.com/java-concurrency-and-multithreading-tutorial) 
 - [2018-09-25-译Python-中的-Socket-编程（指南）](https://keelii.com/2018/09/24/socket-programming-in-python) 
+- [2018-09-25-译Python-中的-Socket-编程（指南）](https://keelii.com/socket-programming-in-python) 
 - [2009-05-18-PHP+MySQL-学习心得](https://jiongks.name/blog/2009-05-18) 
 - [2023-03-19-Docker-新书上市一周年](http://jartto.wang/2023/03/19/docker-new-book-online/) 
 - [2023-03-12-30s-就可以掌握的-Nginx-片段](http://jartto.wang/2023/03/12/30-seconds-of-nginx/) 
