@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-11-03 18:01:08，:rocket: 更新条数: +83， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-04 11:02:54，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -17,14 +17,14 @@
 - [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
 - [吕立青](#吕立青)  
-- [臨池不輟](#臨池不輟)![](/assets/dot.png)   
+- [臨池不輟](#臨池不輟)  
 - [三省吾身](#三省吾身)  
 - [囧克斯](#囧克斯)  
 - [Jartto's-blog](#jartto's-blog)  
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -283,25 +283,25 @@
 
 
 - [2025-10-02-Node.JS-作者-Ryan-Dahl-的故事](https://keelii.com/2025/10/02/story-of-creator-of-nodejs-ry)  
-- [2025-10-02-Node.JS-作者-Ryan-Dahl-的故事](https://keelii.com/story-of-creator-of-nodejs-ry) ![](/assets/new.png)  
+- [2025-10-02-Node.JS-作者-Ryan-Dahl-的故事](https://keelii.com/story-of-creator-of-nodejs-ry)  
 - [2025-09-28-React-随想](https://keelii.com/2025/09/28/react-diary)  
-- [2025-09-28-React-随想](https://keelii.com/react-diary) ![](/assets/new.png)  
+- [2025-09-28-React-随想](https://keelii.com/react-diary)  
 - [2025-08-16-相信数字还是相信直觉](https://keelii.com/2025/08/16/numbers-or-intuition)  
-- [2025-08-16-相信数字还是相信直觉](https://keelii.com/numbers-or-intuition) ![](/assets/new.png)  
+- [2025-08-16-相信数字还是相信直觉](https://keelii.com/numbers-or-intuition)  
 - [2022-05-19-我做程序员这十年](https://keelii.com/2022/05/19/ten-years-programming)  
-- [2022-05-19-我做程序员这十年](https://keelii.com/ten-years-programming) ![](/assets/new.png)  
+- [2022-05-19-我做程序员这十年](https://keelii.com/ten-years-programming)  
 - [2022-05-15-从《如梦令·昨夜雨疏风骤》读出人生三重境界](https://keelii.com/2022/05/15/ru-meng-ling)  
-- [2022-05-15-从《如梦令·昨夜雨疏风骤》读出人生三重境界](https://keelii.com/ru-meng-ling) ![](/assets/new.png)  
+- [2022-05-15-从《如梦令·昨夜雨疏风骤》读出人生三重境界](https://keelii.com/ru-meng-ling)  
 - [2021-10-25-所谓的设计系统](https://keelii.com/2021/10/25/so-called-design-system)  
-- [2021-10-25-所谓的设计系统](https://keelii.com/so-called-design-system) ![](/assets/new.png)  
+- [2021-10-25-所谓的设计系统](https://keelii.com/so-called-design-system)  
 - [2021-05-09-Fabric.js-原理与源码解析](https://keelii.com/2021/05/09/fabricjs-internals)  
-- [2021-05-09-Fabric.js-原理与源码解析](https://keelii.com/fabricjs-internals) ![](/assets/new.png)  
+- [2021-05-09-Fabric.js-原理与源码解析](https://keelii.com/fabricjs-internals)  
 - [2020-08-15-从实际案例讲-Deno-的应用场景](https://keelii.com/2020/08/15/take-a-look-at-deno-from-actual-case)  
-- [2020-08-15-从实际案例讲-Deno-的应用场景](https://keelii.com/take-a-look-at-deno-from-actual-case) ![](/assets/new.png)  
+- [2020-08-15-从实际案例讲-Deno-的应用场景](https://keelii.com/take-a-look-at-deno-from-actual-case)  
 - [2020-05-11-前端开发的瓶颈与未来之路](https://keelii.com/2020/05/11/frontend-dev-bottleneck-and-future)  
-- [2020-05-11-前端开发的瓶颈与未来之路](https://keelii.com/frontend-dev-bottleneck-and-future) ![](/assets/new.png)  
+- [2020-05-11-前端开发的瓶颈与未来之路](https://keelii.com/frontend-dev-bottleneck-and-future)  
 - [2019-11-25-Java-并发与多线程教程](https://keelii.com/2019/11/24/java-concurrency-and-multithreading-tutorial)  
-- [2019-11-25-Java-并发与多线程教程](https://keelii.com/java-concurrency-and-multithreading-tutorial) ![](/assets/new.png)  
+- [2019-11-25-Java-并发与多线程教程](https://keelii.com/java-concurrency-and-multithreading-tutorial)  
 - [......【查看更多】......](/details/臨池不輟.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2025-11-04-2025-11-04-HackerNews](https://supertechfans.com/cn/post/2025-11-04-HackerNews/) ![](/assets/new.png)  
 - [2025-11-03-2025-11-03-HackerNews](https://supertechfans.com/cn/post/2025-11-03-HackerNews/)  
 - [2025-11-01-2025-11-01-HackerNews](https://supertechfans.com/cn/post/2025-11-01-HackerNews/)  
 - [2025-10-31-2025-10-31-HackerNews](https://supertechfans.com/cn/post/2025-10-31-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2025-10-17-2025-10-17-HackerNews](https://supertechfans.com/cn/post/2025-10-17-HackerNews/)  
 - [2025-10-16-2025-10-16-HackerNews](https://supertechfans.com/cn/post/2025-10-16-HackerNews/)  
 - [2025-10-15-2025-10-15-HackerNews](https://supertechfans.com/cn/post/2025-10-15-HackerNews/)  
-- [2025-10-14-2025-10-14-HackerNews](https://supertechfans.com/cn/post/2025-10-14-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
