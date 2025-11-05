@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-05 08:41:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-05 20:01:25。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -45,6 +45,7 @@
 - [2017-01-08-从0到1学习node系列总索引](https://www.xiabingbao.com/post/node/2017/01/08/node-list.html) 
 - [2015-04-06-node-socket实现web的即时聊天系统](https://www.xiabingbao.com/post/node/2015/04/06/node-socket.html) 
 - [2015-03-27-使用node更新google-hosts](https://www.xiabingbao.com/post/node/2015/03/27/node-hosts.html) 
+- [2025-11-04-Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599) 
 - [2025-10-28-The-reality-of-adapting-Deno-code-to-run-on-Node](https://nodeweekly.com/issues/598) 
 - [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597) 
 - [2025-10-14-Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596) 
