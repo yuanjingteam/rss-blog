@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-11-05 20:01:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-06 11:06:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2025-11-06-2025-11-06-HackerNews](https://supertechfans.com/cn/post/2025-11-06-HackerNews/) ![](/assets/new.png)  
 - [2025-11-05-2025-11-05-HackerNews](https://supertechfans.com/cn/post/2025-11-05-HackerNews/)  
 - [2025-11-04-2025-11-04-HackerNews](https://supertechfans.com/cn/post/2025-11-04-HackerNews/)  
 - [2025-11-03-2025-11-03-HackerNews](https://supertechfans.com/cn/post/2025-11-03-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2025-10-19-2025-10-19-HackerNews](https://supertechfans.com/cn/post/2025-10-19-HackerNews/)  
 - [2025-10-18-2025-10-18-HackerNews](https://supertechfans.com/cn/post/2025-10-18-HackerNews/)  
 - [2025-10-17-2025-10-17-HackerNews](https://supertechfans.com/cn/post/2025-10-17-HackerNews/)  
-- [2025-10-16-2025-10-16-HackerNews](https://supertechfans.com/cn/post/2025-10-16-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -541,7 +541,7 @@
 </summary>
 
 
-- [2025-11-04-Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599) ![](/assets/new.png)  
+- [2025-11-04-Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599)  
 - [2025-10-28-The-reality-of-adapting-Deno-code-to-run-on-Node](https://nodeweekly.com/issues/598)  
 - [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597)  
 - [2025-10-14-Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596)  
