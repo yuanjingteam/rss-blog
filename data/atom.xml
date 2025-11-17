@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-11-17T03:07:48.404Z</updated>
+    <updated>2025-11-17T08:01:22.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[介绍下与CSS自定义组件相关的:state()函数]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/"/>
+        <updated>2025-11-17T00:00:00.000Z</updated>
+        <published>2025-11-17T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Every JavaScript engine all at once]]></title>
         <id>https://javascriptweekly.com/issues/761</id>
@@ -355,12 +362,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/07/html-popover-hint/"/>
         <updated>2025-07-31T00:00:00.000Z</updated>
         <published>2025-07-31T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An epic rundown of JavaScript engines and runtimes]]></title>
-        <id>https://nodeweekly.com/issues/588</id>
-        <link href="https://nodeweekly.com/issues/588"/>
-        <updated>2025-07-29T00:00:00.000Z</updated>
-        <published>2025-07-29T00:00:00.000Z</published>
     </entry>
 </feed>

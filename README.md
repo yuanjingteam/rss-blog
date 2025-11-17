@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-11-17 11:07:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-17 16:01:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,7 +25,7 @@
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
 - [SuperTechFans](#supertechfans)  
-- [蚊子前端博客](#蚊子前端博客)![](/assets/dot.png)   
+- [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -510,7 +510,7 @@
 </summary>
 
 
-- [2025-11-17-微说-|-一场大风吹散了秋天](https://www.xiabingbao.com/talk/t/mi2i4y9a.html) ![](/assets/new.png)  
+- [2025-11-17-微说-|-一场大风吹散了秋天](https://www.xiabingbao.com/talk/t/mi2i4y9a.html)  
 - [2025-10-14-微说-|-既要、又要、还要、更要！](https://www.xiabingbao.com/talk/t/mgpy3aqq.html)  
 - [2025-10-10-又是一年的国庆雨季](https://www.xiabingbao.com/post/national-day-rain-t3vhqf.html)  
 - [2025-09-28-微说-|-预估下2025年的出生人口数据](https://www.xiabingbao.com/talk/t/mg3e3nsr.html)  
@@ -1006,6 +1006,7 @@
 </summary>
 
 
+- [2025-11-17-介绍下与CSS自定义组件相关的:state函数](https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/) ![](/assets/new.png)  
 - [2025-11-10-CSS锚点定位实战-鼠标跟随交互效果](https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/)  
 - [2025-11-03-垃圾特性之CSS-:heading伪类和:heading函数](https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/)  
 - [2025-10-27-Canvas也支持锥形渐变了createConicGradient方法](https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/)  
@@ -1025,7 +1026,6 @@
 - [2025-07-10-HTML新search元素,h1规则要变,声明式Shadow-DOM](https://www.zhangxinxu.com/wordpress/2025/07/html-h1-element-style/)  
 - [2025-07-04-好诶，select下拉框元素支持样式完全自定义啦！](https://www.zhangxinxu.com/wordpress/2025/07/css-checkmark-select-customizable/)  
 - [2025-06-30-CSS小图标剪裁终极解决方案clip-path-shape函数](https://www.zhangxinxu.com/wordpress/2025/06/css-clip-path-shape/)  
-- [2025-06-18-text-wrap进化:支持两子属性和pretty-stable新值](https://www.zhangxinxu.com/wordpress/2025/06/text-wrap-pretty-stable-mode-style/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
