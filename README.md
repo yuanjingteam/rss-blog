@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-11-21 11:03:14，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-22 00:01:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,9 +25,9 @@
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
 - [SuperTechFans](#supertechfans)  
-- [蚊子前端博客](#蚊子前端博客)![](/assets/dot.png)   
+- [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -510,7 +510,7 @@
 </summary>
 
 
-- [2025-11-21-微说-|-易中天论骗子](https://www.xiabingbao.com/talk/t/mi88gjeu.html) ![](/assets/new.png)  
+- [2025-11-21-微说-|-易中天论骗子](https://www.xiabingbao.com/talk/t/mi88gjeu.html)  
 - [2025-11-17-微说-|-一场大风吹散了秋天](https://www.xiabingbao.com/talk/t/mi2i4y9a.html)  
 - [2025-10-14-微说-|-既要、又要、还要、更要！](https://www.xiabingbao.com/talk/t/mgpy3aqq.html)  
 - [2025-10-10-又是一年的国庆雨季](https://www.xiabingbao.com/post/national-day-rain-t3vhqf.html)  
@@ -572,6 +572,7 @@
 </summary>
 
 
+- [2025-11-21-A-significant-Angular-release](https://javascriptweekly.com/issues/762) ![](/assets/new.png)  
 - [2025-11-14-Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761)  
 - [2025-11-07-How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760)  
 - [2025-10-31-TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759)  
@@ -591,7 +592,6 @@
 - [2025-07-18-A-tricky,-educational-quiz:-it's-about-time..](https://javascriptweekly.com/issues/745)  
 - [2025-07-11-The-details-of-TC39's-last-meeting](https://javascriptweekly.com/issues/744)  
 - [2025-07-04-The-dog-days-of-JavaScript-summer](https://javascriptweekly.com/issues/743)  
-- [2025-06-27-Say-hello-to-ECMAScript-2025](https://javascriptweekly.com/issues/742)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
