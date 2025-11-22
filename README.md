@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-11-22 00:01:13，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-22 10:56:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2025-11-22-2025-11-22-HackerNews](https://supertechfans.com/cn/post/2025-11-22-HackerNews/) ![](/assets/new.png)  
 - [2025-11-21-2025-11-21-HackerNews](https://supertechfans.com/cn/post/2025-11-21-HackerNews/)  
 - [2025-11-20-2025-11-20-HackerNews](https://supertechfans.com/cn/post/2025-11-20-HackerNews/)  
 - [2025-11-19-2025-11-19-HackerNews](https://supertechfans.com/cn/post/2025-11-19-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2025-11-05-2025-11-05-HackerNews](https://supertechfans.com/cn/post/2025-11-05-HackerNews/)  
 - [2025-11-04-2025-11-04-HackerNews](https://supertechfans.com/cn/post/2025-11-04-HackerNews/)  
 - [2025-11-03-2025-11-03-HackerNews](https://supertechfans.com/cn/post/2025-11-03-HackerNews/)  
-- [2025-11-01-2025-11-01-HackerNews](https://supertechfans.com/cn/post/2025-11-01-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -572,7 +572,7 @@
 </summary>
 
 
-- [2025-11-21-A-significant-Angular-release](https://javascriptweekly.com/issues/762) ![](/assets/new.png)  
+- [2025-11-21-A-significant-Angular-release](https://javascriptweekly.com/issues/762)  
 - [2025-11-14-Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761)  
 - [2025-11-07-How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760)  
 - [2025-10-31-TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759)  
