@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-11-24T00:43:43.795Z</updated>
+    <updated>2025-11-24T08:01:12.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[巧用CSS ::details-content伪元素实现任意展开动画]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/"/>
+        <updated>2025-11-24T00:00:00.000Z</updated>
+        <published>2025-11-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Did you know Node has a 'deprecate' method?]]></title>
         <id>https://nodeweekly.com/issues/601</id>
@@ -355,12 +362,5 @@
         <link href="https://www.kai666666.com/2025/08/05/%E6%BA%90%E7%A0%81%E5%85%B1%E8%AF%BB-grid-layout-plus/"/>
         <updated>2025-08-05T00:00:00.000Z</updated>
         <published>2025-08-05T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jumbo-sized JavaScript for issue 747]]></title>
-        <id>https://javascriptweekly.com/issues/747</id>
-        <link href="https://javascriptweekly.com/issues/747"/>
-        <updated>2025-08-01T00:00:00.000Z</updated>
-        <published>2025-08-01T00:00:00.000Z</published>
     </entry>
 </feed>
