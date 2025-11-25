@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-11-25 11:07:06。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-11-26 02:01:15。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -851,6 +851,7 @@
 - [2012-03-14-二叉排序树-C语言程序](https://www.xiabingbao.com/post/binarytree/2012/03/14/binary-sort-tree-c.html) 
 - [2011-07-23-poj-3069-Saruman's-Army-思路题解-C语言](https://www.xiabingbao.com/post/acm/2011/07/23/poj-3069-sarumans-army.html) 
 - [2011-07-20-杭电-step1.2.5-Higher-Math-的输出格式错误](https://www.xiabingbao.com/post/acm/2011/07/20/hdu-step125.html) 
+- [2025-11-25-Guess-who's-back,-back-again?-Shai-Hulud.](https://nodeweekly.com/issues/602) 
 - [2025-11-11-Ten-top-web-application-security-threats](https://nodeweekly.com/issues/600) 
 - [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591) 
 - [2025-06-24-Adonis-picks-up-the-pace](https://nodeweekly.com/issues/583) 
