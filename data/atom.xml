@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-11-28T10:01:20.385Z</updated>
+    <updated>2025-11-28T18:00:46.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -17,6 +17,13 @@
         <title type="html"><![CDATA[醒醒，该使用CookieStore新建和管理cookie了]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/11/js-cookiestore-cookie/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/11/js-cookiestore-cookie/"/>
+        <updated>2025-11-28T00:00:00.000Z</updated>
+        <published>2025-11-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithms visualized and demonstrated in JavaScript]]></title>
+        <id>https://javascriptweekly.com/issues/763</id>
+        <link href="https://javascriptweekly.com/issues/763"/>
         <updated>2025-11-28T00:00:00.000Z</updated>
         <published>2025-11-28T00:00:00.000Z</published>
     </entry>
@@ -355,12 +362,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-sibling-index-count/"/>
         <updated>2025-08-07T00:00:00.000Z</updated>
         <published>2025-08-07T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How JSON.stringify is about to get much faster]]></title>
-        <id>https://nodeweekly.com/issues/589</id>
-        <link href="https://nodeweekly.com/issues/589"/>
-        <updated>2025-08-05T00:00:00.000Z</updated>
-        <published>2025-08-05T00:00:00.000Z</published>
     </entry>
 </feed>
