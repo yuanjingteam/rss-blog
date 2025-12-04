@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-12-04 02:01:02，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-04 08:41:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,8 +24,8 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
-- [蚊子前端博客](#蚊子前端博客)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2025-12-04-2025-12-04-HackerNews](https://supertechfans.com/cn/post/2025-12-04-HackerNews/) ![](/assets/new.png)  
 - [2025-12-03-2025-12-03-HackerNews](https://supertechfans.com/cn/post/2025-12-03-HackerNews/)  
 - [2025-12-02-2025-12-02-HackerNews](https://supertechfans.com/cn/post/2025-12-02-HackerNews/)  
 - [2025-12-01-2025-12-01-HackerNews](https://supertechfans.com/cn/post/2025-12-01-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2025-11-17-2025-11-17-HackerNews](https://supertechfans.com/cn/post/2025-11-17-HackerNews/)  
 - [2025-11-16-2025-11-16-HackerNews](https://supertechfans.com/cn/post/2025-11-16-HackerNews/)  
 - [2025-11-15-2025-11-15-HackerNews](https://supertechfans.com/cn/post/2025-11-15-HackerNews/)  
-- [2025-11-14-2025-11-14-HackerNews](https://supertechfans.com/cn/post/2025-11-14-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -510,7 +510,7 @@
 </summary>
 
 
-- [2025-12-03-微说-|-不明白为什么在推荐去俄罗斯旅游](https://www.xiabingbao.com/talk/t/miq6iqhx.html) ![](/assets/new.png)  
+- [2025-12-03-微说-|-不明白为什么在推荐去俄罗斯旅游](https://www.xiabingbao.com/talk/t/miq6iqhx.html)  
 - [2025-11-21-微说-|-易中天论骗子](https://www.xiabingbao.com/talk/t/mi88gjeu.html)  
 - [2025-11-17-微说-|-一场大风吹散了秋天](https://www.xiabingbao.com/talk/t/mi2i4y9a.html)  
 - [2025-10-14-微说-|-既要、又要、还要、更要！](https://www.xiabingbao.com/talk/t/mgpy3aqq.html)  
