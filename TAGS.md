@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2025-12-04 08:41:28。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2025-12-04 18:01:12。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -43,6 +43,7 @@
 - [【橙光笔记】源码共读-Redux](https://www.kai666666.com/2023/05/23/%E6%BA%90%E7%A0%81%E5%85%B1%E8%AF%BB-Redux/)
 - [【Teobler】重新思考-React-项目架构](https://teobler.com/posts/20220920-re-thinking-architecture-of-react-project)
 - [【Teobler】React代码规范](https://teobler.com/posts/20220327-react-coding-standard)
+- [【清竹志】【译】React-服务器组件中的关键安全漏洞](https://blog.vadxq.com/article/security-in-react-server-components/)
 - [【清竹志】【前端工程化】Vite关于Vue3/React项目工程化总结（献给2021-1024的礼物）](https://blog.vadxq.com/article/vite-engineering-project/)
 - [【Blog | Kerminate】React-深度探索](http://yoursite.com/2019/05/18/React-%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2/)
 - [【一个前端工程师的博客】使用-React-和-TypeScript-编写干净代码的10个必知模式](https://taoweng.site/posts/%E4%BD%BF%E7%94%A8-react-%E5%92%8C-typescript-%E7%BC%96%E5%86%99%E5%B9%B2%E5%87%80%E4%BB%A3%E7%A0%81%E7%9A%8410%E4%B8%AA%E5%BF%85%E7%9F%A5%E6%A8%A1%E5%BC%8F/)
@@ -57,7 +58,6 @@
 - [【一个前端工程师的博客】Deep-In-React-之详谈-React-16-Diff-策略二](https://taoweng.site/posts/deep-in-react-%E4%B9%8B%E8%AF%A6%E8%B0%88-react-16-diff-%E7%AD%96%E7%95%A5%E4%BA%8C/)
 - [【一个前端工程师的博客】Deep-In-React-之浅谈-React-Fiber-架构（一）](https://taoweng.site/posts/deep-in-react-%E4%B9%8B%E6%B5%85%E8%B0%88-react-fiber-%E6%9E%B6%E6%9E%84%E4%B8%80/)
 - [【一个前端工程师的博客】发布-react-组件到-npm-上](https://taoweng.site/posts/%E5%8F%91%E5%B8%83-react-%E7%BB%84%E4%BB%B6%E5%88%B0-npm-%E4%B8%8A/)
-- [【一个前端工程师的博客】一个例子来谈react的两大优势](https://taoweng.site/posts/%E4%B8%80%E4%B8%AA%E4%BE%8B%E5%AD%90%E6%9D%A5%E8%B0%88react%E7%9A%84%E4%B8%A4%E5%A4%A7%E4%BC%98%E5%8A%BF/)
 - [......【查看更多】......](/details/tags/react.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2025-12-04 08:41:28。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-04 18:01:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## React
 
@@ -12,6 +12,7 @@
 - [2023-05-23-源码共读-Redux](https://www.kai666666.com/2023/05/23/%E6%BA%90%E7%A0%81%E5%85%B1%E8%AF%BB-Redux/) 
 - [2022-09-20-重新思考-React-项目架构](https://teobler.com/posts/20220920-re-thinking-architecture-of-react-project) 
 - [2022-03-27-React代码规范](https://teobler.com/posts/20220327-react-coding-standard) 
+- [2025-12-04-【译】React-服务器组件中的关键安全漏洞](https://blog.vadxq.com/article/security-in-react-server-components/) 
 - [2021-10-24-【前端工程化】Vite关于Vue3/React项目工程化总结（献给2021-1024的礼物）](https://blog.vadxq.com/article/vite-engineering-project/) 
 - [2019-05-18-React-深度探索](http://yoursite.com/2019/05/18/React-%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2/) 
 - [2022-03-09-使用-React-和-TypeScript-编写干净代码的10个必知模式](https://taoweng.site/posts/%E4%BD%BF%E7%94%A8-react-%E5%92%8C-typescript-%E7%BC%96%E5%86%99%E5%B9%B2%E5%87%80%E4%BB%A3%E7%A0%81%E7%9A%8410%E4%B8%AA%E5%BF%85%E7%9F%A5%E6%A8%A1%E5%BC%8F/) 
