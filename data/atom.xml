@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-12-05T00:42:10.031Z</updated>
+    <updated>2025-12-05T16:01:32.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[What's the story? JavaScript's 30!]]></title>
+        <id>https://javascriptweekly.com/issues/764</id>
+        <link href="https://javascriptweekly.com/issues/764"/>
+        <updated>2025-12-05T00:00:00.000Z</updated>
+        <published>2025-12-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[单IMG标签的图片内阴影效果实现]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/</id>
@@ -355,12 +362,5 @@
         <link href="https://www.xiabingbao.com/post/electron-mac-media-t16obh.html"/>
         <updated>2025-08-18T00:00:00.000Z</updated>
         <published>2025-08-18T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[这个有点屌CSS @container scroll-state容器滚动查询]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/08/css-container-scroll-state/"/>
-        <updated>2025-08-15T00:00:00.000Z</updated>
-        <published>2025-08-15T00:00:00.000Z</published>
     </entry>
 </feed>
