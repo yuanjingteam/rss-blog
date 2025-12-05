@@ -5,14 +5,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-12-04 18:01:12，:rocket: 更新条数: +2， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-05 08:42:09，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [crimx](#crimx)  
 - [橙光笔记](#橙光笔记)  
 - [Teobler](#teobler)  
-- [清竹志](#清竹志)![](/assets/dot.png)   
+- [清竹志](#清竹志)  
 - [Blog-|-Kerminate](#blog-|-kerminate)  
 - [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -132,7 +132,7 @@
 </summary>
 
 
-- [2025-12-04-【译】React-服务器组件中的关键安全漏洞](https://blog.vadxq.com/article/security-in-react-server-components/) ![](/assets/new.png)  
+- [2025-12-04-【译】React-服务器组件中的关键安全漏洞](https://blog.vadxq.com/article/security-in-react-server-components/)  
 - [2025-07-09-Vercel收购NuxtLabs，我和尤雨溪一样心情复杂](https://blog.vadxq.com/article/nuxtlabs-is-joining-vercel/)  
 - [2025-06-24-免费平替Claude-Code：Google-Gemini-CLI深度解析与实践指南](https://blog.vadxq.com/article/gemini-cli-intro-practice/)  
 - [2025-04-16-Newsletter逆天福利：三种方式获取全年免费-AI/SaaS-工具包（含团体购买兑换防坑指南）](https://blog.vadxq.com/article/lenny-newsletter-buy-tips/)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2025-12-05-2025-12-05-HackerNews](https://supertechfans.com/cn/post/2025-12-05-HackerNews/) ![](/assets/new.png)  
 - [2025-12-04-2025-12-04-HackerNews](https://supertechfans.com/cn/post/2025-12-04-HackerNews/)  
 - [2025-12-03-2025-12-03-HackerNews](https://supertechfans.com/cn/post/2025-12-03-HackerNews/)  
 - [2025-12-02-2025-12-02-HackerNews](https://supertechfans.com/cn/post/2025-12-02-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2025-11-18-2025-11-18-HackerNews](https://supertechfans.com/cn/post/2025-11-18-HackerNews/)  
 - [2025-11-17-2025-11-17-HackerNews](https://supertechfans.com/cn/post/2025-11-17-HackerNews/)  
 - [2025-11-16-2025-11-16-HackerNews](https://supertechfans.com/cn/post/2025-11-16-HackerNews/)  
-- [2025-11-15-2025-11-15-HackerNews](https://supertechfans.com/cn/post/2025-11-15-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1006,7 +1006,7 @@
 </summary>
 
 
-- [2025-12-04-单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/) ![](/assets/new.png)  
+- [2025-12-04-单IMG标签的图片内阴影效果实现](https://www.zhangxinxu.com/wordpress/2025/12/img-inset-shadow/)  
 - [2025-11-28-醒醒，该使用CookieStore新建和管理cookie了](https://www.zhangxinxu.com/wordpress/2025/11/js-cookiestore-cookie/)  
 - [2025-11-24-巧用CSS-::details-content伪元素实现任意展开动画](https://www.zhangxinxu.com/wordpress/2025/11/css-details-target-content-open/)  
 - [2025-11-17-介绍下与CSS自定义组件相关的:state函数](https://www.zhangxinxu.com/wordpress/2025/11/css-state-function/)  
