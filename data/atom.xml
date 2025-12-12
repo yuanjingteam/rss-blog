@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-12-12T03:14:47.465Z</updated>
+    <updated>2025-12-12T12:17:08.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS progress()函数简介]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2025/12/css-progress-function/"/>
+        <updated>2025-12-12T00:00:00.000Z</updated>
+        <published>2025-12-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How the Seattle Times is using pnpm]]></title>
         <id>https://nodeweekly.com/issues/604</id>
@@ -355,12 +362,5 @@
         <link href="https://nodeweekly.com/issues/590"/>
         <updated>2025-08-19T00:00:00.000Z</updated>
         <published>2025-08-19T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 Electron 应用中，如何获取 Mac 的摄像头和麦克风权限]]></title>
-        <id>https://www.xiabingbao.com/post/electron-mac-media-t16obh.html</id>
-        <link href="https://www.xiabingbao.com/post/electron-mac-media-t16obh.html"/>
-        <updated>2025-08-18T00:00:00.000Z</updated>
-        <published>2025-08-18T00:00:00.000Z</published>
     </entry>
 </feed>
