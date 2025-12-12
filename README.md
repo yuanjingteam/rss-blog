@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-12-12 08:42:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-12 11:14:47，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,8 +24,8 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
-- [蚊子前端博客](#蚊子前端博客)  
+- [SuperTechFans](#supertechfans)  
+- [蚊子前端博客](#蚊子前端博客)![](/assets/dot.png)   
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
@@ -479,7 +479,7 @@
 </summary>
 
 
-- [2025-12-12-2025-12-12-HackerNews](https://supertechfans.com/cn/post/2025-12-12-HackerNews/) ![](/assets/new.png)  
+- [2025-12-12-2025-12-12-HackerNews](https://supertechfans.com/cn/post/2025-12-12-HackerNews/)  
 - [2025-12-11-2025-12-11-HackerNews](https://supertechfans.com/cn/post/2025-12-11-HackerNews/)  
 - [2025-12-10-2025-12-10-HackerNews](https://supertechfans.com/cn/post/2025-12-10-HackerNews/)  
 - [2025-12-09-2025-12-09-HackerNews](https://supertechfans.com/cn/post/2025-12-09-HackerNews/)  
@@ -510,6 +510,7 @@
 </summary>
 
 
+- [2025-12-12-微说-|-工作年终总结，让写对接的接口的数量？](https://www.xiabingbao.com/talk/t/mj291c4r.html) ![](/assets/new.png)  
 - [2025-12-09-微说-|-温家宝：没有政治体制改革的成功-经济体制改革不可能进行到底](https://www.xiabingbao.com/talk/t/miyj978z.html)  
 - [2025-12-08-微说-|-违法犯罪了该不该被禁言？](https://www.xiabingbao.com/talk/t/miwxoke7.html)  
 - [2025-12-03-微说-|-不明白为什么在推荐去俄罗斯旅游](https://www.xiabingbao.com/talk/t/miq6iqhx.html)  
@@ -517,19 +518,18 @@
 - [2025-11-17-微说-|-一场大风吹散了秋天](https://www.xiabingbao.com/talk/t/mi2i4y9a.html)  
 - [2025-10-14-微说-|-既要、又要、还要、更要！](https://www.xiabingbao.com/talk/t/mgpy3aqq.html)  
 - [2025-10-10-又是一年的国庆雨季](https://www.xiabingbao.com/post/national-day-rain-t3vhqf.html)  
-- [2025-09-28-微说-|-预估下2025年的出生人口数据](https://www.xiabingbao.com/talk/t/mg3e3nsr.html)  
-- [2025-09-28-微说-|-可惜了我那些小时候的书本](https://www.xiabingbao.com/talk/t/mg3dw2tj.html)  
 - [2025-09-28-微说-|-牛马有的是，驴不够了！](https://www.xiabingbao.com/talk/t/mg3drepw.html)  
-- [2025-09-26-微说-|-都是见过吃过的主儿](https://www.xiabingbao.com/talk/t/mg0w7pqn.html)  
-- [2025-09-26-微说-|-好一个正义联盟](https://www.xiabingbao.com/talk/t/mg0w89jh.html)  
-- [2025-09-26-微说-|-做人要有信](https://www.xiabingbao.com/talk/t/mg0w8sa8.html)  
-- [2025-09-26-微说-|-将要制作的一款新产品](https://www.xiabingbao.com/talk/t/mg0w9g11.html)  
-- [2025-09-26-微说-|-小聊中医](https://www.xiabingbao.com/talk/t/mg0wam27.html)  
+- [2025-09-28-微说-|-可惜了我那些小时候的书本](https://www.xiabingbao.com/talk/t/mg3dw2tj.html)  
+- [2025-09-28-微说-|-预估下2025年的出生人口数据](https://www.xiabingbao.com/talk/t/mg3e3nsr.html)  
 - [2025-09-26-微说-|-能否有一条非户口也能高考的路](https://www.xiabingbao.com/talk/t/mg0wbnog.html)  
-- [2025-09-25-微说-|-很好！](https://www.xiabingbao.com/talk/t/mfyrbov2.html)  
-- [2025-09-25-微说-|-如果尖锐的批评完全消失](https://www.xiabingbao.com/talk/t/mfyrdheb.html)  
+- [2025-09-26-微说-|-小聊中医](https://www.xiabingbao.com/talk/t/mg0wam27.html)  
+- [2025-09-26-微说-|-将要制作的一款新产品](https://www.xiabingbao.com/talk/t/mg0w9g11.html)  
+- [2025-09-26-微说-|-做人要有信](https://www.xiabingbao.com/talk/t/mg0w8sa8.html)  
+- [2025-09-26-微说-|-好一个正义联盟](https://www.xiabingbao.com/talk/t/mg0w89jh.html)  
+- [2025-09-26-微说-|-都是见过吃过的主儿](https://www.xiabingbao.com/talk/t/mg0w7pqn.html)  
 - [2025-09-25-微说-|-追求8小时工作制有错吗？](https://www.xiabingbao.com/talk/t/mfyrgfkz.html)  
-- [2025-09-21-微说-|-面朝大海，春暖花开](https://www.xiabingbao.com/talk/t/mfte9zag.html)  
+- [2025-09-25-微说-|-如果尖锐的批评完全消失](https://www.xiabingbao.com/talk/t/mfyrdheb.html)  
+- [2025-09-25-微说-|-很好！](https://www.xiabingbao.com/talk/t/mfyrbov2.html)  
 - [......【查看更多】......](/details/蚊子前端博客.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
