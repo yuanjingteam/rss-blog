@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2025-12-13 00:01:17，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2025-12-13 11:07:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2025-12-13-2025-12-13-HackerNews](https://supertechfans.com/cn/post/2025-12-13-HackerNews/) ![](/assets/new.png)  
 - [2025-12-12-2025-12-12-HackerNews](https://supertechfans.com/cn/post/2025-12-12-HackerNews/)  
 - [2025-12-11-2025-12-11-HackerNews](https://supertechfans.com/cn/post/2025-12-11-HackerNews/)  
 - [2025-12-10-2025-12-10-HackerNews](https://supertechfans.com/cn/post/2025-12-10-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2025-11-26-2025-11-26-HackerNews](https://supertechfans.com/cn/post/2025-11-26-HackerNews/)  
 - [2025-11-25-2025-11-25-HackerNews](https://supertechfans.com/cn/post/2025-11-25-HackerNews/)  
 - [2025-11-24-2025-11-24-HackerNews](https://supertechfans.com/cn/post/2025-11-24-HackerNews/)  
-- [2025-11-23-2025-11-23-HackerNews](https://supertechfans.com/cn/post/2025-11-23-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -572,7 +572,7 @@
 </summary>
 
 
-- [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765) ![](/assets/new.png)  
+- [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)  
 - [2025-12-05-What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764)  
 - [2025-11-28-Algorithms-visualized-and-demonstrated-in-JavaScript](https://javascriptweekly.com/issues/763)  
 - [2025-11-21-A-significant-Angular-release](https://javascriptweekly.com/issues/762)  
