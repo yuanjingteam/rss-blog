@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-12-19T03:15:20.273Z</updated>
+    <updated>2025-12-19T16:01:10.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[The JavaScript Bundler Grand Prix]]></title>
+        <id>https://javascriptweekly.com/issues/766</id>
+        <link href="https://javascriptweekly.com/issues/766"/>
+        <updated>2025-12-19T00:00:00.000Z</updated>
+        <published>2025-12-19T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Twas the Node before Christmas...]]></title>
         <id>https://nodeweekly.com/issues/605</id>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[HTML之快速了解hidden=until-found的作用]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/</id>
         <link href="https://www.zhangxinxu.com/wordpress/2025/08/html-hidden-until-found/"/>
-        <updated>2025-08-29T00:00:00.000Z</updated>
-        <published>2025-08-29T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The latest on Oracle's hold on JavaScript]]></title>
-        <id>https://javascriptweekly.com/issues/750</id>
-        <link href="https://javascriptweekly.com/issues/750"/>
         <updated>2025-08-29T00:00:00.000Z</updated>
         <published>2025-08-29T00:00:00.000Z</published>
     </entry>
