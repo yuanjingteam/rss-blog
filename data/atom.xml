@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2025-12-31T08:01:05.005Z</updated>
+    <updated>2026-01-01T03:28:59.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -12,7 +12,7 @@
     <link rel="self" href="https://rss.somecore.cn/atom.xml"/>
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
-    <rights>All rights reserved 2025 by yuanjingteam</rights>
+    <rights>All rights reserved 2026 by yuanjingteam</rights>
     <entry>
         <title type="html"><![CDATA[今日学习CSS style()样式查询及其range范围语法]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2025/12/css-style-container-range-syntax/</id>
