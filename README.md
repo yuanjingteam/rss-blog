@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-01-09 00:13:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-09 11:21:18，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-01-09-2026-01-09-HackerNews](https://supertechfans.com/cn/post/2026-01-09-HackerNews/) ![](/assets/new.png)  
 - [2026-01-08-2026-01-08-HackerNews](https://supertechfans.com/cn/post/2026-01-08-HackerNews/)  
 - [2026-01-07-2026-01-07-HackerNews](https://supertechfans.com/cn/post/2026-01-07-HackerNews/)  
 - [2026-01-06-2026-01-06-HackerNews](https://supertechfans.com/cn/post/2026-01-06-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2025-12-21-2025-12-21-HackerNews](https://supertechfans.com/cn/post/2025-12-21-HackerNews/)  
 - [2025-12-20-2025-12-20-HackerNews](https://supertechfans.com/cn/post/2025-12-20-HackerNews/)  
 - [2025-12-19-2025-12-19-HackerNews](https://supertechfans.com/cn/post/2025-12-19-HackerNews/)  
-- [2025-12-18-2025-12-18-HackerNews](https://supertechfans.com/cn/post/2025-12-18-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -541,7 +541,7 @@
 </summary>
 
 
-- [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606) ![](/assets/new.png)  
+- [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606)  
 - [2025-12-16-'Twas-the-Node-before-Christmas...](https://nodeweekly.com/issues/605)  
 - [2025-12-09-How-the-Seattle-Times-is-using-pnpm](https://nodeweekly.com/issues/604)  
 - [2025-12-02-Comparing-performance-across-Node-versions-and-ARM-vs-x86](https://nodeweekly.com/issues/603)  
