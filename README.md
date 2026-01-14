@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-01-14 02:15:46，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-14 08:45:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-01-14-2026-01-14-HackerNews](https://supertechfans.com/cn/post/2026-01-14-HackerNews/) ![](/assets/new.png)  
 - [2026-01-13-2026-01-13-HackerNews](https://supertechfans.com/cn/post/2026-01-13-HackerNews/)  
 - [2026-01-12-2026-01-12-HackerNews](https://supertechfans.com/cn/post/2026-01-12-HackerNews/)  
 - [2026-01-11-2026-01-11-HackerNews](https://supertechfans.com/cn/post/2026-01-11-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2025-12-27-2025-12-27-HackerNews](https://supertechfans.com/cn/post/2025-12-27-HackerNews/)  
 - [2025-12-25-2025-12-25-HackerNews](https://supertechfans.com/cn/post/2025-12-25-HackerNews/)  
 - [2025-12-24-2025-12-24-HackerNews](https://supertechfans.com/cn/post/2025-12-24-HackerNews/)  
-- [2025-12-23-2025-12-23-HackerNews](https://supertechfans.com/cn/post/2025-12-23-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -572,7 +572,7 @@
 </summary>
 
 
-- [2026-01-13-Can-we-ever-fix-the-web-dependency-mess?](https://javascriptweekly.com/issues/768) ![](/assets/new.png)  
+- [2026-01-13-Can-we-ever-fix-the-web-dependency-mess?](https://javascriptweekly.com/issues/768)  
 - [2026-01-06-A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767)  
 - [2025-12-19-The-JavaScript-Bundler-Grand-Prix](https://javascriptweekly.com/issues/766)  
 - [2025-12-12-Building-JavaScript-tools-in-a-single-HTML-file](https://javascriptweekly.com/issues/765)  
