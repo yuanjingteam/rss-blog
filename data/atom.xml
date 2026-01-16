@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2026-01-16T03:20:59.147Z</updated>
+    <updated>2026-01-16T14:12:09.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[纯CSS实现折线连接两个任意元素效果]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/01/css-anchor-position-connect/"/>
+        <updated>2026-01-16T00:00:00.000Z</updated>
+        <published>2026-01-16T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A new guide to configuring Node packages]]></title>
         <id>https://nodeweekly.com/issues/607</id>
@@ -355,12 +362,5 @@
         <link href="https://nodeweekly.com/issues/592"/>
         <updated>2025-09-09T00:00:00.000Z</updated>
         <published>2025-09-09T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[@function自定义函数让CSS支持编程啦]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/09/css-function-at-rules/"/>
-        <updated>2025-09-05T00:00:00.000Z</updated>
-        <published>2025-09-05T00:00:00.000Z</published>
     </entry>
 </feed>
