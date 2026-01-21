@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-01-21 02:17:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-21 08:45:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-01-21-2026-01-21-HackerNews](https://supertechfans.com/cn/post/2026-01-21-HackerNews/) ![](/assets/new.png)  
 - [2026-01-20-2026-01-20-HackerNews](https://supertechfans.com/cn/post/2026-01-20-HackerNews/)  
 - [2026-01-19-2026-01-19-HackerNews](https://supertechfans.com/cn/post/2026-01-19-HackerNews/)  
 - [2026-01-18-2026-01-18-HackerNews](https://supertechfans.com/cn/post/2026-01-18-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2026-01-03-2026-01-03-HackerNews](https://supertechfans.com/cn/post/2026-01-03-HackerNews/)  
 - [2026-01-02-2026-01-02-HackerNews](https://supertechfans.com/cn/post/2026-01-02-HackerNews/)  
 - [2026-01-01-2026-01-01-HackerNews](https://supertechfans.com/cn/post/2026-01-01-HackerNews/)  
-- [2025-12-31-2025-12-31-HackerNews](https://supertechfans.com/cn/post/2025-12-31-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -572,7 +572,7 @@
 </summary>
 
 
-- [2026-01-20-A-big-week-for-jQuery](https://javascriptweekly.com/issues/769) ![](/assets/new.png)  
+- [2026-01-20-A-big-week-for-jQuery](https://javascriptweekly.com/issues/769)  
 - [2026-01-13-Can-we-ever-fix-the-web-dependency-mess?](https://javascriptweekly.com/issues/768)  
 - [2026-01-06-A-new-JavaScript-engine-from-Fabrice-Bellard](https://javascriptweekly.com/issues/767)  
 - [2025-12-19-The-JavaScript-Bundler-Grand-Prix](https://javascriptweekly.com/issues/766)  
