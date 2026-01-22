@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2026-01-22T03:27:25.764Z</updated>
+    <updated>2026-01-22T14:19:34.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[Promise.try()和Promise.withResolvers()作用速览]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/"/>
+        <updated>2026-01-22T00:00:00.000Z</updated>
+        <published>2026-01-22T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS text-decoration-inset属性首发简介]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/01/css-text-decoration-inset/</id>
@@ -355,12 +362,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/09/css-animation-liner-function/"/>
         <updated>2025-09-15T00:00:00.000Z</updated>
         <published>2025-09-15T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Package efficiency and dependency hygiene]]></title>
-        <id>https://javascriptweekly.com/issues/752</id>
-        <link href="https://javascriptweekly.com/issues/752"/>
-        <updated>2025-09-12T00:00:00.000Z</updated>
-        <published>2025-09-12T00:00:00.000Z</published>
     </entry>
 </feed>
