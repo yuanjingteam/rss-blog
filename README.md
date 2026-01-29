@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-01-29 11:57:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-01-30 02:26:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -479,7 +479,7 @@
 </summary>
 
 
-- [2026-01-29-2026-01-29-HackerNews](https://supertechfans.com/cn/post/2026-01-29-HackerNews/) ![](/assets/new.png)  
+- [2026-01-29-2026-01-29-HackerNews](https://supertechfans.com/cn/post/2026-01-29-HackerNews/)  
 - [2026-01-28-2026-01-28-HackerNews](https://supertechfans.com/cn/post/2026-01-28-HackerNews/)  
 - [2026-01-27-2026-01-27-HackerNews](https://supertechfans.com/cn/post/2026-01-27-HackerNews/)  
 - [2026-01-26-2026-01-26-HackerNews](https://supertechfans.com/cn/post/2026-01-26-HackerNews/)  
@@ -541,6 +541,7 @@
 </summary>
 
 
+- [2026-01-29-A-smoother-way-to-ship-Node-apps](https://nodeweekly.com/issues/609) ![](/assets/new.png)  
 - [2026-01-22-requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)  
 - [2026-01-15-A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)  
 - [2026-01-08-The-story-of-how-requireesm-became-stable](https://nodeweekly.com/issues/606)  
@@ -560,7 +561,6 @@
 - [2025-09-09-A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)  
 - [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591)  
 - [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)  
-- [2025-08-05-How-JSON.stringify-is-about-to-get-much-faster](https://nodeweekly.com/issues/589)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
