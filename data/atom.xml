@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2026-02-03T04:02:21.344Z</updated>
+    <updated>2026-02-03T18:37:28.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[Babel 8 RC Arrives, Gatsby Lives, Lodash Resets]]></title>
+        <id>https://javascriptweekly.com/issues/771</id>
+        <link href="https://javascriptweekly.com/issues/771"/>
+        <updated>2026-02-03T00:00:00.000Z</updated>
+        <published>2026-02-03T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[告别insertBefore，使用moveBefore移动DOM元素]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/</id>
@@ -355,12 +362,5 @@
         <link href="https://keelii.com/2025/09/28/react-diary"/>
         <updated>2025-09-28T00:00:00.000Z</updated>
         <published>2025-09-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The first browser with JavaScript landed 30 years ago]]></title>
-        <id>https://javascriptweekly.com/issues/754</id>
-        <link href="https://javascriptweekly.com/issues/754"/>
-        <updated>2025-09-26T00:00:00.000Z</updated>
-        <published>2025-09-26T00:00:00.000Z</published>
     </entry>
 </feed>

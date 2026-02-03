@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-02-03 12:02:20，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-04 02:37:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -479,7 +479,7 @@
 </summary>
 
 
-- [2026-02-03-2026-02-03-HackerNews](https://supertechfans.com/cn/post/2026-02-03-HackerNews/) ![](/assets/new.png)  
+- [2026-02-03-2026-02-03-HackerNews](https://supertechfans.com/cn/post/2026-02-03-HackerNews/)  
 - [2026-02-02-2026-02-02-HackerNews](https://supertechfans.com/cn/post/2026-02-02-HackerNews/)  
 - [2026-02-01-2026-02-01-HackerNews](https://supertechfans.com/cn/post/2026-02-01-HackerNews/)  
 - [2026-01-31-2026-01-31-HackerNews](https://supertechfans.com/cn/post/2026-01-31-HackerNews/)  
@@ -572,6 +572,7 @@
 </summary>
 
 
+- [2026-02-03-Babel-8-RC-Arrives,-Gatsby-Lives,-Lodash-Resets](https://javascriptweekly.com/issues/771) ![](/assets/new.png)  
 - [2026-01-27-What's-next-for-JavaScript-frameworks-in-2026](https://javascriptweekly.com/issues/770)  
 - [2026-01-20-A-big-week-for-jQuery](https://javascriptweekly.com/issues/769)  
 - [2026-01-13-Can-we-ever-fix-the-web-dependency-mess?](https://javascriptweekly.com/issues/768)  
@@ -591,7 +592,6 @@
 - [2025-09-26-The-first-browser-with-JavaScript-landed-30-years-ago](https://javascriptweekly.com/issues/754)  
 - [2025-09-19-The-attack-on-the-npm-ecosystem-continues](https://javascriptweekly.com/issues/753)  
 - [2025-09-12-Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752)  
-- [2025-09-05-Why-browsers-throttle-JavaScript-timers-and-what-to-do-about-it](https://javascriptweekly.com/issues/751)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
