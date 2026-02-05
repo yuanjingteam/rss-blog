@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-02-05 08:56:35，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-05 22:35:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -479,7 +479,7 @@
 </summary>
 
 
-- [2026-02-05-2026-02-05-HackerNews](https://supertechfans.com/cn/post/2026-02-05-HackerNews/) ![](/assets/new.png)  
+- [2026-02-05-2026-02-05-HackerNews](https://supertechfans.com/cn/post/2026-02-05-HackerNews/)  
 - [2026-02-04-2026-02-04-HackerNews](https://supertechfans.com/cn/post/2026-02-04-HackerNews/)  
 - [2026-02-03-2026-02-03-HackerNews](https://supertechfans.com/cn/post/2026-02-03-HackerNews/)  
 - [2026-02-02-2026-02-02-HackerNews](https://supertechfans.com/cn/post/2026-02-02-HackerNews/)  
@@ -541,6 +541,7 @@
 </summary>
 
 
+- [2026-02-05-Hono-tops-developer-satisfaction,-but-Express-still-leads](https://nodeweekly.com/issues/610) ![](/assets/new.png)  
 - [2026-01-29-A-smoother-way-to-ship-Node-apps](https://nodeweekly.com/issues/609)  
 - [2026-01-22-requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)  
 - [2026-01-15-A-new-guide-to-configuring-Node-packages](https://nodeweekly.com/issues/607)  
@@ -560,7 +561,6 @@
 - [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)  
 - [2025-09-09-A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)  
 - [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591)  
-- [2025-08-19-Express-support-coming-to-Cloudflare-Workers?](https://nodeweekly.com/issues/590)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

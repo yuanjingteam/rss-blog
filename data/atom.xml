@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2026-02-05T00:56:36.262Z</updated>
+    <updated>2026-02-05T14:35:29.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[Hono tops developer satisfaction, but Express still leads]]></title>
+        <id>https://nodeweekly.com/issues/610</id>
+        <link href="https://nodeweekly.com/issues/610"/>
+        <updated>2026-02-05T00:00:00.000Z</updated>
+        <published>2026-02-05T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Babel 8 RC Arrives, Gatsby Lives, Lodash Resets]]></title>
         <id>https://javascriptweekly.com/issues/771</id>
@@ -353,13 +360,6 @@
         <title type="html"><![CDATA[React 随想]]></title>
         <id>https://keelii.com/react-diary</id>
         <link href="https://keelii.com/react-diary"/>
-        <updated>2025-09-28T00:00:00.000Z</updated>
-        <published>2025-09-28T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React 随想]]></title>
-        <id>https://keelii.com/2025/09/28/react-diary</id>
-        <link href="https://keelii.com/2025/09/28/react-diary"/>
         <updated>2025-09-28T00:00:00.000Z</updated>
         <published>2025-09-28T00:00:00.000Z</published>
     </entry>
