@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2026-02-10T04:20:02.128Z</updated>
+    <updated>2026-02-10T16:48:27.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[A fast, modern way to browse and compare npm packages]]></title>
+        <id>https://javascriptweekly.com/issues/772</id>
+        <link href="https://javascriptweekly.com/issues/772"/>
+        <updated>2026-02-10T00:00:00.000Z</updated>
+        <published>2026-02-10T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CSS text-box属性又是干嘛用的？]]></title>
         <id>https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/</id>
@@ -355,12 +362,5 @@
         <link href="https://keelii.com/2025/10/02/story-of-creator-of-nodejs-ry"/>
         <updated>2025-10-02T00:00:00.000Z</updated>
         <published>2025-10-02T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using Node with Cloudflare Workers]]></title>
-        <id>https://nodeweekly.com/issues/594</id>
-        <link href="https://nodeweekly.com/issues/594"/>
-        <updated>2025-09-30T00:00:00.000Z</updated>
-        <published>2025-09-30T00:00:00.000Z</published>
     </entry>
 </feed>
