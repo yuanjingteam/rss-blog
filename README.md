@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-02-12 18:31:06，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-13 02:41:14，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -26,7 +26,7 @@
 - [小猪-部落格](#小猪-部落格)  
 - [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -541,6 +541,7 @@
 </summary>
 
 
+- [2026-02-12-An-experimental-Node-environment-in-the-browser](https://nodeweekly.com/issues/611) ![](/assets/new.png)  
 - [2026-02-05-Hono-tops-developer-satisfaction,-but-Express-still-leads](https://nodeweekly.com/issues/610)  
 - [2026-01-29-A-smoother-way-to-ship-Node-apps](https://nodeweekly.com/issues/609)  
 - [2026-01-22-requireesm-now-stable-in-Node-25](https://nodeweekly.com/issues/608)  
@@ -560,7 +561,6 @@
 - [2025-09-30-Using-Node-with-Cloudflare-Workers](https://nodeweekly.com/issues/594)  
 - [2025-09-16-pnpm-adds-support-for-delayed-dependency-updates](https://nodeweekly.com/issues/593)  
 - [2025-09-09-A-significant-supply-chain-attack-on-the-npm-ecosystem](https://nodeweekly.com/issues/592)  
-- [2025-08-26-The-productivity-benefits-from-type-stripping](https://nodeweekly.com/issues/591)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1006,7 +1006,7 @@
 </summary>
 
 
-- [2026-02-12-JS正则表达式y标识符之粘性匹配](https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/) ![](/assets/new.png)  
+- [2026-02-12-JS正则表达式y标识符之粘性匹配](https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/)  
 - [2026-02-06-CSS-text-box属性又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/)  
 - [2026-01-30-告别insertBefore，使用moveBefore移动DOM元素](https://www.zhangxinxu.com/wordpress/2026/01/insertbefore-movebefore-dom/)  
 - [2026-01-22-Promise.try和Promise.withResolvers作用速览](https://www.zhangxinxu.com/wordpress/2026/01/promise-try-withresolvers/)  
