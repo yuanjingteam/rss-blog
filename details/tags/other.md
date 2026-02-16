@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-15 08:59:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-16 08:57:48。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 其它
 
@@ -361,6 +361,7 @@
 - [2020-05-05-About-Me](https://xiaozhu.dev/about/) 
 - [2020-05-05-Resume](https://xiaozhu.dev/resume/) 
 - [2020-05-04-Algorithm-Count-One](https://xiaozhu.dev/post/algorithm-count-one/) 
+- [2026-02-16-2026-02-16-HackerNews](https://supertechfans.com/cn/post/2026-02-16-HackerNews/) 
 - [2026-02-15-2026-02-15-HackerNews](https://supertechfans.com/cn/post/2026-02-15-HackerNews/) 
 - [2026-02-14-2026-02-14-HackerNews](https://supertechfans.com/cn/post/2026-02-14-HackerNews/) 
 - [2026-02-13-2026-02-13-HackerNews](https://supertechfans.com/cn/post/2026-02-13-HackerNews/) 
