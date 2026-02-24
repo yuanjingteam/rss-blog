@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-02-24 08:54:58。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-25 02:41:10。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -49,6 +49,7 @@
 - [2024-09-03-Two-new-libraries-from-Sindre-Sorhus](https://nodeweekly.com/issues/546) 
 - [2023-06-13-Let's-get-debugging](https://nodeweekly.com/issues/490) 
 - [2022-08-04-A-new-way-to-query-your-dependencies.](https://nodeweekly.com/issues/449) 
+- [2026-02-24-Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774) 
 - [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757) 
 - [2025-09-12-Package-efficiency-and-dependency-hygiene](https://javascriptweekly.com/issues/752) 
 - [2023-09-28-Getting-some-closure](https://javascriptweekly.com/issues/656) 

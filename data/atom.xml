@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2026-02-24T00:54:58.419Z</updated>
+    <updated>2026-02-24T18:41:10.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[Oxfmt beta: 30x faster than Prettier, 100% compatible]]></title>
+        <id>https://javascriptweekly.com/issues/774</id>
+        <link href="https://javascriptweekly.com/issues/774"/>
+        <updated>2026-02-24T00:00:00.000Z</updated>
+        <published>2026-02-24T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Halving Node.js memory usage with pointer compression]]></title>
         <id>https://nodeweekly.com/issues/612</id>
@@ -355,12 +362,5 @@
         <link href="https://javascriptweekly.com/issues/756"/>
         <updated>2025-10-10T00:00:00.000Z</updated>
         <published>2025-10-10T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[npm security best practices to consider]]></title>
-        <id>https://nodeweekly.com/issues/595</id>
-        <link href="https://nodeweekly.com/issues/595"/>
-        <updated>2025-10-07T00:00:00.000Z</updated>
-        <published>2025-10-07T00:00:00.000Z</published>
     </entry>
 </feed>

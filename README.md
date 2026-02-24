@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-02-24 08:54:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-25 02:41:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -479,7 +479,7 @@
 </summary>
 
 
-- [2026-02-24-2026-02-24-HackerNews](https://supertechfans.com/cn/post/2026-02-24-HackerNews/) ![](/assets/new.png)  
+- [2026-02-24-2026-02-24-HackerNews](https://supertechfans.com/cn/post/2026-02-24-HackerNews/)  
 - [2026-02-23-2026-02-23-HackerNews](https://supertechfans.com/cn/post/2026-02-23-HackerNews/)  
 - [2026-02-22-2026-02-22-HackerNews](https://supertechfans.com/cn/post/2026-02-22-HackerNews/)  
 - [2026-02-21-2026-02-21-HackerNews](https://supertechfans.com/cn/post/2026-02-21-HackerNews/)  
@@ -572,6 +572,7 @@
 </summary>
 
 
+- [2026-02-24-Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774) ![](/assets/new.png)  
 - [2026-02-17-Electrobun-v1:-Bun-powered-desktop-apps-in-12MB-bundles](https://javascriptweekly.com/issues/773)  
 - [2026-02-10-A-fast,-modern-way-to-browse-and-compare-npm-packages](https://javascriptweekly.com/issues/772)  
 - [2026-02-03-Babel-8-RC-Arrives,-Gatsby-Lives,-Lodash-Resets](https://javascriptweekly.com/issues/771)  
@@ -591,7 +592,6 @@
 - [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)  
 - [2025-10-10-Vite-gets-its-own-documentary](https://javascriptweekly.com/issues/756)  
 - [2025-10-03-React-19.2-is-in-the-building](https://javascriptweekly.com/issues/755)  
-- [2025-09-26-The-first-browser-with-JavaScript-landed-30-years-ago](https://javascriptweekly.com/issues/754)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
