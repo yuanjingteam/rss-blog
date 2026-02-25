@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-02-25 02:41:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-25 09:01:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-02-25-2026-02-25-HackerNews](https://supertechfans.com/cn/post/2026-02-25-HackerNews/) ![](/assets/new.png)  
 - [2026-02-24-2026-02-24-HackerNews](https://supertechfans.com/cn/post/2026-02-24-HackerNews/)  
 - [2026-02-23-2026-02-23-HackerNews](https://supertechfans.com/cn/post/2026-02-23-HackerNews/)  
 - [2026-02-22-2026-02-22-HackerNews](https://supertechfans.com/cn/post/2026-02-22-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2026-02-08-2026-02-08-HackerNews](https://supertechfans.com/cn/post/2026-02-08-HackerNews/)  
 - [2026-02-07-2026-02-07-HackerNews](https://supertechfans.com/cn/post/2026-02-07-HackerNews/)  
 - [2026-02-06-2026-02-06-HackerNews](https://supertechfans.com/cn/post/2026-02-06-HackerNews/)  
-- [2026-02-05-2026-02-05-HackerNews](https://supertechfans.com/cn/post/2026-02-05-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -572,7 +572,7 @@
 </summary>
 
 
-- [2026-02-24-Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774) ![](/assets/new.png)  
+- [2026-02-24-Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774)  
 - [2026-02-17-Electrobun-v1:-Bun-powered-desktop-apps-in-12MB-bundles](https://javascriptweekly.com/issues/773)  
 - [2026-02-10-A-fast,-modern-way-to-browse-and-compare-npm-packages](https://javascriptweekly.com/issues/772)  
 - [2026-02-03-Babel-8-RC-Arrives,-Gatsby-Lives,-Lodash-Resets](https://javascriptweekly.com/issues/771)  
