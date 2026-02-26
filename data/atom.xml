@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2026-02-26T00:54:36.364Z</updated>
+    <updated>2026-02-26T16:41:38.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[AdonisJS v7 brings batteries-included framework upgrades]]></title>
+        <id>https://nodeweekly.com/issues/613</id>
+        <link href="https://nodeweekly.com/issues/613"/>
+        <updated>2026-02-26T00:00:00.000Z</updated>
+        <published>2026-02-26T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oxfmt beta: 30x faster than Prettier, 100% compatible]]></title>
         <id>https://javascriptweekly.com/issues/774</id>
@@ -355,12 +362,5 @@
         <link href="https://www.zhangxinxu.com/wordpress/2025/10/css-field-sizing/"/>
         <updated>2025-10-13T00:00:00.000Z</updated>
         <published>2025-10-13T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vite gets its own documentary]]></title>
-        <id>https://javascriptweekly.com/issues/756</id>
-        <link href="https://javascriptweekly.com/issues/756"/>
-        <updated>2025-10-10T00:00:00.000Z</updated>
-        <published>2025-10-10T00:00:00.000Z</published>
     </entry>
 </feed>
