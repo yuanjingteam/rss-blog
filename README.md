@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-02-27 22:29:34，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-02-28 11:43:36，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -45,7 +45,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
-- [风痕·術&amp;思](#风痕·術&amp;思)![](/assets/dot.png)   
+- [风痕·術&amp;思](#风痕·術&amp;思)  
 
 ## 文章链接
 
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-02-28-2026-02-28-HackerNews](https://supertechfans.com/cn/post/2026-02-28-HackerNews/) ![](/assets/new.png)  
 - [2026-02-27-2026-02-27-HackerNews](https://supertechfans.com/cn/post/2026-02-27-HackerNews/)  
 - [2026-02-26-2026-02-26-HackerNews](https://supertechfans.com/cn/post/2026-02-26-HackerNews/)  
 - [2026-02-25-2026-02-25-HackerNews](https://supertechfans.com/cn/post/2026-02-25-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2026-02-11-2026-02-11-HackerNews](https://supertechfans.com/cn/post/2026-02-11-HackerNews/)  
 - [2026-02-10-2026-02-10-HackerNews](https://supertechfans.com/cn/post/2026-02-10-HackerNews/)  
 - [2026-02-09-2026-02-09-HackerNews](https://supertechfans.com/cn/post/2026-02-09-HackerNews/)  
-- [2026-02-08-2026-02-08-HackerNews](https://supertechfans.com/cn/post/2026-02-08-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1130,7 +1130,7 @@
 </summary>
 
 
-- [2026-02-27-2025-年终总结口播稿](https://fenghen.me/posts/1970/01/01/script/) ![](/assets/new.png)  
+- [2026-02-27-2025-年终总结口播稿](https://fenghen.me/posts/1970/01/01/script/)  
 - [2026-02-03-2025-年终总结](https://fenghen.me/posts/2026/02/03/_2025-year-end-summary/)  
 - [2025-10-17-笔记软件孕育数字分身](https://fenghen.me/posts/2025/10/17/notes-and-digital-twin/)  
 - [2025-09-09-终端开发环境搭建](https://fenghen.me/posts/2025/09/09/terminal-dev-env/)  
