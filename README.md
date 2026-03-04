@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-04 04:19:05，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-04 08:54:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-03-04-2026-03-04-HackerNews](https://supertechfans.com/cn/post/2026-03-04-HackerNews/) ![](/assets/new.png)  
 - [2026-03-03-2026-03-03-HackerNews](https://supertechfans.com/cn/post/2026-03-03-HackerNews/)  
 - [2026-03-02-2026-03-02-HackerNews](https://supertechfans.com/cn/post/2026-03-02-HackerNews/)  
 - [2026-03-01-2026-03-01-HackerNews](https://supertechfans.com/cn/post/2026-03-01-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2026-02-15-2026-02-15-HackerNews](https://supertechfans.com/cn/post/2026-02-15-HackerNews/)  
 - [2026-02-14-2026-02-14-HackerNews](https://supertechfans.com/cn/post/2026-02-14-HackerNews/)  
 - [2026-02-13-2026-02-13-HackerNews](https://supertechfans.com/cn/post/2026-02-13-HackerNews/)  
-- [2026-02-12-2026-02-12-HackerNews](https://supertechfans.com/cn/post/2026-02-12-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -572,7 +572,7 @@
 </summary>
 
 
-- [2026-03-03-External-import-maps,-a-big-Bun-release,-and-Node.js-schedule-changes](https://javascriptweekly.com/issues/775) ![](/assets/new.png)  
+- [2026-03-03-External-import-maps,-a-big-Bun-release,-and-Node.js-schedule-changes](https://javascriptweekly.com/issues/775)  
 - [2026-02-24-Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774)  
 - [2026-02-17-Electrobun-v1:-Bun-powered-desktop-apps-in-12MB-bundles](https://javascriptweekly.com/issues/773)  
 - [2026-02-10-A-fast,-modern-way-to-browse-and-compare-npm-packages](https://javascriptweekly.com/issues/772)  
