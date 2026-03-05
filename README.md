@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-04 11:55:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-05 08:56:27，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-03-05-2026-03-05-HackerNews](https://supertechfans.com/cn/post/2026-03-05-HackerNews/) ![](/assets/new.png)  
 - [2026-03-04-2026-03-04-HackerNews](https://supertechfans.com/cn/post/2026-03-04-HackerNews/)  
 - [2026-03-03-2026-03-03-HackerNews](https://supertechfans.com/cn/post/2026-03-03-HackerNews/)  
 - [2026-03-02-2026-03-02-HackerNews](https://supertechfans.com/cn/post/2026-03-02-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2026-02-16-2026-02-16-HackerNews](https://supertechfans.com/cn/post/2026-02-16-HackerNews/)  
 - [2026-02-15-2026-02-15-HackerNews](https://supertechfans.com/cn/post/2026-02-15-HackerNews/)  
 - [2026-02-14-2026-02-14-HackerNews](https://supertechfans.com/cn/post/2026-02-14-HackerNews/)  
-- [2026-02-13-2026-02-13-HackerNews](https://supertechfans.com/cn/post/2026-02-13-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1006,7 +1006,7 @@
 </summary>
 
 
-- [2026-03-04-HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/) ![](/assets/new.png)  
+- [2026-03-04-HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)  
 - [2026-02-25-点击图片放大查看交互效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/)  
 - [2026-02-12-JS正则表达式y标识符之粘性匹配](https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/)  
 - [2026-02-06-CSS-text-box属性又是干嘛用的？](https://www.zhangxinxu.com/wordpress/2026/02/css-text-box/)  
