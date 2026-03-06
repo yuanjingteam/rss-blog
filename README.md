@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-06 01:49:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-06 09:01:24，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-03-06-2026-03-06-HackerNews](https://supertechfans.com/cn/post/2026-03-06-HackerNews/) ![](/assets/new.png)  
 - [2026-03-05-2026-03-05-HackerNews](https://supertechfans.com/cn/post/2026-03-05-HackerNews/)  
 - [2026-03-04-2026-03-04-HackerNews](https://supertechfans.com/cn/post/2026-03-04-HackerNews/)  
 - [2026-03-03-2026-03-03-HackerNews](https://supertechfans.com/cn/post/2026-03-03-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2026-02-17-2026-02-17-HackerNews](https://supertechfans.com/cn/post/2026-02-17-HackerNews/)  
 - [2026-02-16-2026-02-16-HackerNews](https://supertechfans.com/cn/post/2026-02-16-HackerNews/)  
 - [2026-02-15-2026-02-15-HackerNews](https://supertechfans.com/cn/post/2026-02-15-HackerNews/)  
-- [2026-02-14-2026-02-14-HackerNews](https://supertechfans.com/cn/post/2026-02-14-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -541,7 +541,7 @@
 </summary>
 
 
-- [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614) ![](/assets/new.png)  
+- [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)  
 - [2026-02-26-AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)  
 - [2026-02-19-Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612)  
 - [2026-02-12-An-experimental-Node-environment-in-the-browser](https://nodeweekly.com/issues/611)  
