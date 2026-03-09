@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-08 08:56:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-09 08:56:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -479,7 +479,8 @@
 </summary>
 
 
-- [2026-03-08-2026-03-08-HackerNews](https://supertechfans.com/cn/post/2026-03-08-HackerNews/) ![](/assets/new.png)  
+- [2026-03-09-2026-03-09-HackerNews](https://supertechfans.com/cn/post/2026-03-09-HackerNews/) ![](/assets/new.png)  
+- [2026-03-08-2026-03-08-HackerNews](https://supertechfans.com/cn/post/2026-03-08-HackerNews/)  
 - [2026-03-07-2026-03-07-HackerNews](https://supertechfans.com/cn/post/2026-03-07-HackerNews/)  
 - [2026-03-06-2026-03-06-HackerNews](https://supertechfans.com/cn/post/2026-03-06-HackerNews/)  
 - [2026-03-05-2026-03-05-HackerNews](https://supertechfans.com/cn/post/2026-03-05-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2026-02-20-2026-02-20-HackerNews](https://supertechfans.com/cn/post/2026-02-20-HackerNews/)  
 - [2026-02-19-2026-02-19-HackerNews](https://supertechfans.com/cn/post/2026-02-19-HackerNews/)  
 - [2026-02-18-2026-02-18-HackerNews](https://supertechfans.com/cn/post/2026-02-18-HackerNews/)  
-- [2026-02-17-2026-02-17-HackerNews](https://supertechfans.com/cn/post/2026-02-17-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
