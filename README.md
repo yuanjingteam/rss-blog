@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-09 08:56:42，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-09 18:32:11，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -479,7 +479,7 @@
 </summary>
 
 
-- [2026-03-09-2026-03-09-HackerNews](https://supertechfans.com/cn/post/2026-03-09-HackerNews/) ![](/assets/new.png)  
+- [2026-03-09-2026-03-09-HackerNews](https://supertechfans.com/cn/post/2026-03-09-HackerNews/)  
 - [2026-03-08-2026-03-08-HackerNews](https://supertechfans.com/cn/post/2026-03-08-HackerNews/)  
 - [2026-03-07-2026-03-07-HackerNews](https://supertechfans.com/cn/post/2026-03-07-HackerNews/)  
 - [2026-03-06-2026-03-06-HackerNews](https://supertechfans.com/cn/post/2026-03-06-HackerNews/)  
@@ -1006,6 +1006,7 @@
 </summary>
 
 
+- [2026-03-09-HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/) ![](/assets/new.png)  
 - [2026-03-04-HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)  
 - [2026-02-25-点击图片放大查看交互效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/)  
 - [2026-02-12-JS正则表达式y标识符之粘性匹配](https://www.zhangxinxu.com/wordpress/2026/02/js-regexp-y-sticky-flags/)  
@@ -1025,7 +1026,6 @@
 - [2025-11-10-CSS锚点定位实战-鼠标跟随交互效果](https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/)  
 - [2025-11-03-垃圾特性之CSS-:heading伪类和:heading函数](https://www.zhangxinxu.com/wordpress/2025/11/css-heading-function/)  
 - [2025-10-27-Canvas也支持锥形渐变了createConicGradient方法](https://www.zhangxinxu.com/wordpress/2025/10/js-canvas-createconicgradient/)  
-- [2025-10-20-CSS-reading-flow和reading-order属性简介](https://www.zhangxinxu.com/wordpress/2025/10/css-reading-flow-order/)  
 - [......【查看更多】......](/details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
