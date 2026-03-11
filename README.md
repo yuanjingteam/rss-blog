@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-11 02:30:52，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-11 08:52:33，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-03-11-2026-03-11-HackerNews](https://supertechfans.com/cn/post/2026-03-11-HackerNews/) ![](/assets/new.png)  
 - [2026-03-10-2026-03-10-HackerNews](https://supertechfans.com/cn/post/2026-03-10-HackerNews/)  
 - [2026-03-09-2026-03-09-HackerNews](https://supertechfans.com/cn/post/2026-03-09-HackerNews/)  
 - [2026-03-08-2026-03-08-HackerNews](https://supertechfans.com/cn/post/2026-03-08-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2026-02-22-2026-02-22-HackerNews](https://supertechfans.com/cn/post/2026-02-22-HackerNews/)  
 - [2026-02-21-2026-02-21-HackerNews](https://supertechfans.com/cn/post/2026-02-21-HackerNews/)  
 - [2026-02-20-2026-02-20-HackerNews](https://supertechfans.com/cn/post/2026-02-20-HackerNews/)  
-- [2026-02-19-2026-02-19-HackerNews](https://supertechfans.com/cn/post/2026-02-19-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -572,7 +572,7 @@
 </summary>
 
 
-- [2026-03-10-TypeScript-6.0-RC-and-Solid-2.0-beta-arrive](https://javascriptweekly.com/issues/776) ![](/assets/new.png)  
+- [2026-03-10-TypeScript-6.0-RC-and-Solid-2.0-beta-arrive](https://javascriptweekly.com/issues/776)  
 - [2026-03-03-External-import-maps,-a-big-Bun-release,-and-Node.js-schedule-changes](https://javascriptweekly.com/issues/775)  
 - [2026-02-24-Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774)  
 - [2026-02-17-Electrobun-v1:-Bun-powered-desktop-apps-in-12MB-bundles](https://javascriptweekly.com/issues/773)  
