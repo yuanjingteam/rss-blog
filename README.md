@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-12 18:25:58，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-13 00:44:14，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,8 +25,8 @@
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
 - [SuperTechFans](#supertechfans)  
-- [蚊子前端博客](#蚊子前端博客)![](/assets/dot.png)   
-- [Node-Weekly](#node-weekly)  
+- [蚊子前端博客](#蚊子前端博客)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -510,7 +510,7 @@
 </summary>
 
 
-- [2026-03-12-微说-|-既然错过了路口，就及时止损，重新规划路线上路](https://www.xiabingbao.com/talk/t/mmn9h2x3.html) ![](/assets/new.png)  
+- [2026-03-12-微说-|-既然错过了路口，就及时止损，重新规划路线上路](https://www.xiabingbao.com/talk/t/mmn9h2x3.html)  
 - [2026-01-19-微说-|-2025年的出生人口数是792万](https://www.xiabingbao.com/talk/t/mkkwg2ui.html)  
 - [2025-12-12-微说-|-工作年终总结，让写对接的接口的数量？](https://www.xiabingbao.com/talk/t/mj291c4r.html)  
 - [2025-12-09-微说-|-温家宝：没有政治体制改革的成功-经济体制改革不可能进行到底](https://www.xiabingbao.com/talk/t/miyj978z.html)  
@@ -541,6 +541,7 @@
 </summary>
 
 
+- [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615) ![](/assets/new.png)  
 - [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)  
 - [2026-02-26-AdonisJS-v7-brings-batteries-included-framework-upgrades](https://nodeweekly.com/issues/613)  
 - [2026-02-19-Halving-Node.js-memory-usage-with-pointer-compression](https://nodeweekly.com/issues/612)  
@@ -560,7 +561,6 @@
 - [2025-10-28-The-reality-of-adapting-Deno-code-to-run-on-Node](https://nodeweekly.com/issues/598)  
 - [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597)  
 - [2025-10-14-Bringing-Python-apps-into-Node](https://nodeweekly.com/issues/596)  
-- [2025-10-07-npm-security-best-practices-to-consider](https://nodeweekly.com/issues/595)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>

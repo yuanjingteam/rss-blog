@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2026-03-12T10:25:59.132Z</updated>
+    <updated>2026-03-12T16:44:15.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[Can we all code Node like Matteo Collina?]]></title>
+        <id>https://nodeweekly.com/issues/615</id>
+        <link href="https://nodeweekly.com/issues/615"/>
+        <updated>2026-03-12T00:00:00.000Z</updated>
+        <published>2026-03-12T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript 6.0 RC and Solid 2.0 beta arrive]]></title>
         <id>https://javascriptweekly.com/issues/776</id>
@@ -355,12 +362,5 @@
         <link href="https://www.kai666666.com/2025/10/27/%E6%BA%90%E7%A0%81%E5%85%B1%E8%AF%BB-cursor-effects/"/>
         <updated>2025-10-27T00:00:00.000Z</updated>
         <published>2025-10-27T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vitest 4.0 and Next.js 16]]></title>
-        <id>https://javascriptweekly.com/issues/758</id>
-        <link href="https://javascriptweekly.com/issues/758"/>
-        <updated>2025-10-24T00:00:00.000Z</updated>
-        <published>2025-10-24T00:00:00.000Z</published>
     </entry>
 </feed>
