@@ -5,14 +5,14 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-14 11:58:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-15 09:04:03，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
 - [crimx](#crimx)  
 - [橙光笔记](#橙光笔记)  
 - [Teobler](#teobler)  
-- [清竹志](#清竹志)  
+- [清竹志](#清竹志)![](/assets/dot.png)   
 - [Blog-|-Kerminate](#blog-|-kerminate)  
 - [rxliuli](#rxliuli)  
 - [一个前端工程师的博客](#一个前端工程师的博客)  
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -132,6 +132,7 @@
 </summary>
 
 
+- [2026-03-15-Codex-Skills-不是-Prompt-的升级版，而是写给-AI-的岗位-SOP](https://blog.vadxq.com/article/codex-skills-are-ai-sops/) ![](/assets/new.png)  
 - [2025-12-04-【译】React-服务器组件中的关键安全漏洞](https://blog.vadxq.com/article/security-in-react-server-components/)  
 - [2025-07-09-Vercel收购NuxtLabs，我和尤雨溪一样心情复杂](https://blog.vadxq.com/article/nuxtlabs-is-joining-vercel/)  
 - [2025-06-24-免费平替Claude-Code：Google-Gemini-CLI深度解析与实践指南](https://blog.vadxq.com/article/gemini-cli-intro-practice/)  
@@ -151,7 +152,6 @@
 - [2021-03-20-【三亚攻略】2021年三亚团建攻略](https://blog.vadxq.com/article/Sanya-team-building-strategy/)  
 - [2021-03-03-【前端工具】前端工具函数合集](https://blog.vadxq.com/article/fe-tools-functions/)  
 - [2020-12-31-【2020年终总结】如果这一年你很健康，那便是最好的一年！](https://blog.vadxq.com/article/2020-year-end-summary/)  
-- [2020-11-12-【Flutter】参与别人flutter项目踩坑填坑记录](https://blog.vadxq.com/article/flutter-run-other-project/)  
 - [......【查看更多】......](/details/清竹志.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -479,7 +479,7 @@
 </summary>
 
 
-- [2026-03-14-2026-03-14-HackerNews](https://supertechfans.com/cn/post/2026-03-14-HackerNews/) ![](/assets/new.png)  
+- [2026-03-14-2026-03-14-HackerNews](https://supertechfans.com/cn/post/2026-03-14-HackerNews/)  
 - [2026-03-13-隐私政策](https://supertechfans.com/cn/privacy-policy/)  
 - [2026-03-13-2026-03-13-HackerNews](https://supertechfans.com/cn/post/2026-03-13-HackerNews/)  
 - [2026-03-12-2026-03-12-HackerNews](https://supertechfans.com/cn/post/2026-03-12-HackerNews/)  

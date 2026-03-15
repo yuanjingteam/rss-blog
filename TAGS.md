@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2026-03-14 11:58:22。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2026-03-15 09:04:03。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -738,8 +738,8 @@
 - [【Teobler】我在Thoughtworks的四年](https://teobler.com/posts/20220713-the-fourth-anniversary)
 - [【Teobler】定制西服小知识](https://teobler.com/posts/20220606-suit)
 - [【Teobler】时间都去哪了](https://teobler.com/posts/20220530-where-does-the-time-go)
+- [【清竹志】Codex-Skills-不是-Prompt-的升级版，而是写给-AI-的岗位-SOP](https://blog.vadxq.com/article/codex-skills-are-ai-sops/)
 - [【清竹志】Vercel收购NuxtLabs，我和尤雨溪一样心情复杂](https://blog.vadxq.com/article/nuxtlabs-is-joining-vercel/)
-- [【清竹志】免费平替Claude-Code：Google-Gemini-CLI深度解析与实践指南](https://blog.vadxq.com/article/gemini-cli-intro-practice/)
 - [......【查看更多】......](/details/tags/other.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
