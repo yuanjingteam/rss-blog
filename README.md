@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-17 16:35:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-18 02:41:10，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -27,7 +27,7 @@
 - [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -572,6 +572,7 @@
 </summary>
 
 
+- [2026-03-17-It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777) ![](/assets/new.png)  
 - [2026-03-10-TypeScript-6.0-RC-and-Solid-2.0-beta-arrive](https://javascriptweekly.com/issues/776)  
 - [2026-03-03-External-import-maps,-a-big-Bun-release,-and-Node.js-schedule-changes](https://javascriptweekly.com/issues/775)  
 - [2026-02-24-Oxfmt-beta:-30x-faster-than-Prettier,-100%-compatible](https://javascriptweekly.com/issues/774)  
@@ -591,7 +592,6 @@
 - [2025-11-07-How-JavaScript-source-maps-actually-work](https://javascriptweekly.com/issues/760)  
 - [2025-10-31-TypeScript-and-JavaScript-dominate-on-GitHub-in-2025](https://javascriptweekly.com/issues/759)  
 - [2025-10-24-Vitest-4.0-and-Next.js-16](https://javascriptweekly.com/issues/758)  
-- [2025-10-17-A-Bun-believable-release-that-isn't-half-baked](https://javascriptweekly.com/issues/757)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1006,7 +1006,7 @@
 </summary>
 
 
-- [2026-03-17-浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/) ![](/assets/new.png)  
+- [2026-03-17-浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)  
 - [2026-03-09-HTML-dialog元素新支持了closedBy属性](https://www.zhangxinxu.com/wordpress/2026/03/html-dialog-closedby/)  
 - [2026-03-04-HTML-interestfor属性与悬停popover交互效果](https://www.zhangxinxu.com/wordpress/2026/03/css-interestfor-invoker-target-source/)  
 - [2026-02-25-点击图片放大查看交互效果的最佳实现](https://www.zhangxinxu.com/wordpress/2026/02/image-preview-best-practice/)  
