@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-03-26 09:03:41，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-03-26 22:54:07，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -479,7 +479,7 @@
 </summary>
 
 
-- [2026-03-26-2026-03-26-HackerNews](https://supertechfans.com/cn/post/2026-03-26-HackerNews/) ![](/assets/new.png)  
+- [2026-03-26-2026-03-26-HackerNews](https://supertechfans.com/cn/post/2026-03-26-HackerNews/)  
 - [2026-03-25-2026-03-25-HackerNews](https://supertechfans.com/cn/post/2026-03-25-HackerNews/)  
 - [2026-03-24-2026-03-24-HackerNews](https://supertechfans.com/cn/post/2026-03-24-HackerNews/)  
 - [2026-03-23-2026-03-23-HackerNews](https://supertechfans.com/cn/post/2026-03-23-HackerNews/)  
@@ -541,6 +541,7 @@
 </summary>
 
 
+- [2026-03-26-How-TypeScript-6.0-affects-Node-developers](https://nodeweekly.com/issues/617) ![](/assets/new.png)  
 - [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)  
 - [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)  
 - [2026-03-05-Node-25.8-adds-permission-model-audit-mode](https://nodeweekly.com/issues/614)  
@@ -560,7 +561,6 @@
 - [2025-11-11-Ten-top-web-application-security-threats](https://nodeweekly.com/issues/600)  
 - [2025-11-04-Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599)  
 - [2025-10-28-The-reality-of-adapting-Deno-code-to-run-on-Node](https://nodeweekly.com/issues/598)  
-- [2025-10-21-Node.js-25.0-arrives](https://nodeweekly.com/issues/597)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
