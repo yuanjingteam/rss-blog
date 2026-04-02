@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-02 09:02:01，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-02 22:44:29，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)  
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)  
+- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -479,7 +479,7 @@
 </summary>
 
 
-- [2026-04-02-2026-04-02-HackerNews](https://supertechfans.com/cn/post/2026-04-02-HackerNews/) ![](/assets/new.png)  
+- [2026-04-02-2026-04-02-HackerNews](https://supertechfans.com/cn/post/2026-04-02-HackerNews/)  
 - [2026-04-01-2026-04-01-HackerNews](https://supertechfans.com/cn/post/2026-04-01-HackerNews/)  
 - [2026-03-31-2026-03-31-HackerNews](https://supertechfans.com/cn/post/2026-03-31-HackerNews/)  
 - [2026-03-30-2026-03-30-HackerNews](https://supertechfans.com/cn/post/2026-03-30-HackerNews/)  
@@ -541,6 +541,7 @@
 </summary>
 
 
+- [2026-04-02-Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618) ![](/assets/new.png)  
 - [2026-03-26-How-TypeScript-6.0-affects-Node-developers](https://nodeweekly.com/issues/617)  
 - [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)  
 - [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615)  
@@ -560,7 +561,6 @@
 - [2025-11-18-Did-you-know-Node-has-a-'deprecate'-method?](https://nodeweekly.com/issues/601)  
 - [2025-11-11-Ten-top-web-application-security-threats](https://nodeweekly.com/issues/600)  
 - [2025-11-04-Importing-Node-modules-from-BitTorrent?](https://nodeweekly.com/issues/599)  
-- [2025-10-28-The-reality-of-adapting-Deno-code-to-run-on-Node](https://nodeweekly.com/issues/598)  
 - [......【查看更多】......](/details/Node-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
