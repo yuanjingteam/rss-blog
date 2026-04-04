@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-03 12:15:26，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-04 08:59:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,8 +24,8 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
-- [蚊子前端博客](#蚊子前端博客)![](/assets/dot.png)   
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
+- [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-04-04-2026-04-04-HackerNews](https://supertechfans.com/cn/post/2026-04-04-HackerNews/) ![](/assets/new.png)  
 - [2026-04-03-2026-04-03-HackerNews](https://supertechfans.com/cn/post/2026-04-03-HackerNews/)  
 - [2026-04-02-2026-04-02-HackerNews](https://supertechfans.com/cn/post/2026-04-02-HackerNews/)  
 - [2026-04-01-2026-04-01-HackerNews](https://supertechfans.com/cn/post/2026-04-01-HackerNews/)  
@@ -497,8 +498,7 @@
 - [2026-03-19-2026-03-19-HackerNews](https://supertechfans.com/cn/post/2026-03-19-HackerNews/)  
 - [2026-03-18-2026-03-18-HackerNews](https://supertechfans.com/cn/post/2026-03-18-HackerNews/)  
 - [2026-03-17-2026-03-17-HackerNews](https://supertechfans.com/cn/post/2026-03-17-HackerNews/)  
-- [2026-03-16-2026-03-16-HackerNews](https://supertechfans.com/cn/post/2026-03-16-HackerNews/)  
-- [2026-03-16-联系我们](https://supertechfans.com/cn/contact/)  
+- [2026-03-16-关于我们](https://supertechfans.com/cn/about/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -510,7 +510,7 @@
 </summary>
 
 
-- [2026-04-03-微说-|-有的人觉得只要不考XX，一定能考好！](https://www.xiabingbao.com/talk/t/mni9gefm.html) ![](/assets/new.png)  
+- [2026-04-03-微说-|-有的人觉得只要不考XX，一定能考好！](https://www.xiabingbao.com/talk/t/mni9gefm.html)  
 - [2026-03-27-微说-|-春天来了](https://www.xiabingbao.com/talk/t/mn915y97.html)  
 - [2026-03-27-明天和意外不知道哪个先来](https://www.xiabingbao.com/post/for-the-zhangxuefeng-tckc96.html)  
 - [2026-03-12-微说-|-既然错过了路口，就及时止损，重新规划路线上路](https://www.xiabingbao.com/talk/t/mmn9h2x3.html)  
