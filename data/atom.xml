@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rss.somecore.cn/atom.xml</id>
     <title>技术博客 - rss-blog</title>
-    <updated>2026-04-07T01:05:20.220Z</updated>
+    <updated>2026-04-07T08:48:21.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>yuanjingteam</name>
@@ -13,6 +13,13 @@
     <subtitle>订阅最新热门前端技术文章</subtitle>
     <icon>https://rss.somecore.cn/static/favicon.ico</icon>
     <rights>All rights reserved 2026 by yuanjingteam</rights>
+    <entry>
+        <title type="html"><![CDATA[CSS六边形头像的实现与蜂巢布局]]></title>
+        <id>https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/</id>
+        <link href="https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/"/>
+        <updated>2026-04-07T00:00:00.000Z</updated>
+        <published>2026-04-07T00:00:00.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node.js 25.9 brings --max-heap-size and better, iterable streams]]></title>
         <id>https://nodeweekly.com/issues/618</id>
@@ -355,12 +362,5 @@
         <link href="https://javascriptweekly.com/issues/761"/>
         <updated>2025-11-14T00:00:00.000Z</updated>
         <published>2025-11-14T00:00:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS锚点定位实战-鼠标跟随交互效果]]></title>
-        <id>https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/</id>
-        <link href="https://www.zhangxinxu.com/wordpress/2025/11/css-anchor-position-mouse-follow/"/>
-        <updated>2025-11-10T00:00:00.000Z</updated>
-        <published>2025-11-10T00:00:00.000Z</published>
     </entry>
 </feed>
