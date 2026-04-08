@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-08 00:42:12，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-08 09:07:39，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-04-08-2026-04-08-HackerNews](https://supertechfans.com/cn/post/2026-04-08-HackerNews/) ![](/assets/new.png)  
 - [2026-04-07-2026-04-07-HackerNews](https://supertechfans.com/cn/post/2026-04-07-HackerNews/)  
 - [2026-04-06-2026-04-06-HackerNews](https://supertechfans.com/cn/post/2026-04-06-HackerNews/)  
 - [2026-04-05-2026-04-05-HackerNews](https://supertechfans.com/cn/post/2026-04-05-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2026-03-22-2026-03-22-HackerNews](https://supertechfans.com/cn/post/2026-03-22-HackerNews/)  
 - [2026-03-21-2026-03-21-HackerNews](https://supertechfans.com/cn/post/2026-03-21-HackerNews/)  
 - [2026-03-20-2026-03-20-HackerNews](https://supertechfans.com/cn/post/2026-03-20-HackerNews/)  
-- [2026-03-19-2026-03-19-HackerNews](https://supertechfans.com/cn/post/2026-03-19-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -572,7 +572,7 @@
 </summary>
 
 
-- [2026-04-07-What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780) ![](/assets/new.png)  
+- [2026-04-07-What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780)  
 - [2026-03-31-A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)  
 - [2026-03-24-TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778)  
 - [2026-03-17-It’s-about-time:-Temporal-advances,-Vite-accelerates](https://javascriptweekly.com/issues/777)  
