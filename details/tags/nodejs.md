@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2026-04-09 08:56:55。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-10 00:54:14。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -45,6 +45,7 @@
 - [2017-01-08-从0到1学习node系列总索引](https://www.xiabingbao.com/post/node/2017/01/08/node-list.html) 
 - [2015-04-06-node-socket实现web的即时聊天系统](https://www.xiabingbao.com/post/node/2015/04/06/node-socket.html) 
 - [2015-03-27-使用node更新google-hosts](https://www.xiabingbao.com/post/node/2015/03/27/node-hosts.html) 
+- [2026-04-09-Social-engineering-attacks-target-high-impact-Node.js-maintainers](https://nodeweekly.com/issues/619) 
 - [2026-04-02-Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618) 
 - [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616) 
 - [2026-03-12-Can-we-all-code-Node-like-Matteo-Collina?](https://nodeweekly.com/issues/615) 
