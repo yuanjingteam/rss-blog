@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2026-04-09 08:56:56。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-10 09:06:45。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## SuperTechFans
 
 
 
 
+- [2026-04-10-2026-04-10-HackerNews](https://supertechfans.com/cn/post/2026-04-10-HackerNews/) 
 - [2026-04-09-2026-04-09-HackerNews](https://supertechfans.com/cn/post/2026-04-09-HackerNews/) 
 - [2026-04-08-2026-04-08-HackerNews](https://supertechfans.com/cn/post/2026-04-08-HackerNews/) 
 - [2026-04-07-2026-04-07-HackerNews](https://supertechfans.com/cn/post/2026-04-07-HackerNews/) 
@@ -29,13 +30,13 @@
 - [2026-03-19-2026-03-19-HackerNews](https://supertechfans.com/cn/post/2026-03-19-HackerNews/) 
 - [2026-03-18-2026-03-18-HackerNews](https://supertechfans.com/cn/post/2026-03-18-HackerNews/) 
 - [2026-03-17-2026-03-17-HackerNews](https://supertechfans.com/cn/post/2026-03-17-HackerNews/) 
-- [2026-03-16-2026-03-16-HackerNews](https://supertechfans.com/cn/post/2026-03-16-HackerNews/) 
-- [2026-03-16-联系我们](https://supertechfans.com/cn/contact/) 
 - [2026-03-16-关于我们](https://supertechfans.com/cn/about/) 
+- [2026-03-16-联系我们](https://supertechfans.com/cn/contact/) 
+- [2026-03-16-2026-03-16-HackerNews](https://supertechfans.com/cn/post/2026-03-16-HackerNews/) 
 - [2026-03-15-2026-03-15-HackerNews](https://supertechfans.com/cn/post/2026-03-15-HackerNews/) 
 - [2026-03-14-2026-03-14-HackerNews](https://supertechfans.com/cn/post/2026-03-14-HackerNews/) 
-- [2026-03-13-2026-03-13-HackerNews](https://supertechfans.com/cn/post/2026-03-13-HackerNews/) 
 - [2026-03-13-隐私政策](https://supertechfans.com/cn/privacy-policy/) 
+- [2026-03-13-2026-03-13-HackerNews](https://supertechfans.com/cn/post/2026-03-13-HackerNews/) 
 - [2026-03-12-2026-03-12-HackerNews](https://supertechfans.com/cn/post/2026-03-12-HackerNews/) 
 - [2026-03-11-2026-03-11-HackerNews](https://supertechfans.com/cn/post/2026-03-11-HackerNews/) 
 - [2026-03-10-2026-03-10-HackerNews](https://supertechfans.com/cn/post/2026-03-10-HackerNews/) 

@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-10 00:54:14，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-10 09:06:45，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-04-10-2026-04-10-HackerNews](https://supertechfans.com/cn/post/2026-04-10-HackerNews/) ![](/assets/new.png)  
 - [2026-04-09-2026-04-09-HackerNews](https://supertechfans.com/cn/post/2026-04-09-HackerNews/)  
 - [2026-04-08-2026-04-08-HackerNews](https://supertechfans.com/cn/post/2026-04-08-HackerNews/)  
 - [2026-04-07-2026-04-07-HackerNews](https://supertechfans.com/cn/post/2026-04-07-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2026-03-24-2026-03-24-HackerNews](https://supertechfans.com/cn/post/2026-03-24-HackerNews/)  
 - [2026-03-23-2026-03-23-HackerNews](https://supertechfans.com/cn/post/2026-03-23-HackerNews/)  
 - [2026-03-22-2026-03-22-HackerNews](https://supertechfans.com/cn/post/2026-03-22-HackerNews/)  
-- [2026-03-21-2026-03-21-HackerNews](https://supertechfans.com/cn/post/2026-03-21-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -541,7 +541,7 @@
 </summary>
 
 
-- [2026-04-09-Social-engineering-attacks-target-high-impact-Node.js-maintainers](https://nodeweekly.com/issues/619) ![](/assets/new.png)  
+- [2026-04-09-Social-engineering-attacks-target-high-impact-Node.js-maintainers](https://nodeweekly.com/issues/619)  
 - [2026-04-02-Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618)  
 - [2026-03-26-How-TypeScript-6.0-affects-Node-developers](https://nodeweekly.com/issues/617)  
 - [2026-03-19-Petition-calls-for-ban-on-AI-generated-code-in-Node.js-core](https://nodeweekly.com/issues/616)  
