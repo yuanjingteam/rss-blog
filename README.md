@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-13 17:22:23，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-14 09:11:21，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-04-14-2026-04-14-HackerNews](https://supertechfans.com/cn/post/2026-04-14-HackerNews/) ![](/assets/new.png)  
 - [2026-04-13-2026-04-13-HackerNews](https://supertechfans.com/cn/post/2026-04-13-HackerNews/)  
 - [2026-04-12-2026-04-12-HackerNews](https://supertechfans.com/cn/post/2026-04-12-HackerNews/)  
 - [2026-04-11-2026-04-11-HackerNews](https://supertechfans.com/cn/post/2026-04-11-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2026-03-28-2026-03-28-HackerNews](https://supertechfans.com/cn/post/2026-03-28-HackerNews/)  
 - [2026-03-27-2026-03-27-HackerNews](https://supertechfans.com/cn/post/2026-03-27-HackerNews/)  
 - [2026-03-26-2026-03-26-HackerNews](https://supertechfans.com/cn/post/2026-03-26-HackerNews/)  
-- [2026-03-25-2026-03-25-HackerNews](https://supertechfans.com/cn/post/2026-03-25-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1006,7 +1006,7 @@
 </summary>
 
 
-- [2026-04-13-务必谨慎使用JS-WeakRef弱引用](https://www.zhangxinxu.com/wordpress/2026/04/js-weakref/) ![](/assets/new.png)  
+- [2026-04-13-务必谨慎使用JS-WeakRef弱引用](https://www.zhangxinxu.com/wordpress/2026/04/js-weakref/)  
 - [2026-04-07-CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/)  
 - [2026-03-30-CSS-corner-shape与背景底纹技术](https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/)  
 - [2026-03-17-浅学WebTransport-API：下一代Web双向通信技术](https://www.zhangxinxu.com/wordpress/2026/03/webtransport-api/)  
