@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-14 17:06:04，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-14 23:03:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -25,9 +25,9 @@
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
 - [SuperTechFans](#supertechfans)  
-- [蚊子前端博客](#蚊子前端博客)![](/assets/dot.png)   
+- [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)  
+- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -510,7 +510,7 @@
 </summary>
 
 
-- [2026-04-14-微说-|-我不同意你的观点，但我誓死捍卫你说话的权利](https://www.xiabingbao.com/talk/t/mnybochx.html) ![](/assets/new.png)  
+- [2026-04-14-微说-|-我不同意你的观点，但我誓死捍卫你说话的权利](https://www.xiabingbao.com/talk/t/mnybochx.html)  
 - [2026-04-03-微说-|-有的人觉得只要不考XX，一定能考好！](https://www.xiabingbao.com/talk/t/mni9gefm.html)  
 - [2026-03-27-明天和意外不知道哪个先来](https://www.xiabingbao.com/post/for-the-zhangxuefeng-tckc96.html)  
 - [2026-03-27-微说-|-春天来了](https://www.xiabingbao.com/talk/t/mn915y97.html)  
@@ -572,6 +572,7 @@
 </summary>
 
 
+- [2026-04-14-MDN-ditches-React-for-web-components-in-frontend-rebuild](https://javascriptweekly.com/issues/781) ![](/assets/new.png)  
 - [2026-04-07-What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780)  
 - [2026-03-31-A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)  
 - [2026-03-24-TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778)  
@@ -591,7 +592,6 @@
 - [2025-12-05-What's-the-story?-JavaScript's-30!](https://javascriptweekly.com/issues/764)  
 - [2025-11-28-Algorithms-visualized-and-demonstrated-in-JavaScript](https://javascriptweekly.com/issues/763)  
 - [2025-11-21-A-significant-Angular-release](https://javascriptweekly.com/issues/762)  
-- [2025-11-14-Every-JavaScript-engine-all-at-once](https://javascriptweekly.com/issues/761)  
 - [......【查看更多】......](/details/JavaScript-Weekly.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
