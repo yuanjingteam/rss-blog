@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-14 23:03:53，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-15 12:33:37，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,10 +24,10 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
-- [JavaScript-Weekly](#javascript-weekly)![](/assets/dot.png)   
+- [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-04-15-2026-04-15-HackerNews](https://supertechfans.com/cn/post/2026-04-15-HackerNews/) ![](/assets/new.png)  
 - [2026-04-14-2026-04-14-HackerNews](https://supertechfans.com/cn/post/2026-04-14-HackerNews/)  
 - [2026-04-13-2026-04-13-HackerNews](https://supertechfans.com/cn/post/2026-04-13-HackerNews/)  
 - [2026-04-12-2026-04-12-HackerNews](https://supertechfans.com/cn/post/2026-04-12-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2026-03-29-2026-03-29-HackerNews](https://supertechfans.com/cn/post/2026-03-29-HackerNews/)  
 - [2026-03-28-2026-03-28-HackerNews](https://supertechfans.com/cn/post/2026-03-28-HackerNews/)  
 - [2026-03-27-2026-03-27-HackerNews](https://supertechfans.com/cn/post/2026-03-27-HackerNews/)  
-- [2026-03-26-2026-03-26-HackerNews](https://supertechfans.com/cn/post/2026-03-26-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -572,7 +572,7 @@
 </summary>
 
 
-- [2026-04-14-MDN-ditches-React-for-web-components-in-frontend-rebuild](https://javascriptweekly.com/issues/781) ![](/assets/new.png)  
+- [2026-04-14-MDN-ditches-React-for-web-components-in-frontend-rebuild](https://javascriptweekly.com/issues/781)  
 - [2026-04-07-What-to-know-about-JavaScript-in-2026](https://javascriptweekly.com/issues/780)  
 - [2026-03-31-A-new,-major-npm-supply-chain-attack-via-Axios](https://javascriptweekly.com/issues/779)  
 - [2026-03-24-TypeScript-6.0,-Next.js-16.2,-and-a-new-Node.js-runtime](https://javascriptweekly.com/issues/778)  
