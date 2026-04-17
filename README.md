@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-16 23:15:28，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-17 09:11:55，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,9 +24,9 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
-- [Node-Weekly](#node-weekly)![](/assets/dot.png)   
+- [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-04-17-2026-04-17-HackerNews](https://supertechfans.com/cn/post/2026-04-17-HackerNews/) ![](/assets/new.png)  
 - [2026-04-16-2026-04-16-HackerNews](https://supertechfans.com/cn/post/2026-04-16-HackerNews/)  
 - [2026-04-15-2026-04-15-HackerNews](https://supertechfans.com/cn/post/2026-04-15-HackerNews/)  
 - [2026-04-14-2026-04-14-HackerNews](https://supertechfans.com/cn/post/2026-04-14-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2026-03-31-2026-03-31-HackerNews](https://supertechfans.com/cn/post/2026-03-31-HackerNews/)  
 - [2026-03-30-2026-03-30-HackerNews](https://supertechfans.com/cn/post/2026-03-30-HackerNews/)  
 - [2026-03-29-2026-03-29-HackerNews](https://supertechfans.com/cn/post/2026-03-29-HackerNews/)  
-- [2026-03-28-2026-03-28-HackerNews](https://supertechfans.com/cn/post/2026-03-28-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -541,7 +541,7 @@
 </summary>
 
 
-- [2026-04-16-Node-moves-toward-Temporal-by-default](https://nodeweekly.com/issues/620) ![](/assets/new.png)  
+- [2026-04-16-Node-moves-toward-Temporal-by-default](https://nodeweekly.com/issues/620)  
 - [2026-04-09-Social-engineering-attacks-target-high-impact-Node.js-maintainers](https://nodeweekly.com/issues/619)  
 - [2026-04-02-Node.js-25.9-brings---max-heap-size-and-better,-iterable-streams](https://nodeweekly.com/issues/618)  
 - [2026-03-26-How-TypeScript-6.0-affects-Node-developers](https://nodeweekly.com/issues/617)  
