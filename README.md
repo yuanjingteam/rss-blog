@@ -5,7 +5,7 @@
 
 ##
 
-:alarm_clock: 更新时间: 2026-04-17 17:05:19，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2026-04-18 09:05:25，:rocket: 更新条数: +1， ![](/assets/dot.png) 表示有更新，[文章分类](/TAGS.md)
 
 ## 文章来源
 
@@ -24,7 +24,7 @@
 - [木匣子](#木匣子)  
 - [冰糖橙子](#冰糖橙子)  
 - [小猪-部落格](#小猪-部落格)  
-- [SuperTechFans](#supertechfans)  
+- [SuperTechFans](#supertechfans)![](/assets/dot.png)   
 - [蚊子前端博客](#蚊子前端博客)  
 - [Node-Weekly](#node-weekly)  
 - [JavaScript-Weekly](#javascript-weekly)  
@@ -41,7 +41,7 @@
 - [前端从进阶到入院](#前端从进阶到入院)  
 - [前端侦探](#前端侦探)  
 - [淘系前端团队](#淘系前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](/assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [凹凸实验室](#凹凸实验室)  
@@ -479,6 +479,7 @@
 </summary>
 
 
+- [2026-04-18-2026-04-18-HackerNews](https://supertechfans.com/cn/post/2026-04-18-HackerNews/) ![](/assets/new.png)  
 - [2026-04-17-2026-04-17-HackerNews](https://supertechfans.com/cn/post/2026-04-17-HackerNews/)  
 - [2026-04-16-2026-04-16-HackerNews](https://supertechfans.com/cn/post/2026-04-16-HackerNews/)  
 - [2026-04-15-2026-04-15-HackerNews](https://supertechfans.com/cn/post/2026-04-15-HackerNews/)  
@@ -498,7 +499,6 @@
 - [2026-04-01-2026-04-01-HackerNews](https://supertechfans.com/cn/post/2026-04-01-HackerNews/)  
 - [2026-03-31-2026-03-31-HackerNews](https://supertechfans.com/cn/post/2026-03-31-HackerNews/)  
 - [2026-03-30-2026-03-30-HackerNews](https://supertechfans.com/cn/post/2026-03-30-HackerNews/)  
-- [2026-03-29-2026-03-29-HackerNews](https://supertechfans.com/cn/post/2026-03-29-HackerNews/)  
 - [......【查看更多】......](/details/SuperTechFans.md)
 
 <div align="right"><a href="#文章来源">⬆ &nbsp;返回顶部</a></div>
@@ -1006,7 +1006,7 @@
 </summary>
 
 
-- [2026-04-17-借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/) ![](/assets/new.png)  
+- [2026-04-17-借助mediabunny纯JS实现视频水印、剪裁、合成等功能](https://www.zhangxinxu.com/wordpress/2026/04/mediabunny-video-water-clip-merge/)  
 - [2026-04-13-务必谨慎使用JS-WeakRef弱引用](https://www.zhangxinxu.com/wordpress/2026/04/js-weakref/)  
 - [2026-04-07-CSS六边形头像的实现与蜂巢布局](https://www.zhangxinxu.com/wordpress/2026/04/css-pyramidal-grid/)  
 - [2026-03-30-CSS-corner-shape与背景底纹技术](https://www.zhangxinxu.com/wordpress/2026/03/css-corner-shape-background-pattern/)  
